@@ -10,8 +10,13 @@ Some documents in this repository need to be localized in as many languages as p
 
 1. Clone the repository locally
 2. Add a subfolder for your language ([check existing folders](https://github.com/erciccione/monero-meetup-kit/tree/master/translations))
-3. Get a copy of the last version of the flyer (you can find it in this repository under the name `moneromeetup_kitflyer_v*.pdf` where `*` is the version) and translate it using a pdf editor
-4. When done upload it in the correct folder (e.g. if It's a spanish translation will go under /es/ , if the subfolder doesn't exist, creat one. Your translation file will result in /`/translations/es/moneromeetup_kitflyer_v*.pdf`)
-5. push your changes to your remote repository and open a Pull Request
+3. Get a copy of the last version of the flyer, you can find 3 versions in this repository:
+- `moneromeetup_kitflyer_v*.pdf` - The full flyer 
+- `moneromeetup_kitflyer_v*_nomarks.pdf` -  no marks
+- `translate_v40.rtf` - Only text
+(`*` is the last version)
+4. and translate it using a pdf editor
+5. When done upload it in the correct folder (e.g. if It's a spanish translation will go under /es/ , if the subfolder doesn't exist, creat one. Your translation file will result, for example, in `/translations/es/moneromeetup_kitflyer_v*.pdf`)
+6. push your changes to your remote repository and open a Pull Request
 
-For support and suggestions: `#monero-translations` on Freenode - [Taiga](https://taiga.getmonero.org/project/erciccione-monero-localization/)
+For support and suggestions: `#monero-translations` on Freenode, or [Taiga](https://taiga.getmonero.org/project/erciccione-monero-localization/)
