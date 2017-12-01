@@ -4,7 +4,7 @@ This repository contains the files of the Monero Meetup Kit that need to be tran
 
 ## What to translate
 
-Some documents in this repository need to be localized in as many languages as possible. Right now the priority is the Flyer. You can find it in this repository in three different versions. Please make sure that the version in this repository is the same as the one [on Taiga](https://taiga.getmonero.org/project/sgp-monero-meetup-kit/wiki/flyers) (You will always find the last version on Taiga)
+Some documents in this repository need to be localized in as many languages as possible. Right now the priority is the Flyer. You can find it in this repository in three different versions. Please make sure tyour version is the same as the one [on Taiga](https://taiga.getmonero.org/project/sgp-monero-meetup-kit/wiki/flyers) (You will always find the last version on Taiga)
 
 ## How
 
@@ -23,16 +23,17 @@ If you want to translate the flyer, you can choose between 3 files:
 (`*` is the last version)
 4. Translate
 
-**important:** Remember, this repository is linked to Taiga (and only this repository, for now), you need to add a little string at the end of your commit to make GitHub and Taiga communicate. For example, if the number of the issue on Taiga is 420, the end of your commit would be something like `text of the commit TG-420 #ready-for-test`. This will tell Taiga to move the story/task 420 from the previous status to `ready-for-test`, this means you are done and only waiting for reviews (more examples at the bottom of this document).
+**important:** Remember, this repository is linked to Taiga (and only this repository, for now). Please add a little string at the end of your commit referring to the Taiga Issue. For example, if the number of the issue on Taiga is 420, the end of your commit should be something like `text of the commit TG-420`. If you want to communicate the status of your work (to make reviews and contributions easier), you can use Taiga statuses (new, in-progress, ready-for-test, closed. All explained below), e.g. `text of the commit TG-420 #ready-for-test`.    
+*Note:* Changes on GitHub are pushed to Taiga only once they get merged to the code, this means Taiga will get automatically synchronized **only** when the maintainer merge the commits to the repository. The synchronization Taiga-GitHub can be done manually by the contributor or the maintainer. The only automatic one happens when the Pull Request get merged (so, when the maintainer apply the status on the merge commit)
 
-5. When done, upload your translation in the correct folder (e.g. if it's a spanish translation, it will go under /es/ , if the subfolder doesn't exist, make one. Your translation file will result, for example:
+5. When done, upload your translation in the correct folder (e.g. if it's a Spanish translation, it will go under /es/ , if the subfolder doesn't exist, make one. Your translation file will result, for example:
 `/translations/es/moneromeetup_kitflyer_v*.pdf`)
 6. push your changes to your remote repository and/or open a Pull Request
 
 ## Workflow and Examples
 We use 4 statuses for our tasks:
 - *new* - For new tasks (you don't need to use this)
-- *in-progress* - This is the one you should use when opening a task if you are still working on it
+- *in-progress* - you don't need to use this on GitHub
 - *ready-for-test* - When you are done and only need reviews 
 - *closed* - This will be used by who will merge your Pull Request
 
@@ -42,17 +43,10 @@ All this is much easier than it might seem, check the following example:
 - I want to add a Japanese version of the flyer and nobody is working on it right now 
 - I don't want a Taiga account, so I open an issue asking to open a new task, who will be named something like 'Japanese translation of the flyer'
 - I get the number of my task: #5
-- now I have to put the reference to the taiga issue in, at least, one commit. My review has a couple of commits, so the last one will be `"fix typos and grammar TG-5 #ready-for-test"`
+- now I have to put the reference to the taiga issue in, at least, one commit. My review has a couple of commits, so the last one will be `fix typos and grammar TG-5 #ready-for-test`
 - I push my commits and open a Pull Request
-
-Let's make another example:
-
-- let's pretend [the task 44](https://taiga.getmonero.org/project/erciccione-monero-localization/us/13?milestone=19), 'French translation of the Flyer', has the status "new", because somebody just opened it for us.
-- we have a lot of fixes to make, hopefully with some help, so this is going to be a WIP (work in progress).
-- I start editing the file and my first commit will be named "starting cleaning all obsolete lines TG-44 #in-progress".
-- The task's status now is "Work in progress"
-- after some time the work is done, in my last commit I add at the end `TG-44 #ready-for-test"`
-- now it is ready to be reviewed
+- Once the PR has been reviewed, the maintainer will merge it to the code, applying a status to the merge commit.    
+eg. `fix typos and grammar TG-5 #closed`. This will tell Taiga to automatically close the task.
 
 *note:* for now, only this repository is integrated with Taiga, for all the other translations, just use GitHub or contact us.
 
