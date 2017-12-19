@@ -13,7 +13,7 @@ This repository is synchronized with [the Taiga instance](https://taiga.getmoner
 - Open an issue in this repository specifying what you're going to do (eg. "updating Italian translation of the flyer"). A task will be added and the number of this will be communicated to you (we'll see why later)
 - contact /u/ErCiccione on reddit or on Freenode (#monero-translations)
 
-1. Clone the repository
+1. Fork this repository, so you have your own version on GitHub, then clone your fork locally
 2. Add a subfolder for your language ([check existing folders](https://github.com/erciccione/monero-meetup-kit/tree/master/translations))
 3. Get a copy of the file you want to translate.
 If you want to translate the flyer, you can choose between 3 files:
