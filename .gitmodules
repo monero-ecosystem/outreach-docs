@@ -1,0 +1,3 @@
+[submodule "Monero-flyer"]
+	path = Monero-flyer
+	url = https://github.com/erciccione/Monero-flyer.git
