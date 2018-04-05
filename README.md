@@ -11,7 +11,7 @@ This repository is synchronized with [the Taiga instance](https://taiga.getmoner
 
 ### Translating the Flyer
 
-1. Fork this repository, so you have your own version on GitHub, then clone your fork locally
+1. Fork this repository, so you have your own version on GitHub, then clone your fork locally using `git clone --recursive https://github.com/erciccione/monero-meetup-kit-localization.git`
 2. Add a subfolder for your language ([check existing folders](https://github.com/erciccione/monero-meetup-kit/tree/master/translations))
 3. [download Scribus](https://www.scribus.net/downloads/stable-branch/), an open source tool for document publishing.
 4. After you installed Scribus, go in the folder `flyer-scribus-files` and double click on the file `flyer.sla`. A window will pop up, asking to replace the missing `arial regular` font. Substitute this one with `Open Sans Regular` and click ok.
