@@ -16,3 +16,5 @@ We aim to ensure the public is informed of the many benefits of privacy and fung
 - Reduce and mitigate inaccurate publicity of Monero.
 
 Please refer to this repository's wiki for more details: https://github.com/monero-institute/Public-Relations/wiki
+
+If you wish to create new repositories, add wiki content etc. Please submit a issue as an request - This github is not officially owned or specifically controlled by any single person.
