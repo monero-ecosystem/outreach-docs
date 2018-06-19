@@ -1,5 +1,8 @@
 # How to contribute
 
+**What do we do?**
+Education and communications around the value of Monero
+
 **Join one of our chats and introduce yourself:**
 - What part of the world are you from?
 - Any other involvements in the crypto space?
