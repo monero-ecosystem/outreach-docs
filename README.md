@@ -7,7 +7,7 @@
 
 Our main chat is on WIRE and we don't have a invite link for that.
 
-1. DM [@pet3rpan_](https://twitter.com/pet3rpan_) on twitter for an invite link or join our telegram ([depreciated}(https://t.me/joinchat/DM8-zRAVi-tEx-1PEltAIg))
+1. DM [@pet3rpan_](https://twitter.com/pet3rpan_) on twitter for an invite link or join our telegram ([depreciated](https://t.me/joinchat/DM8-zRAVi-tEx-1PEltAIg))
 
 Check out what we are working on: https://taiga.getmonero.org/project/xmrhaelan-monero-public-relations/epic/26
 
