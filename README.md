@@ -1,9 +1,11 @@
 # How to contribute
 
 **What do we do?**
-Education and communications around the value of Monero
+
+Education and communications around the value of Monero. This involve writing, creating educational material and completing other general Monero tasks.
 
 **How does this works?**
+
 1. Go to the 'issues' pages and find task/items to be completed. (Some are funded, some are not - they will be indicated by a tag)
 2. Each issue should have the necessary information for the task to be completed. However if you have any questions, just @message the issue creator for clarification. Or ask an active contributor from our telegram / wire chatrooms.
 3. Once you have completed the task, create a pull request with the contents of the completed task and within that pull request, reference the issue/task you are completing + your xmr address.
