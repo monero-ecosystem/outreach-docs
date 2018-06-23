@@ -18,7 +18,7 @@ Tasks are for creating a request for a task to be completed.
 
 Anyone can create and request tasks to be done. These tasks are not funded by default but we will be working towards getting as much work to be rewarded by XMR. Funded tasks will be indicated through the issue. All issues uploaded will be watched and may be automatically funded at the discretion of the moderators. If you are planning on working on anything related to writing, education or public relations for Monero, create an issue and it may just be picked up for funding. Any fair requests for funding will highly likely to be matched. Just ask :)
 
-To claim any tasks, users need to submit a pull request with the completed task content. For smaller tasks, in order to keep it simpler, the first successful pull request will recieve the reward as (with exceptions) and for larger projects, there will be greater judgement involved.
+To claim any tasks, users need to submit a pull request with the completed task content. For smaller tasks, in order to keep it simpler, the first successful pull request will recieve the reward as (with exceptions) and for larger projects, there will be greater judgement involved. Stuck along the way? Reach out to us through telegram!
 
 **Join one of our chats and introduce yourself:**
 - What part of the world are you from?
@@ -27,7 +27,7 @@ To claim any tasks, users need to submit a pull request with the completed task 
 
 Our main chat is on WIRE and we don't have a invite link for that.
 
-1. DM [@pet3rpan_](https://twitter.com/pet3rpan_) on twitter for an invite link or join our telegram ([depreciated](https://t.me/joinchat/DM8-zRAVi-tEx-1PEltAIg))
+1. DM [@pet3rpan_](https://twitter.com/pet3rpan_) on twitter for an invite link or join our telegram ([Telegram join link](https://t.me/joinchat/DM8-zRAVi-tEx-1PEltAIg))
 
 Check out what we are working on: https://taiga.getmonero.org/project/xmrhaelan-monero-public-relations/epic/26
 
