@@ -14,4 +14,4 @@ Our main chat is on WIRE and we don't have a invite link for that.
 
 Check out what we are working on: https://taiga.getmonero.org/project/xmrhaelan-monero-public-relations/epic/26
 
-Our gitlab (backup incase this goes down): https://gitlab.com/monero-institute/Contribute/blob/master/README.md
+Our gitlab (backup incase this goes down): https://gitlab.com/monero-outreach/Contribute/blob/master/README.md
