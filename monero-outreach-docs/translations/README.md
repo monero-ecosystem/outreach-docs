@@ -1,6 +1,6 @@
 # Monero Outreach Translations
 
-If you have any questions regarding the monero terminology of any specific language, take a look at the [monero-translations github](https://github.com/monero-ecosystem/monero-translations), and open the file of the language you are looking for, you can also find tips for translators. If your language is not there (you can help create the terminology of your language but that is being worked in the [monero-translations github](https://github.com/monero-ecosystem/monero-translations)), you can still work on the translation in the Monero Outreach, just keep in mind more contributors could suggest changes. 
+If you have any questions regarding the monero terminology, take a look at the [monero-translations](https://github.com/monero-ecosystem/monero-translations), and open the file of the language you are looking for. You can also find tips for translators.
 
 ## Goal
 
