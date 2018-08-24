@@ -20,7 +20,8 @@ Follow this instructions (if you are not familiar with Github, check out this [t
  - When adding a new language, you will need to edit, "mess", or add a new page. Feel free to work in the file. Try to maintain the format so the changes won't affect its structure. If you need help, please get in contact with us.  
 5. The documents should be submitted in pdf. When saving your file, add the country code to the files name (e.g. **"Quickfacts_es.pdf"**, **"Quickfacts_es_printerfriendly.pdf"**, etc.).
 6. When saving changes, remember to add a message to the commit with **the documents name and the language** (e.g. **_"Fully translated the Quickfacts to fr"_**, **_"Added missing punctuation Quickfacts to bg"_**, etc.).
-7. Happy contributing! 
+7. If you have any suggestions for the README file please add an issue with the proposal.
+8. Happy contributing! 
 
 ### Fonts
 
