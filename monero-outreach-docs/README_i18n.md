@@ -1,6 +1,6 @@
 # Monero Outreach
 
-Welcome to the Monero Outreach Localization. This directory contains all the final versions of the documents published by the Monero Outreach Workgroup. You will also fin the translation directory. 
+Welcome to the Monero Outreach Localization. This directory contains all the final versions of the documents published by the Monero Outreach Workgroup. You will also find the translation directory. 
 
 ## Goal
 
