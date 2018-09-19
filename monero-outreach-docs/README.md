@@ -29,8 +29,8 @@ Fonts can be found inside the languages folders (e.g. en, es, ro, it, fr, etc.).
 
  - For support and coordination - `#monero-translations`/ IRC/ [Mattermost](https://mattermost.getmonero.org/monero/channels/monero-translations)
  - This repository is connected with the [Monero Outreach - Taiga instance](https://taiga.getmonero.org/project/xmrhaelan-monero-public-relations/). If you encounter any trouble leave your comments [here](https://taiga.getmonero.org/project/xmrhaelan-monero-public-relations/us/48?kanban-status=317).
- - This repository is maintained by the Communication Workgroup Coordinator - lh1008. 
-	* Email: paintluis[@]protonmail.com, monerooutreach[@]protonmail.com.
+ - This repository is maintained by the Communication Workgroup Coordinator, lh1008, and the coordinator of the Monero Localization Workgroup, erciccione. 
+	* Email: paintluis[@]protonmail.com, monerooutreach[@]protonmail.com, translate@getmonero.org, erciccione[@]protonmail.com.
  - Monero Outreach workgroup [Telegram Join Link](https://t.me/joinchat/DM8-zRAVi-tEx-1PEltAIg).
 	* Telegram user [@]lh1008.
 
