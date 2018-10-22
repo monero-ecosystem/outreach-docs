@@ -20,8 +20,8 @@
         <COLOR NAME="White" CMYK="#00000000" Spot="0" Register="0"/>
         <COLOR NAME="Yellow" CMYK="#0000ff00" Spot="0" Register="0"/>
         <HYPHEN/>
-        <STYLE NAME="Default Paragraph Style" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0"/>
-        <CHARSTYLE CNAME="Default Character Style" FONT="Abyssinica SIL Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="English"/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0"/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Abyssinica SIL Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="English"/>
         <LAYERS NUMMER="0" LEVEL="0" NAME="Background" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
         <Printer firstUse="1" toFile="1" useAltPrintCommand="1" outputSeparations="1" useSpotColors="1" useColor="1" mirrorH="1" mirrorV="1" useICC="0" doGCR="1" doClip="1" setDevParam="1" useDocBleeds="1" cropMarks="1" bleedMarks="1" registrationMarks="1" colorMarks="1" includePDFMarks="1" PSLevel="-1" PDLanguage="-1" markOffset="nan" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
         <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" RotateDeg="0" PresentMode="0" RecalcPic="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="Apple RGB" ImageP="Apple RGB" PrintP="Artifex CMYK SWOP Profile" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" PageLayout="0" openAction="">
@@ -68,13 +68,19 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="136" YPOS="380" WIDTH="255.6" HEIGHT="287.0016" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILLSH="90" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="13.2" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Adobe Caslon Pro Regular" ISIZE="11" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="1" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 255.6 0 255.6 0 255.6 0 255.6 0 255.6 287.002 255.6 287.002 255.6 287.002 255.6 287.002 0 287.002 0 287.002 0 287.002 0 287.002 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 255.6 0 255.6 0 255.6 0 255.6 0 255.6 287.002 255.6 287.002 255.6 287.002 255.6 287.002 0 287.002 0 287.002 0 287.002 0 287.002 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="Adobe Caslon Pro Regular" FONTSIZE="11" FSHADE="90" CH="Monero es un proyecto de código abierto completamente descentralizado. Cualquiera con una buena idea e iniciativa puede crear y liderar un proyecto que apoye a Monero. Si no eres un programador y estas interesado "/>
+            <ITEXT FONT="Adobe Caslon Pro Regular" FONTSIZE="11" FSHADE="90" CH="Monero es un proyecto de código abierto completamente descentralizado. Cualquiera con una buena idea e iniciativa puede crear y liderar un proyecto que apoye "/>
             <para LINESP="13.2"/>
-            <ITEXT FONT="Adobe Caslon Pro Regular" FONTSIZE="11" FSHADE="90" CH="en soportar a Monero en otras formas, existen muchas opciones. Los proyectos de Monero se organizan en varios equipos de trabajo. Hay un equipo de trabajo conocido como Localizador enfocado en traducir todo "/>
+            <ITEXT FONT="Adobe Caslon Pro Regular" FONTSIZE="11" FSHADE="90" CH="a Monero. Si no eres un programador y estás interesado "/>
             <para LINESP="13.2"/>
-            <ITEXT FONT="Adobe Caslon Pro Regular" FONTSIZE="11" FSHADE="90" CH="el contenido de Monero para estimular la adopción en todo el mundo, el equipo de trabajo Outreach enfocado en crear herramientas que faciliten mejores relaciones públicas y mayor adopción de Monero e incluso hay "/>
+            <ITEXT FONT="Adobe Caslon Pro Regular" FONTSIZE="11" FSHADE="90" CH="en apoyar a Monero de otras formas, existen muchas opciones. Los proyectos de Monero se organizan en varios equipos de trabajo. Hay un equipo de trabajo conocido como Localization Workgroup enfocado en traducir todo el contenido de Monero para estimular "/>
             <para LINESP="13.2"/>
-            <ITEXT FONT="Adobe Caslon Pro Regular" FONTSIZE="11" FSHADE="90" CH="un equipo de trabajo enfocado en el desarrollo de un monedero físico para Monero. Hay otros equipos de trabajo que necesitan de tu ayuda."/>
+            <ITEXT FONT="Adobe Caslon Pro Regular" FONTSIZE="11" FSHADE="90" CH="la adopción en todo el mundo, el equipo de trabajo Outreach enfocado en crear herramientas que faciliten mejores relaciones públicas y mayor adopción de "/>
+            <para LINESP="13.2"/>
+            <ITEXT FONT="Adobe Caslon Pro Regular" FONTSIZE="11" FSHADE="90" CH="Monero e incluso hay un equipo de trabajo enfocado "/>
+            <para LINESP="13.2"/>
+            <ITEXT FONT="Adobe Caslon Pro Regular" FONTSIZE="11" FSHADE="90" CH="en el desarrollo de un monedero físico para Monero. "/>
+            <para LINESP="13.2"/>
+            <ITEXT FONT="Adobe Caslon Pro Regular" FONTSIZE="11" FSHADE="90" CH="Hay otros equipos de trabajo que necesitan de tu ayuda."/>
             <para LINESP="13.2"/>
             <para LINESP="13.2"/>
             <ITEXT FONT="Adobe Caslon Pro Regular" FONTSIZE="11" FSHADE="90" CH="Si eres desarrollador puedes unirte a cientos de desarrolladores que han contribuido al código de Monero hasta el momento vía Github."/>
@@ -87,19 +93,19 @@
             <ITEXT FONT="Adobe Caslon Pro Regular" FONTSIZE="11" FSHADE="90" CH="con quienes hablar para llevarla a otro nivel. O si tu idea es completamente nueva, te conectarán con algunos recursos para facilitar que se haga una realidad."/>
             <para/>
             <para/>
-            <ITEXT FONT="Adobe Caslon Pro Regular" FONTSIZE="11" FSHADE="90" CH="Los desarrolladores núcleo (Core) de Monero nos han dado una cantidad de herramientas que nos permitan el éxito en los equipos de trabajo, incluyendo Mattermost para comunicación y Taiga para la planeación y administración de flujos de tareas para los proyectos. "/>
+            <ITEXT FONT="Adobe Caslon Pro Regular" FONTSIZE="11" FSHADE="90" CH="Los desarrolladores centrales de Monero nos han dado un puñado de herramientas que ayudan a tener equipos de trabajo exitosos, incluyendo Mattermost para comunicación y Taiga para la planeación y administración de flujos de tareas para los proyectos. "/>
             <para/>
             <ITEXT FONT="Adobe Caslon Pro Regular" FONTSIZE="11" FSHADE="90" CH="Los individuos pueden participar de manera activa en discusiones que suceden en diferentes canales tales como Slack e IRC, diferentes grupos de chats en Telegram, "/>
             <para/>
             <ITEXT FONT="Adobe Caslon Pro Regular" FONTSIZE="11" FSHADE="90" CH="en Reddit vía r/Monero u otros subreddits dedicados "/>
             <para/>
-            <ITEXT FONT="Adobe Caslon Pro Regular" FONTSIZE="11" FSHADE="90" CH="a las diferentes areas de Monero (como el minado y la especulación) y/o preguntando o respondiendo preguntas sobre Monero en Stack Exchange."/>
+            <ITEXT FONT="Adobe Caslon Pro Regular" FONTSIZE="11" FSHADE="90" CH="a las diferentes áreas de Monero (como la minería y la especulación) y/o preguntando o respondiendo preguntas sobre Monero en Stack Exchange."/>
             <para/>
             <para/>
             <ITEXT FONT="Adobe Caslon Pro Bold" FONTSIZE="11" FSHADE="90" CH="La única barrera en participar en la comunidad eres tú."/>
             <para/>
             <para/>
-            <ITEXT FONT="Adobe Caslon Pro Regular" FONTSIZE="11" FSHADE="90" CH="!Te invitamos a unirte a la causa y hacer esta comunidad de código abierto aún más fuerte!"/>
+            <ITEXT FONT="Adobe Caslon Pro Regular" FONTSIZE="11" FSHADE="90" CH="¡Te invitamos a unirte a la causa y hacer esta comunidad de código abierto aún más fuerte!"/>
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
