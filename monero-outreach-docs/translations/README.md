@@ -8,6 +8,14 @@ If you have any questions regarding the monero terminology, take a look at the [
 
 Translate as to many languages all the documentation provided by the Monero Outreach Workgroup.
 
+## IMPORTAN
+
+Read the [README_i18.md](https://github.com/monero-ecosystem/outreach-docs/blob/master/monero-outreach-docs/README_i18n.md) file.
+
+### Fonts
+
+Fonts can be found inside monero-outreach-docs folder or directly in the site of Monero Outreach - [Monero Typography](https://www.monerooutreach.org/monero-typography.php) Keep in mind that some of the fonts are missing from the website, take a look at the `fonts` folder. Chinese fonts are inside zh-hans folders. 
+
 ## Need Help?
 
  - For support and coordination - `#monero-translations`/ IRC-freenode/ [Mattermost](https://mattermost.getmonero.org/monero/channels/monero-translations)

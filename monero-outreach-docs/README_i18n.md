@@ -13,7 +13,7 @@ Follow this instructions (if you are not familiar with Github, check out this [t
 
 1. Reminder: Fork the repository and clone your fork locally.
 2. The directory `en` has all the latest documents. Open the folder and look for the document(s) and the file format you will be working on.
-3. If you want to work on a new language, add a `subfolder` for your language in the `translations` folder (use [country codes](https://wiki.openstreetmap.org/wiki/Nominatim/Country_Codes) for the `subfolders`), or create an issue with a message with the language you would like to add ([check/translations](https://github.com/monero-outreach/outreach-docs/tree/master/monero-outreach-docs/translations) if your language has not been created).
+3. If you want to work on a new language, add a `subfolder` for your language in the `translations` folder (use [country codes](https://wiki.openstreetmap.org/wiki/Nominatim/Country_Codes) for the `subfolders`), or create an issue with a message with the language you would like to add ([check/translations](https://github.com/monero-outreach/outreach-docs/tree/master/monero-outreach-docs/translations) if your language has not been created). Copy/paste the `folder` of the document you are going to work inside the `subfolder`, e.g. **COPY** `PSA` folder and **PASTE** it to `es` folder.
 4. Documents are in .sla file format, so you will need to download [Scribus](https://www.scribus.net/) (available for different OS) to work upon the file.
  - When adding a new language, you will need to edit or add a new page. Feel free to work in the file. Try to maintain the format so the changes won't affect its structure. If you need help, please get in contact with us.
 5. The documents should be submitted in pdf. When saving your file, add the country code to the files name (e.g. **"filename_es.pdf"**, **"filename_es_printerfriendly.pdf"**, etc.).
@@ -23,7 +23,7 @@ Follow this instructions (if you are not familiar with Github, check out this [t
 
 ### Fonts
 
-Fonts can be found inside the languages folders (e.g. en, es, ro, it, fr, etc.). If fonts are not inside the folders, write us a message, we will send you the fonts used in the documents.
+Fonts can be found inside monero-outreach-docs folder or directly in the site of Monero Outreach - [Monero Typography](https://www.monerooutreach.org/monero-typography.php) Keep in mind that some of the fonts are missing from the website, take a look at the `fonts` folder.  
 
 ## Need Help?
 
