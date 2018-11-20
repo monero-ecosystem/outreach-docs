@@ -6,20 +6,25 @@ Welcome to the Monero Outreach Localization. This directory contains all the fin
 
 Our goal as a community is to create infrastructure and tools that can be used as an information bridge between core developers, community members, and the general public. We aim to ensure the public is informed of the many benefits of privacy and fungibility in cryptocurrencies.
 
+## For XMR Rewards
+
+Visit: [Taiga EPIC #69 Monero Outreach Localization](https://taiga.getmonero.org/project/xmrhaelan-monero-public-relations/epic/69).
+
 
 ### Contributing
 
+Please review the translations tips (standardized terms) we expect everyone to follow: https://github.com/monero-ecosystem/monero-translations/blob/master/translation-tips.md.
+
 Follow this instructions (if you are not familiar with Github, check out this [tutorial](https://guides.github.com/activities/hello-world/)):
 
-1. Reminder: Fork the repository and clone your fork locally.
-2. The directory `en` has all the latest documents. Open the folder and look for the document(s) and the file format you will be working on.
-3. If you want to work on a new language, add a `subfolder` for your language in the `translations` folder (use [country codes](https://wiki.openstreetmap.org/wiki/Nominatim/Country_Codes) for the `subfolders`), or create an issue with a message with the language you would like to add ([check/translations](https://github.com/monero-outreach/outreach-docs/tree/master/monero-outreach-docs/translations) if your language has not been created). Copy/paste the `folder` of the document you are going to work inside the `subfolder`, e.g. **COPY** `PSA` folder and **PASTE** it to `es` folder.
-4. Documents are in .sla file format, so you will need to download [Scribus](https://www.scribus.net/) (available for different OS) to work upon the file.
- - When adding a new language, you will need to edit or add a new page. Feel free to work in the file. Try to maintain the format so the changes won't affect its structure. If you need help, please get in contact with us.
-5. The documents should be submitted in pdf. When saving your file, add the country code to the files name (e.g. **"filename_es.pdf"**, **"filename_es_printerfriendly.pdf"**, etc.).
-6. When saving changes, remember to add a message to the commit with **the documents name and the language** (e.g. **_"Fully translated the filename to fr"_**, **_"Added missing punctuation filename to bg"_**, etc.).
-7. If you have any suggestions for the README file please add an issue with the proposal.
-8. Happy contributing! 
+1. Fork the repository and clone your fork locally.
+2. The directory `en` has all the latest documents.
+3. If you are working on a new language, add a `subfolder` for your language in the `translations` folder (use [country codes](https://wiki.openstreetmap.org/wiki/Nominatim/Country_Codes) for the `subfolders`). Copy the folder you are going to translate from the `en` folder and paste it in the `subfolder` you just created.
+4. **File Formats** - Documents are in .sla file format, so you will need a application that supports .sla files or download [Scribus](https://www.scribus.net/) (its an open source app available for different OS) or use any text-editor to work on the .sla file.
+ - When adding a new language, you might encounter that the text doesn't fit, feel free to edit the file. Try to maintain the format so the changes won't affect its structure. Design edits will be done once you submit your work. If you need help, please get in contact with us.
+5. When saving changes, remember to add a message to the commit with a description of **the documents name and the language** (e.g. **_"Quickfacts translted to fr"_**, **_"Missing punctuation donttalk PSA pt_Br"_**, etc.).
+6. If you are a reviewer please visit, [Taiga EPIC #69 Monero Outreach Localization](https://taiga.getmonero.org/project/xmrhaelan-monero-public-relations/epic/69) to get assigned a translation.
+7. Happy contributing! 
 
 ### Fonts
 
@@ -27,12 +32,18 @@ Fonts can be found inside monero-outreach-docs folder or directly in the site of
 
 ## Need Help?
 
- - For support and coordination - `#monero-translations`/ IRC/ [Mattermost](https://mattermost.getmonero.org/monero/channels/monero-translations)
- - This repository is connected with the [Monero Outreach - Taiga instance](https://taiga.getmonero.org/project/xmrhaelan-monero-public-relations/). If you encounter any trouble leave your comments [here](https://taiga.getmonero.org/project/xmrhaelan-monero-public-relations/us/48?kanban-status=317).
- - This repository is maintained by  the Communication Workgroup Coordinator - lh1008, the coordinator of the Monero Localization Workgroup, erciccione and the organizer of the Outreach workgroup - xmrhaelan. 
-	* Email: paintluis[@]protonmail.com, monerooutreach[@]protonmail.com, translate@getmonero.org, erciccione[@]protonmail.com.
- - Monero Outreach workgroup [Telegram Join Link](https://t.me/joinchat/DM8-zRAVi-tEx-1PEltAIg).
-	* Telegram user [@]lh1008.
+ - For support and coordination - `#monero-translations`/ IRC/ Matrix/ Riot/ [Mattermost](https://mattermost.getmonero.org/monero/channels/monero-translations) or telegram [@outreachtranslations](https://t.me/outreachtranslations).
+ - This repository is connected with the [Monero Outreach - Taiga instance](https://taiga.getmonero.org/project/xmrhaelan-monero-public-relations/).
+ - This repository is maintained by:
+   - [lh1008](https://github.com/lh1008) - Monero Outreach Communication Workgroup Coordinator
+   - [erciccione](https://github.com/erciccione) - Monero Localization
+   - [xmrhaelan](https://github.com/xmrhaelan) - Monero Outreach Organizer
+ - Emails: 
+	* paintluis[@]protonmail.com, monerooutreach[@]protonmail.com, translate@getmonero.org.
+ - Telegram 
+   - [@monerooutreach](https://t.me/monerooutreach)
+   - [@outreachtranslations](https://t.me/outreachtranslations)
+   - Telegram users [@]lh1008, [@]erciccione, [@]xmrhaelan
 
 
  
