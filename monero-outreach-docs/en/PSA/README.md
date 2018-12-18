@@ -1,13 +1,11 @@
 # Monero Outreach PSA (Public Service Announcements) Translations 
 
-You will find 3 folders.
+You will find 2 folders.
 
 1. files
-2. fonts
-3. headers
+2. headers
 
- - `headers` is the first folder you will have to open. Work the translations for the headers. 
- - Inside the folder `files` you will find all the documents you will need to translate. 
- - Inside `fonts` you will find the fonts you will need to work out the translation.
+ - `headers` is the first folder you will have to open. Work the translations for the PSA_headers. 
+ - Inside the folder `files` you will find all the documents you will need to translate.
 
  
