@@ -7,7 +7,7 @@ Nós somos um time de criadores, escritores, técnicos, tradutores e visionário
 ## Mandato Monero Outreach
 
 1. Impulsionar uma maior adoção e conhecimento através de uma variedade de atividades relacionadas à divulgação - particularmente relações públicas, educação e marketing.
-2. Respeitar o trabalho feito pelos Desenvolvedores Core e pelos grupos de trabalho da comunidade, os princípios fundamentais do Monero e o espírito Monero, em todos os sentidos, para que nós não prejudiquemos a integridade do que do que torna o Monero excelente.
+2. Respeitar o trabalho feito pelos Desenvolvedores Core e pelos grupos de trabalho da comunidade, os princípios fundamentais do Monero e o espírito Monero, em todos os sentidos, para que nós não prejudiquemos a integridade do que torna o Monero excelente.
 3. Fazer do mundo um lugar melhor através do Monero. Nós somos motivados pela pergunta: "Como podemos preparar nossas crianças para viver nesse mundo, se nós não preparamos o mundo para nossas crianças?"
 
 
@@ -16,7 +16,7 @@ Nós somos um time de criadores, escritores, técnicos, tradutores e visionário
 ### FUNDAÇÃO
 
 - Criar sistemas de comunicação.
-- Estabelecer flux de trabalho.
+- Estabelecer fluxos de trabalho.
 - Traçar objetivos de curto e longo prazo.
 - Desenvolver o website.
 - Entrevistar os usuários atuais e os potenciais para ganhar conhecimento relevante em estratégias futuras.
@@ -27,14 +27,14 @@ Nós somos um time de criadores, escritores, técnicos, tradutores e visionário
 
 - Desenvolver ferramentas para ajudar na divulgação; considerando usuários novos e atuais, comerciantes, investidores e jornalistas.
 - Fornecer exemplos de como nossos esforços agregam valor ao projeto e expandem a visão.
-- Arrecadar fundos, proteger patrocinadores e gerar receita internamente para apoiar profissionais adicionais e estabilidade de longo prazo.
+- Arrecadar fundos, proteger patrocinadores, gerar receita internamente para apoiar profissionais adicionais e obter estabilidade de longo prazo.
 - Pesquisar os indivíduos, grupos e publicações que queremos alcançar.
 - Fortalecer as relações entre indivíduos e grupos dentro do projeto Monero, encontrando maneiras de construir a identidade da equipe, apesar de sua natureza descentralizada.
 
 ### OPERACIONAL
 
 - Desenvolver histórias que ressoem com um público amplo e estimulem a adoção.
-- Dispersar conteúdo original e comunicados de impressa para os principais veículos de comunicação.
+- Dispersar conteúdo original e comunicados de imprensa para os principais veículos de comunicação.
 - Atrair escritores profissionais, editores, especialistas em política e representantes de Relações Públicas (RP) que possam manter o espírito e os valores do Monero enquanto o trazem ao público.
 - Continuar pesquisando, entrevistando e desenvolvendo ou expandindo os kits de ferramentas para vários públicos.
 - Explorar manobras criativas de RP para ajudar a aumentar a conscientização e a adoção do Monero.
