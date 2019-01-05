@@ -14,7 +14,7 @@ Read the [README_i18.md](https://github.com/monero-ecosystem/outreach-docs/blob/
 
 ### Fonts
 
-Fonts can be found inside monero-outreach-docs folder or directly in the site of Monero Outreach - [Monero Typography](https://www.monerooutreach.org/monero-typography.php) Keep in mind that some of the fonts are missing from the website, take a look at the `fonts` folder. Chinese fonts are inside zh-hans folders. 
+Fonts can be found inside [monero-outreach-docs folder](https://github.com/monero-ecosystem/outreach-docs/tree/master/monero-outreach-docs/fonts/monero%20fonts) or directly in the site of Monero Outreach - [Monero Typography](https://www.monerooutreach.org/monero-typography.php). _Fonts are actually not needed while using .md file format, but you can use them if you are currently working on any Monero documents, these fonts have been edited by the Monero Outreach Team._
 
 ## Need Help?
 
