@@ -20,8 +20,7 @@ Wisselkantoren en  beurzen kunnen een gemakkelijke manier zijn om je Monero te (
 
 - g. Indien je ook aangifte van je belasting doet, maakt de beurs/wisselkantoor het ook mogelijk om handelsrapporten te downloaden ter bewijs dat je in cryptovaluta hebt gehandeld?
 
-2. Beurzen beheren je cryptovaluta altijd in hun eigen wallets. Je hebt hierbij, naar alle waarschijnlijkheid, geen toegang tot de mnemonische codes van deze (beurs)wallet.  
-Als de betreffende beurs ooit slachtoffer wordt van een hack of andere aanval, dan bestaat de kans dat je de XMR in deze wallet kwijt raakt. Een goede vuistregel hierbij is om alleen de XMR die je wilt gebruiken/verhandelen op korte termijn te bewaren in deze (beurs)wallets. Indien je dit niet van plan bent, verplaats dan je XMR naar een wallet waar je zelf de controle over hebt.
+2. Beurzen beheren je cryptovaluta altijd in hun eigen wallets. Je hebt hierbij, naar alle waarschijnlijkheid, geen toegang tot de mnemonische codes van deze (beurs)wallet. Als de betreffende beurs ooit slachtoffer wordt van een hack of andere aanval, dan bestaat de kans dat je de XMR in deze wallet kwijt raakt. Een goede vuistregel hierbij is om alleen de XMR die je wilt gebruiken/verhandelen op korte termijn te bewaren in deze (beurs)wallets. Indien je dit niet van plan bent, verplaats dan je XMR naar een wallet waar je zelf de controle over hebt.
 
 3. Als je een significant bedrag aan XMR wilt verhandelen via een beurs/wisselkantoor, overweeg dan om eerst, als test, een kleinere  hoeveelheid XMR te versturen. Verhandel in (deze test)transacties nooit meer dan wat je aan risico zou willen lopen.
 
