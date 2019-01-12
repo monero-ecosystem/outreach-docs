@@ -1,6 +1,6 @@
 # Een veilige wallet is een gelukkige wallet
 
-Jouw Monero (XMR) wallet is jouw kluis die je  XMR bewaard en veilig houd. Als je de zeker wilt weten dat het veilig blijft, zijn hier een paar van onze best practices die je kan overnemen om je wallet/s zo veilig als mogelijk te houden.
+Jouw Monero (XMR) wallet is jouw kluis die je  XMR bewaard en veilig houd. Als je zeker wilt weten dat deze veilig blijft, zijn hier een paar van onze best practices die je kan overnemen om je wallet/s zo veilig als mogelijk te houden.
 
 ‘Hot’ Wallets zijn wallets die een directe verbinding hebben met het internet, terwijl dit voor ‘cold’ wallets niet geldt. Cold wallets zijn, over het algemeen gezien, dus veiliger maar lastiger in het dagelijks gebruik. 
 
