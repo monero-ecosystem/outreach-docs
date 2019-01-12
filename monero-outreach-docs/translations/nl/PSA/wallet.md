@@ -4,7 +4,7 @@ Jouw Monero (XMR) wallet is jouw kluis die je  XMR bewaard en veilig houd. Als j
 
 ‘Hot’ Wallets zijn wallets die een directe verbinding hebben met het internet, terwijl dit voor ‘cold’ wallets niet geldt. Cold wallets zijn, over het algemeen gezien, dus veiliger maar lastiger in het dagelijks gebruik. 
 
-Een ‘hard’ wallet, zoals de veelgebruikte Ledger of Trezor, zijn het beste compromis op dit gebied, omdat ze zowel verbonden kunnen worden met het internet voor het uitvoeren van transacties (uitgeven en/of ontvangen) als ontkoppeld van het internet kunnen worden ter bewaring/opslag van je XMR. 
+Een ‘hard’ wallet, zoals de veelgebruikte ledger van Trezor, zijn het beste compromis op dit gebied, omdat ze zowel verbonden kunnen worden met het internet voor het uitvoeren van transacties (uitgeven en/of ontvangen) als ontkoppeld van het internet kunnen worden ter bewaring/opslag van je XMR. 
 
 ### Hier zijn een paar van onze best practices die kunnen helpen om je wallet nog veiliger te maken:
 
