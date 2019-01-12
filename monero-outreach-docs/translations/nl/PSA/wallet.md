@@ -20,7 +20,7 @@ https://www.reddit.com/r/Monero/comments/48cgmd/an_extensive_guide_for_securely_
 
 3. De beste reden voor het gebruik van een cold wallet is als je je XMR voor gedurende langere tijd wilt opsparen/bewaren en een hot wallet voor de XMR waarmee je wilt handelen of die je wilt uitgeven. Beste analogie hiervoor is dat ook Cold wallet = je spaarrekening; Hot wallet = je betaalrekening. 
 
-4. Bezoek online fora en vraag aan de mensen hier om meer kennis op te doen over de variëteit aan manieren om je private sleutels en mnemonische codes/zaad veilig te houden en kies de manier die voor jouw het beste werkt. 
+4. Bezoek online fora en vraag aan de mensen hier om meer kennis op te doen over de variëteit aan manieren om je private sleutels en mnemonische codes veilig te houden en kies de manier die voor jouw het beste werkt. 
 
 Beste plek om hiermee te starten is de volgende:: 
 https://getmonero.org/community/hangouts/ 
