@@ -69,7 +69,7 @@ Which means ‘monero’ can be analyzed as meaning: “a noun that describes th
 
 **Monero block reward trajectory:** Rewards will gradually drop until tail emission commences at the end of May 2022, when rewards will be fixed at 0.6 XMR per block. Tail emission will provide for continued and indefinite mining incentive. Additionally, and perhaps more importantly, tail emission gives Monero a built-in, stable, and predictable inflation - considered essential for real, sound money.
 
-**Monero Research Lab:** Monero is not only committed to making a fungible currency, but also to continuing research into the realm of financial privacy as it involves cryptocurrencies in general. To that end, researchers in Mathematics and Computational Physics have published **[white papers](https://lab.getmonero.org/)** and have many more **[research goals](https://lab.getmonero.org/)** they are working toward.
+**Monero Research Lab:** Monero is not only committed to making a fungible currency, but also to continuing research into the realm of financial privacy as it involves cryptocurrencies in general. To that end, researchers in Mathematics and Computational Physics have published **[white papers](https://lab.getmonero.org/)** and have many more **[research goals](https://www.getmonero.org/design-goals/)** they are working toward.
 
 **Mining is accessible:** Anyone with a connected device or web browser can participate.
 
@@ -98,6 +98,8 @@ _With “tail emission” of 0.6 XMR/block, by 2040 there will be an equal amoun
 ### FEATURES IN DEVELOPMENT
 
 Although Monero is already available and being used across the globe, the community of developers have exciting goals to continue enhancing the privacy, security, and usability features of Monero and cryptocurrency in general. These are a few that are coming soon:
+
+**Bulletproofs:** This [development](https://getmonero.org/es/2017/12/07/Monero-Compatible-Bulletproofs.html) will store the blockchain efficiently and will verify transactions faster.
 
 **Kovri:** This is a major privacy upgrade, adding a fourth layer of privacy to Monero transactions. Kovri uses **[garlic-encryption](https://getmonero.org/resources/moneropedia/garlic-encryption.html)** (think of Tor on steroids) to mask the IP addresses of senders and receivers using the network. Every layer of a Monero transaction, from the sender, receiver, transaction amount, and (with Kovri) the backbone of the transaction itself, will all be private and secure.
 
