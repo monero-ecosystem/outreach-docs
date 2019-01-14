@@ -1,71 +1,69 @@
-QUICK FACTS
+# MONERO
 
 Monero is een veilige, private en ontraceerbare
-digitale valuta waar iedereen toegang toe kan hebben. 
+digitale valuta waar iedereen toegang toe kan hebben.
+
+# QUICK FACTS
+
 Gebruikers kunnen veilig transacties verrichten, zonder dat hun balansen kunnen worden ingezien of hun activiteiten gevolgd kunnen worden. 
 
-Gereviseerd op 14/11/2018 - Printervriendelijke versie.
+Gereviseerd op 14/11/2018 - [Printvriendelijke versie](http://www.monerooutreach.org/pubs/2018/QuickFacts/QuickFacts_PrinterFriendly.pdf)
 Geschreven voor de Monero gemeenschap door Monero Outreach
 
----
-GEDECENTRALISEERD
+* [Volledige versie](http://www.monerooutreach.org/pubs/2018/QuickFacts/QuickFacts.pdf)
 
-Monero is een open-source project geleid en gefinancieerd door een gedecentraliseerd team van ontwikkelaars en vanuit de leden van de Monero-gemeeschap en zorgt hiermee ervoor dat zij niet vanuit een centraal orgaan gecensureerd kan worden.
+[getmonero.org](https://getmonero.org/)
 
-De meeste van de bijdragen aan Monero worden gedaan door vrijwilligers en onze gemeenschap is dan ook verspreid over de hele planeet. 
 
-VEILIGHEID
+## KERNPRINCIPES 
 
-Monero is een gedecentraliseerde cryptovaluta en dit betekent dat het betalingsnetwerk door een groot aantal van onze gebruikers over de wereld beveiligd wordt.
+#### GEDECENTRALISEERD
 
-Transacties worden bevestigd en uitgevoerd door een distributed consensus model en daarna, onherroepelijk, opgeslagen op de blockchain. 
+Monero is een _[open-source project](https://github.com/monero-project/monero)_ geleid en _[gefinancieerd](https://forum.getmonero.org/8/funding-required)_ door een _[decentraal team](https://getmonero.org/community/team/)_ van ontwikkelaars en leden van de Monero-gemeeschap en zorgt hiermee ervoor dat zij niet vanuit een centraal orgaan gecensureerd kan worden. De meeste van de bijdragen aan Monero worden gedaan door vrijwilligers en onze gemeenschap is dan ook verspreid over de hele planeet. 
 
-OPSCHAALBAARHEID
+#### VEILIGHEID
 
-Monero’s block size is dynamisch en past zich aan op basis van de transactie volume. Dit zorgt ervoor dat transacties sneller uitgevoerd kunnen worden en er lagere vergoedingen voor kunnen worden gevraagd. 
+Monero is een gedecentraliseerde cryptovaluta en dit betekent dat het betalingsnetwerk door een groot aantal van onze gebruikers over de wereld beveiligd wordt. Transacties worden bevestigd en uitgevoerd door een distributed consensus model en daarna, onherroepelijk, opgeslagen op de _[blockchain](https://www.mycryptopedia.com/what-is-blockchain-technology/)_. 
 
-Een groter transactie volume leidt tot dat er een grotere block size limit en een kleiner transactie volume tot een kleinere block size limit. Bulletproofs dragen ook bij aan de schaalbaarheid door op significante schaal de transactie groottes en -kosten te verlagen. Hiermee steekt Monero uit ten opzichte van andere cryptovaluta. 
+#### OPSCHAALBAARHEID
 
-RESISTENT TEGEN CENSUUR
+Monero’s heeft een _[dynamische block size](https://www.mycryptopedia.com/block-size-explained/)_ en past zich aan op basis van de transactie volume. Dit zorgt ervoor dat transacties sneller uitgevoerd kunnen worden en er lagere vergoedingen voor kunnen worden gevraagd. Een groter transactie volume leidt tot dat er een grotere block size limit en een kleiner transactie volume tot een kleinere block size limit.
+_[Bulletproofs](https://web.stanford.edu/~buenz/pubs/bulletproofs.pdf)_ dragen ook bij aan de schaalbaarheid door op significante schaal de transactie groottes en -kosten te verlagen. Hiermee steekt Monero uit ten opzichte van andere cryptovaluta. 
 
-Transacties die opgeslagen worden op de Monero blockchain worden niet gekoppeld aan een identiteit van de gebruiker of zijn/haar digitale identiteit. 
-Hierdoor ondervinden gebruikers van Monero geen last van onder andere censuur of kapitaalbeperkingen. 
+#### RESISTENT TEGEN CENSUUR
 
-PRIVACY
+Transacties die opgeslagen worden op de Monero blockchain worden niet gekoppeld aan een identiteit van de gebruiker of zijn/haar digitale identiteit. Hierdoor ondervinden gebruikers van Monero geen last van onder andere censuur of _[kapitaalbeperkingen](https://en.wikipedia.org/wiki/Capital_control)_. 
 
-Monero maakt gebruik van state-of-the-art-cryptografie. Dit doet het door het gebruik van ring signatures, ring confidential
-transacties en stealth addressen. Dankzij deze technologieën worden herkomst, hoeveelheid en begunstigde van elke transactie verborgen.
+#### PRIVACY
 
-FUNGIBILITEIT
+Monero maakt gebruik van state-of-the-art-cryptografie. Dit doet het door het gebruik van _[ring signatures](https://getmonero.org/resources/moneropedia/ringsignatures.html)_, _[ring confidential transactions](https://www.mycryptopedia.com/monero-ring-confidential-transactions-ringct/)_ en _[stealth addresses](https://www.mycryptopedia.com/everything-need-know-stealth-addresses/)_. Dankzij deze technologieën worden herkomst, hoeveelheid en begunstigde van elke transactie verborgen.
 
-Monero is fungibiel doordat zij een hoge standaard voor wat betreft privacy kent. Dankzij deze standaard betekent dit dat elke Monero altijd gelijk is aan de ander. Monero kan niet worden uitgesloten bij verkopers, handelaren of beurzen omwille van de herkomst of gebruiksgeschiedenis van een munt.
+#### FUNGIBILITEIT
 
-GESCHIEDENIS VAN MONERO
+Monero is _[fungibel](https://getmonero.org/resources/moneropedia/fungibility.html)_ doordat zij een hoge standaard voor wat betreft privacy kent. Dankzij deze standaard betekent dit dat elke Monero altijd gelijk is aan de ander. Monero kan niet worden uitgesloten bij verkopers, handelaren of beurzen omwille van de herkomst of gebruiksgeschiedenis van een specifieke munt.
 
-Monero is opgericht April 2014. Dit ging door op een eerlijke manier en gelijktijdig met het vrijgeven van de CryptoNote reference codes.
+### GESCHIEDENIS VAN MONERO
 
-Er was bij de lancering geen sprake van een pre-mine of “insta”-mine en gaat er ook geen aandeel van de Block rewards naar de ontwikkeling van Monero. 
+Monero is opgericht April 2014. Dit ging door op een eerlijke manier en gelijktijdig met het vrijgeven van de **[CryptoNote](https://cryptonote.org/whitepaper.pdf)** broncodering.
 
-Voor verdere informatie: zie hier de link naar de originele Bitcointalk thread.
+Er was bij de lancering geen sprake van een pre-mine of “insta”-mine en gaat er ook geen aandeel van de Block rewards naar de ontwikkeling van Monero. Voor verdere informatie: zie **[hier](https://bitcointalk.org/index.php?topic=563821.0)** de link naar de originele Bitcointalk thread.
 
 Monero heeft, sinds zijn oprichting, verschillende grote verbeteringen ontwikkeld en toegepast. Bijna alle verbeteringen hebben voordelen gebracht in de veiligheid, waarborg van privacy en het gebruik van Monero. 
 Monero blijft zichzelf ook verder ontwikkelen met als veiligheid en privacy als belangrijkste prioriteiten en gebruiksgemak als tweede doelstelling. 
 
-WAT BETEKENT DE NAAM MONERO?
+### WAT BETEKENT DE NAAM MONERO?
 
 Het woord Monero komt van origine uit het Esperanto. De makers hebben voor het Esperanto gekozen omdat het een 'decentrale' taal is en hiermee symbool staat voor het ,op globale schaal, het slechten van horden tussen mensen en volkeren.
 
 Het woord Monero is een (vrije) samentrekking van drie klanken met ieder een eigen betekenis. De klanken: mon + er + o. hebben ieder hun eigen betekenis.
 
-
-[TEKST MON+ER+O]
-
+**mon-:** geld
+**-er-:** het kleinste gedeelte van
+ **-o :** een ding (taalkundig: zelfstandig naamwwoord)
 
 Dit betekent dat de samengetrokken klanken van het woord ‘monero’ gelezen kan worden als: “een naamwoord die het kleinste gedeelte van een valuta is”. Of, figuurlijk vertaald: een munt.
 
-
-BELANGRIJKSTE ONDERSCHEIDENDE KENMERKEN
-
+### BELANGRIJKSTE ONDERSCHEIDENDE KENMERKEN
 
 Monero gebruikt de CryptoNote codebase: deze codebase is fundamenteel anders dan de codebases die gebruikt worden voor Bitcoin of Ethereum en de vele afgeleidde cryptovaluta die ontstaan zijn uit deze. CryptoNote staat bekend om haar uitstekende verbeteringen op privacy gebied. 
 
