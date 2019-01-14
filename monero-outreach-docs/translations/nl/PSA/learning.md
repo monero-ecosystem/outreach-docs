@@ -1,4 +1,4 @@
-Op zoek naar meer kennis? 
+# Op zoek naar meer kennis? 
 
 Op het moment van schrijven van dit stuk, bestaat de grote meerderheid van de Monero gemeenschap uit personen die bovengemiddeld meer met technologische ontwikkelingen bezig zijn dan het gemiddeld persoon. Aan de Monero code hebben op dit moment een paar honderd ontwikkelaars bijgedragen, een veelvoud van wat de meeste concurrende projecten hebben kunnen bereiken.
 Een van de redenen waarom de prijs van Monero niet dichter bij die van Bitcoin ligt, is de kenniskloof betreft de vernieuwende maar ingewikkelde technologie die wordt gebruikt in Monero.
@@ -16,15 +16,15 @@ Men zal zich meer zekerder en comfortabeler voelen met het opslag, gebruik en ui
 
 Kennis is macht en kennis kan de wereld doen veranderen. Zoek daarom altijd naar meer kennis en doe grondig uw... eigen onderzoek!
 
-De toekomst start met jouw en hieronder is wat meer bronmateriaal om je verder in te lezen en meer te leren over Monero: 
+### De toekomst start bij jou. Hieronder is  meer materiaal om je verder in te lezen en meer te leren over Monero: 
 
-Getmonero.org (Officiele Website) 
-monero.how
-reddit.com/r/monero
-Gids voor Monero (post)
-Monero In-Depth Technische Intro 
-Zero to Monero
-Scams om te vermijden
-Monero FAQ
-Connect met de Monero Community 
-Mastering Monero
+**_[getmonero.org (Officiele Website))](https://getmonero.org/)_**
+**_[monero.how](https://www.monero.how/)_**
+**_[reddit.com/r/monero](https://www.reddit.com/r/Monero/)_**
+**_[Gids voor Monero (post)](https://www.reddit.com/r/CryptoCurrency/comments/7ra409/your_guide_to_monero_and_why_it_has_great/)_**
+**_[Monero Technische In-Depth Intro ](https://steemit.com/monero/@sgp/7yjqso-a-monero-introduction-for-beginners)_**
+**_[Zero to Monero](https://www.getmonero.org/library/Zero-to-Monero-1-0-0.pdf)_**
+**_[Scams om te vermijden](https://www.reddit.com/r/Monero/wiki/avoid)_**
+**_[Monero FAQ](https://ww.getmonero.org/get-started/faq/)_**
+**_[Connect met de Monero Gemeenschap](https://getmonero.org/community/hangouts/)_**
+**_[Mastering Monero](https://masteringmonero.com/)_**
