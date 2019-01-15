@@ -1,0 +1,11 @@
+# Não Diga a Ninguém Quantos Monero Tem
+
+Provérbios como "longe da vista, longe do coração ”, existem por uma razão. Quando você comenta sobre quantos Monero você tem, você pode inadvertidamente estar-se a tornar um alvo. Isto é especialmente verdade em casos de fóruns on-line e nas redes sociais. Os invasores vasculham a Internet a procurar pessoas que revelam informações sobre si mesmas, de forma a poderem tirar  proveito delas. Vamos apenas dar um exemplo:
+
+_O João dá uma resposta publica à Maria numa rede social que acabou de comprar 30 XMR. O Manuel vê o comentário do João e decide que ele quer aquelas 30 XMR. O Manuel passa a usar uma variedade de táticas nefastas para hackear o João e roubar as suas XMR, talvez até causando mais problemas ao João ao longo do caminho. Se o João não tivesse dito nada, ele não teria sido alvo de hackers como o Manuel e o seu XMR estaria seguro._
+
+Este é um exemplo simplificado, mas na realidade existem dezenas de cenários em que as informações que você partilha podem torná-lo um alvo fácil para  atacantes que poderão facilmente torná-lo na sua próxima vítima. Defender e publicitar o Monero, ensinar novos utilizadores sobre os seus muitos usos é uma coisa, gabar-se de quantos XMR você possui é outra. É aconselhável envolver-se no primeiro exemplo e evitar o último a todo custo, para sua própria segurança.
+
+Manter segredo sobre os seu Monero também é importante caso você more num país com um governo corrupto que abusa do poder. Se, no futuro, um governo aplicar controles de capital sobre as criptomoedas, será sempre mais seguro para si se as entidades competentes não tiverem qualquer informação sobre o seu Monero. Mesmo sabendo que o código Monero é resistente a controles de capital, caso um governo abusivo saiba que você é titular de uma carteira Monero, há a forte possibilidade de alguém vir bater à sua porta.
+
+Os controles de capital tecnicamente dão a qualquer governo a autoridade legal para congelar ou tomar posse do seu Monero. Como o código do Monero continua a melhorar, será cada vez mais difícil para os governos abusivos saberem se você possui Monero ou não... a menos que você fale sobre isso online. Se não souberem o que você tem,  a capacidade do governo em abusar do seu poder e roubar aquilo que é seu é diminuída. Não diga a ninguém quantos Monero tem.
