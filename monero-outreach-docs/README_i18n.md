@@ -19,10 +19,10 @@ Follow this instructions (if you are not familiar with Github, check out this [t
 
 1. Fork the repository and clone your fork locally.
 2. The directory `en` has all the latest documents.
-3. If you are working on a new language, add a `subfolder` for your language in the `translations` folder (use [country codes](https://wiki.openstreetmap.org/wiki/Nominatim/Country_Codes) for the `subfolders`). Copy the folder you are going to translate from the `en` folder and paste it in the `subfolder` you just created.
-4. **File Formats** - Documents are in .md format. Md stands for markdown and is a lightweight markup language with plain text formatting syntax. It's really easy to use and you can use any text editor to add text.
- - We were currently using .sla files but due to document size and workload, @erciccione suggested to change or reduce size format so we decided to make the translations on a much lightweighted format. Design edits will be done once you submit your work. If you need help, please get in contact with us.
-5. When saving changes, remember to add a message to the commit with a description of **the documents name and the language** (e.g. **_"Quickfacts fr translation"_**, **_"Missing punctuation donttalk PSA pt_Br"_**, etc.).
+3. If you are working on a new language, add a `subfolder` for your language in the `translations` folder (use [country codes](https://wiki.openstreetmap.org/wiki/Nominatim/Country_Codes) for the `subfolders`). Copy the .md files you are going to translate from the `en` folder and paste it in the `subfolder` you just created. Use the correct folders for locating your work.
+4. **File Formats** - Documents are worked in .md format. Md stands for markdown, markdown is a lightweight markup language with plain text formatting syntax. It's really easy to use and you can use any text editor to add text. Need help about mastering markdown format? [Here](https://guides.github.com/features/mastering-markdown/) is a tutorial.
+ - Design edits will be done once you submit your work.
+5. When saving changes, remember to add a message to the commit with the **documents name, language, and a small description of your work** (e.g. **_"Quickfacts fr translation"_**, **_"Missing punctuation donttalk PSA pt_Br"_**, etc.).
 6. If you are a reviewer please visit, [Taiga EPIC #69 Monero Outreach Localization](https://taiga.getmonero.org/project/xmrhaelan-monero-public-relations/epic/69) to get assigned a translation.
 7. Happy contributing! 
 
@@ -35,11 +35,13 @@ Fonts can be found inside [monero-outreach-docs folder](https://github.com/moner
  - For support and coordination - `#monero-translations`/ IRC/ Matrix/ Riot/ [Mattermost](https://mattermost.getmonero.org/monero/channels/monero-translations) or telegram [@outreachtranslations](https://t.me/outreachtranslations).
  - This repository is connected with the [Monero Outreach - Taiga instance](https://taiga.getmonero.org/project/xmrhaelan-monero-public-relations/).
  - This repository is maintained by:
-   - [lh1008](https://github.com/lh1008) - Monero Outreach Communication Workgroup Coordinator
-   - [erciccione](https://github.com/erciccione) - Monero Localization
+   - [lh1008](https://github.com/lh1008) - Monero Outreach Coordinator
+   - [erciccione](https://github.com/erciccione) - Monero Localization Coordinator
    - [xmrhaelan](https://github.com/xmrhaelan) - Monero Outreach Organizer
  - Emails: 
-	* paintluis[@]protonmail.com, monerooutreach[@]protonmail.com, translate@getmonero.org.
+   - [paintluis@protonmail.com](mailto:paintluis@protonmail.com)
+   - [monerooutreach@protonmail.com](mailto:monerooutreach@protonmail.com)
+   - [translate@getmonero.org](mailto:translate@getmonero.org.)
  - Telegram 
    - [@monerooutreach](https://t.me/monerooutreach)
    - [@outreachtranslations](https://t.me/outreachtranslations)
