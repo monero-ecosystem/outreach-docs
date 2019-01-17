@@ -1,17 +1,15 @@
 # MONERO
 
-Monero is a secure, private, untraceable
-digital currency that is available to all.
+Monero is a secure, private, untraceable digital currency that is available to all.
 
 # QUICK FACTS
 
-Users can spend safely, no one can see
-their balances or track their activity.
+Users can spend safely, no one can see their balances or track their activity.
 
-Revised 11/14/2018 - [Printer Friendly Version](http://www.monerooutreach.org/pubs/2018/QuickFacts/QuickFacts_PrinterFriendly.pdf)
+Revised 11/14/2018 - [Printer Friendly Version](http://www.monerooutreach.org/pubs/2018/QuickFacts/QuickFacts_PrinterFriendly.pdf)    
 Created for the community by Monero Outreach
 
-* [Full Color Version](http://www.monerooutreach.org/pubs/2018/QuickFacts/QuickFacts.pdf)
+- [Full Color Version](http://www.monerooutreach.org/pubs/2018/QuickFacts/QuickFacts.pdf)
 
 [getmonero.org](https://getmonero.org/)
 
@@ -20,7 +18,7 @@ Created for the community by Monero Outreach
 
 #### DECENTRALIZATION
 
-As an _[open-source project](https://github.com/monero-project/monero)_ led and _[funded](https://forum.getmonero.org/8/funding-required)_ by a _[decentralized team](https://getmonero.org/community/team/)_ ofdevelopers and community members, it cannot be censored. Most contributors are volunteers and the community is spread all over the globe.
+As an _[open-source project](https://github.com/monero-project/monero)_ led and _[funded](https://forum.getmonero.org/8/funding-required)_ by a _[decentralized team](https://getmonero.org/community/team/)_ of developers and community members, it cannot be censored. Most contributors are volunteers and the community is spread all over the globe.
 
 #### SECURITY
 
@@ -53,9 +51,9 @@ Monero has made several large improvements since launch. Nearly all improvements
 
 The word Monero is from the Esperanto language. The creators chose to use Esperanto because it is a ‘decentralized’ language and represents the breaking of barriers between people, on a global scale. In Esperanto, Monero is a word composed of three elements freely put together, one syllabus each: mon + er + o. Each has a meaning.
 
-**mon-:** money
-**-er-:** the smallest part
- **-o :** a thing (grammatically speaking: a noun)
+**mon:** money    
+**er:** the smallest part    
+**o:** a thing (grammatically speaking: a noun)   
 
 Which means ‘monero’ can be analyzed as meaning: “a noun that describes the smallest part of money”. Or, a coin.
 
@@ -82,14 +80,14 @@ Private financial history protects consumers and companies from price manipulati
 ### TECHNICAL FUNDAMENTALS
 
 _(As of  11/14/2018)_
-**Amount of Active Nodes:**1,756 (Source: https://monerohash.com/nodes-distribution.html)
-**Network Hash Rate:**435.17 MH/s
-**Average Transactions/Hour:**178 (30-day average)
-**CPU Cores Securing the Network:**14,499,178
-**Monero in Circulation:**16,570,126 XMR (Approximate)
-**Market Capitalization:**$1,503,928,296 USD (~0.77% of total cryptocurrency market cap)
-**Current Block Reward:**3.5984 XMR
-**Average Block Interval:**2 Minutes
++ **Amount of Active Nodes:** 1,756 (Source: https://monerohash.com/nodes-distribution.html)
++ **Network Hash Rate:** 435.17 MH/s
++ **Average Transactions/Hour:** 178 (30-day average)
++ **CPU Cores Securing the Network:** 14,499,178
++ **Monero in Circulation:** 16,570,126 XMR (Approximate)
++ **Market Capitalization:** $1,503,928,296 USD (~0.77% of total cryptocurrency market cap)
++ **Current Block Reward:** 3.5984 XMR
++ **Average Block Interval:** 2 Minutes
 
 _Reward rate will steadily decrease until the end of May 2022, when there are 18.132 million XMR in circulation, at which point a 0.6 XMR block reward will remain indefinitely._
 
@@ -110,20 +108,20 @@ Although Monero is already available and being used across the globe, the commun
 
 ## ADDITIONAL RESOURCES
 
-**_[getmonero.org (Official Website)](https://getmonero.org/)_**
-**_[monero.how](https://www.monero.how/)_**
-**_[reddit.com/r/monero](https://www.reddit.com/r/Monero/)_**
-**_[Guide to Monero (post)](https://www.reddit.com/r/CryptoCurrency/comments/7ra409/your_guide_to_monero_and_why_it_has_great/)_**
-**_[Monero In-Depth Technical Intro](https://steemit.com/monero/@sgp/7yjqso-a-monero-introduction-for-beginners)_**
-**_[Zero to Monero](https://www.getmonero.org/library/Zero-to-Monero-1-0-0.pdf)_**
++ **_[getmonero.org (Official Website)](https://getmonero.org/)_**
++ **_[monero.how](https://www.monero.how/)_**
++ **_[reddit.com/r/monero](https://www.reddit.com/r/Monero/)_**
++ **_[Guide to Monero (post)](https://www.reddit.com/r/CryptoCurrency/comments/7ra409/your_guide_to_monero_and_why_it_has_great/)_**
++ **_[Monero In-Depth Technical Intro](https://steemit.com/monero/@sgp/7yjqso-a-monero-introduction-for-beginners)_**
++ **_[Zero to Monero](https://www.getmonero.org/library/Zero-to-Monero-1-0-0.pdf)_**
 
-**_[Scams to Avoid](https://www.reddit.com/r/Monero/wiki/avoid)_**
-**_[Monero FAQ](https://ww.getmonero.org/get-started/faq/)_**
-**_[Monero SWOT Analysis]()_**
-**_[Connect w/ Monero Community](https://getmonero.org/community/hangouts/)_**
-**_[Mastering Monero - (coming soon)](https://masteringmonero.com/)_**
++ **_[Scams to Avoid](https://www.reddit.com/r/Monero/wiki/avoid)_**
++ **_[Monero FAQ](https://ww.getmonero.org/get-started/faq/)_**
++ **_[Monero SWOT Analysis]()_**
++ **_[Connect w/ Monero Community](https://getmonero.org/community/hangouts/)_**
++ **_[Mastering Monero - (coming soon)](https://masteringmonero.com/)_**
 
-**Monero Quick Facts - Revised 11/14/2018**
+**Monero Quick Facts - Revised 11/14/2018**    
 **Created for the community by Monero Outreach.**
 
 **Monero Outreach is dedicated to growing adoption and acceptance through education and public relations. Your donations make it possible.**
