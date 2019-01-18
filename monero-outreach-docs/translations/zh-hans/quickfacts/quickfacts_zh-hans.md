@@ -6,7 +6,7 @@
 
 用户花得放心，没有人可以看到他们的余额或追踪到他们的交易。
 
-修订 11/14/2018 为门罗币社 - [Printer Friendly Version](http://www.monerooutreach.org/pubs/2018/QuickFacts/QuickFacts_PrinterFriendly.pdf)
+修订 11/14/2018 为门罗币社 - [Printer Friendly Version](http://www.monerooutreach.org/pubs/2018/QuickFacts/QuickFacts_PrinterFriendly.pdf)  
 区，由门罗币Outreach社区创建
 
 * [Full Color Version](http://www.monerooutreach.org/pubs/2018/QuickFacts/QuickFacts.pdf)
@@ -53,8 +53,8 @@
 ‘门罗币’这个词是来自世界语。门罗币的创造者借⽤这个世界语的单词，因为它是个 ‘ 去中⼼化 ’的语⾔，代表着打破人群和范围的限制。
 在世界语中，Monero 由三个自由组成的语素构成，每个语素都有各自的意义。
 
-**mon-:** 钱
-**-er-:** 最小部分
+**mon-:** 钱  
+**-er-:** 最小部分  
  **-o :** 一件事物（从语法上说指一个名词）
 
 也就是说，门罗币的含义可以被看作是“一个描述钱的最小部分的名词”，或者说——币。
@@ -82,14 +82,14 @@
 ### 技术基础
 
 _(如 11/14/2018)_
-**活动节点总数：**1,756 (来源: https://monerohash.com/nodes-distribution.html)
-**网络哈希率：**435.17 MH/s
-**每小时平均交易数：**178 (平均30日)
-**CPU 核心保护网络数：**14,499,178
-**在流通中的门罗币：**16,570,126 XMR (近似)
-**市场资本总值：**$1,503,928,296 USD (~0.77%数字货币市场的总值)
-**目前的区块奖励：**3.5984 XMR
-**平均区块区间：**2 Minutes
++ **活动节点总数：** 1,756 (来源: https://monerohash.com/nodes-distribution.html)
++ **网络哈希率：** 435.17 MH/s
++ **每小时平均交易数：** 178 (平均30日)
++ **CPU 核心保护网络数：** 14,499,178
++ **在流通中的门罗币：** 16,570,126 XMR (近似)
++ **市场资本总值：** $1,503,928,296 USD (~0.77%数字货币市场的总值)
++ **目前的区块奖励：** 3.5984 XMR
++ **平均区块区间：** 2 Minutes
 
 _奖励率将会稳定降低直到2022年5月末，到那时一共将有一千八百一十三万两千XMR 在流通中，0.6 XMR 的区块奖励将会无限持续。_
 
@@ -108,20 +108,20 @@ A虽然门罗币在全球范围内使用中，开发者们还是有很多令人�
 
 ## 额外资源
 
-**_[getmonero.org ( (官方网站))](https://getmonero.org/)_**
-**_[monero.how](https://www.monero.how/)_**
-**_[reddit.com/r/monero](https://www.reddit.com/r/Monero/)_**
-**_[门罗币指南 (post)](https://www.reddit.com/r/CryptoCurrency/comments/7ra409/your_guide_to_monero_and_why_it_has_great/)_**
-**_[门罗币深入的技术分析](https://steemit.com/monero/@sgp/7yjqso-a-monero-introduction-for-beginners)_**
-**_[门罗币入门导论](https://www.getmonero.org/library/Zero-to-Monero-1-0-0.pdf)_**
++ **_[getmonero.org ( (官方网站))](https://getmonero.org/)_**
++ **_[monero.how](https://www.monero.how/)_**
++ **_[reddit.com/r/monero](https://www.reddit.com/r/Monero/)_**
++ **_[门罗币指南 (post)](https://www.reddit.com/r/CryptoCurrency/comments/7ra409/your_guide_to_monero_and_why_it_has_great/)_**
++ **_[门罗币深入的技术分析](https://steemit.com/monero/@sgp/7yjqso-a-monero-introduction-for-beginners)_**
++ **_[门罗币入门导论](https://www.getmonero.org/library/Zero-to-Monero-1-0-0.pdf)_**
 
-**_[避免诈骗](https://www.reddit.com/r/Monero/wiki/avoid)_**
-**_[门罗币 FAQ](https://ww.getmonero.org/get-started/faq/)_**
-**_[门罗币 SWOT 分析]()_**
-**_[跟门罗币社区联系](https://getmonero.org/community/hangouts/)_**
-**_[掌握门罗币 - (即将推出)](https://masteringmonero.com/)_**
++ **_[避免诈骗](https://www.reddit.com/r/Monero/wiki/avoid)_**
++ **_[门罗币 FAQ](https://ww.getmonero.org/get-started/faq/)_**
++ **_[门罗币 SWOT 分析]()_**
++ **_[跟门罗币社区联系](https://getmonero.org/community/hangouts/)_**
++ **_[掌握门罗币 - (即将推出)](https://masteringmonero.com/)_**
 
-**Monero Quick Facts - 修订 11/14/2018 为门罗币社**
+**Monero Quick Facts - 修订 11/14/2018 为门罗币社**  
 **区，由门罗币Outreach社区创建**
 
 **门罗币 Outreach 社区以教育和公共关系为致力日益普及——您的捐款成为可能。**
