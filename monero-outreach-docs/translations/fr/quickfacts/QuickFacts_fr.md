@@ -1,17 +1,15 @@
 # MONERO
 
-Monero est une cryptomonnaie sécurisée,
-confidentielle et intraçable disponible pour
-tous
+Monero est une cryptomonnaie sécurisée, confidentielle et intraçable disponible pour tous
 
 # QUELQUES FAITS
 
-Les utilisateurs peuvent la dépenser en
-toute sécurité, personne ne peut voir leurs
-soldes ou suivre leurs activités.
+Les utilisateurs peuvent la dépenser en toute sécurité, personne ne peut voir leurs soldes ou suivre leurs activités.
 
-Révisé le 14/11/2018 - [Version Imprimable](http://www.monerooutreach.org/pubs/2018/QuickFacts/QuickFacts_fr_PrinterFriendly.pdf)
+Révisé le 14/11/2018 - [Version Imprimable](http://www.monerooutreach.org/pubs/2018/QuickFacts/QuickFacts_fr_PrinterFriendly.pdf)  
 Créé pour la communauté par Monero Outreach
+
+- [Version couleur](http://www.monerooutreach.org/pubs/2018/QuickFacts/QuickFacts_fr.pdf)
 
 [getmonero.org](https://getmonero.org/fr/)
 
@@ -53,8 +51,8 @@ Monero a progressé de manière importante depuis son lancement. La quasi-totali
 
 Le mot Monero vient de l'Esperanto. Les créateurs ont choisis d'utiliser l'Esperanto car il s'agit d'une langue « décentralisée » et représente la rupture des barrières entre les peuples, à l'échelle globale. En Esperanto, Monero est un mot composé de trois éléments, librement associés, d'une syllabe chacun : mon + er + o. Chacun a une signification.
 
-**mon-:** argent
-**-er-:** la plus petite portion
+**mon-:** argent  
+**-er-:** la plus petite portion  
  **-o :** une chose (grammaticalement parlant, un nom)
 
 Cela siginie que l'on peut analyser la signification de « Monero » comme « un nom décrivant la plus petite portion d'argent ». Ou, une pièce.
@@ -82,14 +80,14 @@ L'historique financier confidentiel protège les consommateurs et les compagnies
 ### FONDAMENTAUX TECHNIQUES
 
 _(Au 14/11/2018)_
-**Nombre de nœuds actifs :**1,756 (Source: https://monerohash.com/nodes-distribution.html)
-**Taux de hachage du réseau :**435.17 MH/s
-**Transactions moyennes/heure :**178 (30-day average)
-**Cœurs CPU sécurisant le réseau :**14,499,178
-**Monero en circulation :**16,570,126 XMR (Approximativement)
-**Capitalisation de marché :**$1,503,928,296 USD (~0.77% de la capitalisation de marché totale des cryptomonnaies)
-**Récompense de bloc actuelle :**3.5984 XMR
-**Interval de bloc moyen :**2 Minutes
++ **Nombre de nœuds actifs :** 1,756 (Source: https://monerohash.com/nodes-distribution.html)
++ **Taux de hachage du réseau :** 435.17 MH/s
++ **Transactions moyennes/heure :** 178 (30-day average)
++ **Cœurs CPU sécurisant le réseau :** 14,499,178
++ **Monero en circulation :** 16,570,126 XMR (Approximativement)
++ **Capitalisation de marché :** $1,503,928,296 USD (~0.77% de la capitalisation de marché totale des cryptomonnaies)
++ **Récompense de bloc actuelle :** 3.5984 XMR
++ **Interval de bloc moyen :** 2 Minutes
 
 _Le tarifde la récompense va constamment diminuer jusqu'à fin mai 2022, quand il y aura 18,132 million de XMR en circulation, à ce moment-là, une récompense de bloc de 0,6 XMR demeurera indéfiniment._
 
@@ -108,20 +106,20 @@ Bien que Monero soit déjà disponible et utilisé à travers le globe, la commu
 
 ## RESSOURCES ADDITIONNELLES
 
-**_[getmonero.org (Site officiel)](https://getmonero.org/fr/)_**
-**_[monero.how](https://www.monero.how/)_**
-**_[reddit.com/r/monero](https://www.reddit.com/r/Monero/)_**
-**_[Guide pour Monero (post reddit)](https://www.reddit.com/r/CryptoCurrency/comments/7ra409/your_guide_to_monero_and_why_it_has_great/)_**
-**_[Introduction technique de Monero](https://steemit.com/monero/@sgp/7yjqso-a-monero-introduction-for-beginners)_**
-**_[Zero to Monero](https://www.getmonero.org/fr/library/Zero-to-Monero-1-0-0.pdf)_**
++ **_[getmonero.org (Site officiel)](https://getmonero.org/fr/)_**
++ **_[monero.how](https://www.monero.how/)_**
++ **_[reddit.com/r/monero](https://www.reddit.com/r/Monero/)_**
++ **_[Guide pour Monero (post reddit)](https://www.reddit.com/r/CryptoCurrency/comments/7ra409/your_guide_to_monero_and_why_it_has_great/)_**
++ **_[Introduction technique de Monero](https://steemit.com/monero/@sgp/7yjqso-a-monero-introduction-for-beginners)_**
++ **_[Zero to Monero](https://www.getmonero.org/fr/library/Zero-to-Monero-1-0-0.pdf)_**
 
-**_[Fraudes à éviter](https://www.reddit.com/r/Monero/wiki/avoid)_**
-**_[FAQ Monero](https://www.getmonero.org/fr/get-started/faq/)_**
-**_[Analyse SWOT de Monero]()_**
-**_[Se connecter à la communautéde Monero](https://getmonero.org/fr/community/hangouts/)_**
-**_[Mastering Monero - (à venir)](https://masteringmonero.com/)_**
++ **_[Fraudes à éviter](https://www.reddit.com/r/Monero/wiki/avoid)_**
++ **_[FAQ Monero](https://www.getmonero.org/fr/get-started/faq/)_**
++ **_[Analyse SWOT de Monero]()_**
++ **_[Se connecter à la communautéde Monero](https://getmonero.org/fr/community/hangouts/)_**
++ **_[Mastering Monero - (à venir)](https://masteringmonero.com/)_**
 
-**Monero Quelques Faits - Revisé le 14/11/2018**
+**Monero Quelques Faits - Revisé le 14/11/2018**  
 **Créé pour la communauté par Monero Outreach.**
 
 **Monero Outreach est dédié à l'acroissement de l'adoption et de l'acceptance à travers l'éducation et les relations publiques. Vos dons rendent cela possible.**
