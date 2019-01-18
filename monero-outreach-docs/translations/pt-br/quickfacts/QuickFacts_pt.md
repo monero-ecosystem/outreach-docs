@@ -1,16 +1,15 @@
 # MONERO
 
-Monero é uma moeda digital segura, privada,
-não-rastreável que está disponível para todos.
+Monero é uma moeda digital segura, privada, não-rastreável que está disponível para todos.
 
 # FATOS RÁPIDOS
 
-Usuários podem gastar com segurança,
-ninguém consegue ver seu saldo ou rastrear
-suas atividades.
+Usuários podem gastar com segurança, ninguém consegue ver seu saldo ou rastrear suas atividades.
 
-Revisado em 14/11/2018 - [Versão para impressão](http://www.monerooutreach.org/pubs/2018/QuickFacts/QuickFacts_PrinterFriendly.pdf)
+Revisado em 14/11/2018 - [Versão para impressão](http://www.monerooutreach.org/pubs/2018/QuickFacts/QuickFacts_PrinterFriendly.pdf)  
 Criado para a comunidade por Monero Outreach
+
+- [Versão colorida](http://www.monerooutreach.org/pubs/2018/QuickFacts/QuickFacts_pt.pdf)
 
 [getmonero.org](https://getmonero.org/)
 
@@ -52,8 +51,8 @@ Monero tem feito grandes avanços desde seu lançamento. Quase todas as melhoria
 
 A palavra Monero vem do idioma Esperanto. Os criadores escolheram o uso do Esperanto por este ser um idioma "descentralizado" e que representa a quebra de barreiras entre pessoas em uma escala global. Em Esperanto, a palavra Monero é composta por três elementos livremente dispostos, com uma sílaba cada: mon + er + o. Que significam:
 
-**mon-:** dinheiro
-**-er-:** a menor parte
+**mon-:** dinheiro  
+**-er-:** a menor parte  
  **-o :** uma coisa (gramaticamente falando: um substantivo)
 
 Isso que dizer que "monero" por ser interpretado como: "um substantivo que descreve a menor parte do dinheiro". Ou, uma moeda.
@@ -81,14 +80,14 @@ Um histórico financeiro privado protege consumidores e companhias de manipulaç
 ### FUNDAMENTOS TÉCNICOS
 
 _(Até 14/11/2018)_
-**Quantidade de nós ativos:**1,756 (Fonte: https://monerohash.com/nodes-distribution.html)
-**Taxa de hash da rede:**435.17 MH/s
-**Média de transações/hora:**178 (média 30 dias)
-**Núcleos CPU protegendo a rede:**14,499,178
-**Monero em circulação:**16,570,126 XMR (Aproximadamente)
-**Capitalização de mercado:**$1,503,928,296 USD (~0.77% da cap. total do mercado de criptomoedas)
-**Recompensa do bloco atualmente:**3.5984 XMR
-**Intervalo médio entre blocos:**2 Minutos
++ **Quantidade de nós ativos:** 1,756 (Fonte: https://monerohash.com/nodes-distribution.html)
++ **Taxa de hash da rede:** 435.17 MH/s
++ **Média de transações/hora:** 178 (média 30 dias)
++ **Núcleos CPU protegendo a rede:** 14,499,178
++ **Monero em circulação:** 16,570,126 XMR (Aproximadamente)
++ **Capitalização de mercado:** $1,503,928,296 USD (~0.77% da cap. total do mercado de criptomoedas)
++ **Recompensa do bloco atualmente:** 3.5984 XMR
++ **Intervalo médio entre blocos:** 2 Minutos
 
 _A taxa de recompensas diminuirá continuamente até o final de Maio de 2022, quando haverão 18,132 milhões de XMR em circulação. Neste ponto uma recompensa de 0,6 XMR por bloco se manterá indefinidamente._
 
@@ -107,20 +106,20 @@ Embora o Monero já esteja disponível e em uso através do globo, a comunidade 
 
 ## RECURSOS ADICIONAIS
 
-**_[getmonero.org (Site oficial)](https://getmonero.org/)_**
-**_[monero.how](https://www.monero.how/)_**
-**_[reddit.com/r/monero](https://www.reddit.com/r/Monero/)_**
-**_[Guia do Monero (post)](https://www.reddit.com/r/CryptoCurrency/comments/7ra409/your_guide_to_monero_and_why_it_has_great/)_**
-**_[Introdução Técnica ao Monero](https://steemit.com/monero/@sgp/7yjqso-a-monero-introduction-for-beginners)_**
-**_[Zero to Monero](https://www.getmonero.org/library/Zero-to-Monero-1-0-0.pdf)_**
++ **_[getmonero.org (Site oficial)](https://getmonero.org/)_**
++ **_[monero.how](https://www.monero.how/)_**
++ **_[reddit.com/r/monero](https://www.reddit.com/r/Monero/)_**
++ **_[Guia do Monero (post)](https://www.reddit.com/r/CryptoCurrency/comments/7ra409/your_guide_to_monero_and_why_it_has_great/)_**
++ **_[Introdução Técnica ao Monero](https://steemit.com/monero/@sgp/7yjqso-a-monero-introduction-for-beginners)_**
++ **_[Zero to Monero](https://www.getmonero.org/library/Zero-to-Monero-1-0-0.pdf)_**
 
-**_[Golpes a serem evitados](https://www.reddit.com/r/Monero/wiki/avoid)_**
-**_[Perguntas Frequentes](https://ww.getmonero.org/get-started/faq/)_**
-**_[Análise SWOT do Monero]()_**
-**_[Conecte-se com a comunidade](https://getmonero.org/community/hangouts/)_**
-**_[Mastering Monero - (em breve)](https://masteringmonero.com/)_**
++ **_[Golpes a serem evitados](https://www.reddit.com/r/Monero/wiki/avoid)_**
++ **_[Perguntas Frequentes](https://ww.getmonero.org/get-started/faq/)_**
++ **_[Análise SWOT do Monero]()_**
++ **_[Conecte-se com a comunidade](https://getmonero.org/community/hangouts/)_**
++ **_[Mastering Monero - (em breve)](https://masteringmonero.com/)_**
 
-**Monero Fatos Rápidos - Revisado em 14/11/2018**
+**Monero Fatos Rápidos - Revisado em 14/11/2018**  
 **Criado para a comunidade por Monero Outreach**
 
 **Monero Outreach dedica-se em aumentar a adoção e aceitação por meio da educação. Suas doações tornam isso possível.**
