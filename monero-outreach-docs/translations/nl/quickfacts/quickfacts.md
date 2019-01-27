@@ -91,7 +91,7 @@ _(Peildatum: 14/11/2018)_
 + **Huidige hoogte van de block-beloningen:** 3.5984 XMR
 + **Gemiddelde interval tussen blocks:** 2 Minutes
 
-_De uitbetalingsstructuur van Monero block-beloningen zal dagelijkse langzaam teruglopen tot en met May 2022, hierna zijn er ongeveer
+_De uitbetalingsstructuur van Monero block-beloningen zal dagelijks langzaam teruglopen tot en met May 2022, hierna zijn er ongeveer
 18.132 miljoen XMR in omloop met een permanente bodem in de block-beloningen van 0.6 XMR per opgeloste block._
 
 _Dankzij deze “staart emissie” van 0.6 XMR per block zal er rond 2040 een gelijke hoeveelheid Monero in omloop zijn als Bitcoin (ongeveer 21 miljoen munten)_
