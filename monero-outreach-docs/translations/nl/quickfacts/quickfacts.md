@@ -122,7 +122,7 @@ Kasisto: De **[point-of-sale oplossing](https://github.com/amiuhle/kasisto)** di
 + **_[Monero FAQ](https://ww.getmonero.org/get-started/faq/)_**
 + **_[Monero SWOT Analyse]()_**
 + **_[Connect met de Monero Gemeenschap](https://getmonero.org/community/hangouts/)_**
-+ **_[Mastering Monero - (coming soon)](https://masteringmonero.com/)_**
++ **_[Mastering Monero](https://masteringmonero.com/)_**
 
 **Monero Quick Facts - Gereviseerd op 14/11/2018**    
 **Geschreven voor de Monero-gemeenschap door Monero Outreach.**
