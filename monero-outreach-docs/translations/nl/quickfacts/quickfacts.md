@@ -52,7 +52,9 @@ Monero heeft, sinds zijn oprichting, verschillende grote verbeteringen ontwikkel
 Het woord Monero komt van origine uit het Esperanto. De makers hebben voor het Esperanto gekozen omdat het een 'decentrale' taal is en hiermee symbool staat voor het, op globale schaal, overbruggen van kloven tussen mensen en verschillende volkeren. Het woord Monero is, in het Esperantees, een (vrije) samentrekking van drie klanken met ieder een eigen betekenis. De klanken: mon + er + o. hebben ieder hun eigen betekenis.
 
 **mon-:** geld
+
 **-er-:** het kleinste gedeelte van
+
  **-o :** een ding (taalkundig: zelfstandig naamwwoord)
 
 Dit betekent dat de samengetrokken klanken van het woord ‘monero’ gelezen kan worden als: “een naamwoord die het kleinste gedeelte van een valuta is”. Of, figuurlijk vertaald: een munt.
