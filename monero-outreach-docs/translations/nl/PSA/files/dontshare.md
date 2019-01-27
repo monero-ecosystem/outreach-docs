@@ -10,4 +10,5 @@ Als je in aanraking komt met dergelijke projecten, blijf er dan mijlenver van we
 ### Wordt niet het slachtoffer.
 
 Het enige onderdeel van je Monero wallet wat je wellicht zou kunnen delen is je alleen-lezen sleutel (en dan ook alleen om te bewijzen dat een bepaalde transactie door jou ontvangen is). Als je dit niet nodig acht en/of wenst, deel dan geen van je sleutels. 
-Als een persoon beweert dat hij/zij iets anders nodig heeft van je dan je wallet-adres (en in sommige gevallen dus ook deze alleen-lezen sleutel), dan proberen ze naar alle waarschijnlijkheid je op te lichten. Samengevat: deel nooit je Private Sleutels!
+Als een persoon beweert dat diegene iets anders nodig heeft van je dan je wallet-adres (en in sommige gevallen dus ook deze alleen-lezen sleutel), dan proberen ze naar alle waarschijnlijkheid je op te lichten. 
+Samengevat: deel nooit je Private Sleutels!
