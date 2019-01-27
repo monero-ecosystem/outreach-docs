@@ -12,10 +12,10 @@ Een ‘hard’ wallet, zoals de veelgebruikte Ledger of de Trezor, zijn het best
 
 2. Als je begint met het gebruik van een cold wallet (bijvoorbeeld: een “Paper Wallet") voor lange termijn opslag, doe dan grondig onderzoek vooraf en gebruik de online tutorials met de beste en meest positieve reviews en reacties. Een selectie van deze tutorials zijn te vinden via de onderstaande Reddit-links: 
 
-   a. Tutorial voor het verzenden naar een Paper Wallet
+a. Tutorial voor het verzenden naar een Paper Wallet
 https://www.reddit.com/r/Monero/comments/7t5tyx/tutorial_sending_xmr_to_a_paper_wallet_generated
 
-   b. Gids voor het veilige gebruiken van een Cold Paper Wallet
+b. Gids voor het veilige gebruiken van een Cold Paper Wallet
 https://www.reddit.com/r/Monero/comments/48cgmd/an_extensive_guide_for_securely_generating_an
 
 3. De beste reden voor het gebruik van een cold wallet is als je je XMR voor langere tijd wilt opsparen en/of bewaren en een hot wallet voor de XMR waarmee je wilt handelen of die je wilt uitgeven. Beste analogie hiervoor is dat ook: Cold Wallet = je spaarrekening; Hot Wallet = je betaalrekening. 
