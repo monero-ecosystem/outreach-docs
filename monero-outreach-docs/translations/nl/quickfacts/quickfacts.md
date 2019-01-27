@@ -109,7 +109,7 @@ Hoewel Monero al beschikbaar is en over de hele wereld in gebruik wordt genomen,
 
 **Hardware portemonnees (ledger wallets):** Trezor Model T Wallets **[ondersteunt het gebruik van Monero](https://trezor.io/coins/#XMR)**. **[Ledger wallets](https://support.ledgerwallet.com/hc/en-us/articles/360006352934-Monero-XMR-Advanced)** zijn ook verkrijgbaar via de officiële Monero GUI wallet. De gemeenschap achter Monero ondersteunt een team dat werkt aan de ontwikkeling van **[Kastelo, an open source hardware wallet](http://kastelo.org/)**, gebouwd vanuit de filosofie achter en met de kenmerken van Monero. Zowel Trezor Model T als Kastelo bieden een volledige en gebruiksvriendelijke ondersteuning voor het gebruik van Monero.
 
-Kasisto: De **[point-of-sale oplossing](https://github.com/amiuhle/kasisto)** die ontworpen is om, met veel gemak, gebruikt te worden door ondernemers en voor elke vorm van bedrijfsvoering.
+**Kasisto:** De **[point-of-sale oplossing](https://github.com/amiuhle/kasisto)** die ontworpen is om, met veel gemak, gebruikt te worden door ondernemers en voor elke vorm van bedrijfsvoering.
 
 ## EXTRA BRONMATERIAAL
 
