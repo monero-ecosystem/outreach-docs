@@ -30,7 +30,7 @@ Monero’s heeft een _[dynamische blockgrootte](https://www.mycryptopedia.com/bl
 
 #### CENSUUR-RESISTENT
 
-Transacties die opgeslagen worden op de Monero blockchain worden niet gekoppeld aan een identiteit van een gebruiker of de digitale gebruiksgegevens van diegene. Hierdoor ondervinden gebruikers van Monero geen last van onder andere censuur of _[kapitaalbeperkingen](https://en.wikipedia.org/wiki/Capital_control)_. 
+Transacties die opgeslagen worden op de Monero blockchain worden niet gekoppeld aan een identiteit van een gebruiker of de digitale gebruiksgegevens van diegene. Hierdoor ondervinden gebruikers van Monero geen last van onder andere censuur of _[kapitaalbeperkingen](https://nl.wikipedia.org/wiki/Kapitaalbeperking)_. 
 
 #### PRIVACY
 
