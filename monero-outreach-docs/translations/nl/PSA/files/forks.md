@@ -3,7 +3,7 @@
 De term ‘hard fork’ kan, tenzij je een developer bent, voor veel verwarring zorgen en een sterke negatieve connotatie hebben.  
 Je hebt, tenslotte, al meerdere artikelen gelezen over hard forks en hoe deze bij andere crypto projecten voor spanningen en drama zorgden. Monero’s hard forks manifesteren zich op interessante manieren en kunnen worden ingedeeld in de volgende drie categorieën:  
 
-### 1) Netwerk Upgrades/Planmatige reguliere Hard Forks
+### 1) Netwerk upgrades/planmatige reguliere Hard Forks
 
 Monero developers trachten om twee geplande hard forks per jaar uit te voeren. Deze hard forks worden pas uitgevoerd na het bereiken van consensus binnen de community over deze forks en worden altijd geleid door Monero's core developers. Een dergelijke hard-fork bevat, over het algemeen, verschillende verbeteringen aan de Monero code. Het is hierbij van het hoogste belang dat een gebruiker van Monero elke keer update als een dergelijke fork plaatsvind. Dit updaten is een van de verantwoordelijkheden die genomen moet worden voor gebruik van Monero. Niemand heeft gezegd dat het zijn van een 'early adopter' makkelijk zou zijn, maar als je een beetje bij de les blijft, is het ook niet heel moeilijk.
 
