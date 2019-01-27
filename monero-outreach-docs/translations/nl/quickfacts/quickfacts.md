@@ -94,14 +94,14 @@ _(Peildatum: 14/11/2018)_
 _De uitbetalingsstructuur van Monero block-beloningen zal dagelijks langzaam teruglopen tot en met May 2022, hierna zijn er ongeveer
 18.132 miljoen XMR in omloop met een permanente bodem in de block-beloningen van 0.6 XMR per opgeloste block._
 
-_Dankzij deze “staart emissie” van 0.6 XMR per block zal er rond 2040 een gelijke hoeveelheid Monero in omloop zijn als Bitcoin (ongeveer 21 miljoen munten)_
+_Dankzij deze “staartemissie” van 0.6 XMR per block zal er rond 2040 een gelijke hoeveelheid Monero in omloop zijn als Bitcoin (ongeveer 21 miljoen munten)_
 
 
 ### NIEUWE TOEPASSINGEN IN ONTWIKKELING
 
 Hoewel Monero al beschikbaar is en over de hele wereld in gebruik wordt genomen, hebben de ontwikkelaars achter Monero belangrijke ontwikkelvoorstellen geformuleerd om de privacy, veiligheid en gebruiksvriendelijkheid van Monero en cryptovaluta in het algemeen verder te verbeteren. Enkele van deze ontwikkelingen zijn: 
 
-**Bulletsproofs:** Deze [ontwikkeling](https://getmonero.org/es/2017/12/07/Monero-Compatible-Bulletproofs.html) maakt het opslaan van transacties op de blockchain efficienter en daarmee ook sneller en goedkoper.
+**Bulletproofs:** Deze [ontwikkeling](https://getmonero.org/es/2017/12/07/Monero-Compatible-Bulletproofs.html) maakt het opslaan van transacties op de blockchain efficienter en daarmee ook sneller en goedkoper.
 
 **Kovri:** dit is een van de belangrijkste privacy upgrades die op het moment ontwikkeld wordt, Kovri gaat zorgen voor een extra vierde laag van privacy bij Monero transacties. Kovri gebruikt **[garlic-versleuteling](https://getmonero.org/resources/moneropedia/garlic-encryption.html)** (te vergelijken met een opgevoerde variant van TOR) om de IP addressen van zowel gebruiker als begunstigde te verbergen. Hiermee zal elke laag van een transactie, van de zender en de inhoud van een transactie tot aan de begunstigde van deze, dankzij Monero veilig en compleet privé zijn (door de basis van Kovri).
 
