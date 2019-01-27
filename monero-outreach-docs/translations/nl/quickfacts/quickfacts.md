@@ -74,7 +74,7 @@ Dit betekent dat de samengetrokken klanken van het woord ‘monero’ gelezen ka
 **Het minen is toegankelijk:** iedereen met een apparaat verbonden aan het internet en een web-browser kan meedoen. 
 
 
-### REAL-WORLD IMPLEMENTATIES & GEBRUIK 
+### IMPLEMENTATIES & GEBRUIK IN DE FYSIEKE WERELD
 
 Omdat Monero een veilige, goedkope en limietloze methode is voor het uitvoeren van transacties, kan men ook makkelijk geld transporteren zonder daarbij gebruik te moeten maken van (corrupte of niet-functionerende) banken of overheden. Dit maakt daardoor onder andere economische empowerment in **[landen met authoritaire regimes](https://www.reddit.com/r/Monero/comments/6wczty/how_monero_changed_my_life/)** en/of landen met niet-functionerende economieën mogelijk.
 
