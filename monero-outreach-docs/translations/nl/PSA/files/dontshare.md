@@ -1,6 +1,6 @@
 # Deel nooit je private versleuteling
 
-Zolang je je privé sleutels en je hersteltekst veilig zijn, is je Monero ook veilig. Je private sleutels en je hersteltekst zijn de enige manier waarop je toegang kan krijgen tot je wallet en je je XMR kan uitgeven/versturen. Als je een van deze codes dus deelt, dan heeft degene met wie je dit deelt (en de personen die de (technische) expertise bezitten om dit bij diegene afhandig te maken) net zo makkelijk toegang tot je wallet als dat jij dat hebt.
+Zolang je je privé sleutels en je hersteltekst veilig zijn, is je Monero ook veilig. Je privé sleutels en je hersteltekst zijn de enige manier waarop je toegang kan krijgen tot je wallet en je je XMR kan uitgeven/versturen. Als je een van deze codes dus deelt, dan heeft degene met wie je dit deelt (en de personen die de (technische) expertise bezitten om dit bij diegene afhandig te maken) net zo makkelijk toegang tot je wallet als dat jij dat hebt.
 
 Je kan ook in de veronderstelling zijn dat het een veilig idee is om je privé sleutels ergens apart te bewaren, maar wat denk je dat er gebeurd als een derde partij/vreemdeling dit vind? Dan wordt je op een goede dag wakker en is als je XMR naar een onbekende wallet verstuurd. Dankzij de hoge mate van privacy op het Monero-netwerk is het onmogelijk om te achterhalen naar wie dit verstuurd is en zo je gestolen XMR nog terug te halen. 
 
