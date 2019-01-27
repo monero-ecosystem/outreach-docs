@@ -7,6 +7,7 @@ Monero is een veilige, private en ontraceerbare digitale valuta waar iedereen to
 Gebruikers kunnen veilig transacties verrichten, zonder dat hun balansen kunnen worden ingezien of hun activiteiten gevolgd kunnen worden. 
 
 Gereviseerd op 14/11/2018 - [Printvriendelijke versie](http://www.monerooutreach.org/pubs/2018/QuickFacts/QuickFacts_PrinterFriendly.pdf)
+
 Geschreven voor de Monero gemeenschap door Monero Outreach
 
 * [Volledige versie](http://www.monerooutreach.org/pubs/2018/QuickFacts/QuickFacts.pdf)
