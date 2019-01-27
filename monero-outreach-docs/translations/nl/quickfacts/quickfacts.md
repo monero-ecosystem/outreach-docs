@@ -44,7 +44,7 @@ Monero is _[fungibel](https://getmonero.org/resources/moneropedia/fungibility.ht
 
 Monero is opgericht April 2014. Dit ging door op een eerlijke manier en gelijktijdig met het vrijgeven van de **[CryptoNote](https://cryptonote.org/whitepaper.pdf)** broncodering. Er was bij de lancering geen sprake van een pre-mine of “insta”-mine en ging er ook geen aandeel van de block-beloningen naar de oprichters van Monero. Voor verdere informatie: zie **[hier](https://bitcointalk.org/index.php?topic=563821.0)** de link naar de originele Bitcointalk thread.
 
-Monero heeft, sinds zijn oprichting, verschillende grote verbeteringen ontwikkeld en toegepast. Bijna alle verbeteringen hebben voordelen gebracht in de veiligheid, waarborg van privacy en het gebruik van Monero. Monero blijft zichzelf ook verder ontwikkelen met als veiligheid en privacy als belangrijkste prioriteiten en gebruiksgemak als tweede doelstelling. 
+Monero heeft, sinds zijn oprichting, verschillende grote verbeteringen ontwikkeld en toegepast. Bijna alle verbeteringen hebben voordelen gebracht in de veiligheid, het waarborgen van privacy en het gebruikgemak van Monero. Monero blijft zichzelf ook steeds verder ontwikkelen met veiligheid en privacy als belangrijkste prioriteiten en gebruiksgemak als secundaire doelstelling. 
 
 ### WAT BETEKENT DE NAAM MONERO?
 
