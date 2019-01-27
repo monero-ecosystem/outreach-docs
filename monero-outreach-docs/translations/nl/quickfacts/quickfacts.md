@@ -113,16 +113,16 @@ Hoewel Monero al beschikbaar is en over de hele wereld in gebruik wordt genomen,
 
 ## EXTRA BRONMATERIAAL
 
-+ **_[getmonero.org (Officiele Website)](https://getmonero.org/)_**
++ **_[getmonero.org (Officiele website)](https://getmonero.org/)_**
 + **_[monero.how](https://www.monero.how/)_**
 + **_[reddit.com/r/monero](https://www.reddit.com/r/Monero/)_**
 + **_[Gids voor Monero (post)](https://www.reddit.com/r/CryptoCurrency/comments/7ra409/your_guide_to_monero_and_why_it_has_great/)_**
-+ **_[Monero In-Depth Technische Introductie](https://steemit.com/monero/@sgp/7yjqso-a-monero-introduction-for-beginners)_**
++ **_[Monero in-depth technische introductie](https://steemit.com/monero/@sgp/7yjqso-a-monero-introduction-for-beginners)_**
 + **_[Zero to Monero](https://www.getmonero.org/library/Zero-to-Monero-1-0-0.pdf)_**
 
 + **_[Scams om voor op te passen](https://www.reddit.com/r/Monero/wiki/avoid)_**
 + **_[Monero FAQ](https://ww.getmonero.org/get-started/faq/)_**
-+ **_[Monero SWOT Analyse]()_**
++ **_[Monero SWOT analyse]()_**
 + **_[Connect met de Monero gemeenschap](https://getmonero.org/community/hangouts/)_**
 + **_[Mastering Monero](https://masteringmonero.com/)_**
 
