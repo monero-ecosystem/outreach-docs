@@ -59,8 +59,7 @@ Dit betekent dat de samengetrokken klanken van het woord ‘monero’ gelezen ka
 
 ### BELANGRIJKSTE ONDERSCHEIDENDE KENMERKEN
 
-**Monero gebruikt de CryptoNote codebase:** deze codebase is fundamenteel anders dan de codebases die gebruikt worden voor Bitcoin of Ethereum en de vele 
-leidde cryptovaluta die ontstaan zijn uit deze. CryptoNote staat bekend om haar zeer goede verbeteringen op gebied van privacy. 
+**Monero gebruikt de CryptoNote codebase:** deze codebase is fundamenteel anders dan de codebases die gebruikt worden voor Bitcoin of Ethereum en de vele afgeleidde cryptovaluta die hieruit ontstaan zijn. CryptoNote staat bekend om haar zeer goede verbeteringen op gebied van privacy. 
 
 **Privacy is de standaard; transparantie is opt-in:** Monero’s state-of-the-art cryptografie verduisterd elke laag van informatie ven transactie: informatie over de identiteit die het verstuurd, de identiteit van  de begunstigde en informatie over de transactie zelf. Als een gebruiker van Monero toch transparantie wenst,  dan kunnen zij een view-only wallet maken en delen met anderen, deze wallets maakt alle inputs van de Block transactie van de gebruiker bekend. 
 
