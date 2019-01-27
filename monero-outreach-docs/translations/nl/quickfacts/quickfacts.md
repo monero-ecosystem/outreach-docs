@@ -123,7 +123,7 @@ Hoewel Monero al beschikbaar is en over de hele wereld in gebruik wordt genomen,
 + **_[Scams om voor op te passen](https://www.reddit.com/r/Monero/wiki/avoid)_**
 + **_[Monero FAQ](https://ww.getmonero.org/get-started/faq/)_**
 + **_[Monero SWOT Analyse]()_**
-+ **_[Connect met de Monero Gemeenschap](https://getmonero.org/community/hangouts/)_**
++ **_[Connect met de Monero gemeenschap](https://getmonero.org/community/hangouts/)_**
 + **_[Mastering Monero](https://masteringmonero.com/)_**
 
 **Monero Quick Facts - Gereviseerd op 14/11/2018**    
