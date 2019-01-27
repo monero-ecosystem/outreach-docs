@@ -20,11 +20,11 @@ Geschreven voor de Monero gemeenschap door Monero Outreach
 
 Monero is een _[open-source project](https://github.com/monero-project/monero)_ geleid en _[gefinancierd](https://forum.getmonero.org/8/funding-required)_ door een _[decentraal team](https://getmonero.org/community/team/)_ van ontwikkelaars en leden van de Monero gemeenschap en zorgt hiermee ervoor dat zij niet vanuit een centraal orgaan gecensureerd kan worden. De meeste van de bijdragen aan Monero worden gedaan door vrijwilligers en onze gemeenschap is dan ook verspreid over de hele planeet. 
 
-#### VEILIGHEID
+#### VEILIG
 
 Monero is een gedecentraliseerde cryptovaluta en dit betekent dat het betalingsnetwerk beveiligd wordt door een groot aantal van onze gebruikers over de wereld. Transacties worden bevestigd en uitgevoerd door een gedistribueerd consensus model en daarna, onherroepelijk, opgeslagen op de _[blockchain](https://www.mycryptopedia.com/what-is-blockchain-technology/)_. 
 
-#### OPSCHAALBAARHEID
+#### OPSCHAALBAAR
 
 Monero’s heeft een _[dynamische blockgrootte](https://www.mycryptopedia.com/block-size-explained/)_ en past zich aan op basis van de transactie volume. Dit zorgt ervoor dat transacties sneller uitgevoerd kunnen worden en er lagere vergoedingen voor kunnen worden gevraagd. Een groter transactie volume leidt tot dat er een groter limiet op blockgrootte is en een kleiner transactie volume tot een kleinere limiet op de blockgrootte. _[Bulletproofs](https://web.stanford.edu/~buenz/pubs/bulletproofs.pdf)_ dragen ook bij aan de schaalbaarheid door op significante schaal de transactie groottes en -kosten te verlagen. Hiermee steekt Monero uit ten opzichte van andere cryptovaluta. 
 
@@ -36,7 +36,7 @@ Transacties die opgeslagen worden op de Monero blockchain worden niet gekoppeld 
 
 Monero maakt gebruik van state-of-the-art-cryptografie. Dit doet het door het gebruik van _[ring-handtekeningen](https://getmonero.org/resources/moneropedia/ringsignatures.html)_, _[confidentiele ring-transacties](https://www.mycryptopedia.com/monero-ring-confidential-transactions-ringct/)_ en _[stealth addressen](https://www.mycryptopedia.com/everything-need-know-stealth-addresses/)_. Dankzij deze technologieën worden herkomst, hoeveelheid en begunstigde van elke transactie verborgen.
 
-#### FUNGIBILITEIT
+#### FUNGIBEL
 
 Monero is _[fungibel](https://getmonero.org/resources/moneropedia/fungibility.html)_ doordat zij een hoge standaard voor wat betreft privacy kent. Dankzij deze standaard betekent dit dat elke Monero altijd gelijk is aan de ander. Monero kan niet worden uitgesloten bij verkopers, handelaren of beurzen omwille van de herkomst of gebruiksgeschiedenis van een specifieke Monero-munt.
 
