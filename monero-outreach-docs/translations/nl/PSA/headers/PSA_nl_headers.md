@@ -1,20 +1,20 @@
 ﻿# Headers
 
 - Wallet
-   Mijn Monero zijn veilig opgeborgen
-   En goed verstopt!
-   Closed
+   Mijn Monero zijn veilig 
+   En goed uit het zicht
+   Weggeborgen
 
 - Exchange
    De Monero held stelt:
-   Lieg en bedrieg tegen niemand.
+   Lieg en bedrieg tegen niemand
 
 
 - Learning
-   Er zijn 52 weken per jaar waarin je kan iets kan bijleren.
+   Er zijn 52 weken per jaar waarin je kan iets kan bijleren
 
 
-- Donnt talk
+- Dont talk
    Zwijgen is goud!
 
 
@@ -24,9 +24,9 @@
 
 
 - Dont share
-   Wat vind je ervan als we terug gaan naar mijn huis zodat we met elkaars private sleutels kunnen spelen?
+   Wat vind je ervan als we terug gaan naar mijn huis en met elkaars privé sleutels gaan spelen?
    Je kan altijd blijven dromen, lover boy…
-   ...Je kan altijd blijven dromen.
+   ...Je kan altijd blijven dromen
 
 - Forks
-   XMR forks helpen ons verder.
+   XMR forks helpen ons verder
