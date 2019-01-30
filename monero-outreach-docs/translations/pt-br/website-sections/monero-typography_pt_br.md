@@ -1,53 +1,68 @@
-## Tipografia Monero
+# Tipografia Monero
+
 Monero Outreach | 30/09/18
 Você, e somente você pode impedir disparos tipográficos.
 
-A "Fonte Monero" é uma modificação da Century Gothic lançada pela Monotype em 1991. Ela foi baseada na Futura, projetada por Paul Renner em 1927. Você poderá notar aqui que o E e o R são diferentes, e também que o O foi levemente alterado.
+O logotipo do Monero utiliza uma modificação da Century Gothic. Essa fonte foi lançada pela Monotype em 1991. Ela foi baseada na Futura, projetada por Paul Renner em 1927
 
-### Apresentando: MoneroGothic.otf
+## Apresentando: MoneroGothic
 
-Essa versão resgata as esquisitices do Monero e glifos foram adicionados para dar suporte a XX idiomas e pacotes de fonte para web foram criados. Nós lançamos nossa versão sob a licença Creative Commons, o que significa devemos reconhecer nos créditos que estamos copiando a Monotype, da mesma forma que eles copiaram o Renner que provavelmente roubou de algum Bauhaus _expert_ em cripto.
+O Monero Outreach criou a MoneroGothic para corrigir deficiências, reduzir o tamanho do arquivo, fornecer pilhas @fontface e ampliar o suporte a outros idiomas (25 e inúmeros dialetos). Nossa versão foi lançada sob a licença Creative Commons Share-alike, o que significa que nós precisamos reconhecer que estamos copiando a Monotype, assim como eles copiaram do Renner, que provavelmente roubou de algum Bauhaus _expert_ em cripto. Disponível apenas em negrito, para os corajosos.
 
-Latim Mínimo (W00)
-- Inglês (en)
+*MoneroGothic v3 (12/04/2018)*
 
-Latim 1 (W01)
-- Galês (cy)
-- Dinamarquês (da)
-- Alemão (de)
-- Inglês (en)
-- Espanhol (es)
--
-- Francês (fr)
-- Italiano (it)
-- Holandês (nl)
-- Norueguês (nn)
-- Albanês (sq)
+A versão 3 é uma atualização importante que corrige glifos ausentes ou simplesmente feios. Nós também unimos os dois conjuntos de caracteres latinos (W01 e W02) em um único arquivo, já que foi possível reduzir seu tamanho de forma suficiente para aproveitar essa conveniência com a consciência tranquila.
 
+[MoneroGothic.otf (Desktop)](https://www.monerooutreach.org/fonts/MoneroGothic_v3.zip)
 
-Latim Extendido 1 (W02)
-- Checo (cs)
-- Estoniano (et)
-- Finlandês (fi)
-- Croata (hr)
-- Húngaro (hu)
-- Islandês (is)
-- Lituano (lt)
--
-- Letão (lv)
-- Polonês (pl)
-- Português (pt)
-- Romeno (ro)
-- Eslovaco (sk)
-- Esloveno (sl)
-- Sueco (sv)
-- Turco (tr)
+[MoneroGothic (@fontface)](https://www.monerooutreach.org/fonts/MoneroGothic_v3_web.zip)
 
-Cirílico (W10)
-- Bielorusso (be)
-- Búlgaro (bg)
-- Russo (ru)
-- Ucraniano (uk)
++ Alemão (de)
 
-Grego (W15) 	
-- Grego (el)
++ Albanês (sq)
+
++ Checo (cs)
+
++ Croata (hr)
+
++ Dinamarquês (da)
+
++ Eslovaco (sk)
+
++ Esloveno (sl)
+
++ Espanhol (es)
+
++ Estoniano (et)
+
++ Finlandês (fi)
+
++ Francês (fr)
+
++ Galês (cy)
+
++ Holandês (nl)
+
++ Húngaro (hu)
+
++ Inglês (en)
+
++ Islandês (is)
+
++ Italiano (it)
+
++ Letão (lv)
+
++ Lituano (lt)
+
++ Norueguês (nn)
+
++ Polonês (pl)
+
++ Português (pt)
+
++ Romeno (ro)
+
++ Sueco (sv)
+
++ Turco (tr)
