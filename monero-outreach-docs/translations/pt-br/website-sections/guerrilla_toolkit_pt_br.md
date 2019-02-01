@@ -12,7 +12,7 @@ Estes são os usuários e investidores do Monero que são bem conhecidos em qual
 
 1. Mencione o Monero em uma entrevista. Elabore uma apresentação curta e concisa e pratique-a com antecedência para que sua mensagem chegue a sua audiência. Como no exemplo a seguir: "Comecei a prestar mais atenção na criptomoeda Monero. Ela tem uma excelente reputação pela sua tecnologia de encriptação que a torna completamente fungível e privada para seus usuários. Ela até possui um Laboratório de Pesquisa que vem contribuindo para mundo das criptomoedas e também mantendo o Monero sempre à frente. Seu preço é uma pechincha para os investidores em valor." Seja criativo e faça o que for mais confortável para você.
 2. Apresente o Monero para seu círculo de influência. Expanda ainda mais apresentando-o para pessoas na sua rede que têm círculos de influência ainda maiores. Seja criativo sobre quais pessoas priorizar e como alcançá-las.
-3. Se você trabalha com política, tente focar em políticas e matérias que apoiem privacidade e inovações tecnológicas de criptomoedas fungíveis. Foque na privacidade, um direito humano fundamental que deve ser preservado. Se seus amigos trabalham com política, apresente-os os benefícios do Monero.
+3. Se você trabalha com política, tente focar em políticas e matérias que apoiem privacidade e inovações tecnológicas de criptomoedas fungíveis. Foque na privacidade, um direito humano fundamental que deve ser preservado. Se seus amigos trabalham com política, apresente a eles os benefícios do Monero.
 4. Incorpore o Monero na sua profissão. Se você possui um negócio, adicione transações em Monero como uma opção para seus clientes. Se você for um blogueiro ou jornalista, aceite Monero em seu site, substitua anúncios por mineração em CPU, ou escreva um artigo sobre Monero. O céu é o limite, então seja criativo!
 5. Conhecimento é poder, então se esforce para encontrar oportunidades para compartilhar seu conhecimento sobre Monero com outras pessoas usando qualquer tipo de influência que você venha a exercer em sua profissão.
 
@@ -25,7 +25,7 @@ Estes são os usuários e investidores do Monero que querem ajudar a dar mais de
 3. Crie ou contribua com vídeos, podcasts, sites ou outros conteúdos online.
 4. Ligue para emissoras de rádio e defenda o Monero ao vivo.
 5. Escreva uma coluna ou matéria para o editor do seu jornal local e fale sobre como o Monero pode ser usado para tornar a economia local menos susceptível aos riscos financeiros globais.
-6. Entre em contato com os negócios da sua cidade e informe-os sobre o Monero, usando as ferramentas disponibilidades pelo Monero Outreach. Nós continuaremos a desenvolver e melhorar nosso material, então nos consulte regularmente.
+6. Entre em contato com os negócios da sua cidade e informe-os sobre o Monero, usando as ferramentas disponibilizadas pelo Monero Outreach. Nós continuaremos a desenvolver e melhorar nosso material, então nos consulte regularmente.
 7. Combine ou acrescente essas tácticas da maneira que achar mais confortável para você. Veja os recursos ao final da página.
 
 ## Ativistas
