@@ -4,16 +4,16 @@ Monica Mizzi | 12/09/18 Entrevista com @sunchakr do Monero Talk.
 
 Discussões e debates sobre blockchain são frequentemente focados na análise dos aspectos técnicos da tecnologia revolucionária, mas **existe um tópico não técnico que nunca deixa de chamar a atenção: mulheres em blockchain.**
 
-É um tópico que atrai tanto elogios quanto zombarias igualmente de mulheres e homens. Embora seja difícil negar o desequilíbrio entre os sexos na indústria, o que [não carece de estatísticas] (https://cointelegraph.com/news/women-in-blockchain-and-crypto-how-to-tackle-gender-inequality) que destaquem o menor número de mulheres investindo e trabalhando na indústria, as opiniões das pessoas sobre o assunto ainda são muito diferentes.
+É um tópico que atrai tanto elogios quanto zombarias igualmente de mulheres e homens. Embora seja difícil negar o desequilíbrio entre os sexos na indústria, o que [não carece de estatísticas](https://cointelegraph.com/news/women-in-blockchain-and-crypto-how-to-tackle-gender-inequality) que destaquem o menor número de mulheres investindo e trabalhando na indústria, as opiniões das pessoas sobre o assunto ainda são muito diferentes.
 
 De um lado, estão aqueles que acreditam que abordar diretamente a disparidade de gênero no blockchain - e na indústria de tecnologia em geral - são essenciais para ajudar a promover o status e os níveis de participação das mulheres na indústria. Do outro lado, estão aqueles que não acreditam que exista um problema de representação.
 
 **"Há muito o que fazer e há tanta coisa que você pode fazer."**
-[@sunchakr] (https://twitter.com/sunchakr)
+[@sunchakr](https://twitter.com/sunchakr)
 
 E em algum lugar no meio desse abismo estão aqueles que reconhecem a necessidade de as mulheres serem melhor representadas e apoiadas, mas acreditam que destacar as estatísticas, como as mencionadas, enfatiza demasiadamente na negatividade. Eles argumentam que, embora essa abordagem seja bem intencionada, ela, ironicamente, colabora com o problema. Eles alegam que quanto mais mulheres ouvem sobre os problemas que as mulheres enfrentam na indústria, mais elas serão impedidas de entrar e permanecer nela. Desta forma, este grupo defende expor as conquistas das mulheres na indústria e focar no progresso que está sendo feito todos os dias.
 
-Digite [@sunchakr] (https://twitter.com/sunchakr), uma engenheira nova-iorquina pioneira envolvida no projeto Monero e cujo interesse e envolvimento no blockchain vem desde 2015. Aqui ela fala com Monica Mizzi sobre sua experiência na indústria – tudo, desde seu primeiro contato com o mundo do blockchain, passando pelas suas considerações sobre fazer parte da comunidade Monero, até o seu comprometimento com o tópico “mulheres no blockchain”.
+Digite [@sunchakr](https://twitter.com/sunchakr), uma engenheira nova-iorquina pioneira envolvida no projeto Monero e cujo interesse e envolvimento no blockchain vem desde 2015. Aqui ela fala com Monica Mizzi sobre sua experiência na indústria – tudo, desde seu primeiro contato com o mundo do blockchain, passando pelas suas considerações sobre fazer parte da comunidade Monero, até o seu comprometimento com o tópico “mulheres no blockchain”.
 
 **Oi @sunchakr! Muito obrigada por concordar em responder algumas perguntas sobre sua experiência no espaço blockchain e criptomoedas. Vamos começar! Como você se envolveu nessa indústria? O que atraiu você?**
 
@@ -25,11 +25,11 @@ A maioria de nós não percebe que não temos controle das nossas vidas diárias
 
 **Você esteve envolvida no projeto Monero por um bom tempo. Você pode compartilhar alguns detalhes sobre o seu envolvimento,  quando e como começou e o que faz?**
 
-Eu comecei a entrar no Monero no final de 2016. Eu conheci muitas moedas alternativas e percebi que Monero não era como as outras. Comecei a trabalhar em projetos relacionados ao Monero no início deste ano, iniciando o primeiro Monero Meetup em Nova York. Na época, nós só víamos encontros de blockchain ou bitcoin então um grupo de nós - incluindo [@chowbungaman] (https://twitter.com/chowbungaman) e [Vik Sharma] (https://www.youtube.com/watch ? v = joAZQXp69Kw), fundador do [Cake Wallet] (https://cakewallet.io/), a primeiro primeira Carteira Monero para iOS - decidiu iniciar um Monero Enthusiast Meetup. Tivemos uma participação maravilhosa e nosso grupo continua a prosperar.
+Eu comecei a entrar no Monero no final de 2016. Eu conheci muitas moedas alternativas e percebi que Monero não era como as outras. Comecei a trabalhar em projetos relacionados ao Monero no início deste ano, iniciando o primeiro Monero Meetup em Nova York. Na época, nós só víamos encontros de blockchain ou bitcoin então um grupo de nós - incluindo [@chowbungaman] (https://twitter.com/chowbungaman) e [Vik Sharma](https://www.youtube.com/watch ? v = joAZQXp69Kw), fundador do [Cake Wallet] (https://cakewallet.io/), a primeiro primeira Carteira Monero para iOS - decidiu iniciar um Monero Enthusiast Meetup. Tivemos uma participação maravilhosa e nosso grupo continua a prosperar.
 
 Devido ao seu grande sucesso, planejamos iniciar um em Filadélfia. Também estive envolvida no desenvolvimento e planejamento do After Party do Consenso Monero Speakeasy de Nova York em maio de 2018, junto com @chowbungaman e Vik. Este evento foi uma ótima maneira de incentivar a comunidade a usar o Monero como forma de pagamento e acabou sendo um grande sucesso.
 
-Mais recentemente, estive envolvida nos bastidores como gerente / coordenadora de operações em um programa do YouTube chamado “[Monero Talk w / @chowbungaman] (https://www.youtube.com/channel/UC3Hx81QYLoEQkm3vyl4N4eQ)”. É um programa sobre todas as coisas relacionadas ao Monero. Queremos preencher a lacuna sobre informações envolvendo o Monero.
+Mais recentemente, estive envolvida nos bastidores como gerente / coordenadora de operações em um programa do YouTube chamado “[Monero Talk w / @chowbungaman](https://www.youtube.com/channel/UC3Hx81QYLoEQkm3vyl4N4eQ)”. É um programa sobre todas as coisas relacionadas ao Monero. Queremos preencher a lacuna sobre informações envolvendo o Monero.
 
 Como atualmente tudo é mais voltado ao Bitcoin, decidimos criar este canal para pessoas que estão interessadas no Monero e até agora ele está indo muito bem. Tivemos grandes visitantes e nos disseram que ele é muito informativo. Estamos tentando expor  todas as informações relacionadas ao Monero, um episódio de cada vez.
 
@@ -57,7 +57,7 @@ Eu só posso falar por mim mesma, mas sinto que os homens com quem tenho me comu
 
 Se você estiver interessado e quiser desempenhar um papel no espaço Cripto de alguma forma, vá em frente. É dessa forma que você supera as barreiras, fazendo parte dele e focando no principal: em como você pode fazer a diferença e ajudar a melhorar seu projeto de interesse.
 
-**Algumas mulheres, como [Amber Baldet e Elizabeth Stark] (https://qz.com/1262167/the-first-rule-of-being-a-woman-in-crypto-is-you-do-not -Talk-about-being-a-woman-in-crypto /), estão relutantes em usar o rótulo de “mulheres no blockchain” e evitam realçar a disparidade de gênero. Elas argumentam que é contra-intuitivo para seus esforços serem reconhecidos por suas contribuições, ao invés de primariamente por seu gênero. Além disso, argumentam que o foco na disparidade de gênero dissuadirá a participação de mais mulheres e, na verdade, a maneira mais eficaz de aumentar o número de mulheres nessaa indústria é chamar a atenção para as mulheres que estão obtendo sucesso. Qual é a sua opinião sobre isso?**
+**Algumas mulheres, como [Amber Baldet e Elizabeth Stark](https://qz.com/1262167/the-first-rule-of-being-a-woman-in-crypto-is-you-do-not -Talk-about-being-a-woman-in-crypto /), estão relutantes em usar o rótulo de “mulheres no blockchain” e evitam realçar a disparidade de gênero. Elas argumentam que é contra-intuitivo para seus esforços serem reconhecidos por suas contribuições, ao invés de primariamente por seu gênero. Além disso, argumentam que o foco na disparidade de gênero dissuadirá a participação de mais mulheres e, na verdade, a maneira mais eficaz de aumentar o número de mulheres nessaa indústria é chamar a atenção para as mulheres que estão obtendo sucesso. Qual é a sua opinião sobre isso?**
 
 Eu concordo completamente com elas. Precisamos nos concentrar e escrever sobre as conquistas das mulheres, em vez de escolher as diferenças entre os gêneros. Neste espaço, sinto que você é reconhecido pelo que você contribui. É sobre avançar com um objetivo em mente e isso é descentralização, não importa em qual projeto você se identifca mais.
 
@@ -75,4 +75,4 @@ Vá em frente! A quantidade de informação pode ser extremamente assustadora, m
 
 Há muito o que fazer e há tanta coisa que você pode fazer. Nunca subestime o seu valor e o que você pode contribuir. Há muitos vídeos, artigos, blogs, posts no reddit e pessoas que você pode conversar para ajudá-lo a entender melhor. Então vá em frente!
 
-_Você é uma mulher que gostaria de ser entrevistada sobre suas experiências no espaço blockchain e criptomoedas? Adoraríamos ouvir sua história! Por favor, envie um e-mail para [monicammizzi@gmail.com] (mailto: monicammizzi@gmail.com) para que vocÊ seja ouvida._
+_Você é uma mulher que gostaria de ser entrevistada sobre suas experiências no espaço blockchain e criptomoedas? Adoraríamos ouvir sua história! Por favor, envie um e-mail para [monicammizzi@gmail.com](mailto: monicammizzi@gmail.com) para que vocÊ seja ouvida._
