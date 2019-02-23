@@ -3,6 +3,7 @@
 - Wallet
    ieders plicht:
    monero uit het zicht
+   gesloten
 
 
 - Exchange
@@ -11,22 +12,21 @@
 
 
 - Learning
-   52 leerweken in een jaar
+   er zijn 52 leer- weken in een jaar
 
 
-- Don't talk
+- Dont talk
    zwijgen is goud
 
 
 - Teamwork
-   dat Monero team!
-   nog nooit gezien
+   Monero Teamwork
+   van start tot finish!
 
 
-- Don't share
-   mijn privésleutel met je delen?
+- Dont share
+   zou u uw privésleutel kunnen delen?
    maar mijnheer, dat heet stelen
 
-
 - Forks 
-   vooruit met de vork
+   XMR: vooruit met de vork
