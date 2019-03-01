@@ -6,7 +6,7 @@ Monero 是安全、保護隱私且完全匿蹤人人皆可使用的加密貨幣�
 
 使用者可以安全地支付，沒有人能夠窺探他們的帳戶餘額或是追蹤其帳戶活動，除非是使用者自願提供權限。
 
-修訂於 2/1/2019 - [友善列印版本](http://www.monerooutreach.org/pubs/2018/QuickFacts/QuickFacts_PrinterFriendly.pdf)
+修訂於 2019/2/1 - [友善列印版本](http://www.monerooutreach.org/pubs/2018/QuickFacts/QuickFacts_PrinterFriendly.pdf)
 由Monero Outreach 團隊製作，提供 Monero 社群使用
 
 * [Full Color Version](http://www.monerooutreach.org/pubs/2018/QuickFacts/QuickFacts.pdf)
@@ -79,7 +79,7 @@ Monero 一詞是取自世界語(Esperanto)。之所以選擇使用世界語是�
 
 ### 技術性基本資料
 
-_(資料截至 2/1/2019)_
+_(資料截至 2019/2/1)_
 
 + **活耀節點數量：** 1,564 (來源:https://monerohash.com/nodes-distribution.html)
 
@@ -137,7 +137,7 @@ _Monero 的區塊獎勵會緩慢下降直到 2022 年五月，屆時將有 一�
 
 + **_[Satis Group Report](https://research.bloomberg.com/pub/res/d37g1Q1hEhBkiRCu_ruMdMsbc0A)_**
 
-**Monero Quick Facts - - 修訂於 2/1/2019**
+**Monero Quick Facts - - 修訂於 2019/2/1**
 
 **由Monero Outreach 團隊製作提供 Monero 社群使用**
 
