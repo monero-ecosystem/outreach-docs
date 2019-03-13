@@ -52,7 +52,9 @@ Monero 專案在 2014 年四月開始發行。是一次公平並預先公開的�
 Monero 一詞是取自世界語(Esperanto)。之所以選擇使用世界語是因為它是一個去中心化的語言，並代表著打破世界上人與人的藩籬。在世界語中，Monero 一詞是由三個部分所組成的一個單字： mon + er + o 。每個部分都有其意義。
 
 **mon-:** 金錢
+
 **-er-:** 最小單位
+
 **-o :** 一個事物 (代表一個名詞)
 
 這說明了 monero 一詞代表著: 一個代表最小單位的金錢，或是錢幣。
@@ -91,7 +93,7 @@ _(資料截至 2019/2/1)_
 
 + **貨幣流通量：** 16,758.217 XMR (估計值)
 
-+ **貨幣市值：** $743,944,945 USD (約佔0.77%加密貨幣總市值)
++ **貨幣市值：** $732,932,071 USD (約佔0.65%加密貨幣總市值)
 
 + **目前區塊獎勵：** 3.22 XMR
 
@@ -107,7 +109,7 @@ _Monero 的區塊獎勵會緩慢下降直到 2022 年五月，屆時將有 一�
 
 **Kovri：** 這會是一個隱私保護功能的升級，為 Monero 交易加上第四層保護。 Kovri 使用 **[garlic-encryption](https://getmonero.org/resources/moneropedia/garlic-encryption.html)** (就像是 Tor on steroids) 用來遮蔽發送者與接收者在網路上的 IP 位址。如此一來，在 Monero 上的交易每一層面包括發送者、接收者、交易金額和交易本身(使用 Kovri)將都會得更有隱私且更加安全。
 
-**硬體錢包：** 熱門的 Ledger 和 Trezor 硬體錢包都正在加入 Monero（Ledger 已可以在 Monero 官方的 GUI v0.12.3 和 CLI v0.12.2 錢包中使用），而另外 Monero社群更成功募資支持了一個團隊以 **[打造 Kastelo 開源硬體錢包](http://kastelo.org/)** ，系統將基於 Monero ethos 上開發。這些硬體錢包都完全支援 Monero 的交易。
+**硬體錢包：** 熱門的 Ledger 和 Trezor 硬體錢包都正在加入 Monero（Ledger 已可以在 Monero 官方的 GUI v0.12.3 和 CLI v0.12.2 錢包中使用），而另外 Monero社群更成功募資支持了一個團隊以 **[打造 Kastelo 開源硬體錢包](http://kastelo.org/)** ，系統將基於 Monero ethos 上開發。Ledger 和 Trezor 硬體錢包預期在2018年末都可以開始正常運作。
 
 **Kasisto：** 這是 **[銷售點終端(POS)的方案](https://github.com/amiuhle/kasisto)** ，設計用來讓商業行號可以更輕鬆的接受 Monero 支付。
 
