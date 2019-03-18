@@ -1,18 +1,18 @@
 # Conheça a segurança da sua corretora
 
-Corretoras podem ser uma maneira conveniente de vender e comprar Monero, mas nem todas elas foram criadas da mesma forma.
+As corretoras podem ser uma maneira conveniente de vender e comprar Monero, mas nem todas elas foram criadas da mesma forma.
 
-### Aqui estão algumas dicas para você ter em mente quando se trata de guardar seus XMR de forma segura nas corretoras.
+### Confira a seguir algumas dicas para você guardar seus XMR com segurança em corretoras.
 
-1. Faça a sua própria pesquisa antes de abrir uma conta em qualquer corretora. Tente responder essas perguntas:
+1. Sempre faça a sua própria pesquisa antes de abrir uma conta em qualquer corretora. Tente responder as seguintes perguntas:
 
 - a. Existem avaliações positivas de outras pessoas que a utilizam? Essas avaliações são confiáveis?
 
-- b. Essa corretora já foi atacada? O combate ao ataque foi apropriado?
+- b. Essa corretora já sofreu um ataque hacker? As medidas para combater o ataque foram apropriadas?
 
-- c. A quanto tempo a corretora está operando?
+- c. Há quanto tempo a corretora está em operação?
 
-- d. Os criadores/administradores são conhecidos ou são indivíduos ou entidades com boa reputação?
+- d. Os seus fundadores e/ou administradores são conhecidos na comunidade? Eles são indivíduos ou entidades com boa reputação?
 
 - e. É possível manter sua privacidade, não fornecendo nenhuma informação pessoal?
 
@@ -20,7 +20,7 @@ Corretoras podem ser uma maneira conveniente de vender e comprar Monero, mas nem
 
 - g. Se você planeja declarar impostos, a corretora permite que você faça o download de comprovantes de transações de compra e venda?
 
-2. As corretoras criam carteiras próprias delas para você. Você dificilmente terá acesso a semente mnemônica da carteira da corretora. Se a corretora for atacada ou tentar dar um golpe, você poderá perder todos os XMR que estão na carteira da corretora. Uma boa prática é apenas guardar XMR em corretoras se você planeja utilizá-los em breve. Caso contrário, transfira para uma carteira da qual você tenha controle.
+2. As corretoras criam carteiras de Monero para você. Porém, você dificilmente terá acesso a semente mnemônica da carteira da corretora, não tendo controle total sobre seus fundos. Se a corretora sofrer um ataque hacker ou tentar dar um golpe, você poderá perder todos os XMR que estão na carteira da corretora. Uma boa prática é apenas guardar em corretoras apenas os XMR que você planeja usar em breve. Caso contrário, transfira para uma carteira da qual você tenha total controle.
 
 3. Se você quiser trocar uma quantidade significativa de XMR por meio de uma corretora, considere fazer um teste primeiro, com uma transação de valor mais baixo. Esse valor deve ser baixo o suficiente para que você não se sinta mal caso venha a perdê-lo.
 
