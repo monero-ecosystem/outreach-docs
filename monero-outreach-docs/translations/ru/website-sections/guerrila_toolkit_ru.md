@@ -40,7 +40,7 @@ Monero Outreach | 09/22/18 Простые способы вовлечения.
 
 ## Для дизайнеров
 
-1. [Monero Press Kit](https://www.getmonero.org/press-kit/) - здесь можно загрузить логотип Monero.
+1. [Monero Press Kit](https://www.getmonero.org/ru/press-kit/) - здесь можно загрузить логотип Monero.
 2. [Monero Typography](https://www.monerooutreach.org/monero-typography.php) - здесь вы найдёте шрифты Monero.
 3. Цвета Monero.
 4. Генерация идей.

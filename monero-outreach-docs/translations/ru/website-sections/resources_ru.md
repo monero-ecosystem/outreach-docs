@@ -6,7 +6,7 @@
 
 ### С ЧЕГО НАЧАТЬ
 
-- [getmonero.org/downloads](https://ww.getmonero.org/downloads/)
+- [getmonero.org/downloads](https://ww.getmonero.org/ru/downloads/)
 Ффициальные, открытые GUI и CLI кошельки для операционных систем Windows, Linux и Mac.
 
 - [monerujo.io](https://www.monerujo.io/)
