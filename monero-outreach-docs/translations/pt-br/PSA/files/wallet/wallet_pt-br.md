@@ -8,7 +8,7 @@ As carteiras "hard", como as populares Ledger e Trezor podem ser vistas como uma
 
 ### Aqui vão algumas boas práticas gerais para se ter conhecimento quanto à segurança das carteiras:
 
-1. Para evitar golpes que eventualmente roubem seus XMR, somente use carteiras aprovadas pela comunidade Monero. Um bom ponto de partida é a seção de informações do r/monero que pode ser acessada aqui: https://www.reddit.com/r/Monero/.
+1. Para evitar alguns golpes que tentam roubar seus XMR, somente use carteiras aprovadas pela comunidade Monero. Um bom ponto de partida é a seção de informações do r/monero que pode ser acessada aqui: https://www.reddit.com/r/Monero/.
 
 2. Se estiver configurando uma carteira fria (por exemplo uma carteira "em papel") para guardar a longo prazo, faça sua pesquisa e siga um dos tutoriais online que têm os comentários e as avaliações mais positivas. Como nestes links do Reddit:
 
@@ -20,6 +20,6 @@ r/Monero/comments/48cgmd/an_extensive_guide_for_securely_generating_an
 
 3. Considere manter uma carteira fria para os XMR que você pretende guardar por um longo tempo e uma carteira quente para os XMR que você pretende gastar ou negociar com maior frequência. Dica: Carteira fria = conta poupança, Carteira quente = conta corrente.
 
-4. Visite fóruns online para aprender as diferentes maneiras que as pessoas usam para manter suas chaves privadas ou sementes mnemônicas protegidas e seguras, depois escolha a opção que melhor funcione para você. Comece aqui: https://getmonero.org/community/hangouts/. Ter alguma estratégia é melhor do que não ter nenhuma. Já percebeu que pesquisar e se informar é algo importante?
+4. Visite fóruns online para aprender as diferentes maneiras que as pessoas usam para manter suas chaves privadas ou sementes mnemônicas protegidas e seguras, depois escolha a opção que melhor funcione para você. Comece aqui: https://www.getmonero.org/pt-br/community/hangouts/. Ter alguma estratégia é melhor do que não ter nenhuma. Já percebeu que pesquisar e se informar é algo importante?
 
-5. Siga outras boas práticas como a de nunca compartilhar suas chaves privadas, usar somente corretoras com boa reputação, manter suas carteiras atualizadas após cada atualização da rede, não falar sobre quantos XMR você tem e sempre buscar por mais conhecimento!
+5. Siga outras boas práticas como a de nunca compartilhar suas chaves privadas, usar somente corretoras com boa reputação, manter suas carteiras atualizadas após cada atualização da rede, não falar sobre quantos XMR você tem e sempre buscar mais conhecimento!
