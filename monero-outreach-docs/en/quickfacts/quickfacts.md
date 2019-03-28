@@ -82,7 +82,7 @@ Private financial history protects consumers and companies from price manipulati
 
 ### TECHNICAL FUNDAMENTALS
 
-_(As of  2/1/2019)_
+_(As of 2/1/2019)_
 + **Amount of Active Nodes:** 1,564 (Source: https://monerohash.com/nodes-distribution.html)
 + **Network Hash Rate:** 663.2 MH/s
 + **Average Transactions/Hour:** 149 (30-day average)
@@ -119,7 +119,7 @@ Although Monero is already available and being used across the globe, the commun
 + **_[Scams to Avoid](https://www.reddit.com/r/Monero/wiki/avoid)_**
 + **_[Monero FAQ](https://ww.getmonero.org/get-started/faq/)_**
 + **_[Connect w/ Monero Community](https://getmonero.org/community/hangouts/)_**
-+ **_[Mastering Monero - (coming soon)](https://masteringmonero.com/)_**
++ **_[Mastering Monero](https://masteringmonero.com/)_**
 + **_[Satis Group Report](https://research.bloomberg.com/pub/res/d37g1Q1hEhBkiRCu_ruMdMsbc0A)_**
 
 **Monero Quick Facts - Revised 2/1/2019** 
