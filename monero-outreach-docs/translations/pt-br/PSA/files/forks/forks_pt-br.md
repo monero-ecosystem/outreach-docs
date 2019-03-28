@@ -4,7 +4,7 @@ A não ser que você seja desenvolvedor, o termo "hard fork" pode causar muita c
 
 ### 1) Atualização da rede / Hard fork regularmente programado
 
-Os desenvolvedores do Monero têm por objetivo realizar regularmente dois hard forks por ano. Esses hard forks são sempre feitos com o consenso da comunidade e liderado pelos Desenvolvedores Core. Eles geralmente incluem diversas melhorias no código principal do Monero. É necessário que você, como usuário Monero, atualize suas carteiras sempre que isso ocorrer. E não é responsabilidade de ninguém, a não ser de você mesmo, de fazê-lo. Ninguém disse que seria fácil ser um pioneiro da tecnologia, mas se for reparar bem, não é tão difícil também.
+Os desenvolvedores do Monero têm por objetivo realizar regularmente dois hard forks por ano. Esses hard forks são sempre feitos com o consenso da comunidade e liderados pelos Desenvolvedores Core. Eles geralmente incluem diversas melhorias no código principal do Monero. É necessário que você, como usuário Monero, atualize suas carteiras sempre que isso ocorrer. E não é responsabilidade de ninguém, a não ser de você mesmo, de fazê-lo. Ninguém disse que seria fácil ser um pioneiro da tecnologia, mas se for reparar bem, não é tão difícil também.
 
 Outros projetos se aproveitaram dos hard forks regularmente programados do Monero e criaram seus próprios projetos sobre as cadeias (_chains_) anteriores do Monero. Esses projetos costumam fracassar rapidamente, levando consigo a ganância dos seus criadores. Se você não atualizar sua carteira Monero após um desses hard forks e transferir seus XMR, você pode acabar perdendo-os em uma _chain_ diferente ou gastar um tempo considerável tentando recuperá-los.
 
