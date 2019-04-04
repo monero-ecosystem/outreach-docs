@@ -18,7 +18,7 @@
 
 #### 核心原则
 
-作为个_[开源性的项目, 门罗币](https://github.com/monero-project/monero)_是一群 _[去中心化](https://forum.getmonero.org/8/funding-required)_的 _[开发者和社区成员开发的](https://getmonero.org/community/team/)_，它具有不可篡改性。大多数贡献者是志愿者，参与者遍布全球。
+作为个_[开源性的项目, 门罗币](https://github.com/monero-project/monero)_是一群 _[去中心化](https://ccs.getmonero.org/funding-required/)_的 _[开发者和社区成员开发的](https://getmonero.org/community/team/)_，它具有不可篡改性。大多数贡献者是志愿者，参与者遍布全球。
 
 #### 安全
 

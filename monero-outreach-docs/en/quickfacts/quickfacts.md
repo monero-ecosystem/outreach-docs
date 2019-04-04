@@ -18,7 +18,7 @@ Created for the community by Monero Outreach
 
 #### DECENTRALIZATION
 
-As an _[open-source project](https://github.com/monero-project/monero)_ led and _[funded](https://forum.getmonero.org/8/funding-required)_ by a _[decentralized team](https://getmonero.org/community/team/)_ of developers and community members, it cannot be censored. Most contributors are volunteers and the community is spread all over the globe.
+As an _[open-source project](https://github.com/monero-project/monero)_ led and _[funded](https://ccs.getmonero.org/funding-required/)_ by a _[decentralized team](https://getmonero.org/community/team/)_ of developers and community members, it cannot be censored. Most contributors are volunteers and the community is spread all over the globe.
 
 #### SECURITY
 

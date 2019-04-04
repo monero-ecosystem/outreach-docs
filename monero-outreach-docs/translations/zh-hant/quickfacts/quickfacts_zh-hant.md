@@ -18,7 +18,7 @@ Monero 是安全、保護隱私且完全匿蹤人人皆可使用的加密貨幣�
 
 #### 去中心化
 
-這個 _[開源專案](https://github.com/monero-project/monero)_ 是由一個 _[去中心化團隊](https://forum.getmonero.org/8/funding-required)_ 所 _[創立](https://getmonero.org/community/team/)_ 與帶領的。這團隊由一群開發者與社群成員所組成，因此無法對其進行政治審查，絕大多數的開發者都是自發性的貢獻，開發社群成員遍布全球各地。
+這個 _[開源專案](https://github.com/monero-project/monero)_ 是由一個 _[去中心化團隊](https://ccs.getmonero.org/funding-required/)_ 所 _[創立](https://getmonero.org/community/team/)_ 與帶領的。這團隊由一群開發者與社群成員所組成，因此無法對其進行政治審查，絕大多數的開發者都是自發性的貢獻，開發社群成員遍布全球各地。
 
 #### 安全性
 
