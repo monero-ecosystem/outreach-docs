@@ -30,8 +30,7 @@ Contrairement à Bitcoin ou à d'autres projets qui s'appuient sur des constante
 
 #### CONFIDENTIALITÉ
 
-Monero utilise une cryptographie sophistiquée avec les _[signatures de cercle](https://getmonero.org/fr/resources/moneropedia/ringsignatures.html)_, les _[transactions confidentielles de cercle](https://getmonero.org/fr/resources/moneropedia/ringCT.html)_, et les _[adresses furtives](https://getmonero.org/fr/resources/moneropedia/stealthaddress.html)_ pour masquer les origines, les montants et les destinations de toutes les transactions. Les utilisateurs
-peuvent décider précisément quelles informations ils révèlent et à qui.
+Monero utilise une cryptographie sophistiquée avec les _[signatures de cercle](https://getmonero.org/fr/resources/moneropedia/ringsignatures.html)_, les _[transactions confidentielles de cercle](https://getmonero.org/fr/resources/moneropedia/ringCT.html)_, et les _[adresses furtives](https://getmonero.org/fr/resources/moneropedia/stealthaddress.html)_ pour masquer les origines, les montants et les destinations de toutes les transactions. Les utilisateurs peuvent décider précisément quelles informations ils révèlent et à qui.
 
 #### RÉSISTANCE À LA CENSURE
 
@@ -70,7 +69,7 @@ Cela signifie que l'on peut analyser la signification de « Monero » comme « u
 
 **Laboratoire de Recherche Monero :** Monero n'est pas uniquement voué à créer une cryptomonnaie fongible, mais aussi à continuer la recherche dans le domaine de la confidentialité financière dans la mesure où cela fait appel aux cryptomonnaies d'une manière générale. Dans ce but, des chercheurs universitaires dans les domaines des mathématiques, physique, sécurité et calculs de chaîne de blocs ont publiés des **[articles de recherche](https://lab.getmonero.org/)** et travaillent sur bien d'autres **[objectifs](https://getmonero.org/fr/design-goals/)**.
 
-**Extraction minière accessible :** chacun peut participer avec un équipement connecté ou un navigateur Internet.
+**Extraction minière accessible :** Chacun peut participer avec un équipement connecté ou un navigateur Internet.
 
 ### IMPLICATIONS ET USAGES DU MONDE RÉEL
 
@@ -86,13 +85,13 @@ _(Au 01/02/2019)_
 + **Transactions moyennes/heure :** 149 (moyenne sur 30 jours)
 + **Cœurs CPU sécurisant le réseau :** 22 234 297
 + **Monero en circulation :** 16 758 217 XMR (Approximativement)
-+ **Capitalisation de marché :** $743 944 945 USD (~0.65% de la capitalisation de marché totale des cryptomonnaies)
++ **Capitalisation de marché :** $732 932 071 USD (~0.65% de la capitalisation de marché totale des cryptomonnaies)
 + **Récompense de bloc actuelle :** 3.22 XMR
 + **Interval de bloc moyen :** 2 Minutes
 
 _Le tarifde la récompense va constamment diminuer jusqu'à fin mai 2022, quand il y aura 18,132 million de XMR en circulation, à ce moment-là, une récompense de bloc de 0,6 XMR demeurera indéfiniment._
 
-_Avec « l'émission résiduelle » de 0,6 XMR/bloc, d'ici 2040 il y aura un nombreéquivalent de Monero que de Bitcoin (environ 21 million)_
+_Avec « l'émission résiduelle » de 0,6 XMR/bloc, d'ici 2040 il y aura un nombre équivalent de Monero que de Bitcoin (environ 21 million)_
 
 ### FONCTIONNALITÉS EN DÉVELOPPEMENT
 
@@ -100,7 +99,7 @@ Bien que Monero soit déjà disponible et utilisé à travers le globe, la commu
 
 **Kovri :** C'est une amélioration majeure de la confidentialité, qui ajoute un quatrième niveau de confidentialité aux transactions Monero. Kovri utilise du **[chiffrement en ail](https://getmonero.org/fr/resources/moneropedia/garlic-encryption.html)** (pensez à Tor sous stéroïdes) pour masquer l'adresse IP des émetteurs et destinataires utilisant le réseau. Chaque couche d'une transaction Monero, l'émetteur, le destinataire, le montant de la transaction et (avec Kovri) la charpente de la transaction elle-même seront tous privés et confidentiels.
 
-**Portefeuille matériel :** Le populaires portefeuilles matériels Ledger et Trezor travaillent à l'ajout de Monero. (Ledger est supporté depuis la CLI 0.12.2 et la GUI 0.12.3). La communauté Monero finance une équipe qui **[construit un portefeuille matériel](http://kastelo.org/)** développé sur l'ethos de Monero. Ces deux options de portefeuilles matériels devraient être opérationnelles d'ici la fin 2019.
+**Portefeuille matériel :** Le populaires portefeuilles matériels Ledger et Trezor travaillent à l'ajout de Monero. (Ledger est supporté depuis la CLI 0.12.2 et la GUI 0.12.3). La communauté Monero finance une équipe qui **[construit un portefeuille matériel](http://kastelo.org/)** développé sur l'ethos de Monero. Ces deux options de portefeuilles, Ledger and Trezor, matériels devraient être opérationnelles d'ici la fin 2018.
 
 **Kasisto :** Cette **[solution de point de vente](https://github.com/amiuhle/kasisto)** est conçue pour faciliter les ventes pour les commerçants et les professionnels.
 
@@ -117,7 +116,7 @@ Bien que Monero soit déjà disponible et utilisé à travers le globe, la commu
 + **_[Fraudes à éviter](https://www.reddit.com/r/Monero/wiki/avoid)_**
 + **_[FAQ Monero](https://www.getmonero.org/fr/get-started/faq/)_**
 + **_[Se connecter à la communautéde Monero](https://getmonero.org/fr/community/hangouts/)_**
-+ **_[Mastering Monero - (à venir)](https://masteringmonero.com/)_**
++ **_[Mastering Monero](https://masteringmonero.com/)_**
 + **_[Rapport de Satis Group](https://research.bloomberg.com/pub/res/d37g1Q1hEhBkiRCu_ruMdMsbc0A)_**
 
 **Monero Quelques Faits - Revisé le 01/02/2019**  
