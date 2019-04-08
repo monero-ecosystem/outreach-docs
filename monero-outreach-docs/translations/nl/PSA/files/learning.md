@@ -7,13 +7,13 @@ Door meer te leren over de functies, code, het onderliggend open-bron- en cypher
 
 ### De toekomst begint bij jezelf, hier volgt leesmateriaal om meer over Monero te leren:
 
-**_[getmonero.org (Officiele Website))](https://getmonero.org/)_**
-**_[monero.how](https://www.monero.how/)_**
-**_[reddit.com/r/monero](https://www.reddit.com/r/Monero/)_**
-**_[Gids voor Monero (post)](https://www.reddit.com/r/CryptoCurrency/comments/7ra409/your_guide_to_monero_and_why_it_has_great/)_**
-**_[diepgaande technische introductie tot Monero](https://steemit.com/monero/@sgp/7yjqso-a-monero-introduction-for-beginners)_**
-**_[Zero to Monero](https://www.getmonero.org/library/Zero-to-Monero-1-0-0.pdf)_**
-**_[Vermijd deze oplichters](https://www.reddit.com/r/Monero/wiki/avoid)_**
-**_[Monero FAQ](https://ww.getmonero.org/get-started/faq/)_**
-**_[de Monero Gemeenschap](https://getmonero.org/community/hangouts/)_**
-**_[Mastering Monero](https://masteringmonero.com/)_**
++ **_[getmonero.org (Officiële Website)](https://getmonero.org/)_**
++ **_[monero.how](https://www.monero.how/)_**
++ **_[reddit.com/r/monero](https://www.reddit.com/r/Monero/)_**
++ **_[Gids voor Monero (post)](https://www.reddit.com/r/CryptoCurrency/comments/7ra409/your_guide_to_monero_and_why_it_has_great/)_**
++ **_[diepgaande technische introductie tot Monero](https://steemit.com/monero/@sgp/7yjqso-a-monero-introduction-for-beginners)_**
++ **_[Zero to Monero](https://www.getmonero.org/library/Zero-to-Monero-1-0-0.pdf)_**
++ **_[Vermijd deze oplichters](https://www.reddit.com/r/Monero/wiki/avoid)_**
++ **_[Monero FAQ](https://ww.getmonero.org/get-started/faq/)_**
++ **_[de Monero Gemeenschap](https://getmonero.org/community/hangouts/)_**
++ **_[Mastering Monero](https://masteringmonero.com/)_**
