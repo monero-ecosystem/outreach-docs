@@ -130,6 +130,6 @@ bedrijven.
 **Monero Quick Facts - Herzien op 14/11/2018**    
 **Gecreëerd voor de gemeenschap door Monero Outreach.**
 
-**Monero Outreach is toegewijd aan groeiende adoptie en aanvaarding door educatie en publieke relaties, dankzij jouw donaties.**
+**Monero Outreach is toegewijd aan groeiende adoptie en aanvaarding via educatie en publieke relaties, dankzij jouw donaties!**
 
 **47oKHkoaQdBdFpTJNKaetUS6UsCGHVbJbGxPGaaHFQPqXSCLbqXYsBo6x7abwtfdXTeiBhtZLnYF5bRRAhYsUVb5Sd1aqiD**
