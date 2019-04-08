@@ -117,7 +117,7 @@ bedrijven.
 + **_[getmonero.org (Officiële website)](https://getmonero.org/)_**
 + **_[monero.how](https://www.monero.how/)_**
 + **_[reddit.com/r/monero](https://www.reddit.com/r/Monero/)_**
-+ **_[Gids voor Monero (post)](https://www.reddit.com/r/CryptoCurrency/comments/7ra409/your_guide_to_monero_and_why_it_has_great/)_**
++ **_[Monero gids (Reddit post)](https://www.reddit.com/r/CryptoCurrency/comments/7ra409/your_guide_to_monero_and_why_it_has_great/)_**
 + **_[diepgaande technische introductie tot Monero](https://steemit.com/monero/@sgp/7yjqso-a-monero-introduction-for-beginners)_**
 + **_[Zero to Monero](https://www.getmonero.org/library/Zero-to-Monero-1-0-0.pdf)_**
 
@@ -127,9 +127,9 @@ bedrijven.
 + **_[de Monero gemeenschap](https://getmonero.org/community/hangouts/)_**
 + **_[Mastering Monero](https://masteringmonero.com/)_**
 
-**Monero Quick Facts - Gereviseerd op 14/11/2018**    
-**Geschreven voor de Monero-gemeenschap door Monero Outreach.**
+**Monero Quick Facts - Herzien op 14/11/2018**    
+**Gecreëerd voor de gemeenschap door Monero Outreach.**
 
-**Monero Outreach heeft als doel om adoptie en gebruik van Monero te stimuleren door middel van educatie en public relations. Jouw donaties maken dit mogelijk.**
+**Monero Outreach is toegewijd aan groeiende adoptie en aanvaarding door educatie en publieke relaties, dankzij jouw donaties.**
 
 **47oKHkoaQdBdFpTJNKaetUS6UsCGHVbJbGxPGaaHFQPqXSCLbqXYsBo6x7abwtfdXTeiBhtZLnYF5bRRAhYsUVb5Sd1aqiD**
