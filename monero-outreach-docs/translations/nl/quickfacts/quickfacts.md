@@ -51,11 +51,11 @@ Sinds de lancering heeft Monero verschillende aanzienlijke verbeteringen doorgem
 
 Het woord "Monero" komt van Esperanto. Men heeft deze taal gekozen omdat hij "gedecentraliseerd" is en symbool staat voor het breken van barrières tussen mensen wereldwijd. In Esperanto is "Monero" vrij opgebouwd uit drie elementen, elk één lettergreep: mon + er + o. Ieder heeft zijn eigen betekenis.
 
-+ **mon-:** geld
-+
-+ **-er-:** kleinste deel
-+
-+ **-o :** een ding / een zelfstandig naamwoord
+**mon-:** geld
+
+**-er-:** kleinste deel
+
+**-o :** een ding / een zelfstandig naamwoord
 
 Dus "Monero" kan je ontleden als: "een zelfstandig naamwoord dat het kleinste deel van een geldmiddel beschrijft". Oftewel, een munt.
 
