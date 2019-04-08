@@ -24,6 +24,6 @@ Cryptovalutabeurzen kunnen handig zijn om Monero te (ver)kopen, maar er zijn bel
 
 3. Vooraleer je een significant bedrag overbrengt naar een beurs dien je best een testtransactie te plaatsen. Gebruik een testbedrag dat je je kan veroorloven te verliezen.
 
-4. Kijk altijd het zend- en ontvangstadres na bij elke XMR-transactie. Doe dit zelfs als je kopieert en plakt, want er bestaan aanvallen waarbij je crypto-adres wordt veranderd. Moest zulke malware je apparaat hebben besmet, voldoet simpel nakijken wat je plakt om je ertegen te beschermen.
+4. Kijk altijd het zend- en ontvangstadres na bij elke XMR-transactie. Doe dit zelfs als je kopieert en plakt, want er bestaan aanvallen waarbij je crypto-adres wordt veranderd. Indien zulke malware je apparaat heeft besmet, voldoet simpel nakijken wat je plakt om je ertegen te beschermen.
 
 5. Op termijn zullen decentrale beurzen gemeengoed worden. Deze liggen qua ethos in het verlengde van de decentrale cryptovaluta Monero. Overweeg ze te gebruiken, maar doe je research! 
