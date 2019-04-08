@@ -35,7 +35,7 @@ Transacties op Monero's blockchain zijn niet verbonden aan welbepaalde gebruiker
 
 #### PRIVACY
 
-Monero gebruikt gesofisticeerde cryptografie zoals _[ring signatures](https://getmonero.org/resources/moneropedia/ringsignatures.html)_, _[ring confidential transactions](https://www.mycryptopedia.com/monero-ring-confidential-transactions-ringct/)_ en _[stealth addresses](https://www.mycryptopedia.com/everything-need-know-stealth-addresses/)_ om voor alle transacties zowel afkomst, bedrag als bestemming te verduisteren.
+Monero gebruikt geavanceerde cryptografie zoals _[ring signatures](https://getmonero.org/resources/moneropedia/ringsignatures.html)_, _[ring confidential transactions](https://www.mycryptopedia.com/monero-ring-confidential-transactions-ringct/)_ en _[stealth addresses](https://www.mycryptopedia.com/everything-need-know-stealth-addresses/)_ om voor alle transacties zowel afkomst, bedrag als bestemming te verduisteren.
 
 #### FUNGIBILITEIT
 
