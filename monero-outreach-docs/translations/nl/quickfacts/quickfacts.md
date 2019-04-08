@@ -23,7 +23,7 @@ Gezien Monero een _[open-source project](https://github.com/monero-project/moner
 
 #### BEVEILIGING
 
-Monero is een gedecentraliseerde cryptovaluta omdat het beveiligd wordt door een wereldwijd netwerk van gebruikers. Transacties worden bevestigd middels gedistribueerde consensus en vervolgens onwijzigbaar opgenomen in de _[blokketen](https://www.mycryptopedia.com/what-is-blockchain-technology/)_. 
+Monero is een gedecentraliseerde cryptovaluta omdat het beveiligd wordt door een wereldwijd netwerk van gebruikers. Transacties worden bevestigd middels gedistribueerde consensus en vervolgens onwijzigbaar opgenomen in de _[blockchain](https://www.mycryptopedia.com/what-is-blockchain-technology/)_. 
 
 #### SCHAALBAARHEID
 
@@ -31,7 +31,7 @@ De _[dynamische blockgrootte](https://www.mycryptopedia.com/block-size-explained
 
 #### CENSUURBESTENDIG
 
-Transacties op Monero's blokketen zijn niet verbonden aan welbepaalde gebruikers of hun dagelijkse identiteit. Daarom is censuur, en tevens _[kapitaalbeperking](https://nl.wikipedia.org/wiki/Kapitaalbeperking)_, onmogelijk. 
+Transacties op Monero's blockchain zijn niet verbonden aan welbepaalde gebruikers of hun dagelijkse identiteit. Daarom is censuur, en tevens _[kapitaalbeperking](https://nl.wikipedia.org/wiki/Kapitaalbeperking)_, onmogelijk. 
 
 #### PRIVACY
 
@@ -103,7 +103,7 @@ _Met een staartemissie van 0.6 XMR/blok zal er in 2040 evenveel Monero als Bitco
 
 Hoewel Monero beschikbaar is en al gebruikt wordt over de hele wereld, hebben de programmeurs interessante plannen om privacy, veiligheid, en functionaliteit van Monero (en cryptovaluta in het algemeen) te blijven verbeteren. Onderstaande features komen er binnenkort aan:
 
-**Bulletproofs:** Deze [technologie](https://getmonero.org/es/2017/12/07/Monero-Compatible-Bulletproofs.html) slaat de blokketen efficiënter op en biedt snellere verifiëring van transacties.
+**Bulletproofs:** Deze [technologie](https://getmonero.org/es/2017/12/07/Monero-Compatible-Bulletproofs.html) slaat de blockchain efficiënter op en biedt snellere verifiëring van transacties.
 
 **Kovri:** Voor privacy is dit een belangrijke upgrade. Kovri voegt een vierde laag privacy toe aan Monero-transacties. Hiertoe gebruikt het **[garlic-encryption](https://getmonero.org/resources/moneropedia/garlic-encryption.html)** (i.e. TOR's grote broer) door het IP-adres van zenders en ontvangers te verbergen. Elke laag van een Monero-transactie zal privé en veilig zijn: van zender, ontvanger, bedrag, tot het überhaupt gebruik van het Moneronetwerk (dankzij Kovri).
 
