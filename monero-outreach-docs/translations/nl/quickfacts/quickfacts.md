@@ -125,7 +125,7 @@ bedrijven.
 + **_[Mastering Monero](https://masteringmonero.com/)_**
 + **_[Satis Group verslag](https://research.bloomberg.com/pub/res/d37g1Q1hEhBkiRCu_ruMdMsbc0A)_**
 
-**Monero Quick Facts - Herzien op 1/2/2018**    
+**Monero Quick Facts - Herzien op 1/2/2019**    
 **Gecreëerd voor de gemeenschap door Monero Outreach.**
 
 **Monero Outreach is toegewijd aan groeiende adoptie en aanvaarding via educatie en publieke relaties, dankzij jouw donaties!**
