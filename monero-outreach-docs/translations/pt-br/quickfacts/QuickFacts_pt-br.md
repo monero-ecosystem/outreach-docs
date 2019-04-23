@@ -1,14 +1,15 @@
 # MONERO
 
-Monero é uma moeda digital segura, privada, não-rastreável que está disponível para todos. As suas caracterísitcas o tornam uma moeda fungível.
+Monero é uma moeda digital segura, privada e não-rastreável. As suas características de privacidade a tornam uma moeda fungível.
 
 # FATOS RÁPIDOS
 
-Usuários podem gastar com segurança, ninguém consegue ver seu saldo ou rastrear suas atividades sem sua permissão.
+Ao usar Monero você tem privacidade e segurança, pois nenhuma outra pessoa consegue ver o seu saldo ou rastrear as suas transações antigas sem a sua permissão.
 
-Revisado em 01/02/2019 - [Printer Friendly Version](http://www.monerooutreach.org/pubs/2018/QuickFacts/QuickFacts_PrinterFriendly.pdf)
+Revisado em 01/02/2019 - [Versão para impressão](https://www.monerooutreach.org/pubs/QuickFacts/FatosRapidos.pdf)
+Criado para a comunidade por Monero Outreach
 
-- [Versão colorida](http://www.monerooutreach.org/pubs/2018/QuickFacts/QuickFacts_pt.pdf)
+- [Versão colorida](https://www.monerooutreach.org/pubs/QuickFacts/FatosRapidos_VersaoColorida.pdf)
 
 [getmonero.org](https://getmonero.org/pt-br/)
 
@@ -17,23 +18,23 @@ Revisado em 01/02/2019 - [Printer Friendly Version](http://www.monerooutreach.or
 
 #### DESCENTRALIZAÇÃO
 
-Sendo um _[projeto código aberto](https://github.com/monero-project/monero)_ liderado e _[financiado](https://ccs.getmonero.org/funding-required/)_ por um _[time decentralized](https://getmonero.org/community/team/)_ de desenvolvedores e membros da comunidade, o mesmo não pode ser censurado. A maioria dos contribuidores são voluntários e a comunidade está espalhada por todo o globo.
+Sendo um _[projeto código aberto](https://github.com/monero-project/monero)_, liderado e _[financiado](https://ccs.getmonero.org/funding-required/)_ por uma _[equipe descentralizada](https://www.getmonero.org/pt-br/community/team/)_ de desenvolvedores e membros da comunidade, o mesmo não pode ser censurado. A maioria dos contribuidores são voluntários e a comunidade está espalhada por todo o globo.
 
 #### SEGURANÇA
 
-Sendo uma criptomoeda descentralizada, o Monero é seguro por uma grande rede de usuários espalhados pelo mundo. Transações são confirmadas por um consenso distrubuído e depois gravadas imutavelmente no _[blockchain](https://www.mycryptopedia.com/what-is-blockchain-technology/)_.
+Sendo uma criptomoeda descentralizada, a segurança do Monero é mantida por uma grande rede de usuários espalhados em diversos países. Após serem confirmadas através de um consenso distribuído, as transações são gravadas de maneira imutável na _[blockchain](https://pt.wikipedia.org/wiki/Blockchain)_.
 
 #### ESCALABILIDADE
 
-Diferentemente do Bitcoin e de outras moedas, as quais costumam ter constantes de código inalteráveis (_hardcoded constants_), o _[tamanho do bloco](https://www.mycryptopedia.com/block-size-explained/)_ do Monero é adaptado automaticamente ao volume de transações, garantindo menores taxas e confirmações mais rápidas.
+Diferentemente do Bitcoin e de outras moedas, que costumam ter parâmetros fixos pré-determinados (_constantes inalteráveis no código_), o _[tamanho do bloco](https://www.mycryptopedia.com/block-size-explained/)_ do Monero adapta-se automaticamente de acordo com o volume de transações, garantindo menores taxas e confirmações mais rápidas.
 
 #### PRIVACIDADE
 
-Monero usa criptografia sofisticada como _[assinaturas em anel](https://getmonero.org/resources/moneropedia/ringsignatures.html)_, _[transações confidenciais em anel](https://www.mycryptopedia.com/monero-ring-confidential-transactions-ringct/)_, e _[endereços stealth](https://www.mycryptopedia.com/everything-need-know-stealth-addresses/)_ para ofuscar as origens, quantidades e destinatários de todas as transações. Os usuários podem decidir exatamente quais informações e para quem eles querem revelar.
+O Monero usa técnicas sofisticadas de criptografia como _[assinaturas em anel](https://www.getmonero.org/pt-br/resources/moneropedia/ringsignatures.html)_, _[transações confidenciais em anel](https://www.getmonero.org/pt-br/resources/moneropedia/ringCT.html)_ e _[endereços stealth](https://www.getmonero.org/pt-br/resources/moneropedia/stealthaddress.html)_ para ofuscar as origens, as quantias e os destinatários de todas as transações. Os usuários podem decidir exatamente quais informações serão reveladas e para quem eles querem revelá-las.
 
 #### RESISTÊNCIA À CENSURA
 
-Dadas as características de privacidade do Monero, nenhum endereço específico ou carteira podem ser proibidos por mineradores ou por agentes econômicos. Desta forma, os usuários ficam livres de censura e do _[controle de capital](https://en.wikipedia.org/wiki/Capital_control)_.
+Dadas as características de privacidade do Monero, nenhum endereço específico ou carteira podem ser banidos por mineradores ou por agentes econômicos. Desta forma, os usuários ficam livres de qualquer tipo de censura ou _[controle de capital](https://pt.wikipedia.org/wiki/Controle_de_capital)_.
 
 #### FUNGIBILIDADE
 
@@ -55,7 +56,7 @@ A palavra Monero vem do idioma Esperanto. Os criadores escolheram o uso do Esper
 
  **o:** uma coisa (gramaticamente falando: um substantivo)
 
-Isso que dizer que "monero" por ser interpretado como: "um substantivo que descreve a menor parte do dinheiro". Ou, uma moeda.
+Isso quer dizer que "monero" pode ser interpretado como: "um substantivo que descreve a menor parte do dinheiro". Ou, uma moeda.
 
 ### FATORES CENTRAIS DE DIFERENCIAÇÃO
 
@@ -65,9 +66,9 @@ Isso que dizer que "monero" por ser interpretado como: "um substantivo que descr
 
 **Rotina de atualização da rede:** A comunidade de desenvolvedores do Monero realiza regularmente atualizações na rede (hard forks) para assegurar que todos os usuários desfrutem da melhor segurança, privacidade e recursos disponíveis. Isso permite que a rede do Monero permaneça mais ágil e segura adaptando-se a qualquer oportunidade ou ameaça que venha a aparecer. **[O que são todos esses hard forks que tenho lido sobre?](https://bitcoinmagazine.com/articles/monero-just-hard-forked-and-it-resulted-four-new-projects/)**
 
-**Trajetória das recompensas do bloco do Monero:** As recompensas diminuirão gradativamente até que a emissão em cauda comece por volta do fim de Maio de 2022, quando as recompensas serão fixadas em 0,6 XMR por bloco. A emissão em cauda propocionará incentivos continuados e indefinitivos à mineração. Adicionalmente, e talvez o mais importante, a emissão em cauda dá ao Monero inflação planejada, estável e previsível - considerada essencial para o dinheiro real e saudável.
+**Trajetória das recompensas do bloco do Monero:** As recompensas diminuirão gradativamente até o final de maio de 2022, momento em que ocorrerá a emissão em cauda, que fixará para sempre as recompensas em 0,6 XMR por bloco. A emissão em cauda propocionará incentivos contínuos e eternos à mineração. E, talvez o mais importante, ela fará com que o Monero tenha uma taxa de inflação planejada, estável e previsível para todos - uma característica considerada essencial para uma moeda de qualidade e saudável.
 
-**Laboratório de Pesquisa Monero:** O Monero não só é comprometido em fazer uma moeda fungível, como também pesquisa continuamente temas no domínio da privacidade financeira das criptomoedas em geral. Neste contexto, pesquisadores acadêmicos das áreas de matemática, física, segurança e computação de blockchain têm publicado **[artigos de pesquisa](https://lab.getmonero.org/)** e possuem muitos outros **[objetos de pesquisa](https://www.getmonero.org/design-goals/)** que estão sendo trabalhados.
+**Laboratório de Pesquisa Monero:** O projeto Monero não só é comprometido em fazer uma moeda fungível, ele também realiza continuamente pesquisas relacionadas à privacidade financeira das criptomoedas em geral. Neste contexto, pesquisadores acadêmicos das áreas de matemática, física, segurança e computação de blockchain têm publicado **[artigos de pesquisa](https://lab.getmonero.org/)** e possuem muitos outros **[objetos de pesquisa](https://www.getmonero.org/pt-br/design-goals/)** que estão sendo trabalhados.
 
 **A mineração é acessível:** Qualquer um com um dispositivo ou navegador conectado por participar.
 
@@ -95,9 +96,9 @@ _Com uma "emissão em cauda" de 0,6 XMR/bloco, em 2040 haverá uma quantidade ig
 
 ### RECURSOS EM DESENVOLVIMENTO
 
-Embora o Monero já esteja disponível e em uso através do globo, a comunidade de desenvolvedores tem objetivos excitantes para continuar melhorando a privacidade, a segurança e a usabilidade do Monero e das criptomoedas em geral. Estas são algumas das coisas que estão por vir:
+Embora o Monero já esteja disponível e seja usado mundialmente, a comunidade de desenvolvedores tem diversos planos e estratégias para continuar melhorando a privacidade, a segurança e a usabilidade do Monero e das criptomoedas em geral. Estas são algumas das novidades que estão por vir:
 
-**Kovri:** Esta é uma das maiores melhorias, adicionando uma quarta camada de privacidade às transações do Monero. Kovri utiliza **[criptografia garlic](https://getmonero.org/resources/moneropedia/garlic-encryption.html)** (pense em Tor com esteroídes) para esconder o endereço IP dos remetentes e destinatários usando a rede. Cada camada de uma transação Monero, o remetente, destinatário, quantidade transacionada, e (com Kovri) o pilar central da transação em si, serão privados e seguros.
+**Kovri:** Esta é uma das maiores melhorias, adicionando uma quarta camada de privacidade às transações do Monero. Kovri utiliza **[criptografia garlic](https://www.getmonero.org/pt-br/resources/moneropedia/garlic-encryption.html)** (uma espécie de Tor turbinado) para esconder o endereço IP dos remetentes e destinatários usando a rede. Com Kovri, todos os elementos que fazem parte de uma transação no Monero passarão a ser privados e seguros: o remetente (assinaturas em anel), a transmissão da transação/endereço IP (Kovri), o destinatário (endereços stealth) e a quantia transacionada (transações confidenciais em anel).
 
 **Carteiras Hardware:** As famosas carteiras hardware Ledger e Trezor estão trabalhando para incorporar o Monero. (Ledger suporta o Monero desde as versões CLI 0.12.2 e GUI 0.12.3) A comunidade do Monero financia um time que está **[desenvolvendo a uma carteira hardware](http://kastelo.org/)**, construída sob os valores do Monero. As opções Ledger e Trezor tinham previsões de estarem operacionais até o final de 2018.
 
@@ -114,7 +115,7 @@ Embora o Monero já esteja disponível e em uso através do globo, a comunidade 
 + **_[Zero to Monero (em inglês)](https://www.getmonero.org/library/Zero-to-Monero-1-0-0.pdf)_**
 
 + **_[Golpes a serem evitados](https://www.reddit.com/r/Monero/wiki/avoid)_**
-+ **_[Perguntas Frequentes](https://ww.getmonero.org/pt-br/get-started/faq/)_**
++ **_[Perguntas Frequentes](https://www.getmonero.org/pt-br/get-started/faq/)_**
 + **_[Conecte-se com a comunidade](https://getmonero.org/pt-br/community/hangouts/)_**
 + **_[Mastering Monero](https://masteringmonero.com/)_**
 + **_[Relatório do Satis Group (em inglês)](https://research.bloomberg.com/pub/res/d37g1Q1hEhBkiRCu_ruMdMsbc0A)_**
