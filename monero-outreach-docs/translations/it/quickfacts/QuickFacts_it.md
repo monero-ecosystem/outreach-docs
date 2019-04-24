@@ -16,7 +16,7 @@ Creato per la comunità da Monero Outreach
 
 #### DECENTRALIZZAZIONE
 
-In quanto _[progetto open-source](https://github.com/monero-project/monero)_ gestito e finanziato da un _[team decentralizzato](https://www.getmonero.org/it/community/team/)_ di sviluppatori e membri della comunità, esso non può essere censurato. La maggior parte dei collaboratori è formata da volontari e la comunità è distribuita in tutto il globo.
+In quanto _[progetto open-source](https://github.com/monero-project/monero)_ gestito e _[finanziato](https://ccs.getmonero.org/funding-required/)_ da un _[team decentralizzato](https://www.getmonero.org/it/community/team/)_ di sviluppatori e membri della comunità, esso non può essere censurato. La maggior parte dei collaboratori è formata da volontari e la comunità è distribuita in tutto il globo.
 
 #### SICUREZZA
 

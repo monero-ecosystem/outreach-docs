@@ -1,0 +1,25 @@
+# Minere Monero para apoiar a rede
+
+Os mineradores do Monero usam hardwares de computação para executar uma variante do algoritmo CryptoNight, competindo por uma recompensa de mineração que é distribuída cada vez que um novo bloco é adicionado à Blockchain. A mineração do Monero é conhecida por sua resistência aos ASICs (circuitos integrados para aplicações específicas). Isso significa que ela é mais acessível e amigável à mineração utilizando processadores comuns (CPU) e placas de vídeo (GPU), no entanto, ela não consegue impedir que indivíduos e empresas criem os poderosos ASICs e FPGAs. Em função disso, os desenvolvedores do Monero fazem uma atualização de rede de rotina a cada 6 meses, com o objetivo de evitar que a mineração através de ASICs e FPGAs ganhe controle da maior parte do hashrate da rede.
+
+No entanto, à medida que o preço da moeda e a rentabilidade da mineração aumentam, espera-se que mais indivíduos e empresas configurem ASICs e FPGAs para minerar Monero, pois isso faz com que eles obtenham uma vantagem competitiva em relação aos mineradores que usam CPU e GPU, que possuem menor hashrates. Alguns membros da comunidade Monero temem que o grande poder de hash dos ASICs e dos FPGAs pode representar um risco de um ataque de 51%.
+
+Em função disso, *todos os usuários estão convidados* a se tornarem participantes ativos na rede Monero, ajudando a defendê-la e protegê-la, *minerando com quaisquer meios que tiverem à disposição*. 
+
+Junte-se à luta por um dinheiro privado e seguro para todos! A seguir estão algumas maneiras que você pode usar para ajudar com a segurança da rede:
+
+1.	**Mineração Solo-** Ao minerar sozinho, você está participando de uma loteria da mineração. Ao usar o processador (CPU) ou a placa de vídeo (GPU) de seu computador para minerar Monero, você está apostando que em algum momento você irá descobrir um bloco antes de todos os outros mineradores da rede. As chances de você conseguir descobrir um bloco são muito pequenas, mas, se você tiver sorte e conseguir descobrir um bloco, você irá receber sozinho toda a recompensa do bloco minerado. É fácil minerar por conta própria, basta você usar as carteiras oficiais do Monero, tanto a carteira com interface gráfica (GUI) quanto a com linha de comando (CLI) ([https://www.getmonero.org/es/resources/user-guides/solo_mine_GUI.html](www.getmonero.org/resources/user-guides/solo_mine_GUI.html)).
+
+2.	**Mineração em Pool-** Essa é uma das maneiras mais comuns de se minerar Monero. Neste tipo de mineração você se associa a outros usuários para tentarem descobrir juntos um bloco. Nesta modalidade os pagamentos tendem a ser muito mais regulares em comparação à mineração solo, mas eles são menores, pois você está dividindo a recompensa do bloco com todas as outras pessoas que ajudaram a minerá-lo. Leia mais em ([minexmr.com/#getting_started](https://minexmr.com/#getting_started)) e ([minexmr.com/pools.html](https://minexmr.com/pools.html)).
+
+3.	**Mineração na Web-** Se você possui um website, você pode utilizar o poder de computação dos computadores dos seus visitantes para minerar Monero. Alguns websites estão começando a fazer isso de maneira ética, substituindo os anúncios de suas páginas, e incluindo uma opção para que seus visitantes possam minerar voluntariamente para ajudar o site. Por favor, não use esse tipo de mineração em seu site sem o consentimento dos seus visitantes. Leia mais em ([coinhive.com](https://coinhive.com/)). A seguir estão alguns exemplos: [bailbloc.thenewinquiry.com/webminer.html](https://bailbloc.thenewinquiry.com/webminer.html) e [thehopepage.org](https://www.thehopepage.org/). Você também pode fazer a mineração web em seu próprio browser. Uma maneira de fazer isso é indo ao dashboard do Monero Ocean, rolar a página e clicar no botão > Web Mining: [moneroocean.stream/#/dashboard](https://moneroocean.stream/#/dashboard).
+
+4.	**Softwares de Mineração-** Os dois principais programas usados por mineradores Monero são o XMR Stak e o XMRig, pois eles tem código aberto e são configuráveis, permitindo que você atinja o máximo hashrate possível do seu hardware. Leia mais em: ([www.getmonero.org/es/get-started/mining/](https://www.getmonero.org/es/get-started/mining/)). O programa CastXMR é também um conhecido programa de mineração que possui algumas configurações e é divulgado para mineradores com placas de vídeo (GPUs) Vega. No entanto, o seu código-fonte é fechado, o que faz com que ele seja menos recomendado pela comunidade ([gandalph3000.com/cast_xmr/cast-xmr-optimized-cryptonight-miner-for-rx-vega](http://www.gandalph3000.com/cast_xmr/cast-xmr-optimized-cryptonight-miner-for-rx-vega/)).
+
+**Fraudes-** Verifique a lista a seguir para certificar-se de que você não está usando nenhum minerador, carteira ou exchange que sejam conhecidos por serem fraudulentos: [reddit.com/r/monero/wiki/avoid](https://www.reddit.com/r/monero/wiki/avoid/).
+
+**Participe das Comunidades sobre Mineração -**
+-	Reddit: r/MoneroMining
+-	IRC: #monero-pools
+-	Telegram:[t.me/xmrmine](https://t.me/xmrmine) ou @xmrmonerominers
+-	Ou entre nos fóruns de chat da pool que você está minerando!

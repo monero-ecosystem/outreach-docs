@@ -18,7 +18,7 @@ Creat pentru comunitate de către Monero Outreach
 
 #### DESCENTRALIZARE
 
-Ca si _[proiect care are cod sursa deschisa](https://github.com/monero-project/monero)_ condus si _[finantat](https://forum.getmonero.org/8/funding-required)_ intr-un mod descentralizat de catre _[programatori](https://getmonero.org/community/team/)_ si membri ai comunitatii, nu poate fi cenzurat. Majoritatea contribuitorilor sunt voluntati si raspanditi pe tot globul.
+Ca si _[proiect care are cod sursa deschisa](https://github.com/monero-project/monero)_ condus si _[finantat](https://ccs.getmonero.org/funding-required/)_ intr-un mod descentralizat de catre _[programatori](https://getmonero.org/community/team/)_ si membri ai comunitatii, nu poate fi cenzurat. Majoritatea contribuitorilor sunt voluntati si raspanditi pe tot globul.
 
 #### SECURITATE
 

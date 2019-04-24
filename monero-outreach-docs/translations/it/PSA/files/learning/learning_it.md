@@ -6,13 +6,13 @@ Imparando a conoscere meglio le funzionalità di Monero, il codice, la filosofia
 
 ### Il futuro inizia da te. Qui sotto trovi del materiale da leggere che può aiutarti nel capire meglio Monero:
 
-**_[getmonero.org (Sito Ufficiale)](https://getmonero.org/it/)_**
-**_[monero.how](https://www.monero.how/)		[inglese]_**
-**_[reddit.com/r/monero](https://www.reddit.com/r/Monero/)		[inglese]_**
-**_[Guide to Monero (post)](https://www.reddit.com/r/CryptoCurrency/comments/7ra409/your_guide_to_monero_and_why_it_has_great/)		[inglese]_**
-**_[Monero In-Depth Technical Intro](https://steemit.com/monero/@sgp/7yjqso-a-monero-introduction-for-beginners)_**
-**_[Zero to Monero](https://www.getmonero.org/it/library/Zero-to-Monero-1-0-0.pdf)		[inglese]_**
-**_[Scams to Avoid](https://www.reddit.com/r/Monero/wiki/avoid)		[inglese]_**
-**_[Monero FAQ](https://www.getmonero.org/it/get-started/faq/)		[inglese]_**
-**_[Connect w/ Monero Community](https://getmonero.org/it/community/hangouts/)_**
-**_[Mastering Monero - (coming soon)](https://masteringmonero.com/)		[inglese]_**
++ **_[getmonero.org (Sito Ufficiale)](https://getmonero.org/it/)_**
++ **_[monero.how](https://www.monero.how/)		[inglese]_**
++ **_[reddit.com/r/monero](https://www.reddit.com/r/Monero/)		[inglese]_**
++ **_[Guide to Monero (post)](https://www.reddit.com/r/CryptoCurrency/comments/7ra409/your_guide_to_monero_and_why_it_has_great/)		[inglese]_**
++ **_[Monero In-Depth Technical Intro](https://steemit.com/monero/@sgp/7yjqso-a-monero-introduction-for-beginners)_**
++ **_[Zero to Monero](https://www.getmonero.org/it/library/Zero-to-Monero-1-0-0.pdf)		[inglese]_**
++ **_[Scams to Avoid](https://www.reddit.com/r/Monero/wiki/avoid)		[inglese]_**
++ **_[Monero FAQ](https://www.getmonero.org/it/get-started/faq/)		[inglese]_**
++ **_[Connect w/ Monero Community](https://getmonero.org/it/community/hangouts/)_**
++ **_[Mastering Monero - (coming soon)](https://masteringmonero.com/)		[inglese]_**
