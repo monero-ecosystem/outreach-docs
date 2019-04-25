@@ -1,6 +1,8 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/monero-ecosystem/outreach-docs.svg)
+
 # How to contribute
 
-Welcome to the Monero Outreach. This directory contains all the final versions of the documents published by the Monero Outreach Workgroup. You will also find the translation directory. 
+Welcome to the Monero Outreach. This directory contains all the final versions of the documents published by the Monero Outreach Workgroup and the documents of the Monero Meetup Kit. You will also find the translation directory. 
 
 **What do we do?**
 Education and communications around the value of Monero. This involves writing, creating educational material, and completing other general Monero tasks.
@@ -60,7 +62,10 @@ Fonts can be found inside [monero-outreach-docs folder](https://github.com/moner
    - [erciccione](https://github.com/erciccione) - Monero Localization Coordinator
    - [xmrhaelan](https://github.com/xmrhaelan) - Monero Outreach Organizer
 
-## Support the project
+# Meetup kit
+In the `meetup-kit` folder are hosted the documents of the Monero Meetup Kit, which include the flyer with basic info about Monero. Please read the *readme* file inside the `meetup-kit` folder for more info.
+
+# Support the project
 
 The Monero Outreach team is continuing to develop innovative ways to make more people aware of Monero and the communities efforts, we are building a very talented team of contributors to help make it happen. Please consider supporting this effort.
 
