@@ -18,7 +18,7 @@ Creado para la comunidad por Monero Outreach
 
 #### DESCENTRALIZACIÓN
 
-Como _[proyecto de código abierto](https://github.com/monero-project/monero)_ , dirigido y _[fundado](https://ccs.getmonero.org/funding-required/)_ por un _[equipo descentralizado](https://getmonero.org/es/community/team/index.html)_ de desarrolladores e individuos, no puede ser censurado. Gran parte de los colaboradores son voluntarios y la comunidad se extiende alrededor del mundo.
+Como _[proyecto de código abierto](https://github.com/monero-project/monero)_, dirigido y _[fundado](https://ccs.getmonero.org/funding-required/)_ por un _[equipo descentralizado](https://getmonero.org/es/community/team/index.html)_ de desarrolladores e individuos, no puede ser censurado. Gran parte de los colaboradores son voluntarios y la comunidad se extiende alrededor del mundo.
 
 #### SEGURIDAD
 
