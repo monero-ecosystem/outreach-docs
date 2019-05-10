@@ -17,6 +17,6 @@ This document is part of the Monero Meetup Kit (you can find more informations a
 8. push your changes to your remote repository and open a pull request 
 
 ## Preview
-![page 1](https://raw.githubusercontent.com/monero-ecosystem/outreach-docs/master/local/meetup-kit/monero-flyer/flyer-page001.png)
-![page 2](https://raw.githubusercontent.com/monero-ecosystem/outreach-docs/master/local/meetup-kit/monero-flyer/flyer-page002.png)
+![page 1](https://raw.githubusercontent.com/monero-ecosystem/outreach-docs/master/meetup-kit/monero-flyer/local/flyer-page001.png)
+![page 2](https://raw.githubusercontent.com/monero-ecosystem/outreach-docs/master/meetup-kit/monero-flyer/local/flyer-page002.png)
 
