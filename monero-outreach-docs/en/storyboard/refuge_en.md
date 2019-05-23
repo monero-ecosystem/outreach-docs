@@ -1,95 +1,95 @@
-# Monero: Refuge From Grievous Civil Forfeiture Laws (Part 1)
-*04/15/19*  
+# 门罗币：于严苛的民事没收法之下保护你（第一部分）
+*2019年4月15日*  
 Obiter Cryptum  
 
 
-Egregious and systemic government and third-party overstepping takes place every day, and while you might not personally experience it, it’s very much alive and thriving. Fundamental rights which we, as human beings, are guaranteed under the [Universal Declaration of Human Rights](http://www.un.org/en/universal-declaration-human-rights/) and our respective state constitutions, are being eroded and chiseled away, whether it explicitly or surreptitiously. 
+政府和第三方机构令人发指、系统性的权力滥用每天都在发生，虽然你可能没有亲身经历过，但它们始终存在并且异常活跃。虽然我们作为人的基本人权根据《世界人权宣言》(http://www.un.org/en/universal-declaration-human-rights/)和各种宪法得以确立和保障，但是这些权利总是或明或暗地被侵犯和无视。
 
-Voice, choice, and autonomy have all but been chosen for not only the [3 billion plus persons](http://www.globalissues.org/article/26/poverty-facts-and-stats) living on less than USD $2.50 per day by a concentrated few, but nearly everyone in one way or another - whether it due to government overreach, third-party missteps, or censorship. 
+言论自由、选举权和自治权并不是仅仅在那些[三十亿多的穷苦人民]中较难实现(http://www.globalissues.org/article/26/poverty-facts-and-stats) （他们每天的花销仅在2.5美元内），对于中产阶级和富人阶层也是如此。他们可能会被政府、社区的集体行动或各种各样的审查制度所限制。
 
-*But, what if that didn’t have to be the case?* 
+*但是，如果我们可以不那样活着呢？* 
 
-*What if marginalized, ostracized, voiceless, and even seemingly average persons were able to recoup a sliver of independence and self-determination from the encroaching and limiting monoliths?* 
+*如果被边缘化、被排斥、无法发声的人和普通人能够从被入侵和限制的巨石中重新获得哪怕一点点独立和自决呢？* 
 
-Well...that would be a start - a drop in the bucket toward self-liberation from autocratic and overarching rule, but still a drop in the bucket. 
+嗯……那将是个伟大的开始——一滴从独裁专制走向自我解放道路上的篮子里的水，虽然只是一滴水。
 
-However, slowly, tiny droplets of hope, empowerment, and individual settlement begin to accumulate, reaching a tipping point, whereby the entire bucket begins to yield to its newly acquired weight and guidance. With privacy-preserving cryptocurrencies and tools, we can only hope to set the wheels in motion for the gradual overhaul of such systems. 
+但是，慢慢地，那些关于希望、自我权利和个人独立的微小水滴开始积聚，这些水滴的重量开始达到一个临界点，使得整个篮子开始屈从于这些水滴的新要求和趋势。有了保护个人隐私的加密货币和工具之后，我们希望能以此来慢慢检修整个社会系统。 
 
-To best convey why privacy-preserving cryptocurrencies, mechanisms, and networks are at the very crux of the furtherance of guaranteed basic rights, it’s better to show you, rather than tell you, why they are in such dire need in today's flawed financial landscape. 
+为了更好地说明为什么专注于保护隐私的加密货币、机制和网络是是促进未来保障个人基本权利的关键要素，我们觉得向公众展示一些特定事例比单纯的告诉公众为什么这些在当今有缺陷的金融环境中很重要，更有说服力。
 
-In this first article of a three part series, I’m going to walk you through the current framework of the United State’s civil forfeiture laws, several examples of these inequitable laws, and how Monero can be used to better serve the people by providing refuge. In part two, I will address how it can empower South Sudanese to realize purchasing power in a time of macroeconomic collapse, and part three will explore examples of banks freezing assets, how it poses a threat to individual soveriegnty, and the solution that Monero offers. 
+这个系列一共有三章，在第一章我将会向大家说明当下美国的民事没收法框架、几个有关这种不平等法律的事例以及门罗币如何为公众提供庇护。在第二部分，我会讲述门罗币如何让南苏丹人在宏观经济崩溃的时候保持自己的购买力。在第三部分我们会探讨银行冻结资产的例子和它如何威胁个人权利，以及门罗币提供的解决方案。
 
-## Civil Forfeiture in the United States
+## 美国的民事没收法
 
-*“The idea of going at people through their property has a long history. The theories are quite old. The prevalence of the practice is comparatively recent.”* - Daniel C. Richman (1999) 
+*“从人民手中夺取财产的想法由来已久。相关的理论也都很老旧。然而实践却是最近才开始流行的。”* - Daniel C. Richman (1999) 
 
-Simply put, [civil forfeiture refers to the legal process](https://www.law.cornell.edu/wex/civil_forfeiture) whereby enforcement officers “seize” assets (money, property, and other tangible assets) from individuals suspected of engaging in criminal activity. *Sounds noble, right?* *After all, wouldn’t the world be a much better place if we were able to prevent crime before it even occurs?* While perhaps sound in theory, this ill-defined and invasive legal process has unfortunately led to countless issues and gross government overreach.
+简而言之， [民事没收是指一种法律程序](https://www.law.cornell.edu/wex/civil_forfeiture) ，执法人员从涉嫌进行犯罪活动的人手中“扣押”财产（金钱、财产和其他有形资产）。 *听起来很高尚，是不是？毕竟，如果我们能在事件发生之前提前预防某些犯罪，这个世界难道不会变成一个更好的地方吗？*虽然理论听上去可能很美好，但是这是一种定义不清的侵入性举动，并且这种行为法律化之后将不幸地导致无数的矛盾和政府公权力的过度扩张。
 
-With roots in British maritime law and dating back to the 1600s, civil forfeiture has become a billion dollar government industry over the last 30 years, supporting an increasingly upward and aggressive trend towards the excessive - jumping from roughly $93.7 million in assets and money seized in 1986 [to over $2.5 billion by 2010](https://www.wsj.com/news/articles/SB10001424053111903480904576512253265073870). 
+民事没收法起源于17世纪左右的英国海商法，在过去的三十年，民事没收已经成为了一个十亿元级别的政府产业，并且扩张的速度令人瞠目结舌——从1986年扣押的约9370万美金[剧增到2010年的25亿美金以上。](https://www.wsj.com/news/articles/SB10001424053111903480904576512253265073870). 
 
-And while there may be merit, probable cause, or preponderance of the evidence (U.S. states differ in their respective standards of proof for forfeiture laws) in favor of the seizure of some assets, estimates place unwarranted and frivolous civil forfeiture instances [over the years at roughly 85%](http://www.sfgate.com/news/nation-world/article/Asset-forfeiture-both-an-effective-tool-4546043.php). In 2010 alone, there were an estimated 11,000 non-criminal forfeiture cases in the United States, with just over 1/10th of those ever being challenged in federal court. One estimate by SFGate writer, Stewart M. Powell, places the percentage of federally seized property returned to owners [at a meager 1%](https://www.sfgate.com/news/nation-world/article/Asset-forfeiture-both-an-effective-tool-4546043.php). 
+尽管可能有法律优势，某些原因和证据，(美国各州在有关没收标准上的条款各不相同)但为了更容易地没收财产，据估计这些年发生的毫无根据和轻率的没收事件[大约在85%左右](http://www.sfgate.com/news/nation-world/article/Asset-forfeiture-both-an-effective-tool-4546043.php)。仅在2010年一年，美国就有大约11000起非刑事没收案件，而其中只有10%左右的案件被送到联邦法院接受调查。 一位在SFGate的作者Stewart M. Powell做了一项调查，估计联邦返还资产所有者被扣押财产的概率[仅有1%](https://www.sfgate.com/news/nation-world/article/Asset-forfeiture-both-an-effective-tool-4546043.php)。
 
-It’s also worth noting that in some U.S. states, “[Equitable Sharing](https://www.justice.gov/criminal-mlars/equitable-sharing-program)” exists, a program whereby proceeds of liquidated seized and forfeited assets are distributed amongst state and federal law enforcement authorities. In 2010, more than [$500 million was shared amongst officers and agencies](https://www.wsj.com/articles/SB10001424053111903596904576514583716653122) through the Equitable Sharing program, with over $5 billion having been distributed since the program’s inauguration in 1984 - a [slush fund](https://www.merriam-webster.com/dictionary/slush%20fund) for the anointed. If you’re thinking such funds are only exercised for the advancement of policing activities, you’d be dead wrong - law enforcement officers and officials have also used such “equitably shared” funds to [subsidize expensive parties, dinners, and personal expenses](https://harvardlawreview.org/2018/06/how-crime-pays-the-unconstitutionality-of-modern-civil-asset-forfeiture-as-a-tool-of-criminal-law-enforcement/). 
+同样值得注意的是，在美国的某些州， “[平等分享](https://www.justice.gov/criminal-mlars/equitable-sharing-program)” 条款的存在，使得被没收，被扣押的资产可以被分配给州政府和联邦执法当局。在2010年，有超过[5亿美元被分发给了官员和机构]。(https://www.wsj.com/articles/SB10001424053111903596904576514583716653122) 平等分享条款自1984年设立以来，有超过50亿美金被分发给相关人士：参见[贿赂基金](https://www.merriam-webster.com/dictionary/slush%20fund)。如果你认为这些资金只是用来推进警务活动，那你就大错特错了——执法人员和官员也将“平等分享”基金用于[补贴昂贵的政党活动、晚宴或个人开支](https://harvardlawreview.org/2018/06/how-crime-pays-the-unconstitutionality-of-modern-civil-asset-forfeiture-as-a-tool-of-criminal-law-enforcement/). 
 
-Recourse is difficult for the average person subjected to this civil rights chopping block. And, incentive to overstep is ripe for those at the legal helm. 
+对普通人而言，如果你被卷入民事没收案件，为自己申诉个人权利是困难重重的。而且那些法律部门的人也倾向于压制你。
 
-### Three Notable United States Civil Forfeiture Cases
+### 美国三起著名的民事没收案件
 
-**Case 1:** In 2013, a [Mississippi man was pulled over by local police](https://www.vice.com/en_ca/article/9bnezd/bad-cop-blotter-asset-forfeiture-the-cash-cow-of-the-drug-war) for a routine traffic stop which turned into anything but routine. After searching the vehicle of the car, a Mississippi officer found $360,000 stashed in a secret compartment of the car. I’m sure you can guess what happens next. The money was confiscated by police, however proof of a committed crime was never actually furnished. 
+**案例一:** 2013年，[一名密西西比男子被当地警察拦下](https://www.vice.com/en_ca/article/9bnezd/bad-cop-blotter-asset-forfeiture-the-cash-cow-of-the-drug-war)，声称要进行例行的交通检查，结果却是除了例行检查之外的事情都做了一遍。在搜查完毕这辆车之后，一个密西西比警官发现了车里有一个小隔间，里面藏了36万美金。我相信你能猜到后面发生了什么：警察没有提供任何的犯罪证据就把这三十六万美金没收了。
 
-**Case 2:** In the same year (2013), a Georgia woman, Alda Gentile, and her son were pulled over (her son was the one driving) for speeding. [Georgia police searched the car for drugs](https://www.marketplace.org/2016/04/06/world/controversial-civil-forfeiture-program-back-action), and ultimately found and seized $11,530, which Gentile noted was for a house-hunting trip in Florida. Gentile was never charged with a crime, and was returned her money a week later. 
+**案例二:** 同年(2013)乔治亚州的一名女士Alda Gentile和她的儿子因为超速被拦下。（她的儿子是驾驶员） [乔治亚州警方在车上搜查毒品](https://www.marketplace.org/2016/04/06/world/controversial-civil-forfeiture-program-back-action)警方在车上搜到了11530美金，尽管Gentile解释到这是为了去佛罗里达州的一次狩猎旅行而准备的，警方仍然没有给出任何犯罪证据就没收了这笔钱。直到一周后这笔钱才被退还给她。
 
-**Case 3:** In 2014, Christos and Markella Sourovelis, [parents of a 22-year-old, were in for a surprise](https://edition.cnn.com/2014/09/03/us/philadelphia-drug-bust-house-seizure/) after the police showed up at their door, arresting their son for the sale of $40 worth of heroin. Authorities accused the son of selling drugs out of their home, something both parents emphatically denied any knowledge of. Nearly two months later, the police returned to seize their house - power was turned off, doors were locked and bolted, and the family was forced out onto the street for the day. 
+**案例三:** 2014年，Christos和Markella Sourovelis，[一位22岁男人的父母](https://edition.cnn.com/2014/09/03/us/philadelphia-drug-bust-house-seizure/)惊讶地发现有警察在他们家门口，以出售40美元的海洛因为罪名逮捕了他们的儿子，当局指控他们的孩子在家中出售海洛因，而他的父母否认了这一点。两个月之后，警察查封了他们的房屋，切断了电源，封上了门，最后这家人被迫在街头过夜。
 
-Police and prosecutors adamantly argued that because their son had been selling drugs out of the house, it was subject to state civil forfeiture laws. After an unconscionable courtroom battle (due to imbalanced bargaining power and due process) and eight days of staying with family, the Sourovelises were allowed back into their house under the condition that they permanently ban their son from it. 
+警察和检察官坚持认为因为他们的孩子在家中贩卖毒品，所以要遵循民事没收法。经过了一场不合理的法庭斗争（因为双方的议价能力和程序不对等)和八天对家庭的监视，这对夫妇终于得到允许回到他们的房子里，然而他们的孩子被永久禁止回家。
 
-Keep in mind, this is just a fraction of [the billions which are seized every year](https://harvardlawreview.org/2018/06/how-crime-pays-the-unconstitutionality-of-modern-civil-asset-forfeiture-as-a-tool-of-criminal-law-enforcement/) in unlawful ways. 
+请记住，这些事只是 [每年被没收的数十亿美金中](https://harvardlawreview.org/2018/06/how-crime-pays-the-unconstitutionality-of-modern-civil-asset-forfeiture-as-a-tool-of-criminal-law-enforcement/)的一小部分。
   
-## How Monero Can Serve the People & Insulate From Inequitable Civil Forfeiture Laws
+## 门罗币如何为我们服务以及如何把我们从不公正的民事没收事件中解脱出来
 
-Monero, a secure, fast, and - most importantly - private digital currency, stands to benefit those who might otherwise fall prey to constitutional violations and broad, pernicious interpretations of the law. 
+门罗币，作为一种安全、快速，以及最重要的：匿名的数字货币，可以保护人们免受违宪或对法律进行过度阐释的行为造成的损害。
 
-Regarding inequitable civil forfeiture laws of the United States (and a [minority of other jurisdictions](https://en.wikipedia.org/wiki/Asset_forfeiture#European_Union)), Monero specifically avails itself to prevent the following: 
+门罗币对于美国不公平的民事没收法 (和其他 [司法管辖区的少数民族](https://en.wikipedia.org/wiki/Asset_forfeiture#European_Union))，致力于防止以下情况：
 
-1. Predatory Government & Police Behavior, and
-2. Disproportionate & Arbitrary Punishment.
+1.政府和警察的掠夺性行为；
+2. 不合理的和随意的处罚。
 
-Let’s take a brief look at how Monero may be used to prevent both. 
+让我们来简单地看一下门罗币是如何防止这两种情况发生的。
 
-### Predatory Police & Government Official Behavior
+### 警察和政府的掠夺性行为
 
-As we noted with the United States ‘Equitable Sharing’ program employed by some states, the system incentivizes abusive and predatory police and official behavior, as government officials and agencies freely operate with often unvetted impunity. Liquid assets, such as money, jewelry, vehicles, and houses offer a tempting grab for officials, with two of the four [giving rise to a high presumption of illegal activity](https://www.npr.org/templates/story/story.php?storyId=91490480) in police eyes. Cash and jewelry are also easily converted to police equipment and other instruments. 
+正如我们之前提到的那样，美国的一些州实行“平等分享”计划，该制度鼓励官员和警察滥用权力进行掠夺行为。因为政府机构和官员可以自由运作相关事宜，并不会受到相关审查。流动资产如现金、珠宝、车辆或房屋对执法者而言充满吸引力，其中四种资产中的现金和珠宝[很容易被警察视为与非法活动有关](https://www.npr.org/templates/story/story.php?storyId=91490480)。而且这两种物品都很容易被警方拿去换取警务设备或变卖成其他物品。 
 
-Furthermore, most states and the federal government sanction law enforcement agencies and officials to [keep 90% of profits](https://www.forbes.com/2011/06/08/property-civil-forfeiture.html#2f2b943439fa) from forfeited assets, giving rise to a clear profit motive, which in turn, taints the core of the forfeiture ethos. 
+此外，大多数州和联邦政府许可执法机构和官员[从被没收的资产中保留90%作为利润](https://www.forbes.com/2011/06/08/property-civil-forfeiture.html#2f2b943439fa)，由此给了这些执法人员利润动机，并使得民事没收偏离了最初的初衷，成为了敛财手段。
 
-*But, what if an individual’s assets and worth is held in digital form?*
+*但是，如果一个人的资产和金钱是以虚拟形式持有的呢？*
 
-If there’s no tangible asset in plainview of an officer or official, the likelihood of search and seizure significantly decreases. 
+如果在执法人员面前你没有很多的有形资产，那么被随意没收的概率就会大大降低。
 
-Cue Monero and other privacy-preserving coins. While most P2P cryptocurrencies and pseudo-anonymous cryptocurrencies are a step in the right direction towards emancipation from today’s predatory and long-arm civil forfeiture laws and enforcement, they are still not immune - having been monitored and tracked to some degree by [private companies and government agencies through UTXOs](https://bitcoinist.com/yes-your-bitcoin-transactions-can-be-tracked-and-here-are-the-companies-that-are-doing-it/). 
+比如，你可以使用门罗币或其他匿名币。虽然大多数P2P加密货币和伪匿名币朝着正确的方向迈出了一步，尝试着把我们从随意的民事没收法和执法机构中解脱出来，但是它们仍然并不具有对审查和监控的免疫力[私人机构和政府正在通过UTXOs进行监控](https://bitcoinist.com/yes-your-bitcoin-transactions-can-be-tracked-and-here-are-the-companies-that-are-doing-it/)。
 
-Monero, on the other hand, operates using substantial differences (from Bitcoin) in blockchain obfuscation, through the [CryptoNote protocol](https://cryptonote.org/) - whereby ring signatures hide a spender’s input among multiple other possible inputs, increasing difficulty in establishing links with following transactions. While [Malte Möser of Princeton University noted that roughly 62% of Monero transactions](https://www.technologyreview.com/s/610807/sitting-with-the-cyber-sleuths-who-track-cryptocurrency-criminals/) were vulnerable to a disentangling analysis (in April, 2018), it was not for lack of protocol inadequacies, rather human error and sloppy privacy practices. 
+然而，门罗币通过[CryptoNote协议](https://cryptonote.org/)，在区块链层面使用了和比特币完全不同的方法进行混淆，以达成匿名效果。其通过环签名隐藏发送者的输入，并与其他可能的输入进行混淆，增加了跟踪和鉴别特定交易的难度。虽然[普林斯顿大学的Malte Möser指出有大约62%的门罗币交易](https://www.technologyreview.com/s/610807/sitting-with-the-cyber-sleuths-who-track-cryptocurrency-criminals/)容易受到破坏性分析的影响(2018年4月)，但这并不是协议有缺陷，而是因为人为因素和隐私保护不当所造成的。
 
-Via CryptoNote’s ring signatures, should [law enforcement and officials seize a computer (or 130)](https://www.heritage.org/economic-and-property-rights/commentary/civil-asset-forfeiture-has-created-serious-problems), they will ultimately fail in attempted decipher of fund origination, due to everyone in a group signing pool being a potential signatory. Emphatically, Monero’s fungibility removes any “[unique identifier which can tie a single XMR coin’s transactions through time.](https://www.monerooutreach.org/preserving-fundamental-rights.php)” And, there's no compromise of third-party privacy in a measurable way, due to no true link between parties. Thanks to Monero, both sender and receiver identity is cryptographically protected, along with the sum transacted. 
+通过CryptoNote的环签名，即便[执法人员或官员扣押了计算机](https://www.heritage.org/economic-and-property-rights/commentary/civil-asset-forfeiture-has-created-serious-problems)，他们最终也无法破译资金来源，因为签名池中的每个人都是一个可能的资金来源地。更重要的是，门罗币的可互换性移除了任何“[通过追溯交易以标记特定门罗币](https://www.monerooutreach.org/preserving-fundamental-rights.php)”的可能性。而且，由于交易的双方之间没有任何可供联系起来的线索，第三方无法以任何方式破坏用户隐私。多亏了门罗币，交易双方的身份以及金额都受到了密码学上的保护。
 
-When there’s near zero chance (should human handling error be eliminated) of officials and law enforcement ever recovering one’s XMR, the likelihood of subverting state law to cooperate with federal authorities to further equitable sharing agreements will likely decrease. 
+当执法人员和官员找回XMR的概率几乎为零时（此处排除人为保密不当因素），当局破坏州法律以进一步施行平等分享的可能性就会降低。
 
-### Disproportionate & Arbitrary Punishment
+### 不成比例和随意处罚
 
-As a result of decreased police and government official predatory behavior, so too will the disproportionate (and oftentimes arbitrary) punishment of forfeiture lessen. With fewer tangible assets to claim and attribute to illicit activities, the potential levy and execution on such assets is far less likely.
+随着警察和官员的掠夺性执法行为的减少，不成比例的（而且大多是随意的）没收处罚也会相应减少。同样地，随着需要申报的有形财产变得越来越少，有可能被视为和非法活动有关的资产变得越来越少，对此类资产的潜在征税可能性和罚没的可能性要小很多。
 
-Under the Excessive Fines Clause (applicable to state and local governments under the Due Process Clause) of the [Eighth Amendment of the United States Constitution](https://constitutioncenter.org/interactive-constitution/amendments/amendment-viii), federal, state, and local government imposition of excessive bail, cruel and unusual punishments, and fines is prohibited. However, as we’ve seen from the above examples, the codified prohibition of excessive fines ultimately falls short in today's legal landscape. 
+根据[美国宪法第八修正案](https://constitutioncenter.org/interactive-constitution/amendments/amendment-viii)，中的“过度罚款”条款（适用于正当程序条款下的州和地方政府），联邦，州和地方政府的超额保释、过重的罚金和过于严苛的处罚都是被禁止的。然而，正如我们在上面的例子中所看到的，在美国当下的法律环境中，已出台的禁止过多罚款的法令仍然是不足的。
 
-Untraceable digital currencies, such as Monero, tender unprecedented privacy to those storing life-changing amounts of money, which otherwise might be removed via excessive fine and never reimbursed. The mass adoption and use of privacy-preserving cryptocurrencies also lends itself to a potential decrease in exorbitant and sustained court battles to recover property (as there is no traceable property to go after), battles that the “politically weak” and financially poor often are unable to contest. 
+像门罗币这类无法追踪的加密货币，为那些辛苦存储能改变人生的钱的人提供了前所未有的隐私保护。如果没有这种隐私保护，这些钱可能被随意罚没，并永远无法得到应有的补偿。如果匿名币得到了广泛采用，我们就可以减少为追回合法财产而在法庭上进行的旷日持久的争论（因为没有可被追踪和审查的财产）。这种法庭上的斗争恰恰是经济弱势的穷人和政治弱势的人群无法应对的。
 
-Monero stands to act as a marble plinth of equity in the courts, should an individual ever find themselves in such a prejudiced legal fight for what is rightfully theirs.
+如果人们在法庭上一直在为自己的合法权益而进行着一场明显对自己有偏见的法律斗争，他们会发现门罗币会为他们提供一个公正、公平的环境。
 
 
-## Final Thoughts
+## 结语
 
-While cryptocurrencies do authorize never-before-seen ways to protect oneself against egregious government overreach, it’s important to understand that not all coins support the same levels of functionality and protection. 
+虽然加密货币为我们的资产提供了前所未有的保护，以防止自己的财产受到不断扩张的政府权力的干预，但我们需要认识到，并非所有的加密货币都提供了这种保护功能和强大的保护水平。
 
-Monero embodies a true privacy coin which separates itself from the likes of Bitcoin, due to its core focus on privacy and fungibility, and provides an extra layer of protection for individuals who may have their computer and crypto seized and surveilled by government officials. Additionally, it provides a platform for users to securely store funds that might otherwise fall prey to excessive fines in tangible and changeable form. 
+门罗币正因为在隐私和匿名性上的专注，将其自身与比特币区分开来。因为门罗币聚焦于隐私和可互换性，并为那些电脑上存有加密货币的个人提供了额外保护，以防止政府官员的审查与扣押和对电脑的监控。此外，门罗币还为其用户提供了一个可以安全存储资金的方式，否则这些资金随时都有被扣押或收取过高罚金的可能。
 
-As noted above, change is not effective immediately, and it takes time for a bucket to fill with rain drops before swaying in favor of the water’s direction. Just as civil forfeiture missteps and abuse won’t vanish overnight, Monero and other privacy coins offer refuge for the subdued. 
+如上所述，这种改变并不是立即生效的。一个水桶要装满水，需要时间来装满雨滴，然后这个桶才会顺着有利于水的方向摇晃。正如民事没收的随意和滥用不会在一夜之间消失一样，门罗币和其他匿名币为潜在的受害者们提供了庇护。
 
