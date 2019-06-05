@@ -1,4 +1,4 @@
-#Monero: Um refúgio para as severas leis de confisco civil (Parte 1)
+# Monero: Um refúgio para as severas leis de confisco civil (Parte 1)
 *15/04/19*
 Obiter Cryptum
 
@@ -21,11 +21,11 @@ Nesse primeiro dos três artigos da série, eu guiarei vocês pelas regras de co
 
 ## Confisco civil nos Estados Unidos
 
-*"A ideia de chegar às pessoas através das suas propriedades tem uma longa história. As teorias são bem antigas. A prevalência da prática é comparativamente recente" - Daniel C. Richman (1999)
+*"A ideia de chegar às pessoas através das suas propriedades tem uma longa história. As teorias são bem antigas. A prevalência da prática é comparativamente recente"* - Daniel C. Richman (1999)
 
 Dito de maneira simples, [o confisco civil refere-se a um processo legal](https://www.direitonet.com.br/dicionario/exibir/1482/Confisco) no qual oficiais da lei "tomam" ativos (dinheiro, propriedade, e outros bens tangíveis) de indivíduos suspeitos de praticar atividades criminais. *Soa nobre, não?*  *Afinal, o mundo não seria um lugar melhor se pudéssemos prevenir os crimes antes mesmo de eles acontecerem?* Enquanto na teoria talvez seja algo bom, esse processo legal mal definido e invasivo tem, infelizmente, causado inúmeros problemas e gerado graves excessos do governo.
 
-Com raízes na lei naval britânica e datando dos anos 1600, o confisco civil tornou-se uma indústria bilionária do governo nos últimos 30 anos. Essas leis têm dado apoio a uma tendência cada vez mais forte e agressiva rumo ao excesso - saltando de aproximadamente $93,7 milhões de dólares em bens e dinheiro apreendidos em 1986 [para mais de $2,5 bilhões de dólares em 2010](https://www.bbc.com/portuguese/noticias/2015/06/150612_eua_confisco_mdb_ac)
+Com raízes na lei naval britânica e datando dos anos 1600, o confisco civil tornou-se uma indústria bilionária do governo nos últimos 30 anos. Essas leis têm dado apoio a uma tendência cada vez mais forte e agressiva rumo ao excesso - saltando de aproximadamente $93,7 milhões de dólares em bens e dinheiro apreendidos em 1986 [para mais de $2,5 bilhões de dólares em 2010](https://www.bbc.com/portuguese/noticias/2015/06/150612_eua_confisco_mdb_ac).
 
 Embora possa haver mérito, causa provável ou preponderância de evidências (estados dos EUA têm diferentes critérios de prova para as leis de confisco) a favor da apreensão de alguns bens e ativos, estimativas classificam [mais de 85% dos confiscos civis ao longo dos anos](https://www.conjur.com.br/2016-jul-02/alguns-estados-eua-comecam-frear-industria-confisco-civil) como injustificados e frívolos. Só em 2010, estima-se que houve 11 mil casos de confiscos não-criminais nos EUA, sendo que apenas 1/10 deles foram levados ao Tribunal Federal. Uma estimativa do escritor do SFGate, Stewart M. Powell, aponta que o percentual de propriedades apreendidas pelo governo que foram devolvidas aos seus donos [são míseros 1%](https://www.sfgate.com/news/nation-world/article/Asset-forfeiture-both-an-effective-tool-4546043.php).
 
