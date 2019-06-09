@@ -1,5 +1,5 @@
 # Monero: Um refúgio para as severas leis de confisco civil (Parte 1)
-*15/04/19*
+*15/04/19*  
 Obiter Cryptum
 
 
