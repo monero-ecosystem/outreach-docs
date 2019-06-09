@@ -1,5 +1,5 @@
-# Наш ответ Reuters
-*05/20/2019*
+# Наш ответ Reuters  
+*05/20/2019*  
 Reuters опубликовали статью, посвящённую Monero, и нам хотелось бы поделиться своей точкой зрения.
 
 На прошлой неделе, 14 мая 2019, Reuters опубликовали статью, в которой были описаны особенности и характеристики криптовалюты Monero ([reuters.com/article/us-crypto-currencies-altcoins-explainer-idUSKCN1SL0F0](https://www.reuters.com/article/us-crypto-currencies-altcoins-explainer-idUSKCN1SL0F0)). Мы хотели бы поблагодарить новостное агентство за серию статей, посвящённых альтернативам Bitcoin, а также за выбор Monero в числе первых!
