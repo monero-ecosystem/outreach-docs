@@ -28,7 +28,7 @@ We appreciate the section about law enforcement and regulators, and would like t
 
 + Just last week, FinCEN issued new guidance on cryptocurrencies that would be particularly relevant here (fincen.gov/sites/default/files/2019-05/FinCEN CVC Guidance FINAL.pdf). Their guidance matches the recommendations made by the legal experts at Coin Center, who have publicly advised US congress on these matters, and clearly indicates that regulations are not a risk to Monero (coincenter.org/entry/fincen-s-new-cryptocurrency-guidance-matches-coin-center-recommendations).
 
-+ An important feature of Monero that applies to regulation is the public view key, which provides any end user control over others viewing transactions, which can be useful for a number of things, one of which being to make regulators happy by enabling audits (getmonero.org/resources/moneropedia/viewkey.html).
++ An important feature of Monero that applies to regulation is the public view key, which provides any end user control over others viewing transactions, which can be useful for a number of things, one of which being to make regulators happy by enabling audits ([getmonero.org/resources/moneropedia/viewkey.html](https://web.getmonero.org/resources/moneropedia/viewkey.html)).
 
 We would further like to take this opportunity to discuss two key features in a bit more depth.
 
