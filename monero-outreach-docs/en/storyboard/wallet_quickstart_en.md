@@ -45,7 +45,6 @@ MyMonero is a light, browser-based wallet. It is also available as an iOS app an
 
 + [ledger.com](https://shop.ledger.com/?r=92d74dc2847a)  
 Ledger is a highly secure device that stores your mnemonic seed.
-Not Applicable
 
 + [trezor.io](https://trezor.io/)  
 Trezor is an alternative highly secure device that stores your mnemonic seed.
