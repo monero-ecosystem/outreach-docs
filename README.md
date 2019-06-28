@@ -1,5 +1,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/monero-ecosystem/outreach-docs.svg)
 
+### For [Monerokon](https://www.youtube.com/playlist?list=PLsSYUeVwrHBkJHJg_l2uDgbicDJ1PmAVW) transcriptions click [here](https://github.com/monero-ecosystem/outreach-docs/tree/master/monero-outreach-docs/en/transcriptions/)
+
 # How to contribute
 
 Welcome to the Monero Outreach. This directory contains all the final versions of the documents published by the Monero Outreach Workgroup and the documents of the Monero Meetup Kit. You will also find the translation directory. 
