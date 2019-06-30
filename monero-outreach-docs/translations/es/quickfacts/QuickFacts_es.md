@@ -2,11 +2,11 @@
 
 Monero es una moneda digital segura, privada y no rastreable disponible para todos. Sus características lo hacen dinero fungible.
 
-# HOJA DE DATOS
+## HOJA DE DATOS
 
 Los usuarios pueden gastar de una manera segura, nadie puede ver sus balances ni rastrear sus actividades a menos que el usuario les de el permiso.
 
-Revisado 01/Feb/2019 - [Versión para imprimir](http://www.monerooutreach.org/pubs/2018/QuickFacts/Quick-facts_es_version-para-imprimir.pdf)  
+Revisado 20/Mayo/2019 - [Versión para imprimir](http://www.monerooutreach.org/pubs/2018/QuickFacts/Quick-facts_es_version-para-imprimir.pdf)  
 Creado para la comunidad por Monero Outreach
 
 - [Versión a Color](https://www.monerooutreach.org/pubs/2018/QuickFacts/QuickFacts_es.pdf)
@@ -67,7 +67,7 @@ Quiere decir que la palabra Monero se puede definir como: “verbo que describe 
 
 **Trayectoria de la recompensa por bloque de Monero:** La recompensa gradualmente caerá hasta que inicie la emisión definitiva (tail emission) a finales de mayo del 2022. En este punto, las recompensas estarán fijas en 0.6 XMR por bloque. La emisión definitiva proveerá con un continuo e indefinido incentivo para minar. Adicional a esto y quizás lo más importante, la emisión definitiva proveerá a Monero con una estable y predecible inflación incorporada, esencial para el dinero real, dinero estable (sound money).
 
-**El Laboratorio de Investigación de Monero:** Monero no sólo está comprometido en hacer una moneda fungible, sino también en la continua investigación en el campo de la privacidad financiera que involucra a las criptomonedas en general. Con ese fin, investigadores académicos en campos de matemáticas, física, seguridad y computación en blockchain han publicado **[libros blancos](https://lab.getmonero.org/)** y tienen muchas otras **[metas de investigación](https://getmonero.org/es/design-goals/)** en las que están trabajando.
+**El Laboratorio de Investigación de Monero:** Monero no sólo está comprometido en hacer una moneda fungible, sino también en la continua investigación en el campo de la privacidad financiera que involucra a las criptomonedas en general. El [Laboratorio de Investigación de Monero](https://web.getmonero.org/es/resources/research-lab/) (MRL-siglas en inglés) es un grupo de investigadores académicos en campos de  matemáticas, física, seguridad y computación de la tecnología blockchain quienes investigan soluciones para Monero y publican documentos académicos con sus hallazgos. 
 
 **La minería es accesible:** Cualquiera que pueda conectarse a un dispositivo o navegador web puede participar.
 
@@ -79,14 +79,14 @@ El historial financiero privado protege a los consumidores y las compañías de 
 
 ### FUNDAMENTOS TÉCNICOS
 
-_(A partir del 1/Feb/2019)_
-+ **Total de Nodos activos:** 1,564 (Fuente: https://monerohash.com/nodes-distribution.html)
-+ **Tasa hash de la red:** 663.2 MH/s
-+ **Promedio de Transacciones/Hora:** 149 (Promedio de 30 días)
-+ **CPU centrales protegiendo la red:** 22,234,297
-+ **Monero en circulación:** 16,758,217 XMR (Aproximado)
-+ **Capitalización de mercado:** $732,932,071 USD (~0.65% capitalización del mercado de criptomonedas)
-+ **Actual recompensa por bloque:** 3.22 XMR
+_(A partir del 20/Mayo/2019)_
++ **Total de Nodos activos:** 1,516 (Fuente: https://monerohash.com/nodes-distribution.html)
++ **Tasa hash de la red:** 292.3 MH/s
++ **Promedio de Transacciones/Hora:** 400 (Promedio de 30 días)
++ **CPU centrales protegiendo la red:** 9,741,776
++ **Monero en circulación:** 16,992,041 XMR (Aproximado)
++ **Capitalización de mercado:** $1,449,743,819 USD (~0.60% capitalización del mercado de criptomonedas)
++ **Actual recompensa por bloque:** 2.77 XMR
 + **Promedio del intervalo por bloque:** 2 minutos
 
 _La tasa de recompensa disminuirá de manera gradual hasta el final de mayo del 2022, cuando estén en circulación 18.132 millones de XMR, en cuyo punto la recompensa definitiva por bloque será de 0.6 XMR._
@@ -97,11 +97,11 @@ _Con una emisión definitiva (tail emission) de 0.6 XMR/bloque, para el 2040 hab
 
 A pesar de que Monero ya está disponible y está siendo usado a nivel global, la comunidad de desarrolladores tienen metas emocionantes para aumentar la privacidad, la seguridad y las características de usabilidad para Monero y las criptomonedas en general. Estas son algunas próximas a ser lanzadas:
 
-**Kovri:** Esta es una gran actualización de privacidad, agregando una cuarta capa de privacidad a las transacciones de Monero. Kovri utiliza **[encriptación-garlic](https://getmonero.org/es/resources/moneropedia/garlic-encryption.html)** (piensa en Tor con esteroides) para enmascar las direcciones IP de los emisores y receptores utilizando la red de Monero. Cada capa de la transacción de Monero, desde el emisor, receptor, la cantidad de transacciones y (con Kovri) el pilar de la transacción, serán privadas y seguras con el estado del arte de la encriptación.
+**RandomX:** Es un nuevo tipo de algoritmo de prueba-de-trabajo (PoW) diseñado para prevenir la centralización de la minería por los ASICs y estimular la minería igualitaria en CPU para asegurar la red. RandomX está en el proceso de auditoría y se espera que entre a la red en la próxima actualización.
 
-**Monederos físicos (hardware):** Los famosos monederos Ledger y Trezor están trabajando en agregar a Monero (Ledger es soportado desde los monederos CLI 0.12.2 y GUI 0.12.3). La comunidad de Monero está financiando a un equipo de trabajo que está desarrollando **[un monedero físico](http://kastelo.org/)** construido sobre las características distintivas de Monero. Ambos monederos Ledger y Trezor fueron anticipados de ser operacionales a finales del 2018.
+**Limpieza de la blockchain (pruning):** Monero, para facilitar la escabilidad, recientemente agregó la característica de la limpieza de la blockchain a su software. Esta característica le permite a los usuarios "limpiar", de manera óptima, dos terceras partes de la información de la blockchain mientras que se sigue contribuyendo a la red. 
 
-**Kasisto:** Esta **[solución para punto de venta](https://github.com/amiuhle/kasisto)** facilita las ventas entre comerciantes y negocios.
+**I2P-zero:** Es un proyecto de Monero que crea un espacio óptimo que puede ser fácilmente enlazado con Monero, para la instalación de la red I2P con cero dependencia (cero dependencia se refiere a que no es necesario la red I2P para el funcionamiento de Monero). Esto le permite a los usuarios usar los nodos de Monero de una manera más privada al proteger los metadatos y ocultar la dirección IP.
 
 
 ## RECURSOS ADICIONALES
@@ -119,7 +119,7 @@ A pesar de que Monero ya está disponible y está siendo usado a nivel global, l
 + **_[Mastering Monero)](https://masteringmonero.com/)_**
 + **_[Satis Group Report](https://research.bloomberg.com/pub/res/d37g1Q1hEhBkiRCu_ruMdMsbc0A)_**
 
-**Datos Informátivos de Monero - Revisado el 1/Feb/2019**
+**Datos Informátivos de Monero - Revisado el 20/Mayo/2019**
 **Creado para la comunidad por Monero Outreach.**
 
 **Monero Outreach se dedica a crecer la aceptación y la adopción a través de la educación y las relaciones publicas. Tus donaciones lo hacen posible.**
