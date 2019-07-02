@@ -1,9 +1,23 @@
-ASIC-Resistant Proof of Work: Fact or Fantasy
-Howard Chu, Symas Corporation
+# Howard Chu
+_**ASIC-Resistant Proof of Work: Fact or Fantasy?**_  
+
+Software engineer and genius of optimization, with proven track record of world's fastest multiprocessor TCP stack, world's fastest Appletalk stack, world's fastest LDAP server, faster than realtime speech recognition, faster than realtime radar data demux/decoders, etc. 
+
+**ASIC-Resistant Proof of Work: Fact or Fantasy**  
+_Howard Chu, Symas Corporation_  
+[youtu.be/4Hkd-n1W_e4](https://youtu.be/4Hkd-n1W_e4)  
+
+[MoneroTalk](https://www.youtube.com/channel/UC3Hx81QYLoEQkm3vyl4N4eQ) w/ Fluffy Pony & Howard Chu at MoneroKon 2019! - [youtu.be/VyuKbwQvtRw](https://youtu.be/VyuKbwQvtRw)  
+
+_**Abstract**_
+
+The original CryptoNote whitepaper makes the case for egalitarian mining and defined the CryptoNight PoW algorithm to achieve this objective. Time and technology have progressed, and specialized mining hardware manufacturers have conquered all of CryptoNight’s technical obstacles. The debate over whether ASIC-resistance is actually achievable or even desirable continues, but the Monero Project has so far continued to uphold this principle of egalitarian mining. This talk will investigate the question of ASIC inevitability and what approaches we’ve explored to mitigate the advantages of fixed-function mining ASICs. It will also give an introduction to RandomX, the new PoW algorithm we’ve proposed for Monero, based on the lessons we’ve learned so far.
+
+_**Transcription**_
 
 Well, I'm Howard Chu, a founder of Symas Corporation. We actually celebrated our twentieth anniversary just last week, and I've been writing software for something like forty years now. I've been part of open source from the beginning of open source, I've worked on all the GNU utilities, compiler, debugger, linker, texinfo, all that stuff. I not only have software on pretty much every computer on earth, I also have software that's run in orbit, never crashed. A few things that I've done, noteworthy, over time. I have a fondness for fast software. Security: I've also done a lot with cryptography over time, secure authentication and various security systems.
 
-OK, so, to the meat of the matter. When we're talking about ASIC resistance, what does it even mean, why does it matter, and then how do we get there ?
+OK, so, to the meat of the matter. When we're talking about ASIC resistance, what does it even mean, why does it matter, and then how do we get there?
 
 So, just to set the backdrop for all of this, where is all this discussion coming from, Monero, how's just based on the CryptoNote protocol, designed somewhere around 2013, 2014. You can see, just, if you read through the whitepaper, that it's a strong reaction to observing flaws in the design of Bitcoin. You can see that the Bitcoin notion of pseudonymity just isn't adequate to protect its users. The fact that the Bitcoin software has hardcoded constants in it that have severe impacts on its scalability was very obvious already. And while the design of Bitcoin was intended to be decentralised, the reality was that there was heavy centralization going on in the Bitcoin ecosystem as early was 2013, 2014.
 
@@ -13,7 +27,7 @@ And then you can also see the evolution of mining technology. You can see where,
 
 And the very first ASIC, by today's standards, is just a very modest improvement, but that was already a fifty times improvement in efficiency. Today, nobody dreams of mining Bitcoin on their PC, because the ASIC advantage is on the order of millions. Millions of time more efficient than a CPU. The experience that we see from observing Bitcoin is that, "hey look at this: when you start depending on specialized hardware, you find that it automatically promotes centralization, which is something that we're trying to fight against the entire time, because centralized power means you have trust problems. Actually, Kristy mentioned this before as well, ASIC builders tend to use their own chips to mine for themselves rather than selling them to the general public. Or maybe they will sell them to the public, but only after the chips have become obsolete.
 
-So, how come these ASICs can be so effective ? And in this particular context, I'm still talking about the Bitcoin SHA-2 ASICs. And the reasons are fairly simple. First of all, the hardware itself is very simple, it's designed to do only a single thing, so it's fixed function hardware, it only has to do one thing and the thing that it does is fairly trivial. The SHA-2 algorithm was actually designed to be easy to compute. So the amount of work you're trying to accomplish there is very simple. And the algorithm itself is braindead easy, it runs in straight line, there's no decision points in it, you start at one side, you come out the other side, and that's it.
+So, how come these ASICs can be so effective? And in this particular context, I'm still talking about the Bitcoin SHA-2 ASICs. And the reasons are fairly simple. First of all, the hardware itself is very simple, it's designed to do only a single thing, so it's fixed function hardware, it only has to do one thing and the thing that it does is fairly trivial. The SHA-2 algorithm was actually designed to be easy to compute. So the amount of work you're trying to accomplish there is very simple. And the algorithm itself is braindead easy, it runs in straight line, there's no decision points in it, you start at one side, you come out the other side, and that's it.
 
 And so if you look at the hardware for SHA-2, you find that it's got about a dozen components, it's really simple stuff. I don't expect you to read the circuit diagram on the right, but, trust me, it's just a couple of add operators, a couple of registers, and these things are trivial in integrated circuits.
 
@@ -43,7 +57,7 @@ OK, so, with RandomX, we want an algorithm that is so inefficient, that uses so 
 
 If you look at what we've done in RandomX, it actually uses 100% of the components of the core, but it doesn't use everything else on the chip. The CPU chip has other interfaces. It's got PCI express interfaces to all these other things, it's got an administration bus for inter-chip communication, system management, those are things that we can't really effectively utilize, just because they're so device specific. We can't account for them from one chip to another. But we can use all of the core and all of the memory interface.
 
-So how does it all work ? Well, we generate a random program, then we translate it into machine code, we execute the program and transform the output, so the most interesting part, the important part is step 3. And we want the overhead from the other steps to be as close to zero as possible because they're not really contributing to the work.
+So how does it all work? Well, we generate a random program, then we translate it into machine code, we execute the program and transform the output, so the most interesting part, the important part is step 3. And we want the overhead from the other steps to be as close to zero as possible because they're not really contributing to the work.
 
 And as I mentioned before, generating a random program is kinda of a tricky part, if you're using a high level language, you have to construct it according to very strict rules otherwise the code doesn't execute and so the standard way to do this is you build an abstract syntax tree where every node of the tree is a statement in your program. And the funny thing is, you go from this abstract syntax tree to program source code, and then you feed the source code to a compiler, and the compiler parses the source code and turns it into an abstract syntax tree, which you just had, so there's a lot of redundant work going in there, and so that worked against us as far as making an effective proof of work algorithm, and if you are building an ASIC to process this, you can bypass all the redundant work, and if you bypass that work that means you've got an efficiency advantage. So this was something that killed the RandomJS idea. So the best approach that we have now is we generate just random bytes, there is no syntax, there are no construction rules. 
 
