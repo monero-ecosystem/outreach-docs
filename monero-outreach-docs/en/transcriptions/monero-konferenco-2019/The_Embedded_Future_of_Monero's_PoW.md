@@ -3,7 +3,11 @@ _**The Embedded Future of Monero's PoW**_
 
 Miss Minehan has served as an advisor for multiple companies on blockchain technologies and semiconductor engineering, and currently sits as Chief Technology Officer for Core Scientific, a US-based corporation with a focus on infrastructure at scale.
 
-MoneroTalk w/ Kristy-Leigh Minehan of Core Scientific on lifesaving drones that mine XMR - [youtu.be/gSlf0EpHQVQ](https://youtu.be/gSlf0EpHQVQ)
+**The Embedded Future of Monero’s Proof of Work**  
+_Kristy-Leigh Minehan, Core Scientific_  
+[youtu.be/jDSKIr5EPiU](https://youtu.be/jDSKIr5EPiU)  
+
+[MoneroTalk](https://www.youtube.com/channel/UC3Hx81QYLoEQkm3vyl4N4eQ) w/ Kristy-Leigh Minehan of Core Scientific on lifesaving drones that mine XMR - [youtu.be/gSlf0EpHQVQ](https://youtu.be/gSlf0EpHQVQ)
 
 _**Abstract**_
 
