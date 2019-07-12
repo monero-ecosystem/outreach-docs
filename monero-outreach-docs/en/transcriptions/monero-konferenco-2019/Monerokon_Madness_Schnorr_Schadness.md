@@ -1,9 +1,20 @@
-﻿Transcription
-Monerokon Madness: Schnorr Schadness
-Talk made by:
-Andrew Poelstra, Blockstream
-Link: youtube.com/watch?v=L6KqkrP_nU4
--
+# ﻿Andrew Poelstra
+_**Practical Challenges of Compact Threshold Signatures**_
+
+Andrew Poelstra has been working as a cryptographer in the Bitcoin and cryptocurrency space for the last six years. He is best known for his off-brand use of digital signatures in the form of "scriptless scripts". Currently he is the Director of Research at Blockstream.
+
+**Practical Challenges of Compact Threshold Signatures**
+_Andrew Poelstra, Blockstream_
+[youtu.be/L6KqkrP_nU4](https://youtu.be/L6KqkrP_nU4)
+
+_**Abstract**_
+
+Schnorr signatures, like the ed25519 signatures used in Monero, have a simple structure which allows multiple parties to jointly compute a single signature. These signatures can be validated in the ordinary way against a joint public key computed as a combination of individual signers’ keys and for which no individual signer knows the complete secret key. However, while such multi-signatures are simple to describe mathematically, they require a more complex security model able to handle adversarial behavior by individual signers, such as “rogue key attacks”. Further, practical implementations of multiparty protocols such as this require careful consideration of uniform random number generation, denial-of-service attacks, replay attacks and more. In this talk, we discuss our work addressing these challenges using the secp256k1 elliptic curve (which is analogous to ed25519), as well as the additional challenges presented by the generalization from n-of-n multisignatures to k-of-n threshold signatures.
+
+_**Transcription**_
+
+**Monerokon Madness: Schnorr Schadness**
+
 As Brandon mentioned, I’m here to talk about the challenges of implementing threshold signatures, the challenges of implementing Schnorr signatures. So I’ll give a little bit of background about what that means and then just sort of list-- go through a series of problems that I have encountered over the last couple years. Not all at once is terrible, every couple of months is like some new weird surprising thing here.
 
 So to start, let me explain, where I'm I pointing this, there we go. Let me explain what a Schnorr signature is. So, a Schnorr signature is a digital signature algorithm. Digital signature algorithms they are kind at the heart of cryptocurrencies of all shapes and sizes. Bitcoin uses something called ECDSA. There is a proposal for Bitcoin to change ECDSA or to add Schnorr signatures to Bitcoin as part of a protocol called Taproot. But lots of other currencies such as Monero, have had Schnorr signatures pretty much forever. Monero has had, by virtue of using the ed25519 library end curve, has been using Schnorr signatures since back when it was ByteCoin. Although, I should maybe give a caveat that the Monero style signatures are actually part of a much larger scheme (Ring CT), which [Aravind](https://www.monerooutreach.org/monero-konferenco/sri-aravinda-krishnan-thyagarajan.php) talked about in a fair bit more detail.
