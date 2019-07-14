@@ -1,5 +1,19 @@
-Perfect Privacy or Strong Deniability?
-Dr. Brandon Goodell, Monero Research Lab
+# Dr. Brandon Goodell
+_**Perfect Privacy or Strong Deniability?**_ 
+
+Brandon is a mathematician and researcher and Monero Research Lab. He has contributed to the Monero community since 2014. His work has most recently been focused on security proofs for new cryptographic protocols as well as statistical approaches to blockchain analysis. 
+
+**Perfect Privacy or Strong Deniability?**  
+_Dr. Brandon Goodell, Monero Research Lab_  
+[youtu.be/xicn4rdUj_Q](https://youtu.be/xicn4rdUj_Q)  
+
+[MoneroTalk](https://www.youtube.com/channel/UC3Hx81QYLoEQkm3vyl4N4eQ) w/ Brandon Goodell of the Monero Research Lab at MoneroKon 2019! - [youtu.be/0zEzCvZN9j8](https://youtu.be/0zEzCvZN9j8)
+
+_**Abstract**_
+
+Most customers (say Alice and Bob) of privacy-respecting ledgers use a custodial exchange (Eve). Such an exchange can easily ascertain what happened in the event that Alice withdraws from Eve, then Alice sends to Bob, and then Bob deposits at Eve. We discuss how heuristics for tracing the flow of money in a privacy-respecting ledger can be used to construct statistical hypotheses, how parallelizable graphtheoretic approaches can be used to construct maximum likelihood estimates under these hypotheses of the transaction history in polylogarithmic time, and how custodial exchanges can leverage their custodial information to assess the goodness of their estimates. These techniques can be used to rapidly test hypotheses of customer behavior, but suffer issues with sensitivity and specificity (especially against customers with knowledge of the underlying heuristics, who may attempt a frame-up on other customers). We show some preliminary results about how the anonymity set size influences both the power of these tests and the time it takes to apply these approaches. We conclude the privacy claims in cryptocurrencies like Monero or Zcash reduce to that of plausible deniability against adversaries with extra knowledge.
+
+_**Transcription**_
 
 Hi everyone.
 
@@ -91,8 +105,12 @@ Short answer, no. Long answer is it's complicated. And the reason is because ban
 
 Any other questions, before...
 
-**Sarang:** I have a quick one. So you talked about there probably being a sweet spot in terms of anonymity set size and that that depends a lot on the power of your adversary. So, just on the spot, what is that number, do you know what it is? Do you have an order of magnitude estimate for it?
+**Sarang:** I have a quick one. 
 
-42. No. So, the first diagram that Mitchell showed was like a three-ary tree, because it's splitted into 3 branches at every node. And a tree like that, which is like the idealized case, it should be like - you have exponential growth of three to the n, and in those sorts of examples I've seen numbers as low as like 23 for ring sizes that seemed to be sufficient against reasonable models. On the other hand, that's an idealized model, and in the Monero blockchain, this tree can't grow forever. Eventually, it starts to overlap onto itself because there's only a finite number of nodes. And in the end, it's not clear. But, I personally advocate a slightly larger ring size at all times. 
+Yes.
+
+**Sarang:** So you talked about there probably being a sweet spot in terms of anonymity set size and that that depends a lot on the power of your adversary. So, just on the spot, what is that number, do you know what it is? Do you have an order of magnitude estimate for it?
+
+42, no. So, the first diagram that Mitchell showed was like a three-ary tree, because it's splitted into 3 branches at every node. And a tree like that, which is like the idealized case, it should be like - you have exponential growth of three to the n, and in those sorts of examples I've seen numbers as low as like 23 for ring sizes that seemed to be sufficient against reasonable models. On the other hand, that's an idealized model, and in the Monero blockchain, this tree can't grow forever. Eventually, it starts to overlap onto itself because there's only a finite number of nodes. And in the end, it's not clear. But, I personally advocate a slightly larger ring size at all times. 
 
 
