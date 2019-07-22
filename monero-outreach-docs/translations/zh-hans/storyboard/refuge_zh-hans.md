@@ -37,7 +37,7 @@ Obiter Cryptum
 
 **案例一:** 2013年，[一名密西西比男子被当地警察拦下](https://www.vice.com/en_ca/article/9bnezd/bad-cop-blotter-asset-forfeiture-the-cash-cow-of-the-drug-war)，声称要进行例行的交通检查，结果却是除了例行检查之外的事情都做了一遍。在搜查完毕这辆车之后，一个密西西比警官发现了车里有一个小隔间，里面藏了36万美金。我相信你能猜到后面发生了什么：警察没有提供任何的犯罪证据就把这三十六万美金没收了。
 
-**案例二:** 同年(2013)乔治亚州的一名女士Alda Gentile和她的儿子因为超速被拦下。（她的儿子是驾驶员） [乔治亚州警方在车上搜查毒品](https://www.marketplace.org/2016/04/06/world/controversial-civil-forfeiture-program-back-action)警方在车上搜到了11530美金，尽管Gentile解释到这是为了去佛罗里达州的一次狩猎旅行而准备的，警方仍然没有给出任何犯罪证据就没收了这笔钱。直到一周后这笔钱才被退还给她。
+**案例二:** 同年(2013)乔治亚州的一名女士Alda Gentile和她的儿子因为超速被拦下。（她的儿子是驾驶员） [乔治亚州警方在车上搜查毒品](https://www.marketplace.org/2016/04/06/world/controversial-civil-forfeiture-program-back-action)警方在车上搜到了11530美金，尽管Gentile解释到这是为了去佛罗里达州找新房而准备的，警方仍然没有给出任何犯罪证据就没收了这笔钱。直到一周后这笔钱才被退还给她。
 
 **案例三:** 2014年，Christos和Markella Sourovelis，[一位22岁男人的父母](https://edition.cnn.com/2014/09/03/us/philadelphia-drug-bust-house-seizure/)惊讶地发现有警察在他们家门口，以出售40美元的海洛因为罪名逮捕了他们的儿子，当局指控他们的孩子在家中出售海洛因，而他的父母否认了这一点。两个月之后，警察查封了他们的房屋，切断了电源，封上了门，最后这家人被迫在街头过夜。
 
