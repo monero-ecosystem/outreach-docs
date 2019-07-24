@@ -1,4 +1,19 @@
-MoneroKon 2019 - Achieving Secure Deployment of High-Stakes Software (Sebastian Kung)
+# Sebastian Kung 
+_**Achieving Secure Deployment of High-Stakes Software**_  
+
+Sebastian is a physics student at the university of Zurich, and works for a hardware wallet company. He contributes to various cryptocurrency related projects.  
+
+**Achieving Secure Deployment of High-Stakes Software**  
+_Sebastian Kung, University of Zurich_  
+[youtu.be/5xust7eXpDM](https://youtu.be/5xust7eXpDM)  
+
+MoneroTalk w/ Sebastian Kung on Reproducible Builds at MoneroKon 2019! - [youtu.be/mXyNrsfaLpE](https://youtu.be/mXyNrsfaLpE)  
+
+_**Abstract**_
+
+A tampered release of Monero could have catastrophic consequences. Widespread methods to secure releases, like publishing a signed checksum of the binary, do not offer protection against rollback attacks, the maintainer releasing a binary containing malicious code, or users not checking signatures. I will present an introduction to reproducible builds, cross platform toolchains, update systems and user-friendly verification methods to ensure binary integrity.
+
+_**Transcription**_
 
 So I will be talking about software deployments, reproducible builds, and then I'll give some comments on why reproducible builds are still not enough. We need even better systems.
 
@@ -14,11 +29,11 @@ On free software deployment where the user is able to study, tweak, share, and r
 
 But this still kind of leaves the question open, how do we take care of updates? So in app stores, for example, updates are being taken for you more or less automatically. The developer can just publish a new version to the app store and your phone will then updates the app automatically. Monero in the other hand - we do have an update system but we have to make sure that it also checks for some weird things like that old versions aren't replyed again which will still have valid checks on the [signatures](https://web.getmonero.org/resources/moneropedia/signature.html) but might contain exploits that are dangerous to the user. So we need some way to take care of this toxic waste. 
 
-The way this is being done usually is through the [Update Framework or TUF](https://theupdateframework.github.io/), short. And this spells out very precisely how to roll out updates securely. Beautiful closed source software, compiled software, just the script, whatever. Basically, the user keeps a record of the binary checksums, signatures, and versions in a separate file. That separate file is not [inaudible]() separately from the actually binary. Then checks are made for attacks that no time warping has occurred and this gives you reasonable security. Monero's update system was also evaluated against TUF in Monero [Issue #4958](https://github.com/monero-project/monero/issues/4958). Please take a look at this, Jasonhcwong, the producer of the Monero blocks made some really great points on there. 
+The way this is being done usually is through the [Update Framework or TUF](https://theupdateframework.github.io/), short. And this spells out very precisely how to roll out updates securely. Beautiful closed source software, compiled software, just the script, whatever. Basically, the user keeps a record of the binary checksums, signatures, and versions in a separate file. That separate file is not [inaudible] separately from the actually binary. Then checks are made for attacks that no time warping has occurred and this gives you reasonable security. Monero's update system was also evaluated against TUF in Monero [Issue #4958](https://github.com/monero-project/monero/issues/4958). Please take a look at this, Jasonhcwong, the producer of the Monero blocks made some really great points on there. 
 
-Next to more or less in [inaudible]() to TUF, Monero also implements [dnssec](https://en.wikipedia.org/wiki/Domain_Name_System_Security_Extensions) with additional fallbacks to protect against [spoofing attacks](https://www.veracode.com/security/spoofing-attack) when you have automatic updating available.
+Next to more or less in [inaudible] to TUF, Monero also implements [dnssec](https://en.wikipedia.org/wiki/Domain_Name_System_Security_Extensions) with additional fallbacks to protect against [spoofing attacks](https://www.veracode.com/security/spoofing-attack) when you have automatic updating available.
 
-So I'm going to make a little detour now and talk about static and dynamic linking of compiled software. So most software that is shipped in Debian for example, is shipped as a dynamic binary. Meaning it loads its required libraries from the system at run-time. You can to a certain to degrees freely swap out these shared libraries that you are [inaudible]() executable links to. As long as they follow a common ABI. So for example, if you publish a binary on Debian with apps, so for example [monerod](https://src.getmonero.org/resources/user-guides/vps_run_node.html), and you then check what its dependence soft links are, you can do so with ldd and will give you a whole list of dependencies. This also gives you quite some transparency because you actually see what the developer used to compile your executable. 
+So I'm going to make a little detour now and talk about static and dynamic linking of compiled software. So most software that is shipped in Debian for example, is shipped as a dynamic binary. Meaning it loads its required libraries from the system at run-time. You can to a certain to degrees freely swap out these shared libraries that you are [inaudible] executable links to. As long as they follow a common ABI. So for example, if you publish a binary on Debian with apps, so for example [monerod](https://src.getmonero.org/resources/user-guides/vps_run_node.html), and you then check what its dependence soft links are, you can do so with ldd and will give you a whole list of dependencies. This also gives you quite some transparency because you actually see what the developer used to compile your executable. 
 
 But there's obviously a big downside to it. Mainly that you need to manage all these shared libraries yourself and if one of them goes missing obviously your executable won't run properly. This also counts for [inaudible] missing but also having version mismatches, etc. And if you deploy for example an application like monerod to Windows, you have to include all the dynamic libraries with the binary directly. So these are non-system dependencies that are not being updated regularly on Windows, so you can't rely on Windows to patch your dependencies for you. So for example, if OpenSSL is having an exploit, monerod will have to re-compile everything and ship it with that new version of OpenSSL.
 
@@ -54,4 +69,4 @@ So what we need to have again is full bootstrapability of our toolchain. And thi
 
 I will probably start working on Guix integration next and once that is done deploying and verifying will be even more simple than the system we have currently. Basically, just run Linux and execute one or two commands.
 
-Before I finish I quickly want to than iDunk, Howard Chu, ph4r05, mooo and Surae for supporting me in for the work I did over the past year and especially to Surae for organizing the conference.
+Before I finish I quickly want to thank iDunk, Howard Chu, ph4r05, mooo and Surae for supporting me in for the work I did over the past year and especially to Surae for organizing the conference.
