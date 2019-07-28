@@ -1,4 +1,17 @@
-MoneroKon 2019 - Bringing Privacy Mainstream: Building Demand for Shifting Global Demographics
+# Amanda Cavaleri
+_**Bringing Privacy Mainstream: Building Demand Within Shifting Local and Global Demographics**_  
+
+Amanda Cavaleri is a results-driven entrepreneur and startup business development executive. She has 10 years experience at the intersection of shifting demographics and emerging technology, ranging from global concern to hyperlocal concerns along the Rocky Mountains.
+
+**Bringing Privacy Mainstream: Building Demand Within Shifting Local and Global Demographics**
+_Amanda Cavaleri_
+[youtu.be/mg9In-WDnFc](https://youtu.be/mg9In-WDnFc)
+
+_**Abstract**_
+
+Technological advancements have gifted Generation Z with tools to shape their futures while at the same time gifting longevity to their grandparents. By 2030, there will be 1 billion humans over the age of 65. This demographic has a dramatic upside in protecting their privacy, including preventing financial fraud, harassing robocalls, and leaking detrimental health data, but where do we begin? Technology that speaks directly to the needs of this cohort will build strong lobbying coalitions and an even stronger consumer base. Protecting and enhancing privacy for the Baby Boomers has the potential to build the foundational user-base for privacy-centric solutions as they largely can afford to support it and value the implications.
+
+_**Transcription**_
 
 And we just hatched a little plan to get Jerry back-up here to the last of my last five minutes because I think the law is pretty to understand. So if you could let me know when that is so we can get him up here and have some of my five minutes that's super important. A little bit more than mainstream got to focus on the law first.
 
