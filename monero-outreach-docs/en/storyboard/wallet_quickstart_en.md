@@ -1,6 +1,6 @@
 # Monero Wallet Quickstart
-*04/22/19*  
-Almutasim  
+*04/22/19* Almutasim  
+*07/28/19* revised
 _**Wallets involve one of the most important security decisions that users make.**_
 
 
@@ -10,7 +10,7 @@ To experience this power, you will need to pick a wallet. The first critical asp
 
 Some wallets operate using their own copy of the Monero blockchain. This is also called running a full node. It gives you control over the timeliness of your transactions. Though you can rely on a remote node without added risk of losing your Monero, you do depend on the remote node’s availability—you can always receive, but you may not be able to send. Another benefit of running your own full node is pride of contribution to the Monero network. Honest full nodes make Monero stronger. Learn more here: [monero.how/how-to-run-monero-node](https://www.monero.how/how-to-run-monero-node).
 
-Benefits of relying, instead, on remote nodes—using what are called light, or sometimes lightweight, wallets—include not needing storage resources for the Monero blockchain. The (unpruned) blockchain is larger than 50 GB and growing. Many wallets that use remote full nodes also use less processing power and network bandwidth. If these resources are limited on your computing device, a light wallet may be preferred. This will almost always be the case for a wallet running on a smartphone.
+Benefits of relying, instead, on remote nodes—using what are called light, or sometimes lightweight, wallets—include not needing storage resources for the Monero blockchain. The (unpruned) blockchain is larger than 75 GB (07/28/19) and growing. Many wallets that use remote full nodes also use less processing power and network bandwidth. If these resources are limited on your computing device, a light wallet may be preferred. This will almost always be the case for a wallet running on a smartphone.
 
 Light wallets come in two types: view-key-protecting and view-key-sharing. View-key-protecting light wallets keep your view key completely private, and as a consequence have to download the blockchain, or at least the portion of it later than the wallet’s creation date, to calculate the Monero balance in the wallet. View-key-sharing light wallets, on the other hand, share the view key with the server running the remote node to calculate the wallet’s incoming balance on the server. These efficient wallets are sometimes called wallet apps. Their sharing of the view key reduces privacy if the server running the view-key-aware remote node is not trusted because it allows observation of incoming transactions. Note, however, that sometimes wallet holders share the view key for auditing anyway—it does not allow transferring Monero.
 
