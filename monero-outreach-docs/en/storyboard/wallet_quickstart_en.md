@@ -1,6 +1,6 @@
 # Monero Wallet Quickstart
-*04/22/19* Almutasim  
-*07/28/19* revised
+*04/22/19*  
+Almutasim  
 _**Wallets involve one of the most important security decisions that users make.**_
 
 
