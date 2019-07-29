@@ -1,6 +1,6 @@
 # Portefeuille Monero, démarrage rapide
-*22/04/2019* Almutasim  
-*28/07/2019* mis à jour
+*22/04/2019*  
+Almutasim  
 _**Les portefeuilles impliquent l'une des décisions les plus importantes que doivent prendre les utilisateurs.**_
 
 Un portefeuille logiciel Monero est un programme permettant de stocker, envoyer et recevoir des Monero. Il vous donne le contrôle absolu sur vos Monero en toute confidentialité et sans intermédiaire. Personne ne peut connaître ou modifier l'ensemble des détails de vos transactions, à moins que vous n'ayez décidé de partager vos clefs de lecture à des fins d'audit, ce qui est l'essence même de l'expérience Monero.
