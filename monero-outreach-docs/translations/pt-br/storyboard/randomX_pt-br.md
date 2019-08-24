@@ -2,11 +2,11 @@
 *05/06/19*
 _**Monero e Arweave para validar o algoritmo de prova de trabalho.**_
 
-Em que ano estamos? Até parece que foi ontem que eles diziam que moedas privadas não poderiam ser podadas (do inglês "pruned") e que ASICs venceriam no final. Mas aqui estamos...prestes a podar e falando do RandomX...usando nossos capacetes espaciais. O RandomX ainda precisa passar pelo processo de ser testado e validado, mas é uma parte empolgante da "pipeline" do Monero. Este guia dará uma visão geral da natureza e dos planos do RandomX e onde você pode aprender mais.
+Em que ano estamos? Até parece que foi ontem que eles diziam que moedas privadas não poderiam ser melhoradas e que ASICs venceriam no final. Mas aqui estamos...prestes a melhorar e falando do RandomX...usando nossos capacetes espaciais. O RandomX ainda precisa passar pelo processo de ser testado e validado, mas é uma parte empolgante da "pipeline" do Monero. Este guia dará uma visão geral da natureza e dos planos do RandomX e onde você pode aprender mais.
 
 ## _O que é o RandomX?_
 
-RandomX é um novo algoritmo de prova de trabalho (do inglês Proof-of-work, PoW) que o Monero está programando para começar a rodar na próxima atualização de rede. O RandomX foi projetado para ser resistente aos ASICs, utilizando um código de execução aleatório e técnicas pesadas para memória para prevenir que hardwares especializados em mineração dominem a rede. Como o RandomX é otimizado para CPUs de uso geral, a rede se torna mais decentralizada e igualitária na distribuição de recompensas de bloco.
+RandomX é um novo algoritmo de prova de trabalho (do inglês Proof-of-work, PoW) que o Monero está programando para começar a rodar na próxima atualização de rede. O RandomX foi projetado para ser resistente aos ASICs, utilizando um código de execução aleatório e técnicas complexas para memória para prevenir que hardwares especializados em mineração dominem a rede. Como o RandomX é otimizado para CPUs de uso geral, a rede se torna mais decentralizada e igualitária na distribuição de recompensas de bloco.
 
 Howard Chu (hyc) falará sobre o RandomX na [Monero Konferenco](https://monerokon.com/). Até lá, visite o [repositório do RandomX no GitHub](https://github.com/tevador/RandomX) para mais detalhes. À data de elaboração desse artigo, o RandomX estava começando seu processo de auditoria com a [Trail Of Bits](https://www.trailofbits.com/), a [X41](https://www.x41-dsec.de/), o [Quarkslab](https://www.quarkslab.com/en/) e o [Kudelski Group](https://www.nagra.com/). O RandomX está programado para ser ativado na próxima atualização de rede do Monero.
 
