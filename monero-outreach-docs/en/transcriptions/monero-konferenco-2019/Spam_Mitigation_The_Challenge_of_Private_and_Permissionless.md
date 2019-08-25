@@ -1,4 +1,19 @@
-Spam Mitigation - The Challenge of Private and Permissionless Blockchains
+# Francisco Cabañas 
+_**Spam Mitigation and Blockchain Size Control in Privacy Supporting Permissionless Blockchains**_  
+
+Based in Canada, Francisco holds a PhD in Physics and has extensive business and non-profit experience. He has actively researched and invested in cryptocurrencies, since 2011, and focuses on the economic, social, regulatory and long-term economic viability aspects of cryptocurrencies. Francisco has been a Core Team Member of the Monero Project since 2016.
+
+**Spam Mitigation and Blockchain Size Control in Privacy Supporting Permissionless Blockchains**  
+_Francisco Cabañas, The Monero Project_  
+[youtu.be/Hbm0ub3qWw4](https://youtu.be/Hbm0ub3qWw4)
+
+[MoneroTalk](https://www.youtube.com/channel/UC3Hx81QYLoEQkm3vyl4N4eQ) w/ Francisco "Articmine" Cabanas at MoneroKon 2019! - [youtu.be/eqx2sYIkWpA](https://youtu.be/eqx2sYIkWpA)  
+
+_**Abstract**_
+
+The use of privacy technologies in a permissionless blockchain limits the use of many common anti spam measures and also limits the use of many measures to control the overall size of the blockchain. This is especially true where the transaction amount is not visible on the blockchain. Censorship is an example of such an anti spam and size limiting measure. Monero is a good example of a permissionless blockchain with a very high degree of fungibility, privacy and anonymity, that is not optional. We will examine the measures currently in use on the Monero blockchain to mitigate against spam and to control blockchain size with a particular emphasis on the most recent changes. This includes the use of pricing, monetary theory and dynamic limits. We will also examine current challenges including the measurement of technological change by the Monero blockchain and possible areas of research to address these challenges.
+
+_**Transcription**_
 
 So, what I'm going to be talking about today, is about mitigating spam, and otherwise known as blockchain control. And from a perspective of a lot of different blockchains, including Monero, well, of course, Monero but also some of the so-called new open blockchains.
 
