@@ -1,0 +1,8 @@
+# Lines starting with '#' are comments.
+# Each line is a file pattern followed by one or more owners.
+
+# Default for outreach repo
+*       @lh1008
+
+# for all the meetup-kit stuff
+/meetup-kit/  @erciccione
