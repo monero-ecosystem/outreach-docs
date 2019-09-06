@@ -48,12 +48,3 @@ So here's what happened with the NRA, so essentially after there was a school sh
 And if it wasn't clear enough, financial services superintendent Maria Vullo made it clear later in the same press release, and this is a quote from her "DFS urges all insurance companies and banks doing business in New York to join the companies who have already discontinued their arrangements with the NRA". So this is remarkable right. This is a governor telling financial intermediaries over which he has serious power that they must cut off one of his political opponents, not because that opponent broke any law but because it engages in speech and advocacy that is at odds with the governors views, right. And think about it, if this is successful, then the NRA is just the first one, tomorrow it could be in Alabama or Georgia it could be Planned Parenthood where the governor says I don't like them, cut them off. And if the NRA is cut off from having a bank account, and we live in a society without any cash, they're gone. They can't operate. It's a death sentence. And so, in a world that is increasingly intermediated and increasingly cashless, we have to have electronic cash, right. Because if cash is essential to an open society and society is going cashless, we need to have electronic cash. 
 
 And that is where I'm out of time, and I was going to talk to you about the law, but maybe I can do that in, later, you guys can come up and ask me any questions you want, and with that I'll say thank you.
-
-
-
-
-
-
-
- 
-
