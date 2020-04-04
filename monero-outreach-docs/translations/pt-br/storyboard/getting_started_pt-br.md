@@ -65,10 +65,10 @@ _Onde Começar?_ [repo.getmonero.org/monero-project/monero-site](https://repo.ge
 
 #### Hardware
 Elaborar um design de especificação aberta para uma carteira de hardware compatível com Monero e outros projetos de hardware.
-_Onde Começar?_ [taiga.getmonero.org/project/michael-rfc-hwallet-1-implementation]](https://taiga.getmonero.org/project/michael-rfc-hwallet-1-implementation/)
+_Onde Começar?_ [taiga.getmonero.org/project/michael-rfc-hwallet-1-implementation](https://taiga.getmonero.org/project/michael-rfc-hwallet-1-implementation/)
 
 #### Suporte
-Ajduar os usuários em uma variade de temas, incluindo confirar carteiras, conectar-se a nós, restaurar contas, transferir fundos e muito mais.
+Ajudar os usuários em uma variade de temas, incluindo configurar carteiras, conectar-se a nós, restaurar contas, transferir fundos e muito mais.
 _Onde Começar?_ [r/MoneroSupport](https://www.reddit.com/r/MoneroMining/), #monero-support & [monero.stackexchange.com](https://monero.stackexchange.com/)
 
 #### Minerando
