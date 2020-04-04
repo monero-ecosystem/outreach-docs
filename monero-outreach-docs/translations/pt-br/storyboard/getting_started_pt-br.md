@@ -1,42 +1,42 @@
-# Começar a ajudar o Monero
+# Começe a ajudar o Monero
 
 **_"A comunidade decentralizada do Monero é composta por um grupo de indivíduos altamente dinâmicos e espalhados por todo o planeta."_ - 21 de agosto de 2019**
 ___
 
-A comunidade decentralizada do Monero é composta por um grupo de indivíduos altamente dinâmicos e espalhados por todo o planeta. Um fato impressionante e pouco conhecido é que o Monero tem o terceiro maior número de contribuidores dentre todas as criptomoedas. Além disso, existem muitos grupos e projetos que desenvolveram-se em suporte ao Monero, e é relativamente fácil de começar a ajudá-los.
+A comunidade descentralizada do Monero é composta por um grupo de indivíduos altamente dinâmicos e espalhados por todo o planeta. Um fato impressionante e pouco conhecido é que o Monero tem o terceiro maior número de contribuidores dentre todas as criptomoedas. Além disso, existem muitos grupos e projetos que se desenvolveram em suporte ao Monero, e é relativamente fácil de começar a ajudá-los.
 
-Por favor use este artigo como uma fonte para apresender mais sobre o Monero, seu ecosistema, e como VOCÊ pode se envolver. Seja bem-vindo ao Monero. Esperamos que você fique por aqui.
+Por favor use este artigo como uma fonte para aprender mais sobre o Monero, seu ecossistema, e como VOCÊ pode se envolver. Seja bem-vindo ao Monero. Esperamos que você fique por aqui.
 
 [Desenvolvedores](https://www.monerooutreach.org/stories/getting-started-helping-monero.html#developers)
 [Grupos de Trabalho](https://www.monerooutreach.org/stories/getting-started-helping-monero.html#workgroups)
 [Participe da Conversa e Envolva-se](https://www.monerooutreach.org/stories/getting-started-helping-monero.html#join)
 [Outras Maneiras de Ajudar](https://www.monerooutreach.org/stories/getting-started-helping-monero.html#otherways)
 [Monero 101](https://www.monerooutreach.org/stories/getting-started-helping-monero.html#monero101)
-[Minerar Monero](https://www.monerooutreach.org/stories/getting-started-helping-monero.html#mining)
+[Minere Monero](https://www.monerooutreach.org/stories/getting-started-helping-monero.html#mining)
 
 ### Desenvolvedores
 
-Se você for desenvolvedor, te convidamos a entrar no time!
+Se você for desenvolvedor, lhe convidamos a entrar no time!
 
-A principal forma de começar é se tornando familiar com o código base, os padrões do _cryptonote_ e engajar-se com outros desenvolvedores. Todos os desenvolvedores de comunicam via IRC no #monero-dev ou #monero através dos servidores IRC do freenode. Aqui estão alguns recursos para desenvolvedores começarem:
+A principal forma de começar é se tornando familiar com o código base, os padrões do _cryptonote_ e engajar-se com outros desenvolvedores. Todos os desenvolvedores se comunicam via IRC no #monero-dev ou #monero através dos servidores IRC do freenode. Aqui estão alguns recursos para desenvolvedores começarem:
 
 - Código Fonte - [github.com/monero-project](https://github.com/monero-project)
 - _Issues_ em Aberto - [github.com/monero-project/monero/issues](https://github.com/monero-project/monero/issues)
-- Ecosistema do Monero - [github.com/monero-ecosystem](https://github.com/monero-ecosystem)
+- Ecossistema do Monero - [github.com/monero-ecosystem](https://github.com/monero-ecosystem)
 
 - Guias do Desenvolvedor - [web.getmonero.org/pt-br/resources/developer-guides](https://getmonero.org/pt-br/resources/developer-guides/)
 - Log dos Encontros de Desenvolvedores - [monerobase.com](https://monerobase.com/)
 - Espaços Monero de Desenvolvimento - [moneroworld.com/development.html](https://moneroworld.com/development.html)
 - Laboratório de Pesquisa Monero - [web.getmonero.org/pt-br/resources/research-lab](https://getmonero.org/pt-br/resources/research-lab/)
 
-Desenvolvedores também podem se interessar em participar em um ou mais dos muitos grupos de trabalho que existem dentro da comunidade Monero. Você pode encontrar uma lista completa dos mais ativos abaixo.
+Desenvolvedores também podem se interessar em participar em um ou mais dos vários grupos de trabalho que existem dentro da comunidade Monero. Você pode encontrar uma lista completa dos mais ativos abaixo.
 
 ### Grupos de Trabalho
 
-Abaixo está uma lista dos grupos de trabalho Monero e esta será atualiza à medida que novos grupos de trabalho forem criados. Se você tem uma idéia para um projeto de apoio ao Monero que não está atualmente nesta lista, tome a iniciativa e coloque-o em prática! Há alguns recursos disponíveis para a comunidade Monero para ajudar a facilitar o desenvolvimento e as operações dos nossos grupos de trabalho. Se você tiver alguma pergunta, entre em um dos fóruns e pergunte mesmo. Temos dezenas de colaboradores atenciosos que podem ajudar você a começar.
+Abaixo está uma lista dos grupos de trabalho Monero e esta será atualiza à medida que novos grupos de trabalho forem criados. Se você tem uma ideia para um projeto de apoio ao Monero que não está atualmente nesta lista, tome a iniciativa e coloque-o em prática! Há alguns recursos disponíveis para a comunidade Monero para ajudar a facilitar o desenvolvimento e as operações dos nossos grupos de trabalho. Se você tiver alguma pergunta, entre em um dos fóruns e pergunte mesmo. Temos dezenas de colaboradores atenciosos que podem ajudar você a começar.
 
 #### Desenvolvedor
-Desenvolver nos repositórios Monero core, incluindo o _daemon_, CLI, GUI e outros softwares críticos.
+Desenvolver nos repositórios Monero core, incluindo o _daemon_, CLI, GUI e outros softwares cruciais.
 _Onde Começar?_ [Ir para Seção](https://www.monerooutreach.org/stories/getting-started-helping-monero.html#developers)
 
 #### Comunidade
@@ -76,7 +76,7 @@ Proteger o blockchain do Monero. Inclui discussões sobre novas versões de soft
 _Onde Começar?_ [r/MoneroMining](https://www.reddit.com/r/MoneroMining/), #monero-pools & [@xmrmonerominers](https://t.me/xmrmonerominers)
 
 #### Negociações e _Trading_
-Discussões sobre preço XMR e especulação em geral.
+Discussões sobre preço do XMR e especulação em geral.
 _Onde Começar?_ [r/xmrtrader](https://www.reddit.com/r/xmrtrader/) & #monero-markets
 
 #### GUI
@@ -111,8 +111,8 @@ _Onde Começar?_ [taiga.getmonero.org/project/sgp-monero-meetup-kit](https://tai
 Colaborar para integrar o Monero em uma variedade de serviços, incluindo processadores de pagamento, corretoras descentralizadas e muito mais.
 _Onde Começar?_ [taiga.getmonero.org/project/serhack-monero-integrations](https://taiga.getmonero.org/project/serhack-monero-integrations/) & #monero-integrations
 
-#### Laboratório de Trasmissões Monero
-Com o objetivo de resolver problemas relacionados à transmissão de transações Monero através de infra-estrutura descentralizada e de código aberto (redes de malha, satélites e etc.)
+#### Laboratório de Transmissões Monero
+Tem como objetivo resolver problemas relacionados à transmissão de transações Monero através de infraestrutura descentralizada e de código aberto (redes de malha, satélites, etc.)
 _Onde Começar?_ [taiga.getmonero.org/project/xmrhaelan-monero-public-relations/epic/108](https://taiga.getmonero.org/project/xmrhaelan-monero-public-relations/epic/108)
 
 ### Participe da Conversa e Envolva-se
@@ -124,7 +124,7 @@ _Onde Começar?_ [taiga.getmonero.org/project/xmrhaelan-monero-public-relations/
 - Taiga - [taiga.getmonero.org/discover/search?order_by=-total_fans](https://taiga.getmonero.org/discover/search?order_by=-total_fans)
 - Stack Exchange - [monero.stackexchange.com](https://monero.stackexchange.com/)
 - Quora - [quora.com/topic/Monero](https://quora.com/topic/Monero)
-- IRC - [web.getmonero.org/community/hangouts](https://web.getmonero.org/community/hangouts) ou pesquise "monero" no IRC para obter a lista completa. Muitos deles também têm pontes para Mattermost, Slack, Matrix e etc.
+- IRC - [web.getmonero.org/community/hangouts](https://web.getmonero.org/community/hangouts) ou pesquise "monero" no IRC para obter a lista completa. Muitos deles também têm pontes para Mattermost, Slack, Matrix, etc.
 - Canais no Telegram – [t.me/monerotelegram](https://t.me/monerotelegram)
 
 ### Outras Maneiras de Ajudar
@@ -135,7 +135,7 @@ _Onde Começar?_ [taiga.getmonero.org/project/xmrhaelan-monero-public-relations/
 - Participe de um Grupo de Trabalho - [Ir para Seção](https://www.monerooutreach.org/stories/getting-started-helping-monero.html#workgroups)
 - Contribua com as futuras versões do livro Mastering Monero - [github.com/monerobook/monerobook](https://www.monerooutreach.org/stories/github.com/monerobook/monerobook) & [masteringmonero.com](https://masteringmonero.com/)
 - Responda perguntas no Stack Exchange - [monero.stackexchange.com](https://monero.stackexchange.com/)
-- Faça parte do Marketing de Guerrilla - [monerooutreach.org/guerrilla-toolkit.html](https://www.monerooutreach.org/guerrilla-toolkit.html)
+- Faça parte do Marketing de Guerrilha - [monerooutreach.org/guerrilla-toolkit.html](https://www.monerooutreach.org/guerrilla-toolkit.html)
 
 ### Monero 101
 ---
@@ -159,7 +159,7 @@ Abaixo estão ótimos recursos para quem quer se tornar mais proficiente e exper
 #### Sites
 
 - Curso Introdutório - [novicedock.com/learn/cryptocurrency/monero](https://novicedock.com/learn/cryptocurrency/monero)
-- Informações técnicas, tutoriais e etc. - [monero.how](https://monero.how/)
+- Informações técnicas, tutoriais, etc. - [monero.how](https://monero.how/)
 - Monero Outreach - [monerooutreach.org](https://www.monerooutreach.org/)
 
 - Fatos Rápidos - [monerooutreach.org/quick-facts.html](https://www.monerooutreach.org/quick-facts.html)
