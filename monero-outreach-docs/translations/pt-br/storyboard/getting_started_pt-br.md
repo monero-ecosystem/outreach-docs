@@ -117,7 +117,7 @@ _Onde Começar?_ [taiga.getmonero.org/project/xmrhaelan-monero-public-relations/
 
 ### Participe da Conversa e Envolva-se
 ---
-- Lista de E-mail - [lists.getmonero.org/postorius/lists/monero-announce.lists.getmonero.org](https://www.monerooutreach.org/stories/lists.getmonero.org/postorius/lists/monero-announce.lists.getmonero.org)
+- Lista de E-mail - [lists.getmonero.org/postorius/lists/monero-announce.lists.getmonero.org](https://lists.getmonero.org/postorius/lists/monero-announce.lists.getmonero.org/)
 - Reddit - [reddit.com/r/Monero](https://www.reddit.com/r/Monero/)
 - Twitter - [twitter.com/monero](https://twitter.com/monero)
 - Facebook - [facebook.com/monerocurrency](https://facebook.com/monerocurrency)
@@ -133,9 +133,9 @@ _Onde Começar?_ [taiga.getmonero.org/project/xmrhaelan-monero-public-relations/
 - Doar para o CCS - [ccs.getmonero.org](https://ccs.getmonero.org/)
 - Minerar Monero - [Ir para Seção](https://www.monerooutreach.org/stories/getting-started-helping-monero.html#workgroups)
 - Participe de um Grupo de Trabalho - [Ir para Seção](https://www.monerooutreach.org/stories/getting-started-helping-monero.html#workgroups)
-- Contribua com as futuras versões do livro Mastering Monero - [github.com/monerobook/monerobook](https://www.monerooutreach.org/stories/github.com/monerobook/monerobook) & [masteringmonero.com](https://masteringmonero.com/)
+- Contribua com as futuras versões do livro Mastering Monero - [github.com/monerobook/monerobook](https://github.com/monerobook/monerobook) & [masteringmonero.com](https://masteringmonero.com/)
 - Responda perguntas no Stack Exchange - [monero.stackexchange.com](https://monero.stackexchange.com/)
-- Faça parte do Marketing de Guerrilha - [monerooutreach.org/guerrilla-toolkit.html](https://www.monerooutreach.org/guerrilla-toolkit.html)
+- Faça parte do Marketing de Guerrilha - [monerooutreach.org/ferramentas-marketing-guerrilha.html](https://www.monerooutreach.org/ferramentas-marketing-guerrilha.html)
 
 ### Monero 101
 ---
@@ -162,9 +162,9 @@ Abaixo estão ótimos recursos para quem quer se tornar mais proficiente e exper
 - Informações técnicas, tutoriais, etc. - [monero.how](https://monero.how/)
 - Monero Outreach - [monerooutreach.org](https://www.monerooutreach.org/)
 
-- Fatos Rápidos - [monerooutreach.org/quick-facts.html](https://www.monerooutreach.org/quick-facts.html)
+- Fatos Rápidos - [monerooutreach.org/fatos-rapidos-monero.html](https://www.monerooutreach.org/fatos-rapidos-monero.html)
 - Análise SWOT - [monerooutreach.org/stories/monero_swot_analysis.html]](https://www.monerooutreach.org/stories/monero_swot_analysis.html)
-- Boas Práticas - [monerooutreach.org/monero_best_practices](https://www.monerooutreach.org/monero_best_practices)
+- Boas Práticas - [monerooutreach.org/praticas_recomendadas_monero](https://www.monerooutreach.org/praticas_recomendadas_monero/)
 - Guia Rápido da Carteira Monero - [monerooutreach.org/stories/monero_wallet_quickstart.html](https://www.monerooutreach.org/stories/monero_wallet_quickstart.html)
 - Moneropédia- [web.getmonero.org/pt-br/resources/moneropedia](https://web.getmonero.org/pt-br/resources/moneropedia)
 - Guias do Usuário - [web.getmonero.org/pt-br/resources/user-guides](https://web.getmonero.org/pt-br/resources/user-guides)
