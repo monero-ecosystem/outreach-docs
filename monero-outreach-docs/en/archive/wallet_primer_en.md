@@ -2,7 +2,6 @@
 
 **_“All you need to store Monero are primitive tools. A pencil and paper will do, but you can also carve it in stone or mold it in clay, paleolithic style. How is this possible?”_**
 _13th of July, 2020_
----
 
 It turns out a software wallet, the common way of storing Monero (XMR), does not actually hold your Monero in the conventional sense of the word wallet. Instead, Monero exists as records on a public ledger, the Monero blockchain, and your wallet holds a special password called the private spend key that allows changing those records. This article will give you background and guidance in how to use a physical copy of a private spend key—called a paper wallet—to store Monero.
 
