@@ -26,21 +26,21 @@ Nós não esperamos que você aceite nossas palavras por nada disso e encorajamo
 
 ### _Leitura Complementar:_
 
-- O que é Monero? (Website Oficial) [web.getmonero.org/get-started/what-is-monero](https://web.getmonero.org/get-started/what-is-monero/)
+- O que é Monero? (Website Oficial) [web.getmonero.org/pt-br/get-started/what-is-monero](https://web.getmonero.org/pt-br/get-started/what-is-monero/)
 - Porque Monero vs. Bitcoin (Monero.how) [monero.how/why-monero-vs-bitcoin](https://www.monero.how/why-monero-vs-bitcoin)
 - Porque Monero? (Monero World) [moneroworld.com/whymonero.html](https://moneroworld.com/whymonero.html)
-- [Monero Quick Facts](https://www.monerooutreach.org/quick-facts.html)
+- [Fatos rápidos Monero](https://www.monerooutreach.org/fatos-rapidos-monero.html)
 - Monero Means Money: Cryptocurrency 101, Live from Leipzig (Documentário) [communityworkgroup.org/monero-means-money](https://www.communityworkgroup.org/monero-means-money)
-- Mastering Monero (Book) [masteringmonero.com](https://masteringmonero.com/)
-- Zero to Monero (Book) [getmonero.org/library/Zero-to-Monero-2-0-0.pdf](https://web.getmonero.org/library/Zero-to-Monero-2-0-0.pdf)
+- Mastering Monero (Livro) [masteringmonero.com](https://masteringmonero.com/)
+- Zero to Monero (Livro) [getmonero.org/library/Zero-to-Monero-2-0-0.pdf](https://web.getmonero.org/library/Zero-to-Monero-2-0-0.pdf)
 
 ### _Adquirindo Monero_
 
 **Carteira.** Para começar a adquirir e usar Monero, você deve ter uma carteira Monero. Há várias opções de carteiras Monero e elas variam por características como facilidade de uso, segurança e portabilidade. Nós, em Monero Outreach, temos criado um [guia fácil para você aprender mais e iniciar com uma carteira Monero.](https://www.monerooutreach.org/stories/monero_wallet_quickstart.html).
 
-**Corretora.** Se você tem uma conta bancária ou já possui outras criptomoedas, você pode usar uma renomada corretora como [Binance.com](https://www.binance.com/) ou [Kraken.com](https://www.kraken.com/)  para adquirir Monero. O símbolo do Monero para negociação é XMR. Você pode transferir fundos diretamente de seu banco para uma exchange, comprar XMR, e transferir seus XMR para sua própria carteira Monero. Por favor note que algumas corretoras possuem apenas pares XMR com outra criptomoeda, então você pode precisar comprar outra criptomoeda primeiro e então trocar por XMR.  Encontre corretoras que listam Monero: 
+**Corretora.** Se você tem uma conta bancária ou já possui outras criptomoedas, você pode usar uma renomada corretora como [Binance.com](https://www.binance.com/) ou [Kraken.com](https://www.kraken.com/)  para adquirir Monero. O símbolo do Monero para negociação é XMR. Você pode transferir fundos diretamente de seu banco para uma corretora, comprar XMR, e transferir seus XMR para sua própria carteira Monero. Por favor note que algumas corretoras possuem apenas pares XMR com outra criptomoeda, então você pode precisar comprar outra criptomoeda primeiro e então trocar por XMR.  Encontre corretoras que listam Monero: 
 
-- [https://web.getmonero.org/community/merchants/#exchanges](https://web.getmonero.org/community/merchants/#exchanges)
+- [https://www.getmonero.org/pt-br/community/merchants/index.html#exchanges](https://www.getmonero.org/pt-br/community/merchants/index.html#exchanges)
 - [Monero Investor Resources](https://www.monerooutreach.org/investors/)
 - [https://coincodex.com/crypto/monero/exchanges/](https://coincodex.com/crypto/monero/exchanges/)
 
@@ -48,8 +48,8 @@ Nós não esperamos que você aceite nossas palavras por nada disso e encorajamo
 
 **Minerando.** Quando você minera Monero, você não apenas tem a chance de ganhar XMR em troca do poder de processamento de seu computador, como também estará tornando a rede mais segura. Monero tem um algoritmo inovador que torna possível minerar com um hardware convencional, e você pode começar a minerar sem investimento adicional. Comece a minerar:
 
-- [https://web.getmonero.org/get-started/mining/](https://web.getmonero.org/get-started/mining/)
-- [Mine Monero to Support the Network](https://www.monerooutreach.org/monero_best_practices/mine-to-support-the-network.html)
+- [https://www.getmonero.org/pt-br/get-started/mining/index.html](https://www.getmonero.org/pt-br/get-started/mining/index.html)
+- [Minerar Monero para apoiar a rede](https://www.monerooutreach.org/praticas_recomendadas_monero/mina-para-apoiar-a-rede.html)
 - [https://github.com/xmrig/xmrig](https://github.com/xmrig/xmrig)
 
 **Caixa eletrônico de Criptomoedas.** Você pode comprar XMR sem um banco usando dinheiro ou cartão de crédito nos caixas eletrônicos de criptomoedas ao redor do mundo. Geralmente cobram altas taxas mas elas são convenientes. Para localizar uma perto de você, use um serviço como [CoinAMTRadar.com](https://coinatmradar.com/) e filtre o mapa por moedas: Monero (XMR) e Operação: Compra.
@@ -57,12 +57,12 @@ Nós não esperamos que você aceite nossas palavras por nada disso e encorajamo
 **Aceitando Monero (para negócios).** A comunidade global de desenvolvedores por trás do Monero tem criado ferramentas para capacitar empresas a aceitarem Monero por produtos e serviços. Cortar os altos custos de intermediários e deixar seus clientes pagarem frações de centavos sem taxas. Aprenda mais:
 
 - [Monero Outreach Merchant Services](https://www.monerooutreach.org/merchants/)
-- [https://web.getmonero.org/community/merchants/](https://web.getmonero.org/community/merchants/)
+- [https://www.getmonero.org/pt-br/community/merchants/index.html](https://www.getmonero.org/pt-br/community/merchants/index.html)
 - [https://www.projectcoralreef.com/](https://www.projectcoralreef.com/)
 
 ### _Usando Monero_
 
-**Melhores Práticas.** Ao contrário do Bitcoin, Monero é designado para ser completamente privado e irrastreável. São habilidades básicas que deve ser aprendidas para tirar o máximo de proveito do Monero. [Aprenda mais sobre as melhores práticas do Monero.](https://www.monerooutreach.org/monero_best_practices/)
+**Melhores Práticas.** Ao contrário do Bitcoin, Monero é designado para ser completamente privado e irrastreável. São habilidades básicas que deve ser aprendidas para tirar o máximo de proveito do Monero. [Aprenda mais sobre as melhores práticas do Monero.](https://www.monerooutreach.org/praticas_recomendadas_monero/)
 
 **Enviando e pagando com XMR.** Esta é uma função básica de qualquer carteira Monero. Você precisa do endereço (ou um QR code) do destinatário a quem você deseja enviar fundos e precisa ter saldo em Monero na sua carteira. Se você estiver tendo problemas, há dezenas de tutoriais e fóruns online com boas pessoas que podem ajudá-lo com isto.
 
@@ -70,7 +70,7 @@ Nós não esperamos que você aceite nossas palavras por nada disso e encorajamo
 
 ### _Usando Monero para Mudar o Mundo_
 
-Se você chegou até aqui, você provavelmente tem noção, assim como nós, de que o Monero tem poder para mudar o mundo para melhor. É importante entender que Monero é liderado por voluntários, uma comunidade de código aberto. Se você se sentir atraído em seguir em frente contribuindo com seu tempo, talento, ou riqueza para salvaguardar seu futuro, [aprenda como você pode iniciar ajudando Monero](https://www.monerooutreach.org/stories/getting-started-helping-monero.html).
+Se você chegou até aqui, você provavelmente tem noção, assim como nós, de que o Monero tem poder para mudar o mundo para melhor. É importante entender que Monero é liderado por voluntários, uma comunidade de código aberto. Se você se sentir atraído em seguir em frente contribuindo com seu tempo, talento, ou riqueza para salvaguardar seu futuro, [aprenda como você pode iniciar ajudando Monero](https://www.monerooutreach.org/historias/comec-ajudar-monero.html).
 
 Em um mundo de incertezas, nós temos a responsabilidade de lutar por ferramentas que nos deixem viver livres de opressão. A única maneira de encontrar a paz será quando tivermos poder para nos livrar das garras de governos opressores e bancos centrais e nos unirmos com pessoas que desejam viver livremente. Até sermos responsáveis por nosso próprio futuro e resgatar nossa independência social e financeira, não haverá justiça e não haverá paz.
 
