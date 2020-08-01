@@ -71,7 +71,7 @@ curl -X POST [uwillrunanodesoon.moneroworld.com:18089/json_rpc](http://uwillruna
 curl -X POST [127.0.0.1:18081/json_rpc](http://127.0.0.1:18081/json_rpc) -H 'Content-Type:application/json' --data "{\"jsonrpc\":\"2.0\",\"id\":\"0\",\"method\":\"get_block_count\"}"
 ```
 
-Больше информации по RPC интерфейсу _monerod_ можно получить по ссылке:[web.getmonero.org/resources/developer-guides/daemon-rpc.html](https://web.getmonero.org/resources/developer-guides/daemon-rpc.html). А дополнительную информацию по RPC интерфейсу можно найти, посетив [web.getmonero.org/resources/developer-guides/wallet-rpc.html](https://web.getmonero.org/resources/developer-guides/wallet-rpc.html)
+Больше информации по RPC интерфейсу _monerod_ можно получить по ссылке:[web.getmonero.org/resources/developer-guides/daemon-rpc.html](https://www.getmonero.org/ru/resources/developer-guides/daemon-rpc.html). А дополнительную информацию по RPC интерфейсу можно найти, посетив [web.getmonero.org/resources/developer-guides/wallet-rpc.html](https://www.getmonero.org/ru/resources/developer-guides/wallet-rpc.html)
 
 ##### _Пример #2: Настройка демона и кошелька​_
 ---
