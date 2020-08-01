@@ -23,10 +23,10 @@
 - Исходный код - [github.com/monero-project](https://github.com/monero-project)
 - Открытые вопросы - [github.com/monero-project/monero/issues](https://github.com/monero-project/monero/issues)
 - Экосистема Monero - [github.com/monero-ecosystem](https://github.com/monero-ecosystem)
-- Руководства для разработчиков - [web.getmonero.org/resources/developer-guides](https://web.getmonero.org/resources/developer-guides)
+- Руководства для разработчиков - [web.getmonero.org/resources/developer-guides](https://www.getmonero.org/ru/resources/developer-guides/index.html)
 - Журналы встреч разработчиков - [monerobase.com](https://monerobase.com/)
 - Пространство разработки Monero - [moneroworld.com/development.html](https://moneroworld.com/development.html)
-- Исследовательская лаборатория Monero (Monero Research Lab) - [web.getmonero.org/resources/research-lab](https://web.getmonero.org/resources/research-lab)
+- Исследовательская лаборатория Monero (Monero Research Lab) - [web.getmonero.org/resources/research-lab](https://www.getmonero.org/ru/resources/research-lab/index.html)
 
 Разработчиков также может заинтересовать участие в одной или во множестве рабочих групп, существующих в рамках сообщества Monero. Довольно полный список наиболее активных в настоящий момент групп приводится ниже.
 
@@ -52,7 +52,7 @@ _С чего начать?_ [taiga.getmonero.org/project/xmrhaelan-monero-public
 
 #### Исследовательская лаборатория Monero
 Проведение исследований в области протокола Monero и соответствующего программного обеспечения.
-_С чего начать?_ [web.getmonero.org/resources/research-lab](https://web.getmonero.org/resources/research-lab/) и #monero-research-lab​
+_С чего начать?_ [web.getmonero.org/resources/research-lab](https://www.getmonero.org/ru/resources/research-lab/index.html) и #monero-research-lab​
 
 #### Рабочая группа по противодействию вредоносному программному обеспечению
 Помощь жертвам вредоносного программного обеспечения, включая помощь пострадавшим от нежелательного браузерного майнинга, системного майнинга и вымогательского программного обеспечения.
@@ -64,7 +64,7 @@ _С чего начать?_ [repo.getmonero.org/monero-project/monero-site](http
 
 #### Аппаратное обеспечение
 Разработка технического решения для совместимого с протоколом Monero аппаратного кошелька с открытыми спецификациями, а также других аппаратных проектов.
-_С чего начать?_ [taiga.getmonero.org/project/michael-rfc-hwallet-1-implementation]](https://taiga.getmonero.org/project/michael-rfc-hwallet-1-implementation/)
+_С чего начать?_ [taiga.getmonero.org/project/michael-rfc-hwallet-1-implementation](https://taiga.getmonero.org/project/michael-rfc-hwallet-1-implementation/)
 
 #### Поддержка
 Помощь пользователям по ряду самых различных вопросов, включая настройку кошельков, подсоединение к узлам, восстановление счетов, перевод средств и многое другое.
@@ -123,16 +123,16 @@ _С чего начать?_ [taiga.getmonero.org/project/xmrhaelan-monero-public
 - Taiga - [taiga.getmonero.org/discover/search?order_by=-total_fans](https://taiga.getmonero.org/discover/search?order_by=-total_fans)
 - Stack Exchange - [monero.stackexchange.com](https://monero.stackexchange.com/)
 - Quora - [quora.com/topic/Monero](https://quora.com/topic/Monero)
-- IRC - [web.getmonero.org/community/hangouts](https://web.getmonero.org/community/hangouts) или ищите «monero» на IRC, чтобы получить полный список каналов. Многие из них также связаны с Mattermost, Slack, Matrix и т. д.
+- IRC - [web.getmonero.org/community/hangouts](https://www.getmonero.org/ru/community/hangouts/index.html) или ищите «monero» на IRC, чтобы получить полный список каналов. Многие из них также связаны с Mattermost, Slack, Matrix и т. д.
 - Каналы Telegram - [t.me/monerotelegram](https://t.me/monerotelegram)
 
 ### _Как ещё можно помочь проекту​_
 ---
 - Запуск полного узла - [monerooutreach.org/monero_best_practices/your_own_node.html](https://www.monerooutreach.org/monero_best_practices/your_own_node.html) и [monero.how/how-to-run-monero-node](https://www.monero.how/how-to-run-monero-node)
 - Внесение пожертвование через систему CCS - [ccs.getmonero.org](https://ccs.getmonero.org/)
-- Майнинг Monero - [Jump to Section](https://www.monerooutreach.org/stories/getting-started-helping-monero.html#workgroups)
-- Присоединится к рабочей группе: - [Jump to Section](https://www.monerooutreach.org/stories/getting-started-helping-monero.html#workgroups)
-- Дополнение будущих версий книги «Овладеваем Monero»: - [github.com/monerobook/monerobook](https://www.monerooutreach.org/stories/github.com/monerobook/monerobook) и [masteringmonero.com](https://masteringmonero.com/)
+- Майнинг Monero - [Перейти в раздел](https://www.monerooutreach.org/stories/getting-started-helping-monero.html#workgroups)
+- Присоединится к рабочей группе - [Перейти в раздел](https://www.monerooutreach.org/stories/getting-started-helping-monero.html#workgroups)
+- Дополнение будущих версий книги «Овладеваем Monero» - [github.com/monerobook/monerobook](https://www.monerooutreach.org/stories/github.com/monerobook/monerobook) и [masteringmonero.com](https://masteringmonero.com/)
 - Ответ на вопросы на Stack Exchange - [monero.stackexchange.com](https://monero.stackexchange.com/)
 - Участие в партизанском маркетинге - [monerooutreach.org/guerrilla-toolkit.html](https://www.monerooutreach.org/guerrilla-toolkit.html)
 
@@ -159,13 +159,13 @@ _С чего начать?_ [taiga.getmonero.org/project/xmrhaelan-monero-public
 
 - Вводный курс - [novicedock.com/learn/cryptocurrency/monero](https://novicedock.com/learn/cryptocurrency/monero)
 - Техническая статистика, руководства и так далее - [monero.how](https://monero.how/)
-- Продвижение взглядов Monero - [monerooutreach.org](https://www.monerooutreach.org/)
+- Продвижение взглядов Monero - [monerooutreach.org](https://www.monerooutreach.org/домашняя-страница.html)
 - Короткие факты - [monerooutreach.org/quick-facts.html](https://www.monerooutreach.org/quick-facts.html)
-- SWOT-анализ - [monerooutreach.org/stories/monero_swot_analysis.html](https://www.monerooutreach.org/stories/monero_swot_analysis.html)
-- Передовые практики - [monerooutreach.org/monero_best_practices](https://www.monerooutreach.org/monero_best_practices)
-- Как быстро создать кошелёк Monero - [monerooutreach.org/stories/monero_wallet_quickstart.html](https://www.monerooutreach.org/stories/monero_wallet_quickstart.html)
-- Moneropedia- [web.getmonero.org/resources/moneropedia](https://web.getmonero.org/resources/moneropedia)
-- Руководства пользователя - [web.getmonero.org/resources/user-guides](https://web.getmonero.org/resources/user-guides)
+- SWOT-анализ - [monerooutreach.org/stories/monero_swot_analysis.html](https://www.monerooutreach.org/monero-swot-анализ.html)
+- Передовые практики - [monerooutreach.org/monero_best_practices](https://www.monerooutreach.org/monero-Лучший-практика/)
+- Как быстро создать кошелёк Monero - [monerooutreach.org/stories/monero_wallet_quickstart.html](https://www.monerooutreach.org/кошелька-monero.html)
+- Moneropedia- [web.getmonero.org/resources/moneropedia](https://www.getmonero.org/ru/resources/moneropedia/)
+- Руководства пользователя - [web.getmonero.org/resources/user-guides](https://www.getmonero.org/ru/resources/user-guides/)
 - О Monero - [monerostuff.com](https://monerostuff.com/)
 - Мир Monero - [moneroworld.com](https://moneroworld.com/)
 - Тред Monero на Bitcointalk - [bitcointalk.org/index.php?topic=583449.0](https://bitcointalk.org/index.php?topic=583449.0)
@@ -180,9 +180,9 @@ _С чего начать?_ [taiga.getmonero.org/project/xmrhaelan-monero-public
 ---
 ####  Как начать
 
-- Каналы поддержки, пулы и бенчмарки - [getmonero.org/get-started/mining](https://getmonero.org/get-started/mining)
+- Каналы поддержки, пулы и бенчмарки - [getmonero.org/get-started/mining](https://www.getmonero.org/ru/get-started/mining/index.html)
 - Руководства для Windows и Linux - [monero.how/tutorial-how-to-mine-monero](https://monero.how/tutorial-how-to-mine-monero)
-- Руководства пользователя - [web.getmonero.org/resources/user-guides](https://web.getmonero.org/resources/user-guides)
+- Руководства пользователя - [web.getmonero.org/resources/user-guides](https://www.getmonero.org/ru/resources/user-guides/)
 
 #### Настройка майнинг-пула
 
