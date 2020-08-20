@@ -42,6 +42,6 @@
 
 Official Monero site
 
-[getmonero.org](https://web.getmonero.org/)
+[getmonero.org](https://www.getmonero.org/)
 
 

@@ -71,7 +71,7 @@ If you are running your own _monerod_ instance with a standard configuration, yo
 curl -X POST [127.0.0.1:18081/json_rpc](http://127.0.0.1:18081/json_rpc) -H 'Content-Type:application/json' --data "{\"jsonrpc\":\"2.0\",\"id\":\"0\",\"method\":\"get_block_count\"}"
 ```
 
-For more information on the _monerod_ RPC interface, please see [web.getmonero.org/resources/developer-guides/daemon-rpc.html](https://web.getmonero.org/resources/developer-guides/daemon-rpc.html). And for information on the wallet RPC interface, please see [web.getmonero.org/resources/developer-guides/wallet-rpc.html](https://web.getmonero.org/resources/developer-guides/wallet-rpc.html)
+For more information on the _monerod_ RPC interface, please see [www.getmonero.org/resources/developer-guides/daemon-rpc.html](https://www.getmonero.org/resources/developer-guides/daemon-rpc.html). And for information on the wallet RPC interface, please see [www.getmonero.org/resources/developer-guides/wallet-rpc.html](https://www.getmonero.org/resources/developer-guides/wallet-rpc.html)
 
 ##### _#2: Setting up Daemon and Wallet_
 ---

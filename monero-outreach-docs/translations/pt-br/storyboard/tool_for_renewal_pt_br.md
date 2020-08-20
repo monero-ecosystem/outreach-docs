@@ -26,13 +26,13 @@ Nós não esperamos que você aceite nossas palavras por nada disso e encorajamo
 
 ### _Leitura Complementar:_
 
-- O que é Monero? (Website Oficial) [web.getmonero.org/pt-br/get-started/what-is-monero](https://web.getmonero.org/pt-br/get-started/what-is-monero/)
+- O que é Monero? (Website Oficial) [www.getmonero.org/pt-br/get-started/what-is-monero](https://www.getmonero.org/pt-br/get-started/what-is-monero/)
 - Porque Monero vs. Bitcoin (Monero.how) [monero.how/why-monero-vs-bitcoin](https://www.monero.how/why-monero-vs-bitcoin)
 - Porque Monero? (Monero World) [moneroworld.com/whymonero.html](https://moneroworld.com/whymonero.html)
 - [Fatos rápidos Monero](https://www.monerooutreach.org/fatos-rapidos-monero.html)
 - Monero Means Money: Cryptocurrency 101, Live from Leipzig (Documentário) [communityworkgroup.org/monero-means-money](https://www.communityworkgroup.org/monero-means-money)
 - Mastering Monero (Livro) [masteringmonero.com](https://masteringmonero.com/)
-- Zero to Monero (Livro) [getmonero.org/library/Zero-to-Monero-2-0-0.pdf](https://web.getmonero.org/library/Zero-to-Monero-2-0-0.pdf)
+- Zero to Monero (Livro) [getmonero.org/library/Zero-to-Monero-2-0-0.pdf](https://www.getmonero.org/library/Zero-to-Monero-2-0-0.pdf)
 
 ### _Adquirindo Monero_
 

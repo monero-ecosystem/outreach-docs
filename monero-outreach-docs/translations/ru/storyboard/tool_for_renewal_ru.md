@@ -26,13 +26,13 @@ Monero имеет совершенно открытый исходный код 
 
 ### _Рекомендуется прочитать​:_
 
-- Что такое Monero? (официальный веб-сайт) [web.getmonero.org/get-started/what-is-monero](https://www.getmonero.org/ru/get-started/what-is-monero/index.html)
+- Что такое Monero? (официальный веб-сайт) [www.getmonero.org/get-started/what-is-monero](https://www.getmonero.org/ru/get-started/what-is-monero/index.html)
 - Why Monero vs. Bitcoin (Monero.how) [monero.how/why-monero-vs-bitcoin](https://www.monero.how/why-monero-vs-bitcoin)
 - Почему Monero? (Мир Monero) [moneroworld.com/whymonero.html](https://moneroworld.com/whymonero.html)
 - [Коротко и достоверно о Monero](https://www.monerooutreach.org/quick-facts.html)
 - Monero означает деньги: криптовалюта 101, прямая трансляция из Лейпцига (документальный фильм) [communityworkgroup.org/monero-means-money](https://www.communityworkgroup.org/monero-means-money)
 - Овладеваем Monero (книга) [masteringmonero.com](https://masteringmonero.com/)
-- Monero с нуля (книга) [getmonero.org/library/Zero-to-Monero-2-0-0.pdf](https://web.getmonero.org/library/Zero-to-Monero-2-0-0.pdf)
+- Monero с нуля (книга) [getmonero.org/library/Zero-to-Monero-2-0-0.pdf](https://www.getmonero.org/library/Zero-to-Monero-2-0-0.pdf)
 
 ### _Покупка Monero​_
 
@@ -40,7 +40,7 @@ Monero имеет совершенно открытый исходный код 
 
 **Биржа.** Если у вас есть банковский счет или сбережения в других криптовалютах, то вы можете воспользоваться услугами таких надёжных бирж, как [Binance.com](https://www.binance.com/) или [Kraken.com](https://www.kraken.com/), чтобы купить Monero. Тикером Monero для торговли является XMR. В случае с банковским счётом вы можете переводить средства непосредственно из вашего банка на биржу, покупать и переводить XMR на свой кошелёк Monero. Следует отметить, что на некоторых биржах XMR можно обменять только на другую криптовалюту, поэтому сначала может понадобиться купить другую криптовалюту, а затем обменять ее на XMR. Биржи, поддерживающие торговлю Monero:
 
-- [https://web.getmonero.org/community/merchants/#exchanges](https://web.getmonero.org/ru/community/merchants/#exchanges)
+- [https://www.getmonero.org/community/merchants/#exchanges](https://www.getmonero.org/ru/community/merchants/#exchanges)
 - [Ресурсы для инвесторов Monero](https://www.monerooutreach.org/ресурсы-инвестора/)
 - [https://coincodex.com/crypto/monero/exchanges/](https://coincodex.com/crypto/monero/exchanges/)
 
@@ -48,7 +48,7 @@ Monero имеет совершенно открытый исходный код 
 
 **Майнинг.** Когда вы занимаетесь майнингом Monero, у вас есть не только шанс заработать XMR в обмен на вычислительную мощность компьютера, но также вы тем самым поможете защитить сеть. Monero использует инновационный алгоритм, позволяющий заниматься майнингом монеты при помощи обычного компьютерного оборудования, поэтому вы можете начать майнинг без каких-либо дополнительных инвестиций. Как начать заниматься майнингом:
 
-- [https://web.getmonero.org/get-started/mining/](https://www.getmonero.org/ru/get-started/mining/index.html)
+- [https://www.getmonero.org/get-started/mining/](https://www.getmonero.org/ru/get-started/mining/index.html)
 - [Занимайтесь майнингом Monero и поддерживайте сеть](https://www.monerooutreach.org/monero_best_practices/mine-to-support-the-network.html)
 - [https://github.com/xmrig/xmrig](https://github.com/xmrig/xmrig)
 
@@ -57,7 +57,7 @@ Monero имеет совершенно открытый исходный код 
 **Приём Monero (для предпринимателей).** Глобальное сообщество разработчиков Monero создало инструменты, которые позволят компаниям принимать XMR в качестве оплаты за их продукты и оказание услуг. Вычеркните из уравнения дорого обходящиеся вам услуги посредников и позвольте своим клиентам оплачивать за вас «копеечные» комиссии за проведение транзакций. Здесь можно узнать больше:
 
 - [Предпринимательские услуги Monero Outreach](https://www.monerooutreach.org/merchants/)
-- [https://web.getmonero.org/community/merchants/](https://www.getmonero.org/ru/community/merchants/index.html)
+- [https://www.getmonero.org/community/merchants/](https://www.getmonero.org/ru/community/merchants/index.html)
 - [https://www.projectcoralreef.com/](https://www.projectcoralreef.com/)
 
 ### _Как пользоваться Monero​_
