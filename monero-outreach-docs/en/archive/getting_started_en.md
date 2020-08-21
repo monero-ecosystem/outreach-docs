@@ -24,10 +24,10 @@ The primary ways to start are to become familiar with the codebase, the cryptono
 - Open Issues - [github.com/monero-project/monero/issues](https://github.com/monero-project/monero/issues)
 - Monero Ecosystem - [github.com/monero-ecosystem](https://github.com/monero-ecosystem)
 
-- Developer Guides - [web.getmonero.org/resources/developer-guides](https://web.getmonero.org/resources/developer-guides)
+- Developer Guides - [www.getmonero.org/resources/developer-guides](https://www.getmonero.org/resources/developer-guides)
 - Developer Meeting Notes - [monerobase.com](https://monerobase.com/)
 - Monero Development Spaces - [moneroworld.com/development.html](https://moneroworld.com/development.html)
-- Monero Research Lab - [web.getmonero.org/resources/research-lab](https://web.getmonero.org/resources/research-lab)
+- Monero Research Lab - [www.getmonero.org/resources/research-lab](https://www.getmonero.org/resources/research-lab)
 
 Developers may also be interested in participating in one or more of the many workgroups that exist within the Monero community. You can find a comprehensive list of the most active below.
 
@@ -53,7 +53,7 @@ _Where to Start?_ [taiga.getmonero.org/project/xmrhaelan-monero-public-relations
 
 #### Monero Research Lab
 Conducting research with Monero and related software.
-_Where to Start?_ [web.getmonero.org/resources/research-lab](https://web.getmonero.org/resources/research-lab/) & #monero-research-lab
+_Where to Start?_ [www.getmonero.org/resources/research-lab](https://www.getmonero.org/resources/research-lab/) & #monero-research-lab
 
 #### Malware Response Workgroup
 Helping those who have been compromised by malware, including unwanted browser mining, system mining, and ransomware.
@@ -124,7 +124,7 @@ _Where to Start?_ [taiga.getmonero.org/project/xmrhaelan-monero-public-relations
 - Taiga - [taiga.getmonero.org/discover/search?order_by=-total_fans](https://taiga.getmonero.org/discover/search?order_by=-total_fans)
 - Stack Exchange - [monero.stackexchange.com](https://monero.stackexchange.com/)
 - Quora - [quora.com/topic/Monero](https://quora.com/topic/Monero)
-- IRC - [web.getmonero.org/community/hangouts](https://web.getmonero.org/community/hangouts) or search “monero” on IRC for complete list. Many of these also have bridges to Mattermost, Slack, Matrix, etc.
+- IRC - [www.getmonero.org/community/hangouts](https://www.getmonero.org/community/hangouts) or search “monero” on IRC for complete list. Many of these also have bridges to Mattermost, Slack, Matrix, etc.
 - Telegram Channels – [t.me/monerotelegram](https://t.me/monerotelegram)
 
 ### _Other Ways to Help_
@@ -166,8 +166,8 @@ Below are great resources for anyone who wants to become more proficient and kno
 - SWOT Analysis - [monerooutreach.org/stories/monero_swot_analysis.html]](https://www.monerooutreach.org/stories/monero_swot_analysis.html)
 - Best Practices - [monerooutreach.org/monero_best_practices](https://www.monerooutreach.org/monero_best_practices)
 - Monero Wallet Quick Start - [monerooutreach.org/stories/monero_wallet_quickstart.html](https://www.monerooutreach.org/stories/monero_wallet_quickstart.html)
-- Moneropedia- [web.getmonero.org/resources/moneropedia](https://web.getmonero.org/resources/moneropedia)
-- User Guides - [web.getmonero.org/resources/user-guides](https://web.getmonero.org/resources/user-guides)
+- Moneropedia- [www.getmonero.org/resources/moneropedia](https://www.getmonero.org/resources/moneropedia)
+- User Guides - [www.getmonero.org/resources/user-guides](https://www.getmonero.org/resources/user-guides)
 - Monero Stuff - [monerostuff.com](https://monerostuff.com/)
 - Monero World - [moneroworld.com](https://moneroworld.com/)
 - Monero’s Bitcointalk thread - [bitcointalk.org/index.php?topic=583449.0](https://bitcointalk.org/index.php?topic=583449.0)
@@ -184,7 +184,7 @@ Below are great resources for anyone who wants to become more proficient and kno
 
 - Support Channels, Pools, Software, and Benchmarks - [getmonero.org/get-started/mining](https://getmonero.org/get-started/mining)
 - Tutorial for Windows & Linux - [monero.how/tutorial-how-to-mine-monero](https://monero.how/tutorial-how-to-mine-monero)
-- User Guides - [web.getmonero.org/resources/user-guides](https://web.getmonero.org/resources/user-guides)
+- User Guides - [www.getmonero.org/resources/user-guides](https://www.getmonero.org/resources/user-guides)
 
 #### Setting up a Mining Pool
 

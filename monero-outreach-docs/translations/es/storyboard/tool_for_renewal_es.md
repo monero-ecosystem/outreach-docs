@@ -27,13 +27,13 @@ No esperamos que tomes nuestra palabra para nada de esto y te motivamos a que ha
 
 ### _Lectura adicional:_  
 
-- ¿Qué es Monero? (Sitio web oficial) [web.getmonero.org/es/get-started/what-is-monero](https://web.getmonero.org/es/get-started/what-is-monero/index.html)  
+- ¿Qué es Monero? (Sitio web oficial) [www.getmonero.org/es/get-started/what-is-monero](https://www.getmonero.org/es/get-started/what-is-monero/index.html)  
 - Por qué Monero vs. Bitcoin (Monero.how) [monero.how/why-monero-vs-bitcoin](https://www.monero.how/why-monero-vs-bitcoin)  
 - ¿Por qué Monero? (Monero World) [moneroworld.com/whymonero.html](https://moneroworld.com/whymonero.html)  
 - [Hoja de Datos de Monero](https://www.monerooutreach.org/monero-hoja-datos.html)  
 - Monero Means Money: En vivo desde Leipzig, Cryptocurrency 101 (Documental) [communityworkgroup.org/monero-means-money](https://www.communityworkgroup.org/monero-means-money)  
 - Mastering Monero (Libro) [masteringmonero.com](https://masteringmonero.com/)  
-- Zero to Monero (Libro) [getmonero.org/library/Zero-to-Monero-2-0-0.pdf](https://web.getmonero.org/library/Zero-to-Monero-2-0-0.pdf)  
+- Zero to Monero (Libro) [getmonero.org/library/Zero-to-Monero-2-0-0.pdf](https://www.getmonero.org/library/Zero-to-Monero-2-0-0.pdf)  
 
 ### _Adquiriendo Monero_  
 
@@ -41,7 +41,7 @@ No esperamos que tomes nuestra palabra para nada de esto y te motivamos a que ha
 
 **Intercambio.** Si tienes una cuenta bancaria o ya eres dueño de otras criptomonedas, puedes usar una casa de cambio con buena reputación como [Binance.com](https://www.binance.com/es) o [Kraken.com](https://www.kraken.com/) para adquirir Monero. El código o ticker para el intercambio de Monero es XMR. Con un banco puedes transferir fondos directamente hacia la casa de cambio, comprar XMR y tranferir tus XMR a tu propio monedero. Ten en cuenta que algunas casas de cambio tienen emparejado a XMR con otras criptomonedas, a lo mejor, tendrás que comprar primero otra criptomoneda y despues canjearla por XMR. Encuentra casas de cambio que enlistan a Monero:  
 
-- [https://web.getmonero.org/es/community/merchants/#exchanges](https://web.getmonero.org/es/community/merchants/index.html#exchanges)  
+- [https://www.getmonero.org/es/community/merchants/#exchanges](https://www.getmonero.org/es/community/merchants/index.html#exchanges)  
 - [Recursos para Inversores de Monero](https://www.monerooutreach.org/investors/)  
 - [https://coincodex.com/crypto/monero/exchanges/](https://coincodex.com/crypto/monero/exchanges/)  
 
@@ -49,7 +49,7 @@ No esperamos que tomes nuestra palabra para nada de esto y te motivamos a que ha
 
 **Minar.** Cuando minas Monero, no solo tienes la oportunidad de ganar XMR al intercambiar poder de procesamiento de computo, sino que también ayudas a asegurar la red. Monero tiene un algoritmo innovador que vuelve accesible la minería con hardware común y puedes empezar a minar sin ninguna inversión adicional. Comienza a minar:  
 
-- [https://web.getmonero.org/es/get-started/mining/](https://web.getmonero.org/es/get-started/mining/)  
+- [https://www.getmonero.org/es/get-started/mining/](https://www.getmonero.org/es/get-started/mining/)  
 - [Minar Monero para apoyar la red](https://www.monerooutreach.org/mejores_practicas_monero/mina-para-apoyar-la-red.html)  
 - [https://github.com/xmrig/xmrig](https://github.com/xmrig/xmrig)  
 
@@ -58,7 +58,7 @@ No esperamos que tomes nuestra palabra para nada de esto y te motivamos a que ha
 **Aceptando Monero (para negocios).** La comunidad global de desarrollarodes de Monero ha creado herramientas para permitirle a los negocios a aceptar XMR para sus productos y servicios. Eliminen de la ecuación al costoso intermediario y permitanle a sus clientes pagar fracciones de centavos por comisiones en transacciones para usted. Aprende más:  
 
 - [Servicio de Monero Outreach para comerciantes](https://www.monerooutreach.org/merchants/)  
-- [https://web.getmonero.org/es/community/merchants/](https://web.getmonero.org/es/community/merchants/)  
+- [https://www.getmonero.org/es/community/merchants/](https://www.getmonero.org/es/community/merchants/)  
 - [https://www.projectcoralreef.com/](https://www.projectcoralreef.com/)  
 
 ### _Utilizando Monero_  

@@ -26,13 +26,13 @@ We do not expect you to take our word for any of this and encourage you to do yo
 
 ### _Further Reading:_
 
-- What Is Monero? (Official Website) [web.getmonero.org/get-started/what-is-monero](https://web.getmonero.org/get-started/what-is-monero/)
+- What Is Monero? (Official Website) [www.getmonero.org/get-started/what-is-monero](https://www.getmonero.org/get-started/what-is-monero/)
 - Why Monero vs. Bitcoin (Monero.how) [monero.how/why-monero-vs-bitcoin](https://www.monero.how/why-monero-vs-bitcoin)
 - Why Monero? (Monero World) [moneroworld.com/whymonero.html](https://moneroworld.com/whymonero.html)
 - [Monero Quick Facts](https://www.monerooutreach.org/quick-facts.html)
 - Monero Means Money: Cryptocurrency 101, Live from Leipzig (Documentary) [communityworkgroup.org/monero-means-money](https://www.communityworkgroup.org/monero-means-money)
 - Mastering Monero (Book) [masteringmonero.com](https://masteringmonero.com/)
-- Zero to Monero (Book) [getmonero.org/library/Zero-to-Monero-2-0-0.pdf](https://web.getmonero.org/library/Zero-to-Monero-2-0-0.pdf)
+- Zero to Monero (Book) [getmonero.org/library/Zero-to-Monero-2-0-0.pdf](https://www.getmonero.org/library/Zero-to-Monero-2-0-0.pdf)
 
 ### _Acquiring Monero_
 
@@ -40,7 +40,7 @@ We do not expect you to take our word for any of this and encourage you to do yo
 
 **Exchange.** If you have a bank account or already own other cryptocurrencies, you can use a reputable exchange like [Binance.com](https://www.binance.com/) or [Kraken.com](https://www.kraken.com/) to acquire Monero. Monero’s ticker for trading is XMR. With a bank, you can transfer funds directly from your bank to the exchange, buy XMR, and transfer your XMR to your own Monero wallet. Please note that some exchanges only have XMR paired with another cryptocurrency, so you may need to buy another cryptocurrency first and then swap it for XMR. Find exchanges that list Monero:
 
-- [https://web.getmonero.org/community/merchants/#exchanges](https://web.getmonero.org/community/merchants/#exchanges)
+- [https://www.getmonero.org/community/merchants/#exchanges](https://www.getmonero.org/community/merchants/#exchanges)
 - [Monero Investor Resources](https://www.monerooutreach.org/investors/)
 - [https://coincodex.com/crypto/monero/exchanges/](https://coincodex.com/crypto/monero/exchanges/)
 
@@ -48,7 +48,7 @@ We do not expect you to take our word for any of this and encourage you to do yo
 
 **Mining.** When you mine Monero, you not only have a chance at earning XMR in exchange for computer processing power, you also help secure the network. Monero has an innovative algorithm that makes it accessible to mine with regular computer hardware, and you can start mining without any additional investment. Get started mining:
 
-- [https://web.getmonero.org/get-started/mining/](https://web.getmonero.org/get-started/mining/)
+- [https://www.getmonero.org/get-started/mining/](https://www.getmonero.org/get-started/mining/)
 - [Mine Monero to Support the Network](https://www.monerooutreach.org/monero_best_practices/mine-to-support-the-network.html)
 - [https://github.com/xmrig/xmrig](https://github.com/xmrig/xmrig)
 
@@ -57,7 +57,7 @@ We do not expect you to take our word for any of this and encourage you to do yo
 **Accepting Monero (for businesses).** The global community of developers behind Monero has created tools to empower businesses to begin accepting XMR for products and services. Cut the costly middlemen out of the equation and let your customers pay fractions of pennies in transaction fees for you. Learn more:
 
 - [Monero Outreach Merchant Services](https://www.monerooutreach.org/merchants/)
-- [https://web.getmonero.org/community/merchants/](https://web.getmonero.org/community/merchants/)
+- [https://www.getmonero.org/community/merchants/](https://www.getmonero.org/community/merchants/)
 - [https://www.projectcoralreef.com/](https://www.projectcoralreef.com/)
 
 ### _Using Monero_
