@@ -8,7 +8,7 @@ That indicates a recognition of Monero as a top competitor. We appreciate your p
 
 For a story that “examines the features and characteristics of some of the alternatives to bitcoin that have grabbed the attention of developers, investors and regulators,” it arguably over emphasized the criminal use of Monero and under presented the features and characteristics that make Monero great and popular. Some details to highlight this point:
 
-+ Monero’s white paper demonstrates that Monero was built as an immediate response to the inherent privacy issues of Bitcoin ([getmonero.org/resources/research-lab](https://web.getmonero.org/resources/research-lab/)). One of the essential features of cash is fungibility, the ability to exchange any one unit of a currency for any other. The privacy enhancements of Monero make it much more fungible than Bitcoin, which in turn makes it better digital cash. Future articles should describe the fungible nature of Monero as a defining characteristic.
++ Monero’s white paper demonstrates that Monero was built as an immediate response to the inherent privacy issues of Bitcoin ([getmonero.org/resources/research-lab](https://www.getmonero.org/resources/research-lab/)). One of the essential features of cash is fungibility, the ability to exchange any one unit of a currency for any other. The privacy enhancements of Monero make it much more fungible than Bitcoin, which in turn makes it better digital cash. Future articles should describe the fungible nature of Monero as a defining characteristic.
 
 + Monero has the third highest code contributor count of all cryptocurrencies, led only by Bitcoin and Ethereum ([coingecko.com/en?view=developer](https://www.coingecko.com/en?view=developer)) -filter list by Contributors. Monero has an all-time 547 code contributors [openhub.net/p/monero](https://www.openhub.net/p/monero/). This is an undervalued statistic that speaks loudly to how Monero has grabbed the attention of developers.
 
@@ -16,7 +16,7 @@ For a story that “examines the features and characteristics of some of the alt
 
 In the ‘Why’s it gaining attention?’ section of the article, the main emphasis is on criminal uses. We would like to add examples of the multitude of other reasons Monero has gained attention:
 
-+ Since inception, and particularly over the past year, Monero has made significant improvements to the underlying code, making it more efficient, faster, and more user friendly, [getmonero.org/blog](https://web.getmonero.org/blog/).
++ Since inception, and particularly over the past year, Monero has made significant improvements to the underlying code, making it more efficient, faster, and more user friendly, [getmonero.org/blog](https://www.getmonero.org/blog/).
 
 + Monero is a leader among ‘privacy coins’ (which could more accurately be called ‘fungible coins’) and has contributed to academic research that is at the tip of innovation in the cryptocurrency space. Monero’s researchers are leading an annual privacy conference that will cover a multitude of topics in that regard: [monerokon.com](https://monerokon.com/)
 
@@ -28,7 +28,7 @@ We appreciate the section about law enforcement and regulators, and would like t
 
 + Just last week, FinCEN issued new guidance on cryptocurrencies that would be particularly relevant here (fincen.gov/sites/default/files/2019-05/FinCEN CVC Guidance FINAL.pdf). Their guidance matches the recommendations made by the legal experts at Coin Center, who have publicly advised US congress on these matters, and clearly indicates that regulations are not a risk to Monero (coincenter.org/entry/fincen-s-new-cryptocurrency-guidance-matches-coin-center-recommendations).
 
-+ An important feature of Monero that applies to regulation is the public view key, which provides any end user control over others viewing transactions, which can be useful for a number of things, one of which being to make regulators happy by enabling audits ([getmonero.org/resources/moneropedia/viewkey.html](https://web.getmonero.org/resources/moneropedia/viewkey.html)).
++ An important feature of Monero that applies to regulation is the public view key, which provides any end user control over others viewing transactions, which can be useful for a number of things, one of which being to make regulators happy by enabling audits ([getmonero.org/resources/moneropedia/viewkey.html](https://www.getmonero.org/resources/moneropedia/viewkey.html)).
 
 We would further like to take this opportunity to discuss two key features in a bit more depth.
 

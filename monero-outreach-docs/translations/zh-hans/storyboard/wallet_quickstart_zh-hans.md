@@ -15,7 +15,7 @@ A Monero software wallet is a program for storing, sending, and receiving Monero
 
 To experience this power, you will need to pick a wallet. The first critical aspect of any wallet is its trustworthiness. Only wallets recommended by the community (and the [getmonero.org](https://getmonero.org/) website) are mentioned in this article. Next, you will want to pick a wallet that runs on your preferred computing device—iPhone, Android Phone, or Laptop/Desktop computer. Finally, you should pick a wallet that matches your privacy needs. This article will guide you on this.
 
-要体验这种力量，你需要选择一个钱包。选择任何钱包都要关注其可信度。本文只提及社区以及[getmonero.org/zh-cn](https://web.getmonero.org/zh-cn/)网站推荐的钱包。接下来，您需要选择一个能够在您的苹果手机、安卓手机或者笔记本电脑、台式机上运行的钱包。最后，你应该选择一个符合你隐私需求的钱包。本文将为您提供相关的指导。
+要体验这种力量，你需要选择一个钱包。选择任何钱包都要关注其可信度。本文只提及社区以及[getmonero.org/zh-cn](https://www.getmonero.org/zh-cn/)网站推荐的钱包。接下来，您需要选择一个能够在您的苹果手机、安卓手机或者笔记本电脑、台式机上运行的钱包。最后，你应该选择一个符合你隐私需求的钱包。本文将为您提供相关的指导。
 
 Some wallets operate using their own copy of the Monero blockchain. This is also called running a full node. It gives you control over the timeliness of your transactions. Though you can rely on a remote node without added risk of losing your Monero, you do depend on the remote node’s availability—you can always receive, but you may not be able to send. Another benefit of running your own full node is pride of contribution to the Monero network. Honest full nodes make Monero stronger. Learn more here: [monero.how/how-to-run-monero-node](https://www.monero.how/how-to-run-monero-node).
 
@@ -39,7 +39,7 @@ So, with all this in mind, consider the following options: If you want to run yo
 
 综上所述，您可以考虑以下选项:
 
-如果您想运行自己的完整节点，最好选择门罗币官方GUI钱包或者CLI钱包。前者提供图形化界面，后者提供文本界面。两者都可以设置为运行完整的节点或以增强隐私的方式连接到远程节点。这些都可以从这里下载[getmonero.org/zh-cn/downloads](https://web.getmonero.org/zh-cn/downloads/)。对于安卓设备，推荐使用Monerujo，网址是[monerujo.io](https://www.monerujo.io/)对于苹果系统，推荐使用Cake Wallet，网址是[cakewallet.io](https://cakewallet.io/)。如果您想要一个查阅私钥共享型轻钱包，推荐使用基于浏览器的MyMonero，网址是[mymonero.com](https://mymonero.com/)。Edge钱包，网址是[edge.app](https://edge.app/)，是另一个可供选择的针对安卓系统和苹果系统的可靠的查阅私钥共享型轻钱包。
+如果您想运行自己的完整节点，最好选择门罗币官方GUI钱包或者CLI钱包。前者提供图形化界面，后者提供文本界面。两者都可以设置为运行完整的节点或以增强隐私的方式连接到远程节点。这些都可以从这里下载[getmonero.org/zh-cn/downloads](https://www.getmonero.org/zh-cn/downloads/)。对于安卓设备，推荐使用Monerujo，网址是[monerujo.io](https://www.monerujo.io/)对于苹果系统，推荐使用Cake Wallet，网址是[cakewallet.io](https://cakewallet.io/)。如果您想要一个查阅私钥共享型轻钱包，推荐使用基于浏览器的MyMonero，网址是[mymonero.com](https://mymonero.com/)。Edge钱包，网址是[edge.app](https://edge.app/)，是另一个可供选择的针对安卓系统和苹果系统的可靠的查阅私钥共享型轻钱包。
 
 When choosing among these, keep in mind that most have an extra feature in that—the exception being the Edge Wallet—they can be configured to connect to either a third-party remote server or a server you run with a node. This is illustrated in the table.
 
@@ -51,7 +51,7 @@ When choosing among these, keep in mind that most have an extra feature in that�
 + [getmonero.org/downloads](https://www.getmonero.org/downloads)  
 If you want to run a full node, a good choice is the official Monero GUI or CLI wallet. The former provides a graphical user interface, and the latter a textual interface.
 
-+ [getmonero.org/zh-cn/downloads](https://web.getmonero.org/zh-cn/downloads/)  
++ [getmonero.org/zh-cn/downloads](https://www.getmonero.org/zh-cn/downloads/)  
 如果您想运行一个完整的节点，建议选择门罗币官方的GUI钱包或者CLI钱包。前者提供图形化界面，后者提供文本界面。
 
 

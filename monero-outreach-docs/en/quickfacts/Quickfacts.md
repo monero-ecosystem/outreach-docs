@@ -68,7 +68,7 @@ Which means ‘monero’ can be analyzed as meaning: “a noun that describes th
 
 **Monero Block Reward Trajectory:** Rewards will gradually drop until tail emission commences at the end of May 2022, when rewards will be fixed at 0.6 XMR per block. Tail emission will provide for continued and indefinite mining incentive. Additionally, and perhaps more importantly, tail emission gives Monero a built-in, stable, and predictable inflation - considered essential for real, sound money.
 
-**Monero Research Lab:** Monero is not only committed to making a fungible currency, but also to continuing research into the realm of financial privacy as it involves cryptocurrencies in general. [Monero Research Lab](https://web.getmonero.org/resources/research-lab/) (MRL) is a group of academic researchers in fields of mathematics, physics, security, and blockchain computation who research solutions for Monero and publish academic papers with their findings.
+**Monero Research Lab:** Monero is not only committed to making a fungible currency, but also to continuing research into the realm of financial privacy as it involves cryptocurrencies in general. [Monero Research Lab](https://www.getmonero.org/resources/research-lab/) (MRL) is a group of academic researchers in fields of mathematics, physics, security, and blockchain computation who research solutions for Monero and publish academic papers with their findings.
 
 **Mining Is Accessible:** Anyone with a connected device or web browser can participate.
 

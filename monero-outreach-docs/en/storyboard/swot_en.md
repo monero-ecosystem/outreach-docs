@@ -20,13 +20,13 @@ Monero has been in development since 2014. It utilizes the CryptoNote protocol, 
 
 - **Great communication** with exchanges, wallet providers, community, investors, miners and the public via Reddit, Twitter, GitHub, and their [mailing list](https://lists.getmonero.org/postorius/lists/monero-announce.lists.getmonero.org/). Communicating network upgrade requirements and critical updates and notices. Additionally, they provide [full logs of development meetings](https://monerobase.com/) going back as far as 2016. 
 
-- **Usability.** Desktop GUI [wallets](https://web.getmonero.org/downloads/) are available and relatively easy to use for Windows, MacOS, and Linux. User friendly mobile wallets are available on Android and iOS. Hardware wallet support on the popular Ledger and Trezor wallets. Monero community has also funded development of an open-source hardware wallet.
+- **Usability.** Desktop GUI [wallets](https://www.getmonero.org/downloads/) are available and relatively easy to use for Windows, MacOS, and Linux. User friendly mobile wallets are available on Android and iOS. Hardware wallet support on the popular Ledger and Trezor wallets. Monero community has also funded development of an open-source hardware wallet.
 
 - **Governance** of the Monero project is decentralized The core developers are all individuals spread throughout the globe, rather than being part of a single entity. They communicate transparently and attempt to find consensus among the community before major decisions are made. So far they have not abused their powers and have not given any reason to believe they would. Critics have argued it’s not decentralized enough, but compared to other major cryptocurrencies it is among the best.
 
 - **Auditable** by choice. Unlike Bitcoin that has a transparent blockchain and can be audited by anyone at anytime, Monero can be audited only by choosing to share its private view keys, allowing auditors to confirm an individual’s amount of Monero and giving individuals and businesses the power to control when they choose to share their private financial information.
 
-- **Accessible and acceptable** through dozens of exchanges and a number of payment gateways. Accepted by a long and respectable list of merchants. See [official website](https://web.getmonero.org/community/merchants/) and [Project Coral Reef](https://www.projectcoralreef.com/) for examples.
+- **Accessible and acceptable** through dozens of exchanges and a number of payment gateways. Accepted by a long and respectable list of merchants. See [official website](https://www.getmonero.org/community/merchants/) and [Project Coral Reef](https://www.projectcoralreef.com/) for examples.
 
 - **Public.** The lead maintainer, Riccardo Spagni, is not afraid to show his face in public. This is also true of many of the most active community members.
 

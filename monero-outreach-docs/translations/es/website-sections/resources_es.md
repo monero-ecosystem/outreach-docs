@@ -1,3 +1,5 @@
+Descargo de Responsabilidad legal independiente: Por su seguridad se recomienda que haga su propia investigación sobre las criptomonedas e inversiones que vaya a realizar antes de usar un intermediario para la compra, venta o la administración de Monero (XMR). La inclusión en esta página no constituye recomendación o consejo de inversión.
+
 # Recursos de Monero
 
 Monero tiene una amplia gama de recursos disponibles tanto para principiantes como para veteranos.
