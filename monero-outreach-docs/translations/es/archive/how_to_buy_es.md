@@ -2,11 +2,11 @@
 
 **“Monero es fácil de comprar, esto es lo que debes saber para comprar de manera privada” - Julio 23 del 2020**
 
-Monero es una moneda para la privacidad, por eso todos estamos aquí. Entonces, mientras discutimos las maneras de comprar Monero, incluyendo los métodos no privados, el contexto siempre se dirigirá hacia la óptica del propósito principal de Monero. La cadena de bloques de Monero de por si es privada, pero todo lo demás fuera de la cadena de bloques esta bajo vigilancia y comprometerá tu privacidad al momenot de comprar Monero (XMR). La regla de oro es que tu nivel de privacidad será determinada por las propiedades de la moneda con la que lo compres. Las propiedades relevantes para comprar la moneda de Monero son las siguientes:
+Monero es una moneda para la privacidad, por eso todos estamos aquí. Entonces, mientras discutimos las maneras de comprar Monero, incluyendo los métodos no privados, el contexto siempre se dirigirá hacia la óptica del propósito principal de Monero. La cadena de bloques de Monero de por si es privada, pero todo lo demás fuera de la cadena de bloques esta bajo vigilancia y comprometerá tu privacidad al momento de comprar Monero (XMR). La regla de oro es que el nivel de privacidad será determinado por las propiedades de la moneda con la que lo compres. Las propiedades relevantes para comprar la moneda de Monero son las siguientes:
 
 - _fungibilidad_ - La idea es que 1 XMR siempre será igual a otro XMR sin importar su historial y no podrá ser discriminado o marcado. La fungibilidad puede ser impuesta por políticas gubernamentales o creada por tecnología que se enfoque en la privacidad, tal como Monero. 
 - _descentralización_ - La centralización de una moneda tiene como objetivo el control y vigilancia. Cualquier método centralizado para pagar Monero es fuertemente vigilado. El otro efecto de la centralización al comprar XMR es la tendencia a cobrar altas comisiones.
-- _inmutabilidad_ - Las transacciones no podrán ser bajo ninguna circunstancia alteradas por, ni para nadie. Esto quiere decir que nadie puede reversar o congelar los pagos. El objetivo de la tecnología blockchain es la inmutabilidad descentralizada.
+- _inmutabilidad_ - Las transacciones no podrán ser bajo ninguna circunstancia alteradas por, ni para nadie. Esto quiere decir que nadie puede revertir o congelar los pagos. El objetivo de la tecnología blockchain es la inmutabilidad descentralizada.
 
 Cualquier moneda que uses para comprar Monero tendrá sus pros y contras en relación con las propiedades anteriormente mencionadas que tendrás que comparar para medir tu caso personal en el uso y la privacidad que desees. 
 
@@ -17,18 +17,18 @@ Cualquier moneda que uses para comprar Monero tendrá sus pros y contras en rela
 no son tus Monero.”**
 _-Los chicos cheveres_
 
-1. Hasta que los XMR no estén en tu monedero, no puedes decir que son tuyos y tampoco que te estes beneficiando de la privacidad de Monero. No importa la manera en la que compres Monero, siempre has la transferencia a tu monedero, a tus claves.
+1. Hasta que los XMR no estén en tu monedero, no puedes decir que son tuyos y tampoco que te estés beneficiando de la privacidad de Monero. No importa la manera en la que compres Monero, siempre has la transferencia a tu monedero, a tus claves.
 2. Usa subdirecciones y no la dirección principal al recibir XMR. Las subdirecciones son direcciones desechables que ayudan a proteger tu privacidad. También ayudan a organizar las transacciones entrantes protegiendo la privacidad de quien envía, de lo contrario no sabrías quien envió que.
 
 ### _Comprar Monero con electricidad_
 ---
 
-Bueno, esto es lo que llamamos minar Monero, no comprar Monero. Lo que quisimos señalar es que la minería ayuda a fortalecer la red y es la manera más privada de obtener Monero. La minería esta fuera del alcance de este artículo pero puedes aprender más en el artículo [Minar Monero para apoyar la red](https://www.monerooutreach.org/mejores_practicas_monero/mina-para-apoyar-la-red.html).
+Bueno, esto es lo que llamamos minar Monero, no comprar Monero. Lo que quisimos señalar es que la minería ayuda a fortalecer la red y es la manera más privada de obtener Monero. La minería está fuera del alcance de este artículo pero puedes aprender más en el artículo [Minar Monero para apoyar la red](https://www.monerooutreach.org/mejores_practicas_monero/mina-para-apoyar-la-red.html).
 
 ### _Compra Monero con efectivo_
 ---
 
-Una de las pocas monedas tan fungible como Monero es el dinero en efectivo. La mayoría de billetes tienen un número serial y pueden ser rastreados, pero en el uso diario, en el uso común, el efectivo es prácticamente fungible. El intercambio de XMR por oro, plata u otras materias primas básicas tampoco es rastreable aunque no es común. Las transacciones en dinero en efectivo usualmente se hacen en persona, permitiendole al comprador y al vendedor controlar los niveles de privacidad de la transacción. Sin embargo, encontrarse con una persona no siempre es fácil y genera un riesgo, además que tiende a ser geográficamente limitado. El sitio web [localmonero.co](https://localmonero.co/) puede ayudarte a encontrar personas que venden XMR por dinero en efectivo por tu area.
+Una de las pocas monedas tan fungible como Monero es el dinero en efectivo. La mayoría de billetes tienen un número serial y pueden ser rastreados, pero en el uso diario, en el uso común, el efectivo es prácticamente fungible. El intercambio de XMR por oro, plata u otras materias primas básicas tampoco es rastreable aunque no es común. Las transacciones en dinero en efectivo usualmente se hacen en persona, permitiendole al comprador y al vendedor controlar los niveles de privacidad de la transacción. Sin embargo, encontrarse con una persona no siempre es fácil y genera un riesgo, además que tiende a ser geográficamente limitado. El sitio web [localmonero.co](https://localmonero.co/) puede ayudarte a encontrar personas que venden XMR por dinero en efectivo por tu área.
 
 _**Pros**_
 
@@ -45,7 +45,7 @@ _**Contras**_
 
 Comprar al portador es un término utilizado que significa que si está en tu posesión pruebas que es tuyo. Ganar billetes de lotería y tener algunos títulos, son valores al portador, pero los que te permiten comprar Monero en los Estados Unidos son las órdenes de pago a través del Servicio Postal De los Estados Unidos (USPS - por sus siglas en inglés) y los cheques de caja o cheques al portador.
 
-Bisq soporta órdenes de pago a través de USPS. Se pueden comprar órdenes de pago por un monto de $3,000 USD por día sin ningun tipo de identificación, aunque este servicio solamente está disponible en los Estados Unidos. Además, para incrementar la privacidad, esto se puede comprar con dinero en efectivo. Visita [bisq.wiki/US_Postal_Money_Order](https://bisq.wiki/US_Postal_Money_Order) para leer como mantenerse seguro y mayor información en cómo funciona. Al momento de escribir este artículo, una órden de pago cuesta alrededor de $1.25 o $1.70 dólares dependiendo de la cantidad.
+Bisq soporta órdenes de pago a través de USPS. Se pueden comprar órdenes de pago por un monto de $3,000 USD por día sin ningún tipo de identificación, aunque este servicio solamente está disponible en los Estados Unidos. Además, para incrementar la privacidad, esto se puede comprar con dinero en efectivo. Visita [bisq.wiki/US_Postal_Money_Order](https://bisq.wiki/US_Postal_Money_Order) para leer como mantenerse seguro y mayor información en cómo funciona. Al momento de escribir este artículo, una órden de pago cuesta alrededor de $1.25 o $1.70 dólares dependiendo de la cantidad.
 
 Los cheques al portador que están hechos para convertirlos en dinero en efectivo, proveen un grado de privacidad ya que literalmente son descontados de la cuenta del banco y no de la tuya. Al banco que le compres el cheque, te encontrarás en un escenario de 'Conoce a Tu Cliente' (KYC), pero, hasta por cierta cantidad, estarás debajo del reporte de Anti Lavado de Dinero (AML). Al fin y al cabo, el beneficio que recibirás será un anonimato parcial en comparación a una citación judicial.
 
@@ -104,7 +104,7 @@ Las tarjetas de crédito prepagadas pueden darte anonimato mientras no exista in
 
 _**Pros**_
 
-- Conveninte
+- Conveniente
 
 _**Contras**_
 
@@ -115,7 +115,7 @@ _**Contras**_
 ### _Compra Monero con una transferencia bancaria_
 ---
 
-Las transferencias bancarias son las más comunes para transacciones extrabursátiles o Over-The-Counter (OTC) por sus siglas en inglés. Vale la pena tener en cuenta que los pagos por tranferencias (wire payments) son distintos que los pagos con tarjetas crédito/débito incluso si es el mismo banco ofreciendo los mismos tres servicios, ya que se enrutan de manera diferente. Las transacciones débito/crédito se procesan por las mismas redes y procesadoras de pagos cómo cualquier otra transacción. Es muy parecido al servicio de transferencia de correos, tienden a procesarse en redes de intermediarios. Pero las transferencias de cuenta a cuenta a través de pagos por transferencia (wire payments) siguen una ruta diferente. Una transferencia interbancaria entre cuentas del mismo banco se realiza dentro de la misma red bancaria, lo que significa que la información de esa transacción existe en menos lugares y se paga al instante. Un pago por transferencia tiene diferentes grupos de control y vigilancia tales como el SWIFT (Society for Worldwide Interbank Financial Telecommunication), en particular hacia al banco de destino y el banco intermediario. Si tu transferencia viene hacía o fuera de los Estados Unidos también pasará por la Oficina de Control de Activos Extranjeros (Office of Foreign Asset Controls) y la FedWire.
+Las transferencias bancarias son las más comunes para transacciones extrabursátiles o Over-The-Counter (OTC) por sus siglas en inglés. Vale la pena tener en cuenta que los pagos por transferencias (wire payments) son distintos que los pagos con tarjetas crédito/débito incluso si es el mismo banco ofreciendo los mismos tres servicios, ya que se enrutan de manera diferente. Las transacciones débito/crédito se procesan por las mismas redes y procesadoras de pagos cómo cualquier otra transacción. Es muy parecido al servicio de transferencia de correos, tienden a procesarse en redes de intermediarios. Pero las transferencias de cuenta a cuenta a través de pagos por transferencia (wire payments) siguen una ruta diferente. Una transferencia interbancaria entre cuentas del mismo banco se realiza dentro de la misma red bancaria, lo que significa que la información de esa transacción existe en menos lugares y se paga al instante. Un pago por transferencia tiene diferentes grupos de control y vigilancia tales como el SWIFT (Society for Worldwide Interbank Financial Telecommunication), en particular hacia al banco de destino y el banco intermediario. Si tu transferencia viene hacía o fuera de los Estados Unidos también pasará por la Oficina de Control de Activos Extranjeros (Office of Foreign Asset Controls) y la FedWire.
 
 _**Pros**_
 
@@ -130,7 +130,7 @@ _**Contras**_
 ### _Comprar Monero con Paypal_
 ---
 
-Los servicios tipo Paypal, Apple Pay, Google Pay, Venmo o Western Union no son privados y son costosos. Estos servicios de tranferencia tienen sus propios Terminos y condiciones que suman al riesgo al usarlos. Con Paypal en particular, los vendedores deben tener mucho cuidado ya que las transacciones pueden ser reversadas por políticas de Paypal al estar a favor del comprador si llega a haber alguna disputa. Un ejemplo de este fraude es, Alice acuerda comprar 1 XMR a Bob por X cantidad de dólares. Alice le envía a Bob los X cantidad de dólares a través de Paypal y luego Bob le envía a Alice el XMR. Alice abre una disputa con Paypal y los X dólares le son devueltos y ella se queda con el Monero (XMR).
+Los servicios tipo Paypal, Apple Pay, Google Pay, Venmo o Western Union no son privados y son costosos. Estos servicios de transferencia tienen sus propios Terminos y condiciones que suman al riesgo al usarlos. Con Paypal en particular, los vendedores deben tener mucho cuidado ya que las transacciones pueden ser reversadas por políticas de Paypal al estar a favor del comprador si llega a haber alguna disputa. Un ejemplo de este fraude es, Alice acuerda comprar 1 XMR a Bob por X cantidad de dólares. Alice le envía a Bob los X cantidad de dólares a través de Paypal y luego Bob le envía a Alice el XMR. Alice abre una disputa con Paypal y los X dólares le son devueltos y ella se queda con el Monero (XMR).
 
 _**Pros**_
 
