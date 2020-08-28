@@ -8,7 +8,7 @@
 
 - [Gallery](https://www.monerooutreach.org/gallery/)
 
-- [Resources](https://www.monerooutreach.org/resources.php)
+- [Resources](https://www.monerooutreach.org/resources.html)
 
 ### _Story Archive_ - [See All](https://www.monerooutreach.org/stories/)
 
@@ -28,11 +28,11 @@
 
 - [Monero Best Practices](https://www.monerooutreach.org/monero_best_practices/)
 
-- [Resources](https://www.monerooutreach.org/resources.php)
+- [Resources](https://www.monerooutreach.org/resources.html)
 
 - [Investors](https://www.monerooutreach.org/investors/)
 
-- [About Us](https://www.monerooutreach.org/about.php)
+- [About Us](https://www.monerooutreach.org/about.html)
 
 ### [Monero Outreach](https://www.monerooutreach.org/)
 
