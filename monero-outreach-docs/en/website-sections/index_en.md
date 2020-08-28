@@ -36,12 +36,10 @@
 
 ### [Monero Outreach](https://www.monerooutreach.org/)
 
-### [Telergam](https://t.me/joinchat/DM8-zUXYPy2QPEkH5hW3FA)
+### [Telergam](https://t.me/monerooutreach)
 
 ### [Twitter](https://twitter.com/xmroutreach)
 
 Official Monero site
 
 [getmonero.org](https://www.getmonero.org/)
-
-
