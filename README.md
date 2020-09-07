@@ -35,8 +35,9 @@ Follow this instructions (if you are not familiar with Github, check out this [t
 4. **File Formats** - Documents are worked in .md format. Md stands for markdown, markdown is a lightweight markup language with plain text formatting syntax. It's really easy to use and you can use any text editor to add text. Need help about mastering markdown format? [Here](https://guides.github.com/features/mastering-markdown/) is a tutorial.
  - Design edits will be done once you submit your work.
 5. When saving changes, remember to add a message to the commit with the **documents name, language, and a small description of your work** (e.g. **_"Quickfacts fr translation"_**, **_"Missing punctuation donttalk PSA pt_Br"_**, etc.).
-6. If you are a reviewer please visit, [Taiga EPIC #69 Monero Outreach Localization](https://taiga.getmonero.org/project/xmrhaelan-monero-public-relations/epic/69) to get assigned a translation.
-7. Happy contributing! 
+6. When Pull Requesting, remember to put a title that identifies your work, e.g. _**How to Buy Chinese translation**_, _**Monero Paper Wallet Primer 'fr' translation**_.
+7. If you are a reviewer please visit, [Taiga EPIC #69 Monero Outreach Localization](https://taiga.getmonero.org/project/xmrhaelan-monero-public-relations/epic/69) to get assigned a translation.
+8. Happy contributing! 
 
 ### Fonts
 
