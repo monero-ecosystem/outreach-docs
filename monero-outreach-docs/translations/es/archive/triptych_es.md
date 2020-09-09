@@ -1,10 +1,10 @@
 # Tríptico: Un nuevo algoritmo que protege a los usuarios de Monero
 
-**“Monero oculta al remitente, al destinatario y el monto en una transacción. Tríptico (Triptych - pronunciado TRIP-tick) es una actualización para Monero mas rápida, liviana y mucho mas privada.” - 1st de Septiembre, 2020**
+**“Monero oculta al emisor, al receptor y el monto en una transacción. Triptych (pronunciado TRIP-tic) es una actualización para Monero mas rápida, liviana y mucho mas privada.” - 1 de Septiembre, 2020**
 
-Monero oculta el emisor, el receptor y el monto en una transacción, con los detalles detrás de este comportamiento rico y en evolución. Este artículo cubre Tríptico (Triptych - Pronunciado TRIP-tick), una nueva tecnología de Monero que esconde mejor a los remitentes, utilizando menos espacio en la cadena de bloques de Monero y menos tiempo en el procesamiento. 
+Monero oculta al emisor, al receptor y el monto en una transacción, con los detalles detrás de este comportamiento evolutivo y enriquecedor. Este artículo cubre Triptych (Pronunciado TRIP-tic), una nueva tecnología de Monero que esconde mejor a los emisores, utilizando menos espacio en la cadena de bloques de Monero y menos tiempo en el procesamiento. 
 
-### _Firma de Círculos_
+### _Firmas de Círculos_
 
 Ocultar a los remitentes en Monero es algo más complicado que solo proteger direcciones. Todo Monero está representado en la cadena de bloques como salidas de transacciones, llamadas TXOs. Cada TXO es etiquetado usando un ID único (una sola vez) llamado clave pública (también es llamado una dirección secreta). Con sólo ver en la cadena de bloques de Monero, las claves públicas de una TXO absolutamente no se pueden conectar a las direcciones de Monero. Sin embargo, las claves públicas por si mismas también necesitan protección. Sería inaceptable que el flujo de Monero entre las claves públicas fuera transparente, considerando que las técnicas fuera de la cadena de bloques podrían conectar esas claves públicas con las personas.
 
