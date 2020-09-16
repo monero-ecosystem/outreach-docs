@@ -1,113 +1,109 @@
-# RPC-Pay Up Close
-# Pagos RPC de cerca
+# Una vista de cerca a RPC-Pay
 
-**_“Overlooked and underappreciated so far, RPC-Pay allows instant and private microtransactions and is the new stealthy smallest unit of payment in the Monero universe.”_ - 29th of January, 2020**
-**_“Pasados por alto y poco apreciados hasta el momento, los Pagos RPC permiten microtansacciones instantaneas y privadas, y es la nueva unidad de pago más silenciosa en el universo de Monero.”_ Enero 29 del 2020**  
+**_“Pasado por alto y poco apreciado hasta el momento, RPC-Pay permite microtansacciones instantáneas y privadas, y es la nueva unidad de pago oculta más pequeña en el universo de Monero.”_ Enero 29 del 2020**  
 
-Why run a Monero public node? It costs money, but doesn’t make money—at least not directly. A recurring concern has been how to incentivize more of these nodes. RPC-Pay offers this incentivization, and much more. It gives a way to use Monero mining hashes—just the hashes—to pay for Remote Procedure Calls (RPCs) from any RPC-Pay-enabled server, such as a Monero node. Hashes received as payment are used by the server to earn income, and because of Monero’s RandomX the mining hashes can be calculated efficiently using most popular CPUs. Paying with just hashes instead of Monero itself means that RPC-Pay does not burden the Monero network or leave a record. With RPC-Pay, mining hashes become a new stealthy smallest unit of payment in the Monero universe.
-Por qué correr un nodo público de Monero? Cuesta dinero, pero no hace dinero; al menos no directamente. Una preocupación recurrente es cómo incentivar más de estos nodos. Pagos RPC ofrece este incentivo y mucho más. Nos da una manera de usar los hashes en la minería de Monero, solamente los hashes, para pagar por las llamadas de procedimiento remoto o RPC (en inglés, Remote Procedure Calls) desde cualquier servidor de Pagos RPC activado, tal como un nodo de Monero. Los hashes recibidos como pago son usados por el servidor para obtener ingresos, y gracias al RandomX de Monero, los hashes de la minería pueden ser calculados eficientemente por los CPUs más populares. Pagar solamente con hashes en vez de Monero como tal, significa que los Pagos RPC no sobrecarga la red de Monero o dejan registro alguno. Con Pagos RPC, la minería con hashes se convierte en la nueva unidad de pago más silenciosa en el universo de Monero.
+¿Por qué ejecutar un nodo público de Monero? Cuesta dinero, pero no hace dinero; al menos no directamente. Una preocupación recurrente es cómo incentivar más de estos nodos. RPC-Pay ofrece este incentivo y mucho más. Nos da una manera de usar los hashes en la minería de Monero, pero solo los hashes, para pagar por las llamadas de procedimiento remoto (RPC - Remote Procedure Calls) desde cualquier servidor habilitado para RPC-Pay, justo como un nodo de Monero. Los hashes recibidos como pago son usados por el servidor para obtener ingresos, y debido a RandomX de Monero, los hashes de la minería pueden ser calculados eficientemente por los CPUs más comunes. Pagar solamente con hashes en vez de Monero como tal, significa que RPC-Pay no sobrecarga la red ni deja registro alguno. Con RPC-Pay, minar hashes se convierte en la nueva unidad de pago oculta más pequeña en el universo de Monero.
 
 ### _RPC (Llamadas de procedimiento remoto)_
 
-Before studying RPC-Pay, it is helpful to understand the larger concept of RPC. RPC is a process through which one program (a client) requests data and calculations from another program (the server). The server can be on any computer on the Internet. An RPC request is like a subroutine call in a regular program except with RPC the subroutine work is performed on the server. Special intermediary software handles the network communication of both the query and its answer so that the programmer sees it as seamless. Many different types of interface software have been used to implement RPC over the years.
-Antes de estudiar sobre los Pagos RPC, es útil comprender el amplio concepto de RPC. RPC es el proceso por el cual un programa (un cliente) solícita información
+Antes de estudiar sobre qué es RPC-Pay, es útil comprender el concepto amplio de RPC. RPC es el proceso por el cual un programa (un cliente) solicita información y cálculos desde otro programa (el servidor). El servidor puede estar en cualquier computador en el Internet. Una solicitud RPC es como una llamada de subrutina en un programa normal, excepto que con el RPC, el trabajo de subrutina se realiza en el servidor. Un software intermediario específico se encarga de la red de comunicación entre la consulta y la respuesta para que el programador la vea sin inconvenientes. Muchos tipos de software de interfaz han sido utilizados a través de los años para implementar llamadas RPC.
 
-A modern family of RPC interface software uses the language of JavaScript Object Notation (JSON) to form messages. JSON is a standard textual format for exchanging data. It relies on name-value pairs and lists of data to define information in a way that is robust, extendable, and human readable. JSON encoding is the primary method used by Monero’s RPC framework.
+Una familia actual de software de interfaz RPC utiliza el lenguaje de JavaScript de notación de objetos (JSON) para formar mensajes. JSON es un formato de texto estándar para intercambiar información. Se basa en el par "nombre-valor" y listas de datos para definir información de una manera amplia, extendible y legible para las personas. La codificación JSON es el principal método usado por el esquema RPC de Monero.
 
-For Monero, RPC is already being used in a variety of ways. For example, the standard Monero daemon, containing most of Monero's functionality, is _monerod_. It implements the server side of RPC for a variety of blockchain-related function calls. And the program _monero-wallet-rpc_, delivered with the standard Monero installation, implements the server side of wallet functionality while itself being a client to a _monerod_ server. Monero RPC calls work much like a browser communicating with a web server. Data is sent using the POST method, and returned information is textual, usually JSON. If you are interested in detailed examples of RPC messages, please see [Example #1](https://www.monerooutreach.org/stories/RPC-Pay.html#box1) on using Monero RPC calls.
+Para Monero, el RPC ya está siendo utilizado de muchas maneras. Por ejemplo, _monerod_, es el daemon estándard que contiene la mayoría de funcionalidades de Monero. Implementa el lado del servidor del RPC para una variedad de funciones de llamadas relacionadas a la cadena de bloques. Y el programa _monero-wallet-rpc_, que se entrega con la instalación estándard de Monero, implementa el lado del servidor de las funciones del monedero, mientras que al mismo tiempo es un cliente a un servidor _monerod_. Las llamadas RPC de Monero trabajan muy parecido a la comunicación entre un navegador (browser) y un servidor web. La información es enviada usando el método POST y devuelta como texto, usualmente JSON. Si estás interesado en ejemplos detallados en el uso de las llamadas RPC de Monero, mira el [Ejemplo #1](https://www.monerooutreach.org/stories/RPC-Pay.html#box1) sobre usar llamadas RPC de Monero. 
 
-### _Mining Hashes_
+### _La minería de hashes_
 
-The mining process for Monero's RandomX Proof of Work (PoW) starts by executing a pseuorandom program that is a function of the new transactions, a nonce, a payment address, and data from the previous block. Executing a random program like this is easy for CPUs, but hard for ASICs. The output of the program is then cryptographically hashed into a 256-bit number. If this number is less than a specified threshold, then it counts as mining a new block.
+El proceso de minería para el algoritmo RandomX Prueba de Trabajo (PoW) de Monero comienza al ejecutar un programa pseudoaleatorio (función de la nueva transacción), un nonce (número criptográfico arbitrario de un solo uso), una dirección de pago y datos del bloque anterior. Ejecutar un programa aleatorio como este es fácil para los ordenadores CPU, pero difícil para los ASIC. Luego, a la salida del programa, se le aplica una función hash criptográfica y convertida a un número de 256 bits. Si este número es menor en un umbral específico, cuenta como el haber minado un nuevo bloque.
 
-A beauty of this hashing process is that the payment address is specified before the hash is generated, which allows hashes to be created specifically for someone else. This property allows mining pools to function—hashes are made using the pool’s payment address. There are few analogies to a mining hash in the physical world. It is a creation that can have value only for the owner of the destination address, and its value only lasts until the next block is mined. Monero blocks are mined about every two minutes.
+Lo bueno de este proceso de hashing es que la dirección de pago está especificada antes de la generación del hash, lo que permite crear hashes especificamente para alguien más. Los hashes, se crean utilizando la dirección de pago, y esta propiedad, es la que le permite a los pools de minería funcionar. Hay ciertas analogías a la minería de hashes en el mundo real. Es una creación que solo tiene valor al dueño de la dirección de destino y dura hasta que el siguiente bloque sea minado. Los bloques de Monero son minados cada dos minutos.
 
-For RPC-Pay, the hashes are calculated by the RPC client itself or by a (more powerful) helper to the client, and the hashes are sent to the server as they are calculated. Every hash sent counts as payment. A miniscule percentage of the hashes will actually have value to the server—those that, when represented as a number, mine a block by being small enough. These successful hashes occur at random within the many payment hashes. The server, then, counts all the hashes for credit, but only receives payment itself when it receives and publishes a successful mining hash on the Monero network.
+Para RPC-Pay, los hashes son calculados por el cliente RPC mismo o por un ayudante al cliente (con mayor potencia), y los hashes son enviados al servidor a medida que son calculados. Cada hash enviado cuenta como pago. Un porcentaje minúsculo de los hashes que, cuando se representen como un número y minen un bloque por ser lo suficientemente pequeños, eventualmente tendrán valor al servidor. Estos hashes exitosos ocurren de manera aleatoria dentro de los tantos pagos con los hashes. El servidor, luego, cuenta todos los hashes para crédito, pero solo recibe pago a sí mismo cuando recibe y publica un hash exitoso en la red de Monero.
 
 ### _RPC-Pay_
 
-RPC-Pay is a new feature added to _monerod_ and wallets that enables payment for RPC calls using mining hashes. This capability is configured through the command line when starting the _monerod_ software. Representative startup parameters are illustrated below in [Example #2](https://www.monerooutreach.org/stories/RPC-Pay.html#box2). Similarly, there are commands with the CLI wallet that enable it to create hashes and pay monerod, and these are also presented in [Example #2](https://www.monerooutreach.org/stories/RPC-Pay.html#box2).
+RPC-Pay es una nueva característica añadida al _monerod_ y a monederos que habilita pagos para las llamadas RPC, utilizando hashes de minería. Esta capacidad está configurada a través de la línea de comando al iniciar el software del _monerod_. Parámetros específicos de inicio se ilustran más abajo en el [Ejemplo #2](https://www.monerooutreach.org/stories/RPC-Pay.html#box2). De manera similar, hay comandos con el monedero CLI que lo habilitan para crear hashes y pagarle al monerod. Estos también están representados en el [Ejemplo #2](https://www.monerooutreach.org/stories/RPC-Pay.html#box2).
 
-With the current Monero release, there is a _monerod_ command (of the type that can be typed right into the _monerod_ console) related to RPC, rpc_payments. This command displays information on paying clients and their balances in the console window. Note that a node will forget about credit balances after they are untouched for six months.
+Con el lanzamiento actual de Monero, hay un comando en el _monerod_, rpc_payments, relacionado con el RPC (del mismo tipo de comandos que se pueden escribir directamente a la consola del _monerod_). Este comando muestra información de los clientes que pagan y sus balances en la ventana de la consola. Ten en cuenta que el nodo olvidará los balances de créditos después de no haber sido tocado por seis meses.
 
-RPC-Pay offers many advantages. It supports decentralization because many people will want to run a server that pays for itself, versus the smaller number willing to run one at cost. Payment for RPC also encourages some wallet users to run their own node to avoid having to pay. All this strengthens and decentralizes the network.
+RPC-Pay ofrece muchas ventajas. Apoya a la descentralización porque muchas personas querrán ejecutar un servidor que se pague a sí mismo, versus un menor número de personas que querrán asumir el costo de ejecutar uno. Pagos para RPC también estimula a los usuarios de los monederos para que ejecuten su propio nodo para evitar pagar. Todo esto fortalece y descentraliza la red.
 
-RPC-Pay is private. No large credit balances are maintained that require sharing information for backup or security. The mining hashes used for payment are anonymous without a way to trace ownership on the blockchain. A payment ID can be applied to track and maintain balances, but with an operating procedure based on small balances, this ID can be changed regularly or not used at all.
+RPC-Pay es privado. No se guardan grandes balances con créditos que requieran de compartir información para respaldos o por seguridad. Los hashes de minería usados para los pagos son anónimos, sin la posibilidad de rastrear su propiedad en la cadena de bloques. Una identificación de pagos (payment ID) puede ser usada para rastrear y guardar balances, pero con un procedimiento operativo basado en pequeños balances, esta identificación puede ser cambiada con regularidad o definitivamente no ser usada.
 
-It is important to also consider the disadvantages of the current _monerod_/wallet implementation of RPC-Pay. It can burden low-power clients, such as mobile devices, which must rely on other helper computers for their hashes. Also, the income to the server is random. It comes only when a client provides a hash that can mine a block, while the server’s output must be continuous, matching the regular provision of hashes. Finally, the amount of income a server can make is limited by the Monero mining schedule and will tend to be small.
+Es importante también considerar las desventajas en la implementación del RPC-Pay en el actual _monerod_ y el monedero. Puede ser una carga a clientes con baja potencia, tal como los dispositivos móviles quienes deben apoyarse de la ayuda de otros dispositivos para sus hashes. Además, las ganancias al servidor son aleatorias. La ganancia solo viene cuando el cliente suministra un hash que logra minar un bloque, mientras que la salida del servidor debe ser continua, igualando la provisión regular de los hashes. Finalmente, la cantidad de ganancias que un servidor puede hacer está limitado por el cronograma de la minería de Monero y tenderá a ser pequeña.
 
-There is more to RPC-Pay that just Monero programs paying other Monero programs, as any server can use RPC-Pay to earn income. The software in the official Monero node and wallet is open source and can be reused for innovative applications, or other applications can communicate with monerod instances. The core concept is simply that the server gives its Monero address to its clients and the clients use this to create Monero mining hashes that it sends to the server as payment. [Example #3](https://www.monerooutreach.org/stories/RPC-Pay.html#box3) gives an example of RPC-Pay software source code.
+Hay más de RPC-Pay que solo programas de Monero pagando a otros programas del mismo Monero, ya que cualquier servidor puede usar RPC-Pay para tener ganancia. El software en el nodo de Monero oficila y el monedero es de código abierto y puede ser reutilizado para servicios innovadores, o para que otras aplicaciones puedan comunicarse con las instancias del monerod. El concepto central simplemente es que el servidor le da su propia dirección de Monero a sus clientes y estos la usan para crear hashes enviándolos al servidor como pago en forma de minería. El [Ejemplo #3](https://www.monerooutreach.org/stories/RPC-Pay.html#box3) da un ejemplo del código del software de RPC-Pay.
 
 ### _Primo_
 
-An example new RPC-Pay application is the Primo project ([repo.getmonero.org/selene/primo](https://repo.getmonero.org/selene/primo)). Primo is a protocol and software suite supporting paid website content delivery. It allows undesirable website ads to be replaced with invisible and unobtrusive hash generation. A visitor to a Primo-enabled website who does not want to see ads can opt to calculate Monero mining hashes instead.
+Un nuevo ejemplo en la aplicación de RPC-Pay es el projecto Primo ([repo.getmonero.org/selene/primo](https://repo.getmonero.org/selene/primo)). Primo es un protocolo y paquete de programas que soportan la monetización del contenido para los sitios web. Le permite a los indeseables anuncios ser reemplazados con la generación de hashes invisibles y discretos. Un visitante en un sitio web con Primo habilitado que no quiera ver anuncios puede optar por calcular hashes de minería para Monero.
 
-Primo has three components. The first is the _primo-apache_ module for use on the web server. The website owner installs this module and configures what content requires payment and how much. The web server communicates with a _monerod_ instance, which handles bookkeeping on payments of hashes and using successful hashes to collect mining revenue. The second component is the _primo-firefox_ extension. A visitor to the website wanting to use RPC-Pay will have this loaded into the Firefox browser. And the third component is the _primo-control-center_ graphical control tool. With this, the Firefox user can configure what websites receive payment.
+Primo tiene tres componentes, el primero es el módulo _primo-apache_ para uso en el servidor web. El dueño del sitio web instala este módulo y configura qué tipo de contenido requiere de pago, y de cuánto. El servidor web se comunica con una instancia del _monerod_, quien se encarga de la contabilidad en los pagos de los hashes y de usar los hashes exitosos para recaudar las ganancias de la minería. El segundo componente es la extensión _primo-firefox_. Un visitante a un sitio web que quiera utilizar RPC-Pay tendrá esto cargado en el navegador de Firefox. Y el tercer componente es la herramienta gráfica de control _primo-control-center_. Con estos componentes el usuario puede configurar qué sitios web reciben pago en Firefox. 
 
-Primo offers compensation for the website owner and ad-avoidance for visitors, all while strengthening the Monero network. The clients providing hashes and the server using these hashes form a complete mining process. And the more and more diverse miners for Monero, the better. Primo is an excellent example of the possibilities for RPC-Pay.
+Primo ofrece recompensa al dueño del sitio web y evita anuncios al visitante al mismo tiempo que se fortalece la red de Monero. Los clientes que proveen los hashes y el servidor que los usa, forman un proceso completo de minería. Y entre más diferentes sean los mineros para Monero mejor. Primo es un gran ejemplo de las posibilidades para RPC-Pay.
 
-### _Looking Forward_
+### _Mirando hacia adelante_
 
-RPC-Pay was first released with Monero version 0.15. It is brand new. With time, capabilities will be added, and as RPC-Pay evolves so will its applications. Primo is the first outside application, serving as an example to others. Any server on the Internet providing data or calculations to clients is a potential candidate for using RPC-Pay for funding. With RandomX as Monero’s PoW algorithm, also new with 0.15, any computer can efficiently calculate hashes to make RPC-Pay payments. The time is right for this new feature, and it will produce many exciting developments.
+RPC-Pay fue lanzado por primera vez en la versión 0.15 de Monero. Es completamente nuevo. Con el tiempo, capacidades se le agregarán y a medida que RPC-Pay evolucione también lo harán sus usos. Primo es la primera aplicación externa sirviendo de ejemplo a otros. Cualquier servidor en el Internet que proporcione datos y cálculos a los clientes es un potencial candidato para usar RPC-pay para financiarse. Con RandomX como el algoritmo PoW (prueba de trabajo) de Monero, también implementado en la version 0.15, cualquier computador puede calcular los hashes de manera eficiente para hacer pagos con RPC-Pay. Hoy, es el momento perfecto para esta nueva característica que producirá muchos desarrollos emocionantes.
 
-### _Getting Started Guides_
+### _Guías para empezar_
 
-##### _#1: Monero RPC Example_
+##### _#1: Ejemplo de Monero RPC_
 ---
 
-Using the command-line tool curl ([curl.haxx.se](https://curl.haxx.se/)), you can send Monero RPC calls to either your own monerod instance or a public server. For example, if you would like to know how many blocks are in the Monero blockchain, you can use the RPC command get_block_count. To get this information from a public server at Monero World, install curl and on the command line type the following:
+Usando la herramienta de línea de comandos curl ([curl.haxx.se](https://curl.haxx.se/)), puedes hacer llamadas RPC tanto para tu propia instancia monerod o a un servidor público. Por ejemplo, si quieres saber cuántos bloques hay en la cadena de bloques, puedes utilizar el comando RPC get_block_count. Para obtener esta información de un servidor público en el mundo de Monero, instala curl y en la línea de comandos escribe lo siguiente:
 
 ```
 curl -X POST [uwillrunanodesoon.moneroworld.com:18089/json_rpc](http://uwillrunanodesoon.moneroworld.com:18089/json_rpc) -H 'Content-Type:application/json' --data "{\"jsonrpc\":\"2.0\",\"id\":\"0\",\"method\":\"get_block_count\"}"
 ```
 
-You will get a response that looks like this:
+Obtendrás una respuesta que se verá así:
 
 ```
 { "id": "0", "jsonrpc": "2.0", "result": { "count": 2021560, "status": "OK", "untrusted": false } }
 ```
 
-The number of blocks in the blockchain when this was generated was 2,021,560.
+El número de bloques dentro de la cadena de bloques cuando hicimos la llamada fue de 2,021,560.
 
-If you are running your own _monerod_ instance with a standard configuration, you can get the same information with the following, similar, command on that same computer:
+Si estás ejecutando tu propia instancia de _monerod_ con la configuración estándar, puedes obtener la misma información en el mismo computador con el siguiente comando que es similar al anterior:
 
 ```
 curl -X POST [127.0.0.1:18081/json_rpc](http://127.0.0.1:18081/json_rpc) -H 'Content-Type:application/json' --data "{\"jsonrpc\":\"2.0\",\"id\":\"0\",\"method\":\"get_block_count\"}"
 ```
 
-For more information on the _monerod_ RPC interface, please see [www.getmonero.org/resources/developer-guides/daemon-rpc.html](https://www.getmonero.org/resources/developer-guides/daemon-rpc.html). And for information on the wallet RPC interface, please see [www.getmonero.org/resources/developer-guides/wallet-rpc.html](https://www.getmonero.org/resources/developer-guides/wallet-rpc.html)
+Para mayor información sobre la interfaz RPC del _monerod_, sigue el siguiente link [www.getmonero.org/es/resources/developer-guides/daemon-rpc.html](https://www.getmonero.org/es/resources/developer-guides/daemon-rpc.html). Y para información relacionada a la interfaz del monedero RPC, sigue este [www.getmonero.org/es/resources/developer-guides/wallet-rpc.html](https://www.getmonero.org/es/resources/developer-guides/wallet-rpc.html).
 
-##### _#2: Setting up Daemon and Wallet_
+##### _#2: Configurando el daemon y el monedero_
 ---
 
-To test your own local _monerod_ daemon functioning with RPC-Pay, run it with the following options:
+Para probar tu propio daemon _monerod_ funcionando con RPC-Pay, ejecútalo con la siguiente opción:
 
 ```
 monerod --restricted-rpc --rpc-payment-address 4xxxxxx --rpc-payment-credits 250 --rpc-payment-difficulty 1000
 ```
 
-The payment address is a standard Monero payment address that will receive payments whenever a mining hash payment actually mines a new block. The rpc-payment-credits and payment-difficulty values work together so that a client receives the ratio credits/difficulty for each mining hash provided. These examples, which you will want to change to suit your needs, would give 250/1000 = 0.25 credits per hash. You can then run the wallet on the same computer:
+La dirección de pago es una dirección estándar de Monero que recibirá el pago cuando eventualmente un hash mine un nuevo bloque. Los valores de rpc-payment-credits y payment-difficulty funcionan juntos para que el cliente reciba la relación de créditos/dificultad por cada hash. Estos ejemplos, que podrás cambiar para que se adapten a tus necesidades, daría 250/1000 = 0.25 créditos por cada hash. Puedes correr el monedero en el mismo computador:
 
 ```
 monero-wallet-cli
 ```
 
-Once the CLI wallet is initiated, typing start_mining_for_rpc will start the RPC-Pay process. Credits can be monitored using the command rpc_payment_info. The credits-target value is the number of credits the wallet will seek to maintain. After reaching this number of credits, it should stop mining. You can set this target using a command like the following in the CLI wallet:
+Una vez el monedero CLI este iniciado, al escribir start_mining_for_rpc comenzará el proceso RPC-Pay. Los créditos pueden ser monitoreados usando el comando rpc_payment_info. El valor de credits-target es el número de créditos que el monedero intentará mantener. Después de haber encontrado este número de créditos, la minería debería parar. Puedes configurar este objetivo utilizando el siguiente comando en el monedero CLI:
 
 ```
 set credits-target 50000
 ```
 
-The auto-mine-for-rpc-payment-threshold value is the minimum credit rate for which the wallet will mine. If the server provides a lower rate, then the wallet will not send hashes. You can set this threshold using a command like the following in the CLI wallet:
+El valor de auto-mine-for-rpc-payment-threshold es la tasa mínima de créditos que el monedero puede minar. Si el servidor proporciona una menor tasa entonces el monedero no enviará hashes. Puedes configurar este umbral utilizando el siguiente comando en el monedero CLI:
 
 ```
 set auto-mine-for-rpc-payment-threshold 0.25
 ```
 
-##### _#3: Coding Example_
+##### _#3: Ejemplo de código_
 ---
 
-Code for RPC pay can be written in C (or other languages) using free libraries for network communication. Shown below is an example of how RPC-Pay data in C can be communicated to a monerod instance using curl. This is the same curl family as was used for textual interfacing in Box 1. Curl is both a library and a command-line tool. The code below is a simplified version of the call_monero() function in Primo, which is part of the primo-apache module. You can see the original code at [repo.getmonero.org/selene/primo/blob/master/webserver/apache/mod_primo.c](https://repo.getmonero.org/selene/primo/-/tree/master)
+El código para RPC-Pay puede ser escrito en C (u otros lenguajes) para la comunicación de redes usando librerías libres. A continuación hay un ejemplo de cómo los datos RPC-Pay en C pueden comunicarse con la instancia del monerod utilizando curl. Esta es la misma familia de curl que fue usada en la caja del Ejemplo 1 para la interconexión textual. Curl es una librería y una herramienta de línea de comandos. El código que vas a ver es una versión simplificada de la función call_monero() en Primo, que parte del módulo de primo-apache. Puedes ver el código original en el repositorio [repo.getmonero.org/selene/primo/blob/master/webserver/apache/mod_primo.c](https://repo.getmonero.org/selene/primo/-/tree/master).
 
 ```
 /* Note! Simplified, without some initialization, error checks, and memory cleanup. */
