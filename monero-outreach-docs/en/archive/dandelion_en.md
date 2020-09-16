@@ -50,14 +50,18 @@ Though Dandelion++ was explicitly developed for Bitcoin, it was recently applied
 
 When released, Dandelion++ will be used by default, though it will be possible to turn it off by defining the probability of entering fluff mode probability to 100% in the C++ code file cryptonote_config.h and recompiling. Importantly, even in this case of targeted recompilation, the new release will use diffusion, with its random delays, rather than basic flooding. The date for its formal release is not set. The addition of Dandelion++ does not require a hard fork.  
 
-There are some minor downsides and limitations. Dandelion++ adds delay to the propagation of transactions. This comes from multiple sources, which are discussed by the Dandelion++ authors [3]. First, the existence of the stem phase adds delay, possibly a few seconds, based on the authors’ analysis and experimental evaluations. Diffusion adds random delays during the fluff phase, typically less than a second. And should the network be subject to a black-hole attack, the confirming wait by the initiator could delay transmission by minutes. These delays are not expected to materially affect the network. Also, Dandelion++ does not encrypt the P2P packets, and does not protect against ISP/VPN-level spying—for this, you can use Tor.  
-
-### Summary
-
-A powerful deanonymization-prevention method is coming to Monero, Dandelion++. This method, developed originally for Bitcoin, and applied to Monero by developer Lee Clagett, prevents adversaries from connecting IP addresses to Monero transactions even in large-scale sophisticated attacks. It focuses particularly on resistance to botnets. Dandelion++ uses stem and fluff phases that make the flow of information take the shape of a dandelion, hence the name. Through this, it makes it hard for observers to locate the source of a transaction. This beautiful new feature will enhance Monero’s already excellent privacy features and carry Monero forward on its path of continual improvement.  
+There are some minor downsides and limitations. Dandelion++ adds delay to the propagation of transactions. This comes from multiple sources, which are discussed by the Dandelion++ authors [3]. First, the existence of the stem phase adds delay, possibly a few seconds, based on the authors’ analysis and experimental evaluations. Diffusion adds random delays during the fluff phase, typically less than a second. And should the network be subject to a black-hole attack, the confirming wait by the initiator could delay transmission by minutes. These delays are not expected to materially affect the network. Also, Dandelion++ does not encrypt the P2P packets, and does not protect against ISP/VPN-level spying—for this, you can use Tor.
 
 [1] Exploring the Monero Peer-to-Peer Network, T. Cao, J. Yu, J. Decouchant, X Luo, and P. Verissimo, [eprint.iacr.org/2019/411.pdf](https://eprint.iacr.org/2019/411.pdf).  
 [2] Dandelion: Redesigning the Bitcoin Network for Anonymity, S.B. Venkatakrishan, G. Fanti, and P. Viswanath, SIGMETRICS ’17, June 5-9, 2017, Urbana-Champaign, [publish.illinois.edu/science-of-security-lablet/files/2016/07/Dandelion-Redesigning-BitCoin-Networking-for-Anonymity.pdf](http://publish.illinois.edu/science-of-security-lablet/files/2016/07/Dandelion-Redesigning-BitCoin-Networking-for-Anonymity.pdf)  
 [3] Dandelion++: Lightweight Cryptocurrency Networking with Formal Anonymity Guarantees, G. Fanti, S.B. Venkatakrishnan, S. Bakshi, B. Denby, S. Bhargava, A. Miller, and P. Viswanath, arXiv:1805.11060v1, May 28, 2018, [arxiv.org/pdf/1805.11060.pdf](https://arxiv.org/pdf/1805.11060.pdf)  
 [4] Chainalysis, [chainalysis.com](https://www.chainalysis.com/).  
 [5] Adding Dandelion++ support to public networks: #6314, [github.com/monero-project/monero/pull/6314](https://github.com/monero-project/monero/pull/6314).  
+
+### Summary
+
+A powerful deanonymization-prevention method is coming to Monero, Dandelion++. This method, developed originally for Bitcoin, and applied to Monero by developer Lee Clagett, prevents adversaries from connecting IP addresses to Monero transactions even in large-scale sophisticated attacks. It focuses particularly on resistance to botnets. Dandelion++ uses stem and fluff phases that make the flow of information take the shape of a dandelion, hence the name. Through this, it makes it hard for observers to locate the source of a transaction. This beautiful new feature will enhance Monero’s already excellent privacy features and carry Monero forward on its path of continual improvement.  
+
+### Learn More
+
+- Lee Clagett at Monero Konferenco: [Dandelion Onions: Protecting Transaction Privacy in Monero](https://www.monerooutreach.org/monero-konferenco/lee-clagett.html)
