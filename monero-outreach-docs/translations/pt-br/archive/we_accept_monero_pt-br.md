@@ -7,7 +7,8 @@ Gostaríamos de te convidar para se unir conosco nos esforços em perpetrar uma 
 A missão, caso você opte por cumpri-la, é contatar seu comerciante favorito e perguntar a ele se ele considerou aceitar Monero, porque esse seria seu método de pagamento favorito. Ele pode dizer sim, ele pode dizer não, mas finalmente você os fez pensar sobre o assunto. Não será a última vez que eles ouvem sobre o Monero, mas pode ser a primeira.
 
 
-No mercado a sabedoria popular diz que alguém precisa ver a mensagem sete vezes antes de tomar consciência. Essa é uma regra polegar para publicidade, mas nós não estamos esperando encorajar uma conversa com comerciantes. Uma boa conversa vale facilmente por sete visitas nos anúncios. Pesquisas têm descoberto que pessoas que conhecem uma organização são cinco vezes mais propensas a ter uma opinião favorável sobre ela. Em outras palavras, quanto mais você falar sobre Monero, mais as pessoas irão gostar.
+No mercado a sabedoria popular diz que alguém precisa ver a mensagem sete vezes antes de tomar consciência dela. Essa é uma regra geral para publicidade, mas nós não estamos esperando encorajar uma conversa com comerciantes. Uma boa conversa vale facilmente por sete visitas nos anúncios. Pesquisas têm descoberto que pessoas que conhecem uma organização são cinco vezes mais propensas a ter uma opinião favorável sobre ela. Em outras palavras, quanto mais você falar sobre Monero, mais as pessoas irão gostar.
+
 
 Além disso temos criado este folheto do tamanho de uma nota de dólar que você pode imprimir e guardar em sua carteira para quando você estiver andando pelo mundo. Esta peça foca nos três recursos do Monero que são mais importantes para os pequenos donos de negócios e os convida a aprender mais em nossas páginas [Serviços Monero para comerciantes](https://www.monerooutreach.org/merchants/).
 
