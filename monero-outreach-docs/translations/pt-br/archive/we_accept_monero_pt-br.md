@@ -10,7 +10,8 @@ A missão, caso você opte por cumpri-la, é contatar seu comerciante favorito e
 No mercado a sabedoria popular diz que alguém precisa ver a mensagem sete vezes antes de tomar consciência dela. Essa é uma regra geral para publicidade, mas nós não estamos esperando encorajar uma conversa com comerciantes. Uma boa conversa vale facilmente por sete visitas nos anúncios. Pesquisas têm descoberto que pessoas que conhecem uma organização são cinco vezes mais propensas a ter uma opinião favorável sobre ela. Em outras palavras, quanto mais você falar sobre Monero, mais as pessoas irão gostar.
 
 
-Além disso temos criado este folheto do tamanho de uma nota de dólar que você pode imprimir e guardar em sua carteira para quando você estiver andando pelo mundo. Esta peça foca nos três recursos do Monero que são mais importantes para os pequenos donos de negócios e os convida a aprender mais em nossas páginas [Serviços Monero para comerciantes](https://www.monerooutreach.org/merchants/).
+Além disso temos criado este folheto do tamanho de uma nota de dólar que você pode imprimir e guardar em sua carteira para quando você estiver andando pelo mundo. Esta folha foca nos três recursos do Monero que são mais importantes para os pequenos donos de negócios e os convida a aprender mais em nossas páginas [Serviços Monero para comerciantes](https://www.monerooutreach.org/merchants/).
+
 
 Você pode fazer o download do arquivo pronto para impressão em [WhenYouAcceptMonero-en-WalletBuckslip.pdf](https://static.monerooutreach.org/img/MoneroMerchants/WhenYouAcceptMonero-en-WalletBuckslip.pdf). Boa sorte e vá com Deus!
 
