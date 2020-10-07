@@ -1,15 +1,13 @@
 # Breaking Monero 07: Remote Nodes
-*06/09/19*  
-_**We discuss some of these limitations, some remote node attacks, and how to mitigate against them.**_  
 
-**Breaking Monero Episode 07: Remote Nodes**  
+**Breaking Monero Episode 07: Remote Nodes**
 
-https://youtu.be/n6Bxp0k7Uqg  
+https://youtu.be/n6Bxp0k7Uqg
+
 Remote nodes are convenient, and many wallets are configured to use them by default. Unfortunately, there are privacy and security limitations when users rely on others to provide copies of blockchain data. We discuss some of these limitations, some remote node attacks, and how to mitigate against them. 
 
-[All Breaking Monero Episodes](https://www.monerooutreach.org/breaking-monero/) 
-
-_**Episode Transcription**_ 
+_**Episode Transcription**_
+---
 
 _**Justin:**_ Welcome back to Breaking Monero. Today Sarang and I are talking about remote nodes and some of the considerations that come when using the remote node. Now we all know that remote nodes are really convient. Most wallet clients for any cryptocurrency including Monero bitcoin and many others will try and encoruage you to use a remote node because it’s easy to get started, it’s easy to use and I believe even by default the Monero GUI client provides an easy option for you to connect to remote nodes so it’s much easier to get started. You don’t need to sit there waiting for a potentially slow connection for days to get started. But despite these being really convenient, you delegate some of the responsibilities and some trust to these nodes as you’re using them. So you want to make sure people understand the trade offs that are involved in using these remote nodes. So Sarang is going to start off talking about the ways you can use Monero with different types of connections and really what these nodes do for you.
 
@@ -42,5 +40,3 @@ _**Sarang:**_ Just that this is something that really depends on your personal t
 _**Justin:**_ Alright, thank you again Sarang, thanks again everyone for watching and catch us on the next one. Take care.
 
 _**Sarang:**_ See ya.
-
- 

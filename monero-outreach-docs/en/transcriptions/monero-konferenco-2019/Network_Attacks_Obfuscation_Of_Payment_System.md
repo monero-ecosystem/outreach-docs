@@ -1,19 +1,18 @@
-# Josh S  
-_**Network Attacks and Obfuscation of Your Payment System**_  
+# Josh S
 
 Josh is the CTO at [Airfoil Services](https://airfoil.services/), his experience stems from years of operational security consulting for clients with a focus on privacy and security best practices. He has been involved in the cryptocurrency security sector for the past 7 years. 
 
-**Network Attacks and Obfuscation of Your Payment System**  
-_Josh S, Airfoil Capital_  
-[youtu.be/4txc2VUwX9o](https://youtu.be/4txc2VUwX9o)  
+https://youtu.be/4txc2VUwX9o
 
-MoneroTalk w/ Josh S (Airfoil Capital) & Lee Clagett (The Monero Project) at MoneroKon 2019! - [youtu.be/M9EKUtHpDzs](https://youtu.be/M9EKUtHpDzs) 
+Also: MoneroTalk interview with Josh S of Airfoil Capital. [youtube.com/watch?v=M9EKUtHpDzs](https://www.youtube.com/watch?v=M9EKUtHpDzs)
 
-_**Abstract**_ 
+_**Abstract**_
+---
 
 There are privacy concerns when using any cryptocurrency. When using a privacy focused cryptocurrency, many of the issues surrounding privacy is overcome. There still remains the issue behind network monitoring. The privacy concerns surrounding your network infrastructure when using Monero and other privacy coins remains an important focal point. With the correct monitoring software, someone could possibly discover that you are using Monero. This type of information helps an attacker gather meta-data on you, which in turn exposes you, widening your attack surface. I will touch on Kovri and what it is trying to solve as well as how individuals can further obfuscate their transactions using services like kovri and others. I will also address other major privacy currencies and discuss where their major flaws are in terms of exposure of the individual over a network, as well as discussing what these currencies get right. Finally, I will address the future for the privacy currencies in terms of network data transmittance, specifically focusing on Monero, and possible solutions on where the community will go from here.
 
-_**Transcription**_ 
+_**Transcription**_
+---
 
 Thank you. Hello, my name is Josh. Like Sarang just said, I'll be speaking about network attacks and obfuscations of private payment systems. A little background on me, I was involved in privacy and security consulting for clients that had publicly facing data that I would go and I would help them erase this data on the internet, and then, also, besides that I was consulting for clients that were ranging from high-net-worth individuals all the way up to exchanges building self-custodial wallets. So, right now I'm currently the CTO at [Airfoil Capital](https://airfoil.services/) but enough about me, let's get started.
 

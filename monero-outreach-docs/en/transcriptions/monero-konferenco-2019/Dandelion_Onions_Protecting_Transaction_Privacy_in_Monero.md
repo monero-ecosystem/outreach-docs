@@ -1,19 +1,18 @@
 # Lee Clagett 
-_**Dandelion Onions: Protecting Transaction Privacy in Monero**_  
 
 Lee Clagett is a programmer whose primary experience is in computer networks/security, and has been a funded code contributor to the Monero project since 2016. He is most active in the PoW tweaks, upcoming "light" wallet server, and increasing transaction broadcasting privacy for Monero.
 
-**Dandelion Onions: Protecting Transaction Privacy in Monero**  
-_Lee Clagett, The Monero Project_  
-[youtu.be/bxQ0ic1Fccs](https://youtu.be/bxQ0ic1Fccs)  
+https://youtu.be/bxQ0ic1Fccs
 
-[MoneroTalk](https://www.youtube.com/channel/UC3Hx81QYLoEQkm3vyl4N4eQ) w/ Josh S (Airfoil Capital) & Lee Clagett (The Monero Project) at MoneroKon 2019! - [youtu.be/M9EKUtHpDzs](youtu.be/M9EKUtHpDzs)  
+Also: Lee Clagett with Monero Talk at Monero Konferenco [monerotalk.live/live-w-josh-s-airfoil-capital-and-lee-clagett-the-monero-project-at-monerokon-2019](https://www.monerotalk.live/live-w-josh-s-airfoil-capital-and-lee-clagett-the-monero-project-at-monerokon-2019)
 
-_**Abstract**_  
+_**Abstract**_
+---
 
 The Dandelion protocol and Tor/onion routing are the most common techniques for masking the origin IP of a cryptocurrency transaction. Both of these techniques have limitations unless further mitigations are implemented. The Dandelion protocol protects against incoming sybil adversaries, but not passive ISP monitoring. Tor protects against incoming sybil adversaries and basic passive ISP monitoring but increases the threats of eclipse attacks and is susceptible to statistical bandwidth monitoring techniques. Monero will attempt to mitigate against all these threats by using Tor/onion routing only for peer-discovery and “whitened” stem phase (Dandelion++) transaction broadcasting. The talk is a discussion of these threats and mitigations, and the current implementation progress in Monero.
 
 _**Transcription**_
+---
 
 Oh, there we go, alright.
 

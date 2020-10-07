@@ -1,19 +1,18 @@
-# Sebastian Kung 
-_**Achieving Secure Deployment of High-Stakes Software**_  
+# Sebastian Kung
 
 Sebastian is a physics student at the university of Zurich, and works for a hardware wallet company. He contributes to various cryptocurrency related projects.  
 
-**Achieving Secure Deployment of High-Stakes Software**  
-_Sebastian Kung, University of Zurich_  
-[youtu.be/5xust7eXpDM](https://youtu.be/5xust7eXpDM)  
+https://youtu.be/5xust7eXpDM
 
-MoneroTalk w/ Sebastian Kung on Reproducible Builds at MoneroKon 2019! - [youtu.be/mXyNrsfaLpE](https://youtu.be/mXyNrsfaLpE)  
+Also: Sebastian Kung with MoneroTalk at MoneroKon 2019 - [youtu.be/mXyNrsfaLpE](https://youtu.be/mXyNrsfaLpE)
 
 _**Abstract**_
+---
 
 A tampered release of Monero could have catastrophic consequences. Widespread methods to secure releases, like publishing a signed checksum of the binary, do not offer protection against rollback attacks, the maintainer releasing a binary containing malicious code, or users not checking signatures. I will present an introduction to reproducible builds, cross platform toolchains, update systems and user-friendly verification methods to ensure binary integrity.
 
 _**Transcription**_
+---
 
 So I will be talking about software deployments, reproducible builds, and then I'll give some comments on why reproducible builds are still not enough. We need even better systems.
 

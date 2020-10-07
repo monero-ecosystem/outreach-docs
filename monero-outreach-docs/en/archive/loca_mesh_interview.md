@@ -1,5 +1,7 @@
 # Interview with Randy Brito of Locha Mesh
 
+**Locha Mesh is an open-source project developing a protocol and devices for off-grid cryptocurrency transactions. - 18th of March, 2020**
+
 In February 2020 the Monero community took a chance on the [Locha Mesh](https://github.com/btcven/locha#readme) project, by funding a proposal submitted to [Monero’s Community Crowdfunding System](https://ccs.getmonero.org/) (CCS). The CCS is a platform for Monero contributors, and sometimes aligned projects, to submit an idea or proposal for funding. Usually proposals are directly related to Monero development, so the Locha Mesh proposal caught quite a few people by surprise.  
 
 Locha Mesh is an open-source hardware and software project that is developing a protocol and devices to support off-grid cryptocurrency transactions. Led by Randy Brito and the Bitcoin Venezuela organization, this project demonstrated the ethos of innovation, privacy, and free and open source technology that align so well with Monero. As a result, the community donated to support them for three months and to produce greater documentation that will make it easier for the respective Monero and Locha Mesh developers to work together, demonstrate successful sending of messages over the Locha Mesh, and ultimately allow syncing a Monero node over the Locha Mesh network—perhaps using Monero’s innovative [RPC-Pay](https://www.monerooutreach.org/stories/RPC-Pay.html) feature to incentize Locha Mesh node operators.  

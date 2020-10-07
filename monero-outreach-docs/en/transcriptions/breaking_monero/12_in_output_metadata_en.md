@@ -1,17 +1,15 @@
-# Breaking Monero 12: Input/Output Metadata 
-*06/09/19*  
-_**We discuss how the metadata collected by looking at the number of inputs and outputs can limit privacy in some circumstances.**_  
+# Breaking Monero 12: Input/Output Metadata
 
-**Breaking Monero Episode 12: Input/Output Metadata**  
+**Breaking Monero Episode 12: Input/Output Metadata**
 
-https://youtu.be/-zJpvsj1rWE  
+https://youtu.be/-zJpvsj1rWE
+
 In this episode, we discuss how the metadata collected by looking at the number of inputs and outputs can limit privacy in some circumstances. We warn against leaking metadata through unusual or repeated, predictable behavior. 
 
 [github.com/noncesense-research-lab/tx_in_out_distribution](https://github.com/noncesense-research-lab/tx_in_out_distribution)  
 
-[All Breaking Monero Episodes](https://www.monerooutreach.org/breaking-monero/)  
-
-_**Episode Transcription**_ 
+_**Episode Transcription**_
+---
 
 _**Justin:**_ Hello and welcome back to another episode of Breaking Monero. Today, Sarang and I will be talking about the Input/Output structure of Monero transactions. When you send Monero transactions, you reveal to the rest of the network how many inputs and how many outputs are sent in the transaction. You can think of outputs like dollar bills, some people call them notes, where they are just a container of money. I sometimes call them ‘bags of gold’ because you can have a varying amount of gold in there that you dump into other bags. That’s what an output is, but when you send Monero transactions, you may reveal a good amount of information with this metadata. So today, we’re going to talk about some considerations when you send transactions to help make sure that this metadata alone can’t severely undermine the privacy of your transactions. But first, we’re going to have Sarang talk about examples of the different transaction types that people make with Monero, the metadata on the number of inputs and outputs revealed, and then also talk about whether this is unique to Monero or not.
 
@@ -33,4 +31,4 @@ _**Justin:**_ All right, thanks Sarang. Is there anything else you want to leave
 
 _**Sarang:**_ Just that this is one particular kind of metadata that is absolutely not unique to Monero, but it’s something interesting to think about. It’s a type of metadata that is very difficult for us to homogenize. Ring size is very easy for us to manage, we just say that that’s a system parameter. But the reason that most digital assets, like Monero and others have fixed input/output structures is because that particular kind of metadata is very, very difficult to hide in a smart way. Attempts to try to make transactions more homogeneous could lead to behavior like very regular, repeated, predictable churn which itself can leave a fingerprint. For many threat models and use cases, the standard use of the default Monero wallet is just fine.
 
-_**Justin:**_ All right, thank you so much Sarang for joining me today, thanks everyone for watching this episode of Breaking Monero. Catch you in the next one. 
+_**Justin:**_ All right, thank you so much Sarang for joining me today, thanks everyone for watching this episode of Breaking Monero. Catch you in the next one.

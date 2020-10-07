@@ -1,19 +1,18 @@
 # Dr. Brandon Goodell
-_**Perfect Privacy or Strong Deniability?**_ 
 
 Brandon is a mathematician and researcher and Monero Research Lab. He has contributed to the Monero community since 2014. His work has most recently been focused on security proofs for new cryptographic protocols as well as statistical approaches to blockchain analysis. 
 
-**Perfect Privacy or Strong Deniability?**  
-_Dr. Brandon Goodell, Monero Research Lab_  
-[youtu.be/xicn4rdUj_Q](https://youtu.be/xicn4rdUj_Q)  
+https://youtu.be/xicn4rdUj_Q
 
-[MoneroTalk](https://www.youtube.com/channel/UC3Hx81QYLoEQkm3vyl4N4eQ) w/ Brandon Goodell of the Monero Research Lab at MoneroKon 2019! - [youtu.be/0zEzCvZN9j8](https://youtu.be/0zEzCvZN9j8)
+Also: Brandon Goodell (Monero Research Lab) at MoneroKon with MonerTalk [monerotalk.live/live-w-brandon-goodell-of-the-monero-research-lab-at-monerokon-2019](https://www.monerotalk.live/live-w-brandon-goodell-of-the-monero-research-lab-at-monerokon-2019)
 
 _**Abstract**_
+---
 
 Most customers (say Alice and Bob) of privacy-respecting ledgers use a custodial exchange (Eve). Such an exchange can easily ascertain what happened in the event that Alice withdraws from Eve, then Alice sends to Bob, and then Bob deposits at Eve. We discuss how heuristics for tracing the flow of money in a privacy-respecting ledger can be used to construct statistical hypotheses, how parallelizable graphtheoretic approaches can be used to construct maximum likelihood estimates under these hypotheses of the transaction history in polylogarithmic time, and how custodial exchanges can leverage their custodial information to assess the goodness of their estimates. These techniques can be used to rapidly test hypotheses of customer behavior, but suffer issues with sensitivity and specificity (especially against customers with knowledge of the underlying heuristics, who may attempt a frame-up on other customers). We show some preliminary results about how the anonymity set size influences both the power of these tests and the time it takes to apply these approaches. We conclude the privacy claims in cryptocurrencies like Monero or Zcash reduce to that of plausible deniability against adversaries with extra knowledge.
 
 _**Transcription**_
+---
 
 Hi everyone.
 

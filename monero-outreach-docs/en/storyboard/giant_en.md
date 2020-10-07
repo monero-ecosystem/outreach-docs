@@ -1,6 +1,6 @@
 # The Sleeping Giant of Cryptocurrency
 
-Jack M | 11/06/18 The year 2017 forever marred the legitimacy of cryptocurrency in the eyes of the world. What about Monero?
+**The year 2017 forever marred the legitimacy of cryptocurrency in the eyes of the world. What about Monero? - 6th of November, 2018 - Jack M 	**
 
 **“Rarely do we find men who willingly engage in hard, solid thinking. There is an almost universal quest for easy answers and half-baked solutions. Nothing pains some people more than having to think.”**
 Martin Luther King, Jr.
@@ -9,7 +9,7 @@ The year 2017 forever marred cryptocurrencies’ legitimacy in the eyes of the w
 
 The Monero (XMR) project has kept one purpose in mind: fast, cheap, fungible, and private value transfers. Monero never relies on expensive marketing campaigns, ICOs, or venture funding. It has an open-source, grassroots community of developers, users, creatives, and freedom fighters. We the community do not believe that Monero, or cryptocurrency for that matter, can solve all of the world’s problems. We do believe that Monero can solve one important one: transferring money to anyone privately and without central authority.
 
-## Good Technology vs. Good Marketing
+### _Good Technology vs. Good Marketing_
 
 Monero has been quietly implementing state-of-the-art technology and mathematics to improve privacy and maintain one of the key features of money: fungibility. The engineering team is second to none and boasts more active developers than most cryptocurrency projects. The developers work more cohesively than many research universities and Fortune 500 corporations, yet they are funded by the community, not big businesses.
 
@@ -19,13 +19,13 @@ With a strong team of engineers, a large community, and a history for implementi
 
 Monero’s organization stands in stark contrast to centralized coins with strict leadership. Centralized coin efforts often reject outside developers’ contributions, even if the code is good. Egos can fly high and drama peaks into catastrophic blowouts, with good developers leaving and investors losing confidence. Monero’s structure keeps true to the decentralized ethos in that anyone is welcome to contribute and their work often finds its way into the codebase, website, or documentation. If there are any issues with contributions, developers let authors know in a gentle manner -- because another part of Monero’s ethos is “Be excellent to each other!”
 
-## R&D and Benefits to Inflation
+### _R&D and Benefits to Inflation_
 
-### Monero Research Lab: Discovering Cutting-edge Technology
+#### Monero Research Lab: Discovering Cutting-edge Technology
 
 The Monero Research Lab is an arm of the community where some of the brightest security researchers, mathematicians, and developers assess and create cutting-edge solutions for privacy and security.
 
-### Inflation: How It Works and Its Benefits
+#### Inflation: How It Works and Its Benefits
 
 Monero has a slight inflation rate designed to keep mining incentives stable yet still allow Monero coins to hold a strong value. With a long-term inflation rate at about 1%, which is similar to the rate of increase in gold, Monero incentivizes miners to join the network with solid reward.
 
@@ -33,7 +33,7 @@ This mild, predictable inflation makes for good economics and puts Monero in a g
 
 In turn, decentralization is strengthened across the network. The network remains healthy when it comes to speed and transaction verification. Monero’s adaptive block reward schedule, which guides the inflation rate, ensures consistent, automatic fee rewards so that mining participants are not discouraged with sudden changes in their profits. The emission curve for inflation adapts algorithmically on the fly for mining conditions.
 
-## All Miners Welcome
+### _All Miners Welcome_
 
 As ASIC mining equipment has dominated Bitcoin’s proof of work algorithm, many at-home miners have been pushed out. This leaves mining open only to a select few with immense money and resources to benefit from Bitcoin mining.
 
@@ -41,7 +41,7 @@ While ASIC mining has become commonplace for Bitcoin, Monero frequently updates 
 
 The latest Monero core upgrade includes the state-of-the-art Bulletproofs algorithm. The upgrade dramatically improves Monero’s privacy, speed, and transaction costs. All these new benefits will make Monero stand out as an ideal currency as adoption continues. The features aimed at ease of transacting are not to be underestimated.
 
-## Monero Shall Soon Rise
+### _Monero Shall Soon Rise_
 
 With all the evidence that Monero implements cutting edge technology, alongside a strong community, we believe that the XMR coin will soon rise as a giant. It will stand out from coins that don’t solve new problems and rely heavily on marketing to garner attention. We are already seeing the fallout from poor projects as we watch many exchanges delist them during the market rout. Many coins launched in 2017 have failed.
 

@@ -1,19 +1,16 @@
 # ﻿Andrew Poelstra
-_**Practical Challenges of Compact Threshold Signatures**_
 
 Andrew Poelstra has been working as a cryptographer in the Bitcoin and cryptocurrency space for the last six years. He is best known for his off-brand use of digital signatures in the form of "scriptless scripts". Currently he is the Director of Research at Blockstream.
 
-**Practical Challenges of Compact Threshold Signatures**
-_Andrew Poelstra, Blockstream_
-[youtu.be/L6KqkrP_nU4](https://youtu.be/L6KqkrP_nU4)
+https://youtu.be/L6KqkrP_nU4
 
 _**Abstract**_
+---
 
 Schnorr signatures, like the ed25519 signatures used in Monero, have a simple structure which allows multiple parties to jointly compute a single signature. These signatures can be validated in the ordinary way against a joint public key computed as a combination of individual signers’ keys and for which no individual signer knows the complete secret key. However, while such multi-signatures are simple to describe mathematically, they require a more complex security model able to handle adversarial behavior by individual signers, such as “rogue key attacks”. Further, practical implementations of multiparty protocols such as this require careful consideration of uniform random number generation, denial-of-service attacks, replay attacks and more. In this talk, we discuss our work addressing these challenges using the secp256k1 elliptic curve (which is analogous to ed25519), as well as the additional challenges presented by the generalization from n-of-n multisignatures to k-of-n threshold signatures.
 
 _**Transcription**_
-
-**Monerokon Madness: Schnorr Schadness**
+---
 
 As Brandon mentioned, I’m here to talk about the challenges of implementing threshold signatures, the challenges of implementing Schnorr signatures. So I’ll give a little bit of background about what that means and then just sort of list-- go through a series of problems that I have encountered over the last couple years. Not all at once is terrible, every couple of months is like some new weird surprising thing here.
 

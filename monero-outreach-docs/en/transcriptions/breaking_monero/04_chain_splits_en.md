@@ -1,15 +1,13 @@
-# Breaking Monero 04: Chain Splits (Key Image Reuse Attack) 
-*06/09/19*  
-_**In this episode, Sarang, Brandon (Suare), and Justin introduce key image reuse concerns.**_  
+# Breaking Monero 04: Chain Splits (Key Image Reuse Attack)
 
-**Breaking Monero Episode 04: Chain Splits (Key Image Reuse Attack)**  
+**Breaking Monero Episode 04: Chain Splits (Key Image Reuse Attack)**
 
-https://youtu.be/6CVcirD90pg  
+https://youtu.be/6CVcirD90pg
+
 In this episode, Sarang, Brandon (Suare), and Justin introduce key image reuse concerns. We explain some techniques to protect security and privacy under a number of circumstances. Ultimately, users should not claim “airdrop” funds if they have not thought long and hard about the implications. 
 
-[All Breaking Monero Episodes](https://www.monerooutreach.org/breaking-monero/) 
-
-_**Episode Transcription**_ 
+_**Episode Transcription**_
+---
 
 _Justin:_ Welcome back to Breaking Monero. Today we are covering a sensitive topic: Chain Splits. Chain Splits are a really complex topic to cover. In fact, it's one of the real main motivators for having these Breaking Monero episodes. But to give a brief key takeaway if you get nothing else, the best thing you can do is to not claim forks and if you do realize that you are sort of playing with fire and you can easily screw up with many many consequences. So again it's something seeming too complicated just go back to that mid point and we can proceed from there. But I would like to talk about initially how this topic is really tricky to talk about because you can not only just easily screw yourself over if you do something wrong but you can also contribute to reduce security and privacy for others through the sort of a chain reaction scenario we described during the last episodes so see that if you're skipping to this one. But first let's hand it over to Sarang who is going to talk about what key images are and other introductions about sort of hard forks and chains splits.
 
@@ -56,4 +54,3 @@ _Justin:_ All right, thank you so much Sarang and Brandon. We're happy to have b
 _Sarang:_ Thank you so much!
 
 _Brandon:_ Bye!
-

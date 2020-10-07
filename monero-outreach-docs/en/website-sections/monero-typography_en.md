@@ -1,68 +1,65 @@
 # Monero Typography
 
-Monero Outreach | 30/09/18
-You, and only you can prevent typography fires.
-
 Monero's logotype uses a modified Century Gothic. This typeface was released by Monotype in 1991. It was based on Futura which was designed by Paul Renner in 1927.
 
-## Introducing: MoneroGothic
+### _Introducing: MoneroGothic_
 
 Monero Outreach created MoneroGothic to correct deficiencies, reduce filesize, provide @fontface stacks and widen language support (25 and countless dialects). Our version is released as Creative Commons Share-alike which means that you need acknowledge we're copying Monotype, like they copied from Renner who probably ripped off some lost bauhaus crypto wiz. Available only in bold, for the bold.
 
-*MoneroGothic v3 (12/04/2018)*
+### _MoneroGothic v3 (12/04/2018)_
 
 Version 3 is a major update that fixes missing and ugly glyphs. We also merged the two Latin character set (W01 & W02) into one file as we were able to sufficiently reduce filesize to be able to enjoy this convenience with a clear conscience.
 
-[MoneroGothic.otf (Desktop)](https://www.monerooutreach.org/fonts/MoneroGothic_v3.zip)
+[MoneroGothic.otf (Desktop)](https://static.monerooutreach.org/font/MoneroSerif/MoneroGothic_v3.zip)
 
-[MoneroGothic (@fontface)](https://www.monerooutreach.org/fonts/MoneroGothic_v3_web.zip)
+[MoneroGothic (@fontface)](https://static.monerooutreach.org/font/MoneroSerif/MoneroGothic_v3_web.zip)
 
-+ Albanian (sq)
+- Albanian (sq)
 
-+ Croatian (hr)
+- Croatian (hr)
 
-+ Czech (cs)
+- Czech (cs)
 
-+ Danish (da)
+- Danish (da)
 
-+ Dutch (nl)
+- Dutch (nl)
 
-+ English (en)
+- English (en)
 
-+ Estonian (et)
+- Estonian (et)
 
-+ Finnish (fi)
+- Finnish (fi)
 
-+ French (fr)
+- French (fr)
 
-+ German (de)
+- German (de)
 
-+ Hungarian (hu)
+- Hungarian (hu)
 
-+ Icelandic (is)
+- Icelandic (is)
 
-+ Italian (it)
+- Italian (it)
 
-+ Latvian (lv)
+- Latvian (lv)
 
-+ Lithuanian (lt)
+- Lithuanian (lt)
 
-+ Norwegian (nn)
+- Norwegian (nn)
 
-+ Polish (pl)
+- Polish (pl)
 
-+ Portuguese (pt)
+- Portuguese (pt)
 
-+ Romanian (ro)
+- Romanian (ro)
 
-+ Slovak (sk)
+- Slovak (sk)
 
-+ Slovenian (sl)
+- Slovenian (sl)
 
-+ Spanish (es)
+- Spanish (es)
 
-+ Swedish (sv)
+- Swedish (sv)
 
-+ Turkish (tr)
+- Turkish (tr)
 
-+ Welsh (cy)
+- Welsh (cy)

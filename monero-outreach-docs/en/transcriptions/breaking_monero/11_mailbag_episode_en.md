@@ -1,20 +1,18 @@
-# Breaking Monero 11: Mailbag Episode 
-*06/09/19*  
-_**In this episode, we answer several questions from audience members.**_  
+# Breaking Monero 11: Mailbag Episode
 
-**Breaking Monero Episode 11: Mailbag Episode**  
+**Breaking Monero Episode 11: Mailbag Episode**
 
-https://youtu.be/q1gdYWsvXDU  
-In this episode, we answer several questions from audience members. 
+https://youtu.be/q1gdYWsvXDU
+
+In this episode, we answer several questions from audience members.
 
 [An Introduction to Mathematical Cryptography](https://www.goodreads.com/book/show/3884171-an-introduction-to-mathematical-cryptography)  
 [Introduction to Modern Cryptography](https://www.goodreads.com/book/show/24387035-introduction-to-modern-cryptography-second-edition)  
 [An Intensive Introduction to Cryptography](https://intensecrypto.org/public/index.html)  
-[Monero Konferenco](https://monerokon.com/)  
+[Monero Konferenco](https://monerokon.com/)
 
-[All Breaking Monero Episodes](https://www.monerooutreach.org/breaking-monero/) 
-
-_**Episode Transcription**_ 
+_**Episode Transcription**_
+---
 
 _**Justin:**_ Welcome back the eleventh episode of Breaking Monero. This is a special episode where we have a mailbag Q&A session where people have submitted questions based on the previous episodes of Breaking Monero and we're going to answer them for you. We have, me, Justin on and we have Brandon and Sarang with us today. We have a lot of questions that we can go through and we hope this will be able to help cover some of the gaps that we either need to re-clarify in some of the Breaking Monero series or just other questions that you thought were relevant for the Monero Research Lab contributors. So, welcome Brandon, welcome Sarang.
 

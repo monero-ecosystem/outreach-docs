@@ -1,19 +1,18 @@
-# Sri Aravinda Krishnan Thyagarajan  
-_**Omniring: Scaling Up Private Payments Without Trusted Setup**_
+# Sri Aravinda Krishnan Thyagarajan
 
-Sri Aravinda (Aravind) Krishnan Thyagarajan is a Ph.D. student at University of Erlangen-Nuremberg, Germany under the supervision of Prof. Dominique Schroeder. I specialize in analyzing theoretical foundations and various problems pertaining to blockchain and cryptocurrencies namely, privacy, anonymity, scalability and other applications.  
+Sri Aravinda (Aravind) Krishnan Thyagarajan is a Ph.D. student at University of Erlangen-Nuremberg, Germany under the supervision of Prof. Dominique Schroeder. I specialize in analyzing theoretical foundations and various problems pertaining to blockchain and cryptocurrencies namely, privacy, anonymity, scalability and other applications.
 
-**Omniring: Scaling Up Private Payments Without Trusted Setup**  
-_Sri Aravinda Krishnan Thyagarajan, University of Erlangen-Nuremberg_  
-https://youtu.be/tmxPHb8QNqE  
+https://youtu.be/tmxPHb8QNqE
 
-MoneroTalk w/ Sri Aravinda Krishnan at MoneroKon 2019! [youtu.be/afWFTS_UxhI](https://youtu.be/afWFTS_UxhI)  
+Also: Sri Aravinda Krishnan with Monero Talk at Monero Konferenco 2019 [youtube.com/watch?v=afWFTS_UxhI](https://www.youtube.com/watch?v=afWFTS_UxhI)
 
-_**Abstract**_  
+_**Abstract**_
+---
 
 Monero uses Ring Confidential Transactions (RingCT) for providing anonymity and confidentiality. Prior attempts of analyzing RingCT schemes are either informal, miss fundamental functionality, or introduce undesirable trusted setup assumptions. Moreover, the RingCT scheme currently used in Monero limits the anonymity set due to spend proof size growing linearly with the ring size. As a solution to these problems, we present the first complete and rigorous formalization of RingCT. We then propose a generic construction of RingCT and prove it secure in our formal security model. By instantiating our generic construction with efficient zero-knowledge proofs which extends Bulletproofs, we obtain Omniring: the first RingCT scheme which 1) does not require a trusted setup or pairings, 2) has a proof size logarithmic in ring size, and 3) allows to share the same ring between all source accounts in a transaction. Omniring enables significantly improved privacy levels without sacrificing performance.  
 
 _**Transcription**_
+---
 
 All right, good morning to everyone, welcome to my talk. First, it's a lot of pressure for me to start the conference with my talk. Let's see if I do a good job.
 

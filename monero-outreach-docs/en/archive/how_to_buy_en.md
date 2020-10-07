@@ -30,15 +30,12 @@ Ok, so this is mining Monero, not buying Monero. But we just wanted to point out
 
 Cash is one of the few currencies that is almost as fungible as Monero. Most bills have a serial number and can be tracked, but in regular, everyday usage, cash is practically fungible. While less common, trading XMR for gold, silver or other unmarked precious commodities is also untraceable. Cash transactions are usually done in person, which allow the buyer and seller to have control over the privacy level of the transaction. However, meeting in person isn’t always easy or risk-free and will tend to be geographically limited. The site [localmonero.co](https://localmonero.co/) can help you find people selling XMR for cash in your area.
 
-_**Pros**_
 
-- Private/Fungible
-- Decentralized
-- Low/Free Transaction Cost
-
-_**Cons**_
-
-- Inconvenient
+| _**Pros**_ | _**Cons**_ |
+|--|--|
+| Private/Fungible | Inconvenient |
+| Decentralized |  |
+| Low/Free Transaction Cost |  |
 
 ### _Buy Monero with a Bearer Instrument_
 ---
@@ -49,29 +46,21 @@ Bisq supports USPS Money Orders. While only available in the United States, you 
 
 A cashier’s check made out to cash also provides a degree of privacy since it’s literally a check from the bank that is drawn from their account and not yours. You will be in a KYC scenario with the bank you buy the check from, but up to a certain amount you will at least be below the AML reporting. After all that, the benefit would be relative anonymity against anything short of a supeona.
 
-_**Pros**_
-
-- Anonymous
-- Inexpensive
-
-_**Cons**_
-
-- Inconvenient
+| _**Pros**_ | _**Cons**_ |
+|--|--|
+| Anonymous | Inconvenient |
+| Inexpensive |  |
 
 ### _Buy Monero at an ATM_
 ---
 
 Many Monero ATMs take cash and often smaller transactions can be completed anonymously. ATM owners may have slightly difference polices on this, but Know-Your-Customer/Anti-Money-Laundering (KYC/AML) regulations invariably kick in at a certain transaction amount and your transaction data would be stored by the ATM provider no matter the amount. The site coinatmradar.com provides a searchable map of Monero ATMs.
 
-_**Pros**_
-
-- Anonymous for Small Amounts
-
-_**Cons**_
-
-- Expensive
-- Geographically Limited
-- Transaction Data is Stored
+| _**Pros**_ | _**Cons**_ |
+|--|--|
+| Anonymous for Small Amounts | Expensive |
+|  | Geographically Limited |
+|  | Transaction Data is Stored |
 
 ### _Buy Monero with Crypto_
 ---
@@ -87,13 +76,9 @@ Exchanges like [morphtoken.com](https://www.morphtoken.com/) and [tradeogre.com]
 #### Centralized KYC Exchange
 Lastly, you could also deposit into any conventional exchange that offers a BTC-XMR trading pair. It’s important to remember that until you withdraw your XMR into your wallet, it is neither private nor secure.
 
-_**Pros**_
-
-- Convenient
-
-_**Cons**_
-
-- Not Private
+| _**Pros**_ | _**Cons**_ |
+|--|--|
+| Convenient | Not Private |
 
 ### _Buy Monero with Credit/Debit Card_
 ---
@@ -102,45 +87,33 @@ A credit card transaction of any kind is fully centralized and not private at al
 
 Prepaid credit cards can provide anonymity so long as there is no other meta-data to connect you to that card. If you buy the pre-paid card with cash and don’t use it for any other purchases, you would have a reasonable level of privacy.
 
-_**Pros**_
-
-- Convenient
-
-_**Cons**_
-
-- Not Private
-- Centralized
-- High Risk of Breach
+| _**Pros**_ | _**Cons**_ |
+|--|--|
+| Convenient | Not Private |
+|  | Centralized |
+|  | High Risk of Breach |
 
 ### _Buy Monero with Bank Transfer_
 ---
 
 Bank transfers are most commonly used for larger OTC (Over-The-Counter) transactions. It’s worth looking at wire payments as distinct from credit/debit even if it’s the same bank offering all three services, as they are routed differently. Credit/debit transactions run through the same processors and networks as any other credit card. Similarly, any email-transfer services will tend to be run on a third-party network. But account-to-account transfers and formal wire transfers follow a different path. An internal account transfer is done within that bank’s network which just means that the data of that transaction exists in fewer places and would settle instantly. A wire transfer however introduces new surveillance groups, most notably in the destination bank and intermediary banks, but also SWIFT (Society for Worldwide Interbank Financial Telecommunication). If your wire is going into or out of the United States it will also pass through the Office of Foreign Asset Controls and FedWire.
 
-_**Pros**_
-
-- Suitable for large amounts
-
-_**Cons**_
-
-- Not Private
-- Centralized
-- Expensive & Inconvenient
+| _**Pros**_ | _**Cons**_ |
+|--|--|
+| Suitable for large amounts | Not Private |
+|  | Centralized |
+|  | Expensive & Inconvenient |
 
 ### _Buy Monero with Paypal_
 ---
 
 Paypal, Apple Pay, Google Pay, Venmo or Western Union type services are not private and can be expensive. These money transfer services will also have their own Terms of Service and policies that may open you up to additional risk. With Paypal in particular, XMR sellers need to be careful as transactions can be reversed and PayPal’s policy is to side with the buyer in the event of a dispute. In an example scam, Alice agrees to buy 1 XMR for X Dollars from Bob. Alice sends Bob X dollars via Paypal, and then Bob sends Alice 1 XMR. Alice files a dispute with Paypal and is refunded the X dollars, and she keeps the immutable Monero.
 
-_**Pros**_
-
-- Convenient
-
-_**Cons**_
-
-- Not Private
-- Centralized
-- Expensive
+| _**Pros**_ | _**Cons**_ |
+|--|--|
+| Convenient | Not Private |
+|  | Centralized |
+|  | Expensive |
 
 ### _Learn More_
 

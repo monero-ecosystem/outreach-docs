@@ -1,15 +1,13 @@
-# Breaking Monero 08: Timing Attacks 
-*06/09/19*  
-_**We discuss some of the network topography concerns and offer some ways for users to mitigate their exposure to timing heuristics.**_  
+# Breaking Monero 08: Timing Attacks
 
-**Breaking Monero Episode 08: Timing Attacks**  
+**Breaking Monero Episode 08: Timing Attacks**
 
-https://youtu.be/v77trz2VlLs  
+https://youtu.be/v77trz2VlLs
+
 Information on when users run nodes, sync wallets, and send transactions can be used to learn more about Monero users. We discuss some of the network topography concerns and offer some ways for users to mitigate their exposure to timing heuristics. 
 
-[All Breaking Monero Episodes](https://www.monerooutreach.org/breaking-monero/) 
-
-_**Episode Transcription**_ 
+_**Episode Transcription**_
+---
 
 _**Justin:**_ Hello and welcome back to Breaking Monero, the series where we critically look at some of Monero privacy and security limitations in order to inform people about what these are. I’m Justin and we’re happy to have Sarang back today also. Today we’re talking about timing attacks. Timing attacks are another very nuanced topic, so we want to help explain the situation a little bit better for people so they have a better understanding about what kind of information can be learned them and some key takeaways that users can consider and use as they’re sending transactions. So Sarang, can you start us off with some of the considerations about when you are running a node, what the sort of limitations there are?
 
@@ -60,5 +58,3 @@ _**Justin:**_ All right, any final comments you want to have on this topic?
 _**Sarang:**_ It’s very subtle, and every mitigation you come up with for some kind of timing analysis, there’s probably another heuristic that a very determined or different adversary might use. And that’s not to say that you should fall into an analysis paralysis trap of saying that there will always be new heuristics, so why use this at all? As always, this is a kind of cat and mouse game for which we try to iterate, maybe sometimes more slowly than we would like, but we still do iterate and improve on it.
 
 _**Justin:**_ Okay, thank you Sarang. Thanks again for everyone who watched. This has been Breaking Monero, we will catch you the next time. Bye everyone.
-
-

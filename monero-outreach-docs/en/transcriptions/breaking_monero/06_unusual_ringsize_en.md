@@ -1,18 +1,16 @@
-# Breaking Monero 06: Unusual Ringsize 
-*06/09/19*  
-_**In this short episode, we discuss the unfortunate tradeoff when sending Monero transactions with unusual ringsizes.**_  
+# Breaking Monero 06: Unusual Ringsize
 
-**Breaking Monero Episode 06: Unusual Ringsize**  
+**Breaking Monero Episode 06: Unusual Ringsize**
 
-https://youtu.be/8rbR1WMUr14  
-In this short episode, we discuss the unfortunate tradeoff when sending Monero transactions with unusual ringsizes. Some transactions were sent with ringsizes over 1000. Monero moved to consensus-mandated ringsizes in a recent update instead of minimum ringsizes. Thus, the concerns in this video serve an informative purpose, but they do not have any current relevance.
+https://youtu.be/8rbR1WMUr14
+
+We discuss the unfortunate tradeoff when sending Monero transactions with unusual ringsizes. Some transactions were sent with ringsizes over 1000. Monero moved to consensus-mandated ringsizes in a recent update instead of minimum ringsizes. Thus, the concerns in this video serve an informative purpose, but they do not have any current relevance.
 
 [moneroblocks.info](https://moneroblocks.info/search/5e75b4596c234ad17d34c44c3f07da508afb985748b3066bbfe2923cedb0b81a)
 [stoffu.github.io/diff-chart/monero-ring-size.html](https://stoffu.github.io/diff-chart/monero-ring-size.html)
 
-[All Breaking Monero Episodes](https://www.monerooutreach.org/breaking-monero/) 
-
 _**Episode Transcription**_
+---
 
 _**Justin:**_ Hello everyone and welcome back to another episode of Breaking Monero. Today we have a much similar from the last two episodes at least, just the idea of an unusual ring size. This should be a pretty short episode for you all today. We already spoke about what Monero’s ring signatures are so make sure to go watch those episodes if you haven’t seen them yet, but instead we’re simply covering how Monero’s ring sizes sort of changed and how as a result you can’t really send transactions with unusual rings sizes anymore. So, to begin with we’re going to start with a brief history lesson. And to help aid us with this there’s this one contributor called stoffu who has a real fantastic tool over here in regards to Monero’s ring size of Monero’s transactions over time. So you can see back when Monero first started, most of the transactions, you know, 98% of them had a ring size of 1, in that you did not hide the output at all. There was essentially no ring signature. And as we increase the minimum as you can clearly see here, that the minimum became 3. So as a result most became ring size 3, and then 5, and then 7, and now 11. But as you can see going up this process, it wasn’t that everyone used one specific number. You can see here for example, on June 30th 2017, that sure, most transactions used ring size 3, but there were several other transactions that were sent. As an example here, there a 130 transactions on that day, about 5% that sent transactions with ring size 11. And this was one of the options in the GUI, so you can tell the GUI wallet software, so it was more likely for someone to use a ring size of 11 than a ring size of 14 let’s say. But if we zoom in on the current history, if we go in just to the recent day we can see that now ring size 11 which is the current ring size of Monero is the only transaction size that people can use. No it’s not just the case that coincidentally everyone’s sending transactions this way; it’s actually mandated that you send transactions this way, that you actually have a mandatory ring size now. So this is a little bit of just, you know history going back and so hopefully this tool if you want to play around, stoffu has a ton of great data too on their website you can see the [link just up there](https://stoffu.github.io/diff-chart/monero-ring-size.html). So a lot of cool data there even beyond just Monero ring sizes for whatever you’re interested in, but just warning that it will destroy your browser window as you’re trying to use them. Just fair warning to everyone who’s trying to set this up for the first time. Alright, but as far as late introductions here, I apologize, but yep, I’m Justin here as always. And just like always too we have Sarang over there. Wave Sarang. Hello. 
 
@@ -32,8 +30,8 @@ _**Sarang:**_ Yeah increasing the ring size you know according to some forms of 
 
 _**Justin:**_ Great Sarang. Any last closing thoughts that you have on this short topic here? 
 
-_**Sarang:**_ We turned it up to 11 man. 
+_**Sarang:**_ We turned it up to 11 man.
 
 _**Justin:**_ Excellent, well thanks, thanks again for joining me Sarang and thanks for watching this very brief episode today. We’ll have others coming out to you later. Take care and have a great rest of your day. 
 
-_**Sarang:**_ See ya. 
+_**Sarang:**_ See ya.

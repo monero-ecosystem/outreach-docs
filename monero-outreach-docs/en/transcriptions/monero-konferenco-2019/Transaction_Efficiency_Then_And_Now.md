@@ -1,3 +1,17 @@
+# Dr. Sarang Noether
+
+Sarang Noether is a mathematician and cryptographer who conducts research and development for the Monero Research Lab. He has extensive worldwide teaching and speaking experience in mathematics, technology, and applied cryptography.
+
+https://youtu.be/-0hguEjC6ko
+
+_**Abstract**_
+---
+
+Monero’s transaction protocol uses several cryptographic constructions working in tandem; these include linkable ring signatures, Pedersen commitments, and range proofs. Each component of the transaction model introduces costs that affect network performance and user experience. In this talk, we will review past and present efforts to improve transaction space and time efficiency. We’ll discuss Bulletproofs for range proofs, changes to Pedersen element communication for output size reduction, and compact LSAG signatures for ring signature optimization. No prior experience with these constructions is assumed, so this talk will be accessible to everyone!
+
+_**Transcription**_
+---
+
 Next up we have Sarang Noether one of the other paid members of the Monero Research Lab, and he is here to speak about transaction efficiency, then and now.  
 
 Hello everyone, I'm back again. I've been randomly appearing throughout the conference to help out as needed, so I will be talking today about transaction efficiency a little bit then, and a little bit now. And part of the goal is to kind of give a nice kind of look back to how our transactions have evolved in terms of size and time efficiency over time, and kind of what we're doing to improve those.  

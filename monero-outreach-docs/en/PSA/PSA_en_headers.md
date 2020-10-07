@@ -28,7 +28,7 @@
   * Keep on dreaming, lover boy…
   * ...keep on dreaming
 
-- Forks 
+- Forks
   * XMR forks takes us forward
 
 - Mining

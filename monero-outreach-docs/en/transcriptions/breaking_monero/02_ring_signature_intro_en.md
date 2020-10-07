@@ -1,15 +1,13 @@
-# Breaking Monero 02: Ring Signatures Introduction  
-*06/09/19*  
-_**We discuss the history of Monero’s ring signatures and past approaches to improve them.**_  
+# Breaking Monero 02: Ring Signatures Introduction
 
-**Breaking Monero Episode 02: Ring Signatures Introduction**  
+**Breaking Monero Episode 02: Ring Signatures Introduction**
 
-https://youtu.be/6k5uOjkLOno  
+https://youtu.be/6k5uOjkLOno
+
 We discuss the history of Monero's ring signatures and past approaches to improve them. 
 
-[All Breaking Monero Episodes](https://www.monerooutreach.org/breaking-monero/) 
-
-_**Episode Transcription**_ 
+_**Episode Transcription**_
+---
 
 _**Justin:**_ Welcome to the second episode of Breaking Monero. Breaking Monero is a series of episodes where we explain the limitations of Monero’s security and privacy in a comprehensive and understandable way. Today we are covering and introduction to ring signatures and their history. It’s important to understand ring signatures before talking about anything else in these episodes, because they all really build off of ring signatures. But before we get there, we have Sarang on here, can you introduce yourself briefly, I know they saw you in the previous episode, but can you also cover some basic terms for people, the idea of plausible deniability and the idea of heuristics.
 

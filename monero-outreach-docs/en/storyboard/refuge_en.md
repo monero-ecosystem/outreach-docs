@@ -1,15 +1,14 @@
 # Monero: Refuge From Grievous Civil Forfeiture Laws (Part 1)
-*04/15/19*  
-Obiter Cryptum  
 
+**Egregious and systemic government and third-party overstepping takes place every day, and while you might not personally experience it, it’s very much alive and thriving. - 15th of April, 2019 - Obiter Cryptum**
 
 Egregious and systemic government and third-party overstepping takes place every day, and while you might not personally experience it, it’s very much alive and thriving. Fundamental rights which we, as human beings, are guaranteed under the [Universal Declaration of Human Rights](http://www.un.org/en/universal-declaration-human-rights/) and our respective state constitutions, are being eroded and chiseled away, whether it explicitly or surreptitiously. 
 
 Voice, choice, and autonomy have all but been chosen for not only the [3 billion plus persons](http://www.globalissues.org/article/26/poverty-facts-and-stats) living on less than USD $2.50 per day by a concentrated few, but nearly everyone in one way or another - whether it due to government overreach, third-party missteps, or censorship. 
 
-*But, what if that didn’t have to be the case?* 
+_But, what if that didn’t have to be the case?_
 
-*What if marginalized, ostracized, voiceless, and even seemingly average persons were able to recoup a sliver of independence and self-determination from the encroaching and limiting monoliths?* 
+_What if marginalized, ostracized, voiceless, and even seemingly average persons were able to recoup a sliver of independence and self-determination from the encroaching and limiting monoliths?_
 
 Well...that would be a start - a drop in the bucket toward self-liberation from autocratic and overarching rule, but still a drop in the bucket. 
 
@@ -19,7 +18,7 @@ To best convey why privacy-preserving cryptocurrencies, mechanisms, and networks
 
 In this first article of a three part series, I’m going to walk you through the current framework of the United State’s civil forfeiture laws, several examples of these inequitable laws, and how Monero can be used to better serve the people by providing refuge. In part two, I will address how it can empower South Sudanese to realize purchasing power in a time of macroeconomic collapse, and part three will explore examples of banks freezing assets, how it poses a threat to individual soveriegnty, and the solution that Monero offers. 
 
-## Civil Forfeiture in the United States
+### Civil Forfeiture in the United States
 
 *“The idea of going at people through their property has a long history. The theories are quite old. The prevalence of the practice is comparatively recent.”* - Daniel C. Richman (1999) 
 
@@ -35,17 +34,23 @@ Recourse is difficult for the average person subjected to this civil rights chop
 
 ### Three Notable United States Civil Forfeiture Cases
 
-**Case 1:** In 2013, a [Mississippi man was pulled over by local police](https://www.vice.com/en_ca/article/9bnezd/bad-cop-blotter-asset-forfeiture-the-cash-cow-of-the-drug-war) for a routine traffic stop which turned into anything but routine. After searching the vehicle of the car, a Mississippi officer found $360,000 stashed in a secret compartment of the car. I’m sure you can guess what happens next. The money was confiscated by police, however proof of a committed crime was never actually furnished. 
+**Case 1:**
+---
+In 2013, a [Mississippi man was pulled over by local police](https://www.vice.com/en_ca/article/9bnezd/bad-cop-blotter-asset-forfeiture-the-cash-cow-of-the-drug-war) for a routine traffic stop which turned into anything but routine. After searching the vehicle of the car, a Mississippi officer found $360,000 stashed in a secret compartment of the car. I’m sure you can guess what happens next. The money was confiscated by police, however proof of a committed crime was never actually furnished. 
 
-**Case 2:** In the same year (2013), a Georgia woman, Alda Gentile, and her son were pulled over (her son was the one driving) for speeding. [Georgia police searched the car for drugs](https://www.marketplace.org/2016/04/06/world/controversial-civil-forfeiture-program-back-action), and ultimately found and seized $11,530, which Gentile noted was for a house-hunting trip in Florida. Gentile was never charged with a crime, and was returned her money a week later. 
+**Case 2:**
+---
+In the same year (2013), a Georgia woman, Alda Gentile, and her son were pulled over (her son was the one driving) for speeding. [Georgia police searched the car for drugs](https://www.marketplace.org/2016/04/06/world/controversial-civil-forfeiture-program-back-action), and ultimately found and seized $11,530, which Gentile noted was for a house-hunting trip in Florida. Gentile was never charged with a crime, and was returned her money a week later. 
 
-**Case 3:** In 2014, Christos and Markella Sourovelis, [parents of a 22-year-old, were in for a surprise](https://edition.cnn.com/2014/09/03/us/philadelphia-drug-bust-house-seizure/) after the police showed up at their door, arresting their son for the sale of $40 worth of heroin. Authorities accused the son of selling drugs out of their home, something both parents emphatically denied any knowledge of. Nearly two months later, the police returned to seize their house - power was turned off, doors were locked and bolted, and the family was forced out onto the street for the day. 
+**Case 3:**
+---
+In 2014, Christos and Markella Sourovelis, [parents of a 22-year-old, were in for a surprise](https://edition.cnn.com/2014/09/03/us/philadelphia-drug-bust-house-seizure/) after the police showed up at their door, arresting their son for the sale of $40 worth of heroin. Authorities accused the son of selling drugs out of their home, something both parents emphatically denied any knowledge of. Nearly two months later, the police returned to seize their house - power was turned off, doors were locked and bolted, and the family was forced out onto the street for the day. 
 
 Police and prosecutors adamantly argued that because their son had been selling drugs out of the house, it was subject to state civil forfeiture laws. After an unconscionable courtroom battle (due to imbalanced bargaining power and due process) and eight days of staying with family, the Sourovelises were allowed back into their house under the condition that they permanently ban their son from it. 
 
-Keep in mind, this is just a fraction of [the billions which are seized every year](https://harvardlawreview.org/2018/06/how-crime-pays-the-unconstitutionality-of-modern-civil-asset-forfeiture-as-a-tool-of-criminal-law-enforcement/) in unlawful ways. 
-  
-## How Monero Can Serve the People & Insulate From Inequitable Civil Forfeiture Laws
+Keep in mind, this is just a fraction of [the billions which are seized every year](https://harvardlawreview.org/2018/06/how-crime-pays-the-unconstitutionality-of-modern-civil-asset-forfeiture-as-a-tool-of-criminal-law-enforcement/) in unlawful ways.
+
+### How Monero Can Serve the People & Insulate From Inequitable Civil Forfeiture Laws
 
 Monero, a secure, fast, and - most importantly - private digital currency, stands to benefit those who might otherwise fall prey to constitutional violations and broad, pernicious interpretations of the law. 
 
@@ -54,7 +59,7 @@ Regarding inequitable civil forfeiture laws of the United States (and a [minorit
 1. Predatory Government & Police Behavior, and
 2. Disproportionate & Arbitrary Punishment.
 
-Let’s take a brief look at how Monero may be used to prevent both. 
+Let’s take a brief look at how Monero may be used to prevent both.
 
 ### Predatory Police & Government Official Behavior
 
@@ -62,7 +67,7 @@ As we noted with the United States ‘Equitable Sharing’ program employed by s
 
 Furthermore, most states and the federal government sanction law enforcement agencies and officials to [keep 90% of profits](https://www.forbes.com/2011/06/08/property-civil-forfeiture.html#2f2b943439fa) from forfeited assets, giving rise to a clear profit motive, which in turn, taints the core of the forfeiture ethos. 
 
-*But, what if an individual’s assets and worth is held in digital form?*
+_But, what if an individual’s assets and worth is held in digital form?_
 
 If there’s no tangible asset in plainview of an officer or official, the likelihood of search and seizure significantly decreases. 
 
@@ -85,11 +90,10 @@ Untraceable digital currencies, such as Monero, tender unprecedented privacy to 
 Monero stands to act as a marble plinth of equity in the courts, should an individual ever find themselves in such a prejudiced legal fight for what is rightfully theirs.
 
 
-## Final Thoughts
+### Final Thoughts
 
 While cryptocurrencies do authorize never-before-seen ways to protect oneself against egregious government overreach, it’s important to understand that not all coins support the same levels of functionality and protection. 
 
 Monero embodies a true privacy coin which separates itself from the likes of Bitcoin, due to its core focus on privacy and fungibility, and provides an extra layer of protection for individuals who may have their computer and crypto seized and surveilled by government officials. Additionally, it provides a platform for users to securely store funds that might otherwise fall prey to excessive fines in tangible and changeable form. 
 
 As noted above, change is not effective immediately, and it takes time for a bucket to fill with rain drops before swaying in favor of the water’s direction. Just as civil forfeiture missteps and abuse won’t vanish overnight, Monero and other privacy coins offer refuge for the subdued. 
-

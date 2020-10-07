@@ -1,15 +1,13 @@
-# Breaking Monero 10: Public Mining Pools 
-*06/09/19*  
-_**Public mining pools provide a service to miners, but they also reveal a lot of output information that observers can use to learn more about transactions.**_  
+# Breaking Monero 10: Public Mining Pools
 
-**Breaking Monero Episode 10: Public Mining Pools**  
+**Breaking Monero Episode 10: Public Mining Pools**
 
-https://youtu.be/39HSRvuRgAo  
+https://youtu.be/39HSRvuRgAo
+
 Public mining pools provide a service to miners, but they also reveal a lot of output information that observers can use to learn more about transactions. Sarang and Justin discuss the impact of these and ways users can optionally reduce their exposure to these risks. 
 
-[All Breaking Monero Episodes](https://www.monerooutreach.org/breaking-monero/) 
-
-_**Episode Transcription**_ 
+_**Episode Transcription**_
+---
 
 _**Justin:**_ Hello and welcome back to another episode of Breaking Monero. Today we’re talking about public mining pool data. Public mining pools allow people to mine with the help of other people who share a block reward, but in doing so they often reveal a lot of information about the blocks that they mine and the transactions that they make. This transparency is good for miners, miners want to know when pools find blocks and when they send out payments, of course. They want to check to make sure that the pool isn’t trying to rip them off in some sort of fashion, but this is generally bad from the rest of the network’s perspective because the pool is giving a high level of visibility to the outputs that it handles which ultimately could impact the privacy of people on the network. Individuals can use the information from the blocks that they mine and the transactions that they send in order to compile a list of the outputs that the pool controls, and just like any other large output list that someone publishes, it could cause some damage. In the case of large public pools, this actually becomes a large enough proportion of the total Monero outputs that we need to start to pay attention. Sarang, can you talk a little more about what the public pools make public and why this is important? 
 
@@ -31,7 +29,7 @@ _**Justin:**_ I have one final note too. The public mining pool data, over time,
 
 _**Sarang:**_ Yes, that’s a really good point. The various chain splits that we might tend to worry about, there’s only very, very few of them that we’ve seen so far. But you’re right, mining pools operate all the time. Coinbase outputs are generated very reliably and as a result, mining payouts also happen very reliably. You might not have to worry very much about chain splits, and for the most part, we tend not to, but you’re right, there’s a lot of data that will continue coming in with public pool outputs. We’re continuing to work really hard to allow folks to continue to choose the network without having to worry about these sorts of things. 
 
-_**Justin:**_ All right, thanks. Any final comments Sarang? 
+_**Justin:**_ All right, thanks. Any final comments Sarang?
 
 _**Sarang:**_ Active area of research. As with a lot of other forms of analysis, it’s something that’s very tricky, it’s something that we are aware of and acknowledge that it is a limitation of the way that Monero is structured. Part of it is just the ways that different users behavior can affect the behavior of others, and some if it is how we decide to design our wallets and our transaction protocols. Our goal is to continue to make them better. 
 
