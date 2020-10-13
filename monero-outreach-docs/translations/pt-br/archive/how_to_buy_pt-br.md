@@ -90,7 +90,8 @@ Se você já tem criptomoedas e gostaria de trocar por Monero você tem bastante
 
 
 #### P2P – Corretora Pessoa para Pessoa 
-Você pode depositar seu BTC em uma corretora privada e descentralizada como a [bisq.network](https://bisq.network/) para mais privacidade. Corretoras P2P são descentralizadas e permitem as pessoas trocar cripto sem a necessidade uma terceira parte. 
+Você pode depositar seu BTC em uma corretora privada e descentralizada como a [bisq.network](https://bisq.network/) para mais privacidade. Corretoras P2P são descentralizadas e permitem às pessoas trocarem cripto sem a necessidade em terceiro ou intermediário. 
+
 
 #### Corretora Sem-KYC 
 Corretoras como [morphtoken.com](https://www.morphtoken.com/) e [tradeogre.com](https://tradeogre.com/) são centralizadas mas não exigem KYC porque elas não fornecem conversão para moeda Fiat.
