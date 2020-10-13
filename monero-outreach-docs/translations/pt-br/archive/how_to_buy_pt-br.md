@@ -86,7 +86,8 @@ _**Contras**_
 ### _Compre Monero com Cripto_
 ---
 
-Se você já tem criptomoedas e gostaria de trocar por Monero você tem bastante opções. Bitcoin-por-Monero (BTC-XMR) é de longe o mais comum par de troca  e rampa de entrada que você irá encontrar, mas a Binance mantém Ethereum-por-Monero (ETH-XMR), e com certeza outros pares surgirão. Se você tem outro tipo de criptomoeda, você precisará primeiro convertê-la para uma que você pode trocar diretamente por XMR, o que frequentemente pode ser feito usando a mesma corretora. Há três tipos principais de corretoras que você pode usar.
+Se você já tem criptomoedas e gostaria de trocar por Monero você tem bastante opções. Bitcoin-por-Monero (BTC-XMR) é de longe o par de troca e porta de entrada mais comum que você irá encontrar, mas a Binance mantém Ethereum-por-Monero (ETH-XMR), e com certeza outros pares surgirão. Se você tem outro tipo de criptomoeda, você precisará primeiro convertê-la para uma que você pode trocar diretamente por XMR, o que frequentemente pode ser feito usando a mesma corretora. Há três tipos principais de corretoras que você pode usar.
+
 
 #### P2P – Corretora Pessoa para Pessoa 
 Você pode depositar seu BTC em uma corretora privada e descentralizada como a [bisq.network](https://bisq.network/) para mais privacidade. Corretoras P2P são descentralizadas e permitem as pessoas trocar cripto sem a necessidade uma terceira parte. 
