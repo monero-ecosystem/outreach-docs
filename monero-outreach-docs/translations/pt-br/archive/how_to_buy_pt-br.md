@@ -94,7 +94,8 @@ Você pode depositar seu BTC em uma corretora privada e descentralizada como a [
 
 
 #### Corretora Sem-KYC 
-Corretoras como [morphtoken.com](https://www.morphtoken.com/) e [tradeogre.com](https://tradeogre.com/) são centralizadas mas não exigem KYC porque elas não fornecem conversão para moeda Fiat.
+Corretoras como [morphtoken.com](https://www.morphtoken.com/) e [tradeogre.com](https://tradeogre.com/) são centralizadas, mas não exigem KYC porque elas não fornecem conversão para moeda fiduciária.
+
 [cakewallet.com](https://cakewallet.com/) tem uma característica que permite a você trocar Bitcoin, Ethereum, Bitcoin Cash, Litecoin e Dash por Monero na própria carteira. Isto é bom para pessoas que desejam trocar Monero, mas não querem criar outra conta em corretora. 
 
 #### Corretora centralizada com KYC
