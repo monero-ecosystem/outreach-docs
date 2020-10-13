@@ -8,7 +8,8 @@ Monero é uma moeda de privacidade, que é o motivo pelo qual estamos todos aqui
 
 - _fungibilidade_ - A ideia é que 1 XMR sempre será igual a outro 1 XMR, não importa seu histórico e este não pode ser contaminado ou discriminado. Fungibilidade pode ser forçada por políticas governamentais ou criada por tecnologia focada em privacidade, assim como o Monero.
 
-- _descentralização_ - Moeda centralizada está sobre controle e vigilância. Qualquer método de pagamento centralizado para comprar Monero é fortemente assistido. Outro efeito da centralização quando se trata de comprar Monero é a tendência de altas taxas de transação.
+- _descentralização_ - Descentralização da moeda diz respeito a controle e vigilância. Qualquer método de pagamento centralizado para comprar Monero é fortemente vigiado. Outro efeito da centralização quando se trata de comprar Monero é a tendência de altas taxas de transação.
+
 - _imutabilidade_ - Transações devem ser imutáveis por qualquer pessoa por qualquer motivo. Isto significa que ninguém pode reverter seus pagamentos ou congelar seus fundos. Imutabilidade descentralizada é o ponto principal da tecnologia blockchain. 
 
 Qualquer moeda que você usar para comprar Monero terá prós e contras relacionados a essas propriedades que você precisará comparar com seu caso de uso individual e privacidade desejada.
