@@ -28,7 +28,8 @@ _-Todas as crianças legais_
 ### _Comprando Monero com eletricidade_
 ---
 
-Ok, então isso é mineração de Monero, e não comprar Monero. Mas nós so queremos apontar que a mineração é a maneira mais privada de adquirir Monero e ajuda a fortalecer a rede para todos. Mineração está fora do escopo deste artigo, mas você pode aprender mais em [Minere Monero para fortalecer a rede](https://www.monerooutreach.org/praticas_recomendadas_monero/mina-para-apoiar-a-rede.html).
+Ok, então isso é mineração de Monero, e não comprar Monero. Mas nós só queremos apontar que a mineração é a maneira mais privada de adquirir Monero e ajuda a fortalecer a rede para todos. Mineração está fora do escopo deste artigo, mas você pode aprender mais em [Minere Monero para fortalecer a rede](https://www.monerooutreach.org/praticas_recomendadas_monero/mina-para-apoiar-a-rede.html).
+
 
 ### _Compre Monero com dinheiro físico_
 ---
