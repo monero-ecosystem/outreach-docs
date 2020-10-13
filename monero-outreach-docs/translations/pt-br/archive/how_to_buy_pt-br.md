@@ -1,6 +1,7 @@
 ﻿# Como comprar Monero
 
-**“É fácil comprar Monero, aqui está o que você precisa saber como comprar com privacidade.” - 23 de Julho de 2020**
+**“É fácil comprar Monero, aqui está o que você precisa saber sobre como comprar com privacidade.” - 23 de Julho de 2020**
+
 
 Monero é uma moeda de privacidade, que é o motivo pelo qual estamos todos aqui. Por enquanto nós iremos discutir todos os caminhos para comprar Monero - incluindo métodos sem privacidade - tudo dentro da perspectiva do objetivo principal do Monero, a privacidade. A blockchain do Monero em si é privada, mas tudo o mais está sobre vigilância e irá comprometer sua privacidade quando for comprar Monero (XMR). A regra é que seu nível geral de privacidade será determinado pelas propriedades da moeda que você usa para comprá-lo. As propriedades relevantes da moeda para a compra de Monero são as seguintes:
 
@@ -149,4 +150,3 @@ _**Contras**_
 - [Introdução a Carteira Monero](https://www.monerooutreach.org/stories/monero-wallet-quickstart.html) - Um guia para selecionar a carteira Monero certa para você.
 - [reddit.com/r/Monero/wiki/avoid](https://www.reddit.com/r/Monero/wiki/avoid) - Uma lista de provedores que não são recomendados pela comunidade Monero.
 - [masteringmonero.com](https://masteringmonero.com/) - Um livro fácil de ler sobre tudo o que você precisa saber sobre o Monero.
-
