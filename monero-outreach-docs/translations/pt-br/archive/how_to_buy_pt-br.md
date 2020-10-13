@@ -70,7 +70,8 @@ _**Contras**_
 ### _Compre Monero em um caixa eletrônico de criptomoedas (ATM)_
 ---
 
-Vários caixas eletrônicos de Monero aceitam dinheiro físico e geralmente pequenas transações podem ser concluídas anonimamente. Os proprietários de ATM’s podem ter políticas ligeiramente diferentes sobre isso, mas regulações de Conheça-Seu-Cliente/Anti-Lavagem-de-Dinheiro (KYC/AML) surgem invariavelmente a partir de determinada quantia transacionada e os dados da sua transação seriam armazenados pelo proprietário do ATM não importa o valor. O site coinatmradar.com fornece a localização de ATM’s Monero
+Vários caixas eletrônicos de Monero aceitam dinheiro físico e geralmente pequenas transações podem ser concluídas anonimamente. Os proprietários de ATM’s podem ter políticas ligeiramente diferentes sobre isso, mas regulações de Conheça-Seu-Cliente/Prevenção à Lavagem de Dinheiro (KYC/AML) surgem invariavelmente a partir de determinada quantia transacionada e os dados da sua transação seriam armazenados pelo proprietário do ATM, não importando o valor. O site coinatmradar.com fornece a localização de ATM’s Monero
+
 
 _**Prós**_
 
