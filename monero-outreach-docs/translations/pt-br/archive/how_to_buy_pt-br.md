@@ -21,7 +21,8 @@ Qualquer moeda que você usar para comprar Monero terá prós e contras relacion
 não é seu Monero.”**
 _-Todas as crianças legais_
 
-1. Até que o XMR esteja em sua carteira ele não é seu XMR e você não será beneficiado pela privacidade do Monero. Contudo quando você comprar Monero, sempre transfira para sua carteira, para suas chaves.
+1. Até que o XMR esteja em sua carteira ele não é seu XMR e você não será beneficiado pela privacidade do Monero. Sempre que você comprar Monero, transfira-os para sua carteira, para suas chaves.
+
 2. Use subendereços e não seu endereço principal quando for receber XMR. Esses são endereços descartáveis que ajudam a proteger sua privacidade. Eles também ajudam a organizar as transações recebidas já que a privacidade do remetente também está sendo protegida pelo Monero e você não saberá de outra forma quem enviou o que.
 
 ### _Comprando Monero com eletricidade_
