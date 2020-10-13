@@ -147,7 +147,8 @@ _**Contras**_
 ### _Comprar Monero com Paypal_
 ---
 
-Paypal, Apple Pay, Google Pay, Venmo ou Western Union são tipos de serviços que não são privados e podem ser caros. Estes serviços de transferência de dinheiro também possuem seus próprios Termos e Políticas de Serviço e pode lhe trazer riscos adicionais. Em particular com o Paypal, vendedores de XMR precisam ser cuidadosos  já que as transações podem ser revertidas e as políticas do Paypal tendem a ficar do lado do comprador em caso de disputa. Em um exemplo de golpe, Alice aceita comprar 1 XMR por X dólares de Bob Alice envia X dólares para Bob via Paypal, e então Bob envia para Alice 1 XMR. Alice abre uma disputa no Paypal e é reembolsada em X dólares, e ela mantém o Monero que comprou.
+Paypal, Apple Pay, Google Pay, Venmo ou Western Union são tipos de serviços que não são privados e podem ser caros. Estes serviços de transferência de dinheiro também possuem seus próprios Termos e Políticas de Serviço e podem lhe trazer riscos adicionais. Particularmente com o Paypal, vendedores de XMR precisam ser cuidadosos já que as transações podem ser revertidas e as políticas do Paypal tendem a ficar do lado do comprador em caso de disputa. Em um exemplo de golpe, Alice aceita comprar 1 XMR por X dólares de Bob. Alice envia X dólares para Bob via Paypal, e então Bob envia para Alice 1 XMR. Alice abre uma disputa no Paypal e é reembolsada em X dólares, e ela mantém o Monero que comprou.
+
 
 _**Prós**_
 
