@@ -41,7 +41,8 @@ _**Prós**_
 
 - Privado/Fungível
 - Decentralizado
-- Custo de transação baixo/gratis
+- Custo de transação baixo/grátis
+
 
 _**Contras**_
 
