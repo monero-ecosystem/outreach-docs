@@ -34,7 +34,8 @@ Ok, então isso é mineração de Monero, e não comprar Monero. Mas nós só qu
 ### _Compre Monero com dinheiro físico_
 ---
 
-Dinheiro físico é uma das poucas moedas que é quase tão fungível quanto o Monero. A maioria das contas tem um número de série e pode ser rastreado, mas para o uso diário, dinheiro físico é praticamente fungível. Embora menos comum, trocar XMR por ouro, prata ou outra mercadoria preciosa também não é rastreável. Transações com dinheiro físico são geralmente realizadas pessoalmente, o que permite ao comprador e ao vendedor ter o controle sobre o nível de privacidade da transação. Contudo, reunião pessoal nem sempre é fácil ou livre de riscos e tende a ser geograficamente limitado. O site [localmonero.co](https://localmonero.co/) pode ajudar você a encontrar pessoas vendendo XMR e que aceitam dinheiro físico próximo a você.
+Dinheiro físico é uma das poucas moedas que é quase tão fungível quanto o Monero. A maioria das notas possuem um número de série e pode ser rastreada, mas para o uso diário, dinheiro físico é praticamente fungível. Embora menos comum, trocar XMR por ouro, prata ou outra mercadoria preciosa também não é rastreável. Transações com dinheiro físico são geralmente realizadas pessoalmente, o que permite ao comprador e ao vendedor ter o controle sobre o nível de privacidade da transação. Contudo, encontros presenciais nem sempre são fáceis ou livres de riscos e tendem a ser geograficamente limitados. O site [localmonero.co](https://localmonero.co/) pode ajudar você a encontrar pessoas próximas a você que estejam vendendo XMR e que aceitem dinheiro físico .
+
 
 _**Prós**_
 
