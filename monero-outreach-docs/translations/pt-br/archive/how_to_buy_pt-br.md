@@ -54,7 +54,8 @@ Instrumento portador é apenas um termo sofisticado que significa que se estiver
 
 Bisq suporta Ordens de Pagamento USPS. Disponível apenas nos Estados Unidos, você pode comprar $3,000 em valor de ordens de pagamento por dia nos EUA sem identificação. Além disso pode ser comprado como dinheiro físico para aumentar ainda mais sua privacidade. Visite [bisq.wiki/US_Postal_Money_Order](https://bisq.wiki/US_Postal_Money_Order) para mais informações sobre como isto funciona e como se manter seguro. No momento da escrita deste artigo, uma ordem de pagamento está custando entre $1,25 ou $1,70 dólares dependendo da quantia.
 
-Um cheque administrativos também prover um grau de privacidade pois se trata literalmente de um cheque bancário que é sacado da conta do próprio banco e não da sua. Você estará em um cenário KYC (sigla em inglês para Conheça-Seu-Cliente) com o banco em que você comprou o cheque, mas até certa quantia você estará livre de ser reportado ao AML (sigla em inglês para Anti-Lavagem-de-Dinheiro). Depois de tudo isso, o benefício seria um anonimato relativo contra qualquer coisa menor que uma intimidação.
+Um cheque administrativo também provê um grau de privacidade pois se trata literalmente de um cheque bancário que é sacado da conta do próprio banco e não da sua. Você estará em um cenário KYC (sigla em inglês para Conheça-Seu-Cliente) com o banco em que você comprou o cheque, mas até certa quantia você estará livre de ser reportado ao AML (sigla em inglês para Prevenção à Lavagem de Dinheiro). Depois de tudo isso, o benefício seria um anonimato relativo contra qualquer coisa menor que uma intimidação.
+
 
 _**Prós**_
 
