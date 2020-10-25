@@ -1,6 +1,6 @@
 # RPC-Pay Up Close
 
-**_“Overlooked and underappreciated so far, RPC-Pay allows instant and private microtransactions and is the new stealthy smallest unit of payment in the Monero universe.”_ - 29th of January, 2020**
+**“Overlooked and underappreciated so far, RPC-Pay allows instant and private microtransactions and is the new stealthy smallest unit of payment in the Monero universe.” - 29th of January, 2020**
 
 Why run a Monero public node? It costs money, but doesn’t make money—at least not directly. A recurring concern has been how to incentivize more of these nodes. RPC-Pay offers this incentivization, and much more. It gives a way to use Monero mining hashes—just the hashes—to pay for Remote Procedure Calls (RPCs) from any RPC-Pay-enabled server, such as a Monero node. Hashes received as payment are used by the server to earn income, and because of Monero’s RandomX the mining hashes can be calculated efficiently using most popular CPUs. Paying with just hashes instead of Monero itself means that RPC-Pay does not burden the Monero network or leave a record. With RPC-Pay, mining hashes become a new stealthy smallest unit of payment in the Monero universe.
 

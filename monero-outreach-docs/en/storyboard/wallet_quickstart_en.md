@@ -1,14 +1,12 @@
 # Monero Wallet Quickstart
-*04/22/19*  
-Almutasim  
-_**Wallets involve one of the most important security decisions that users make.**_
 
+**“Which Monero wallet to use is one of the most important security decisions that users make.” - 22th of April, 2019**
 
 A Monero software wallet is a program for storing, sending, and receiving Monero. It gives you full control over your Monero with privacy and no middleman. Nobody can know all the details on or change your transactions—unless you choose to share your view keys for auditing—power that is the essence of the Monero experience.
 
 To experience this power, you will need to pick a wallet. The first critical aspect of any wallet is its trustworthiness. Only wallets recommended by the community (and the [getmonero.org](https://getmonero.org/) website) are mentioned in this article. Next, you will want to pick a wallet that runs on your preferred computing device—iPhone, Android Phone, or Laptop/Desktop computer. Finally, you should pick a wallet that matches your privacy needs. This article will guide you on this.
 
-Some wallets operate using their own copy of the Monero blockchain. This is also called running a full node. It gives you control over the timeliness of your transactions. Though you can rely on a remote node without added risk of losing your Monero, you do depend on the remote node’s availability—you can always receive, but you may not be able to send. Another benefit of running your own full node is pride of contribution to the Monero network. Honest full nodes make Monero stronger. Learn more here: [monero.how/how-to-run-monero-node](https://www.monero.how/how-to-run-monero-node).
+Some wallets operate using their own copy of the Monero blockchain. This is also called running a full node. It gives you control over the timeliness of your transactions. Though you can rely on a remote node without added risk of losing your Monero, you do depend on the remote node’s availability—you can always receive, but you may not be able to send. Another benefit of running your own full node is pride of contribution to the Monero network. Honest full nodes make Monero stronger. Learn more at: [Transact Safely, Run a Full Monero Node](https://www.monerooutreach.org/monero_best_practices/your_own_node.html).
 
 Benefits of relying, instead, on remote nodes—using what are called light, or sometimes lightweight, wallets—include not needing storage resources for the Monero blockchain. The (unpruned) blockchain is larger than 75 GB (07/28/19) and growing. Many wallets that use remote full nodes also use less processing power and network bandwidth. If these resources are limited on your computing device, a light wallet may be preferred. This will almost always be the case for a wallet running on a smartphone.
 

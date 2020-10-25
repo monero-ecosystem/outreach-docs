@@ -1,9 +1,9 @@
-# Investor Resources  
-_**Services and platforms available for Monero investments.**_  
+# Monero Investor Resources
 
-**DISCLAIMER:** For your safety, it is recommended that you do your own research before using any third party for managing your Monero. Inclusion on this page does not imply any manner of recommendation or endorsement.  
+** INVESTING DISCLAIMER:** For your safety, it is recommended that you do your own investment and cryptocurrency research before using any third party for buying, selling, or managing your Monero (XMR). Inclusion on this page does not imply any manner of investment recommendation or endorsement.
 
-### _Decentralized Exchanges_  
+### _Decentralized Exchanges_
+---
 
 Decentralized or P2P (Peer-to-Peer) exchanges are the best way to buy/sell Monero by yourself while keeping your privacy intact.
 
@@ -12,6 +12,7 @@ Decentralized or P2P (Peer-to-Peer) exchanges are the best way to buy/sell Moner
 - [Localmonero](https://localmonero.co/)
 
 ### _Centralized, non-KYC Exchanges_
+---
 
 These exchanges do not require ID verification at least for certain amounts.
 
@@ -20,6 +21,7 @@ These exchanges do not require ID verification at least for certain amounts.
 - [Tradeogre](https://tradeogre.com/)
 
 ### _KYC Exchanges_
+---
 
 These KYC (Know Your Customer) compliant exchanges will require identification before you can participate.
 
@@ -34,6 +36,7 @@ These KYC (Know Your Customer) compliant exchanges will require identification b
 - [KuCoin](https://www.kucoin.com/)
 
 ### _Custodian Services_
+---
 
 If you are not confident about the security of your keys against theft or data loss, a custodian service will hold your Monero for you.
 
@@ -47,6 +50,7 @@ Coming Soon...
 Coming Soon...
 
 ### _Investment Vehicles_
+---
 
 Investment vehicles allow investors to gain exposure to Monero price movements without having to purchase any actual XMR, it is primarily for speculation on the price.
 
@@ -55,3 +59,10 @@ Investment vehicles allow investors to gain exposure to Monero price movements w
 - [Circle](https://www.circle.com/co/)
 
 - [Galaxy Digital](https://www.galaxydigital.io/)
+
+### _Learn More
+---
+
+- [Monero Wallet Quickstart](https://www.monerooutreach.org/stories/monero-wallet-quickstart.html) - Which Monero wallet to use is one of the most important security decisions that users make.
+- [Know Your Exchange Safety](https://www.monerooutreach.org/monero_best_practices/know-your-exchange-safety.html) - Monero Best Practices
+- [A Secure Wallet is a Happy Wallet](https://www.monerooutreach.org/monero_best_practices/a-secure-wallet-is-a-happy-wallet.html) - Monero Best Practices

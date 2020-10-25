@@ -1,12 +1,10 @@
-# Guerrilla Marketing Toolkit
+### Monero Guerrilla Marketing Toolkit
 
-Monero Outreach | 09/22/18 Simple ways for you to get involved.
-
-## Monero Outreach Guerrilla Marketing Toolkit
+**Simple ways for you to get involved. - 22th of September, 2018**
 
 Since the Monero community has many individuals with the energy and passion to take marketing matters into their own hands, we have created this resource to provide tactics and tools for them to make it happen. If you are unfamiliar with guerrilla marketing, there are a few good articles for you to read at the end. Please note that guerrilla marketing tactics fall on a spectrum from conservative to activist approaches. We’ve tried to distill the type of people who can do guerilla marketing for Monero into three categories: Ambassadors, Advocates, and Activists.
 
-## Ambassadors
+### _Ambassadors_
 
 These are Monero users and investors who are well known in any professional community. If you fall into this category, consider some of the following tactics for bringing Monero to more people’s lives:
 
@@ -16,7 +14,7 @@ These are Monero users and investors who are well known in any professional comm
 4. Incorporate Monero into your profession. If you run a business, allow Monero transactions as an option for customers. If you are a blogger or journalist, accept Monero on your site, replace ads with CPU mining, or do a piece about Monero. The sky is the limit, so get creative!
 5. Knowledge is power, so strive to find opportunities to share knowledge of Monero with others by using whatever clout or influence you might have in your profession.
 
-## Advocates
+### _Advocates_
 
 These are Monero users and investors who want to help bring more awareness to Monero, but might not be comfortable with an activist approach, or might not have the influence to take an Ambassador approach.
 
@@ -28,39 +26,38 @@ These are Monero users and investors who want to help bring more awareness to Mo
 6. Reach out to your local businesses and inform them of Monero, using toolkits available from Monero Outreach. We will continue to develop and improve our toolkits, so check-in regularly.
 7. Combine or add to any of these tactics in a way that you are comfortable with. See resources at the bottom.
 
-## Activists
+### _Activists_
 
-1. Social Media Activism. “High-jacking hashtags” is one way to get people’s attention. A simple DuckDuckGo search might yield you some more ideas as well.
-2. Public Venues. Using public venues is a great way to leverage your time and energy. Think of concerts, fairs, major conferences, and political events, etc.
-3. Competitive Venues.Using guerrilla marketing tactics at venues that would be considered competitors is another, a more risky, and controversial approach that can have a big impact. Think of financial institutions and the like.
-4. Projection. With an image, a small laptop, and a projector, you can make a big impact. Alternatively, you can use a bright flashlight and a cutout of the Monero logo in front of it. Think of Batman…
-5. Information Drop. Mass print information about Monero and place them around large venues to introduce Monero to a wide, or new, audience.
-6. QR Codes. Mass print QR codes with a short blurb that attracts attention and place them in around venue locations.
-7. Stamping. Stamping physical fiat currency is an efficient and legal way to spread the word about Monero. According to [stampmonero.com](https://stampmonero.com/), each one dollar bill you stamp may be seen by 438 other people.
+1. **Social Media Activism.** “High-jacking hashtags” is one way to get people’s attention. A simple DuckDuckGo search might yield you some more ideas as well.
+2. **Public Venues.** Using public venues is a great way to leverage your time and energy. Think of concerts, fairs, major conferences, and political events, etc.
+3. **Competitive Venues.** Using guerrilla marketing tactics at venues that would be considered competitors is another, a more risky, and controversial approach that can have a big impact. Think of financial institutions and the like.
+4. **Projection.** With an image, a small laptop, and a projector, you can make a big impact. Alternatively, you can use a bright flashlight and a cutout of the Monero logo in front of it. Think of Batman…
+5. **Information Drop.** Mass print information about Monero and place them around large venues to introduce Monero to a wide, or new, audience.
+6. **QR Codes.** Mass print QR codes with a short blurb that attracts attention and place them in around venue locations.
+7. **Stamping.** Stamping physical fiat currency is an efficient and legal way to spread the word about Monero. According to [stampmonero.com](https://stampmonero.com/), each one dollar bill you stamp may be seen by 438 other people.
 
-## Designers
+### _Designers_
 
-1. [Monero Press Kit](https://www.getmonero.org/press-kit/) - Download the Monero Logo
+1. Monero Official Logo & Press Kit: [getmonero.org/press-kit](https://www.getmonero.org/press-kit/)
 2. [Monero Typography](https://www.monerooutreach.org/monero-typography.php) - Monero Fonts
-3. Monero Colors
+3. Monero Colors - **#F16822 | rgb(241,104,34)** / **#4C4C4C | rgb(76,76,76)**
 4. Idea Starters
 
-## Resources
+### _ Resources_
 
-1. Monero Outreach Quick Facts - Monero is secure, private, untraceable digital currency that is available to all.
-2. Stamp Monero is a guerrilla marketing campaign to bring awareness to Monero.
-stampmonero.com
-3. Free QR Code generator
-the-qrcode-generator.com
+1. [Monero Outreach Quick Facts](https://www.monerooutreach.org/quick-facts.html) - Monero is secure, private, untraceable digital currency that is available to all.
+2. [Stamp Monero](https://stampmonero.com/) is a guerrilla marketing campaign to bring awareness to Monero.
+[stampmonero.com](https://stampmonero.com/)
+3. [Free QR Code generator](https://www.the-qrcode-generator.com/)
+[the-qrcode-generator.com](https://www.the-qrcode-generator.com/)
 
-## Some articles to learn more about guerrilla marketing:
+### _Some articles to learn more about guerrilla marketing:_
 
 1. [What is Guerilla Marketing Anyway?](https://www.entrepreneur.com/article/193490)
-entrepreneur.com/article/193490
+[entrepreneur.com/article/193490](https://www.entrepreneur.com/article/193490)
 2. [The Essentials of Guerilla Marketing](https://www.entrepreneur.com/article/193306)
-entrepreneur.com/article/193306
+[entrepreneur.com/article/193306](https://www.entrepreneur.com/article/193306)
 3. [In Your Face! 10 Crazy Marketing Stunts](https://www.entrepreneur.com/article/193462)
-entrepreneur.com/article/193462
+[entrepreneur.com/article/193462](https://www.entrepreneur.com/article/193462)
 4. [Mind Over Market](https://www.entrepreneur.com/article/76150)
-entrepreneur.com/article/76150
-
+[entrepreneur.com/article/76150](https://www.entrepreneur.com/article/76150)

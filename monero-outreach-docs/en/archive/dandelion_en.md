@@ -1,6 +1,6 @@
 # Dandelion++ for Monero
 
-**“Dandelion++ stops bad actors from linking your IP address to your Monero transactions.” - 03/02/2020**  
+**“Dandelion++ stops bad actors from linking your IP address to your Monero transactions.” - 2nd of March, 2020**
 
 Monero stands on its Peer To Peer (P2P) communication network. The network’s blockchain-aware computers—called nodes—share the information that powers Monero, such as node addresses, historical blockchain data, blocks as they are mined, and new transactions to be added to blocks. The nodes are identified using Internet Protocol (IP) addresses, though, exposing risk that observers can connect IP addresses to transactions, deanonymizing the data they contain. Dandelion++ is a method for hiding this connection that is planned for an upcoming Monero software release. This article describes how Dandelion++ works and what it will do for users of Monero.  
 

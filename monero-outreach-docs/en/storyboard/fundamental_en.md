@@ -1,6 +1,6 @@
 # Preserving the Fundamental Right to Privacy For All
 
-Jack M | 09/28/18 Monero can be used by anyone, regardless of race, gender, religion, or sexual preferences.
+**Monero can be used by anyone, regardless of race, gender, religion, or sexual preferences. - 28th of September, 2018 - Jack M**
 
 **“Freedom means the supremacy of human rights everywhere. Our support goes to those who struggle to gain those rights and keep them. Our strength is our unity of purpose. To that high concept there can be no end save victory.”**
 Franklin D. Roosevelt
@@ -22,7 +22,7 @@ The right to privacy is important to freedom because
 
 This is where Monero shines. Privacy in your use of money forms an essential core of Article 12. How can you express your freedoms to donate to noble causes you believe in if you are concerned that these causes do not fit with an authority's narrative?
 
-## The DOJ's Abuse of Power: Barrett Brown's Example for Anonymous Money
+### _The DOJ's Abuse of Power: Barrett Brown's Example for Anonymous Money_
 
 For example, let's take a look at the case of Barret Brown, a revolutionary journalist who caught the ire of US Federal Authorities. He's the guy who had the book thrown at him in court for merely sharing a hyperlink to a leaked document, hosted online elsewhere.
 
@@ -30,13 +30,13 @@ When the courts sentenced him, most knew it was excessive. An organic movement, 
 
 So the fundraising was clearly justified for such an inhumane penalty. However, it came to light that the FBI and DOJ kept watch over the bank account set aside for donors. In fact, they were able to discover the real identity of every donor. For a while, no one knew that the surveillance was even occurring. With no warrant served, the FBI and DOJ uncovered who donated to a perfectly legitimate and legal cause. This abuse of power falls well within "arbitrary interference" of donors' privacy.
 
-## Privacy to YOUR Value, Currency, and Worth
+### _Privacy to YOUR Value, Currency, and Worth_
 
 Your money is for your eyes only and those whom you allow to see. Over time, as the financial system becomes monopolized and digitized, we've grown to accept that banks and governments can see our every credit card swipe, checking account balances, and cash withdrawals. This is a slippery slope. Everyone has too freely welcomed oversight as an intrusion into their day-to-day lives, when resistance would have been the more logical response.
 
 We've already witnessed, over and over, government efforts to put the entire globe under surveillance, with the [ruling over the UK's spying regime](https://www.eff.org/deeplinks/2018/09/uk-surveillance-regime-violated-human-rights) as the latest example. Even as these shocking covert operations are made public, the perpetrators continue to engage in these violations, often by switching to different methods.
 
-## Fungibility As Surveillance Resistance
+### _Fungibility As Surveillance Resistance_
 
 Monero solves the problem of prying eyes, thanks primarily to its [fungibility](https://ww.getmonero.org/resources/moneropedia/fungibility.html). The fungibility feature makes your transactions anonymous so you can express your freedoms without big brother watching. Whether big brother is financial institutions, government, or your workplace, Monero ensures that you keep your money business private, as intended.
 
@@ -48,7 +48,7 @@ Private transactions and storage of wealth, for both individuals and businesses,
 
 If governments have already shown a willingness to tap into these groups' lifeblood, money, there will not be much freedom of expression to protect. Either covertly or overtly, a government can drain the privacies that help groups thrive.
 
-## What We Learned from World War II: No One Should Be Excluded from Exercising Their Rights
+### _What We Learned from World War II: No One Should Be Excluded from Exercising Their Rights_
 
 The horrors of WWII showed the putrid depths of hatred and prejudice. Removing protections of rights from certain groups of people undermines all core freedoms described in the Declaration of Human Rights2.
 
@@ -64,18 +64,16 @@ Letting anyone, from all parts of the globe, take advantage of inalienable freed
 
 As the Reverend Martin Luther King Jr. knew, everyone on earth is connected in a [human fabric](https://www.enotes.com/homework-help/what-meaning-quote-an-injustice-anywhere-threat-380393). Protecting the rights of marginalized groups ultimately protects our rights too. Monero reinforces the ultimate truth that we are all so similar, and our human rights defend against the division and hatred that could tear us apart.
 
-References
+### _References_
 
 - [The Four Freedoms](https://usa.usembassy.de/etexts/speeches/fdr.htm)
-usa.usembassy.de/etexts/speeches/fdr
+[usa.usembassy.de/etexts/speeches/fdr](https://usa.usembassy.de/etexts/speeches/fdr.htm)
 
 - [The Universal Declaration of Human Rights, United Nations](http://www.un.org/en/universal-declaration-human-rights/)
-un.org/en/universal-declaration-human-rights/
+[un.org/en/universal-declaration-human-rights/](http://www.un.org/en/universal-declaration-human-rights/)
 
 - [Free Barrett Brown donors sue DOJ, FBI for right to give anonymously](https://freebarrettbrown.org/2017/08/30/freebarrettbrown-org-founder-explains-suing-the-doj-for-uncovering-donors-identities/)
-freebarrettbrown.org/2017/08/30/freebarrettbrown-org-founder-explains-suing-the-doj-for-uncovering-donors-identities/
+[freebarrettbrown.org/2017/08/30/freebarrettbrown-org-founder-explains-suing-the-doj-for-uncovering-donors-identities/](https://freebarrettbrown.org/2017/08/30/freebarrettbrown-org-founder-explains-suing-the-doj-for-uncovering-donors-identities/)
 
 - [“Letter from a Birmingham Jail”](https://www.africa.upenn.edu/Articles_Gen/Letter_Birmingham.html)
-africa.upenn.edu/Articles_Gen/Letter_Birmingham
-
-
+[africa.upenn.edu/Articles_Gen/Letter_Birmingham](https://www.africa.upenn.edu/Articles_Gen/Letter_Birmingham.html)

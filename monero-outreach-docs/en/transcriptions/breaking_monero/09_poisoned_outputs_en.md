@@ -1,15 +1,13 @@
-# Breaking Monero 09: Poisoned Outputs (EAE Attack) 
-*06/09/19/*  
-_**Monero’s ring signatures provide plausible deniability, but they aren’t perfect.**_  
+# Breaking Monero 09: Poisoned Outputs (EAE Attack)
 
-**Breaking Monero Episode 09: Poisoned Outputs (EAE Attack)**  
+**Breaking Monero Episode 09: Poisoned Outputs (EAE Attack)**
 
-https://youtu.be/iABIcsDJKyM  
+https://youtu.be/iABIcsDJKyM
+
 Monero’s ring signatures provide plausible deniability, but they aren’t perfect. We model examples where two colluding parties ‘E’ attempt to learn information about an individual ‘A.’ By sending outputs to individuals and tracing their transaction graphs, these colluding parties may perform powerful statistical tests to learn significant information, especially for repeated transactions where they would not normally occur by chance. 
 
-[All Breaking Monero Episodes](https://www.monerooutreach.org/breaking-monero/) 
-
-_**Episode Transcription**_ 
+_**Episode Transcription**_
+---
 
 _**Justin:**_ Welcome back to Breaking Monero. This is our ninth episode on Poisoned Outputs, or the EAE attack, or the Knacc attack. It’s given several names and we’re here to discuss, honestly, a pretty difficult and nuanced topic to talk about, so we’ll do our best. We’re here with me, Justin, and with Surae and Sarang. It’s great to have everyone here. This video is going to be diagram heavy, so if your listening to this as a podcast, we’d suggest watching the video form later if you’re confused, because there’s a lot of stuff going on. But first, we’re going to have Surae talk about the general idea of the marked funds that we’re talking about, and then I’ll jump in with the diagrams to explain the situation to you all.
 
@@ -48,5 +46,3 @@ _**Justin:**_ Thanks Brandon, Sarang, last question. Is moving past ring signatu
 _**Sarang:**_ Increasing the ring size such that we have a ton of different path possibilities in this big tree that makes it very, very improbable that an adversary who’s not doing a ton of controlled purchases would be able to that. Is it possible? Yes. In theory we can increase the ring size to be whatever we want depending on how you do the selection of decoys and things like that, but of course that increases the size of transactions which has scaling issues, it also increases the verification time of transactions, which has scaling issues. To some extent, this is always kind of a balance game about this. To what benefit is it? You’d probably have to increase the ring size fairly substantially to be able to get a negligible probability of this ever being an issue. That’s unfortunate and that’s why the research community right now is really big into taking rings out of the picture entirely to go to a more complete anonymity sets. Something like ZCash and the protocols they are based on, when used correctly, offer excellent anonymity sets, complete anonymity sets, but we know that has trade-offs with the whole trusted setup aspect, and ZCash has had issues with that in the past. There’s always trade-offs with this, whether or not we’ll be able to find something relatively soon that’s able to do away with those trade-offs, that’s uncertain. A lot of people are looking into it, and like I’ve always said, I personally look forward to the day when we don’t have to deal with the anonymity set problems anymore. So we can continue trying to iterate as best as we can until the entire ecosystem gets there.
 
 _**Justin:**_ Okay, thank you so much Sarang and Surae for joining me today for this very difficult episode. But frankly on Poison Outputs, EAE, Knacc attacks, whatever you want to call them there’s tons of different names and tons of different circumstances where it could be applied. So I think this serves as a good episode for understanding how people should look at how their transactions tree is growing as they use Monero and keep that in mind. Beyond that, make sure to draw comparisons between this episode and other episodes with what information you’re giving an observer about how you’re sending transactions. All right, that’s all from us today. Thanks for watching and take care everybody.
-
- 

@@ -1,19 +1,18 @@
-# Kristy-Leigh Minehan 
-_**The Embedded Future of Monero's PoW**_  
+# Kristy-Leigh Minehan
 
-Miss Minehan has served as an advisor for multiple companies on blockchain technologies and semiconductor engineering, and currently sits as Chief Technology Officer for Core Scientific, a US-based corporation with a focus on infrastructure at scale.
+Miss Minehan has served as an advisor for multiple companies on blockchain technologies and semiconductor engineering, and currently sits as Chief Technology Officer for [Core Scientific](https://www.corescientific.com/), a US-based corporation with a focus on infrastructure at scale.
 
-**The Embedded Future of Monero’s Proof of Work**  
-_Kristy-Leigh Minehan, Core Scientific_  
-[youtu.be/jDSKIr5EPiU](https://youtu.be/jDSKIr5EPiU)  
+https://youtu.be/jDSKIr5EPiU
 
-[MoneroTalk](https://www.youtube.com/channel/UC3Hx81QYLoEQkm3vyl4N4eQ) w/ Kristy-Leigh Minehan of Core Scientific on lifesaving drones that mine XMR - [youtu.be/gSlf0EpHQVQ](https://youtu.be/gSlf0EpHQVQ)
+Also: MoneroTalk interviews Kristy-Leigh Minehan of Core Scientific at MoneroKon 2019 [monerotalk.live/live-w-kristy-leigh-minehan-of-core-scientific-at-monerokon-2019](https://www.monerotalk.live/live-w-kristy-leigh-minehan-of-core-scientific-at-monerokon-2019)
 
 _**Abstract**_
+---
 
 Proof of work forces specialisation, and the choice of algorithms has caused certain chains to favour certain hardware. Join Kristy-Leigh Minehan, CTO of Core Scientific, as she explains the future of embedded mining - where blockchains will be secured by everything from IoT, to drones, to TV’s and toasters, and how this is uniquely suited to Monero’s future of decentralisation and privacy.
 
 _**Transcription**_
+---
 
 Talking never gets easy, even after the hundredth time...
 

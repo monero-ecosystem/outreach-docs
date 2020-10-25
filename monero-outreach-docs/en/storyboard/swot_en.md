@@ -1,11 +1,9 @@
 # An In-Depth SWOT Analysis of Monero
-*04/11/19*
-_**An in-depth look at Monero’s strengths, weaknesses, opportunities, and threats.**_  
 
 Monero has been in development since 2014. It utilizes the CryptoNote protocol, which was created in response to the inherent weaknesses of Bitcoin. Here we take a look at the Monero project to determine its strengths, weaknesses, opportunities, and threats (SWOT).
 
 ### Strengths
-
+---
 - **Strong development.** [Third highest code contributor](https://www.openhub.net/p/monero) count (547+ all time developers), led only by Bitcoin and Ethereum. Utilizes bug bounties. Has been attacked multiple times, making it stronger each time. Sound and battle tested CryptoNote codebase.
 
 - **Privacy.** Obfuscating every layer of the transaction (sender, receiver, and amount), Monero seeks to find the right balance between absolute privacy and usability.
@@ -45,7 +43,7 @@ Monero has been in development since 2014. It utilizes the CryptoNote protocol, 
 - **Talent Magnet.** Monero has attracted several talented individuals who contribute to its code and ecosystem. A notable example is Howard Chu, Founder and Chief Architect of Symas Corp. and former technician and consultant of NASA’s Jet Propulsion Laboratory who supported Shuttle missions as a lead software engineer.
 
 ### Weaknesses
-
+---
 - **Liquidity.** Due to the relative complexity of Monero’s code (compared to Bitcoin or ERC20 based cryptocurrencies) it is more challenging to integrate Monero on cryptocurrency exchanges, services, and markets, thus making liquidity a bigger challenge.
 
 - **Semi-annual Network Upgrades (Hard forks).** While currently a strength because it patches bugs and enhances the performance, efficiency, and usability of Monero, it is not a good long-term strategy. It also has the potential to introduce new bugs each time it occurs. Creates more opportunities for scam forks to arise, which can create confusion and decrease network privacy if users share secret keys with forked coins.
@@ -69,7 +67,7 @@ Monero has been in development since 2014. It utilizes the CryptoNote protocol, 
 - **Transaction size.** The enhanced privacy layers of Monero make for a larger transaction size than bitcoin. Bulletproofs made a significant improvement for Monero transactions, but more needs to be done to ensure scalability to and beyond the level of daily bitcoin transactions.
 
 ### Opportunities
-
+---
 - **Market Cap.** Monero has the opportunity to remain the highest-ranked privacy-based cryptocurrency.
 
 - **Bitcoin hedge.** As the inherent issues with Bitcoin and its lack of privacy at the protocol level become more realized by the public, Monero has an opportunity to significantly increase by market cap as well as adoption and liquidity.
@@ -89,7 +87,7 @@ Monero has been in development since 2014. It utilizes the CryptoNote protocol, 
 - **Artists.** Artists of various genres have begun to integrate Monero payments, a trend that may continue and thus, support the use case of Monero.
 
 ### Threats
-
+---
 - **Regulation.** Monero faces a threat of being removed from exchanges in the future if regulation around exchanges continues. The privacy focus of Monero also makes it a potential target of KYC/AML regulation. Although the ability to share private view keys for auditing Monero will curb this threat substantially, it could create near-term challenges until regulators are educated.
 
 - **Market share.** Monero could lose market share to other privacy coins.
@@ -101,4 +99,3 @@ Monero has been in development since 2014. It utilizes the CryptoNote protocol, 
 - **Network Attacks.** A variety of attacks on the Monero network are theoretically possible and have been explored in depth by the [Breaking Monero](https://www.youtube.com/playlist?list=PLsSYUeVwrHBnAUre2G_LYDsdo-tD0ov-y) series.
 
 - **Misinformation and censorship.** Coordinated misinformation campaigns could potentially lead to attempts to ban Monero in certain jurisdictions or decrease its popularity in general. While Monero cannot technically be censored, this theoretical threat could hurt its adoption and decrease liquidity in certain jurisdictions.
-

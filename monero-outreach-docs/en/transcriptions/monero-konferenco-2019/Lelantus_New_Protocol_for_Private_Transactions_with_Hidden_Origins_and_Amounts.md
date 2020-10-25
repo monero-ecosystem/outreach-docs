@@ -1,4 +1,16 @@
-MoneroKon 2019 - Lelantus: New Protocol for Private Transactions with Hidden Origins and Amounts
+# Aram Jivanyan
+
+Aram is a cryptographer at Zcoin and the founding CEO of Skycryptor, Techstars company pioneering the development of proxy re-encryption algorithms. At Zcoin Aram has invented the Lelantus protocol and now is working on scaling it to the next level. Before founding Skycryptor Aram was a senior cryptography researcher and development team lead at the American University of Armenia where the scientific group conducted cryptography research for big industrial partners.
+
+https://youtu.be/gb53Fe2iuqg
+
+_**Abstract**_
+---
+
+We propose Lelantus, a new anonymous payment system which ensures both transactional confidentiality and high anonymity with small proof sizes, short verification times and without requiring a trusted setup. We show how to support efficient aggregation of the transaction proofs, so that the proof verification, while asymptotically linear, is very efficient in practice. Lelantus builds on the techniques of Con fidential Transactions, Zerocoin, and 1-out-of-Many proofs and its efficiency is particularly well-suited for enabling private blockchain transactions with minimal trust required while employing well-studied cryptographic assumptions.
+
+_**Transcription**_
+---
 
 Hello everybody! So, my name is Aram Jivanyan. I'm a cryptographer at [Zcoin](https://zcoin.io/) which is a privacy cryptocurrency, and happy to be here today talking to you about [Lelantus](https://lelantus.io/), our new privacy protocol for anonymous and confidential transactions. But before continuing my talk, I would like to thank you Brandon and Sarang for inviting me and especially Sarang for the great job he did in making pierce implementation of Lelantus and its analysis and also the great feedback he provided me continuously during the last few months, thanks. 
 

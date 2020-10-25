@@ -1,3 +1,17 @@
+# Jethro Grassie
+
+Jethro is a Monero developer, a mining pool developer, a tooling/framework developer and an active knowledge sharer on the Monero StackExchange.
+
+https://youtu.be/-IE8rkSx__k
+
+_**Abstract**_
+---
+
+Pool mining has become the de facto way to mine cryptocurrencies. However, in a space where decentralization and censorship resistance are regarded as highly important, it’s surprising in some ways that pool mining, in it’s current form, is so commonplace. This presentation will start with an overview of mining and pools, then outline some of the very real dangers of pool mining to the network as a whole and also to the profits of the individual pool miners. From directing hash power to forks, to stealing shares, this talk will cover how malicious pool operators can exploit their centralized power and ways in which miners can detect this malicious behavior. We’ll finish up with an overview of alternative pool mining implementations with their respective strengths and weaknesses.
+
+_**Transcription**_
+---
+
 Okay, so I'm sure everybody's heard of the elephant in the room. I just caveat that to start with so this is just a play on that phrase. So when we're all here I'm presuming everybody in this room has come to cryptocurrencies for some kind of really key fundamental points and you know, those are on the screen decentralization, censorship resistance, trust-less, open, and private. These are fundamental to why we're all here why we're all participating in this wonderful shape of the world at the moment. And there's this one thing that really really gripes me and it's such a fundamental part to the whole ecosystem which is of course mining. Now mining, we all need mining its fundamental to how cryptocurrencies work, however, what's happened ever since that, you know going back to the early days of Bitcoin, is we've had pool mining and pool mining has a number of issues with it.  
 
 So before we go into exactly how pool mining works, let's just remind ourselves for the answer into the space mining and how it works. Let's just go over a couple of the fundamentals. So a transaction, Alice wants to send Bob some money. Well, as we all know it doesn't directly go from one computer from Alice's computer to Bob. What actually happens is it gets broadcast to the network and it gets bounced around nodes in the network. And what they do is they add it to the transaction pool. So in this picture here we have Alice to Bob's transaction the yellow-orange transaction sitting in the transaction pool that every node can see.  

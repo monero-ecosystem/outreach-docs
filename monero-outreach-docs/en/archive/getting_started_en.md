@@ -1,7 +1,6 @@
 # Getting Started with Helping Monero
 
-**_“The decentralized Monero community is made up of a highly dynamic group of individuals and groups spread throughout the planet.”_ - 21th of August, 2019**
----
+**“The decentralized Monero community is made up of a highly dynamic group of individuals and groups spread throughout the planet.” - 21th of August, 2019**
 
 The decentralized Monero community is made up of a highly dynamic group of individuals and groups spread throughout the planet. A little known and impressive fact, Monero has the third highest code contributor count of all cryptocurrencies. Additionally, there are many workgroups and projects that have evolved in support of Monero, and it is relatively easy to start helping out.
 
@@ -15,7 +14,7 @@ Please use this as a resource to learn more about Monero, its ecosystem, and how
 [Mine Monero](https://www.monerooutreach.org/stories/getting-started-helping-monero.html#mining)
 
 ### _Developers_
-
+---
 If you are a developer, we invite you to join the team!
 
 The primary ways to start are to become familiar with the codebase, the cryptonote standards, and to engage with other developers. All of the developers communicate via IRC on #monero-dev or #monero on freenode's IRC servers. Here are a few resources for developers to get started:
@@ -32,7 +31,7 @@ The primary ways to start are to become familiar with the codebase, the cryptono
 Developers may also be interested in participating in one or more of the many workgroups that exist within the Monero community. You can find a comprehensive list of the most active below.
 
 ### _Workgroups_
-
+---
 Below is a list of Monero workgroups that will be updated as new workgroups become established. If you have an idea for a project to support Monero that is not currently on this list, take the initiative and get it going! There are some resources available to the Monero community to help facilitate effective development and operations of our workgroups. If you have any questions, hop on one of the forums and ask around. We have dozens of helpful contributors who can help you get started.
 
 #### Developer

@@ -1,21 +1,19 @@
-# Breaking Monero 01: Introduction 
-*06/09/19*  
-_**Introduction to the Breaking Monero series.**_  
+# Breaking Monero 01: Introduction
 
-**Breaking Monero Episode 01: Introduction**  
+**Breaking Monero Episode 01: Introduction**
 
-https://youtu.be/WOyC6OB6ezA  
+https://youtu.be/WOyC6OB6ezA
+
 Welcome to the first episode of Breaking Monero! Breaking Monero is a series of episodes where we explain the limitations of Monero’s security and privacy in a comprehensive and understandable way. We give a sneak peek into some of the work done behind the scenes to evaluate risks and to make Monero better. It’s an ongoing process, and we are happy to have you here along with us for this part of Monero’s journey! 
 
-[All Breaking Monero Episodes](https://www.monerooutreach.org/breaking-monero/) 
-
-_**Episode Transcription**_ 
+_**Episode Transcription**_
+---
 
 _**Justin:**_ Hello everyone and welcome to the first episode of Breaking Monero. Breaking Monero is a series of episodes where we explain the limitations of Moneros security and privacy in a comprehensive and understandable way. We will get a sneak peek into some of the work done behind the scenes to evaluate risks and to make Monero better. It’s an on-going process and we’re happy to have you along with us for this part of Monero’s journey. So, to introduce your hosts, my name is Justin Ehrenhofer, the organizer of the Monero Community workgroup and I’ve been talking to people about Monero for about three years and have really been looking at Ring Signatures in particular for about the past year and a half. But I know that you’re here to hear from our other two guests, Surang and Surae. Sarang, can you please introduce yourself? 
 
 _**Sarang:**_ Hello, I go by Sarang Noether and I am a PhD researcher working for Monero Research Lab along with Surea who will introduce himself shortly. I do full time work, doing analysis, protocol improvements and developments, security reviews and things like that for the Monero Project and the surrounding Monero ecosystem. And that of course, involves a whole lot of different things, one of which is to examine some of Monero’s limitations and how we iterate on those to make them better which is the purpose of being here for this episode series. 
 
-_**Justin:**_ All right, Surae? 
+_**Justin:**_ All right, Surae?
 
 _**Surae:**_ Hi, I am Brandon Goodell, my handle on the Monero channels is Surae Noether. I’ve been looking at and working on Monero for about four to five years now. One of the most important parts about security, when it comes to cryptography, finances and just security in general is to try to expose problems in the system to try to make it better. I think that talking about how to break Monero and bringing issues to light is going to do a lot of good things for people’s financial privacy. In particular, it’s not going to lead people down a garden path, thinking that Monero is the most secure thing in the world. And maybe, if you’re using technology that that involves encryption, to keep yourself safe in your everyday experiences and knowing exactly the limitations of how that technology works, knowing exactly what it does and does not do is going to be very critical in determining how you go about using that technology. So, conversations like Breaking Monero are really important and they’re going to make Monero better. 
 

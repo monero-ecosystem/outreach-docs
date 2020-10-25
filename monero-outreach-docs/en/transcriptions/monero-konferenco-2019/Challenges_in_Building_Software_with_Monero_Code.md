@@ -1,17 +1,16 @@
 # Paul Shapiro
-_**Challenges in Building Software with Monero Code**_  
 
 Paul Shapiro is a veteran software application and UI developer with a focus on interaction and product design and code quality. He serves as the CEO and lead dev at [MyMonero](https://mymonero.com/), is a Monero codebase contributor, and lives in Nashville, TN where he enjoys rock climbing and tending to his garden.  
 
-**Challenges in Building Software with Monero Code**  
-_Paul Shapiro, MyMonero_  
-[youtu.be/DY0iE0cBXbc](https://youtu.be/DY0iE0cBXbc)  
+https://youtu.be/DY0iE0cBXbc)
 
-_**Abstract**_  
+_**Abstract**_
+---
 
 This talk will examine the approaches taken by different third- and first-party Monero core code integrators like MyMonero, Cake Wallet, Monerujo, Monero official GUI, Monero simplewallet, and the new Monero lightwallet server. Trade-offs of different approaches and suggestions of future directions will be discussed. All of the above integrators share code and should share more code. Monero as a FOSS project is relatively unique in the pace of its development, leading to unique challenges. The impact of these challenges will be discussed, and alternatives will be given.  
 
 _**Transcript**_
+---
 
 My name is Paul Shapiro. I'm the CEO at [MyMonero](https://mymonero.com/), which is a wallet software company. We also do some contributions to Monero itself, primarily in the form of initial factoring in code quality improvements, and we've also contributed a [light wallet](https://www.monerooutreach.org/stories/monero_wallet_quickstart.php) server to the Monero codebase. And I'll get into that a little bit more. I guess that's the clicker. So, everyone is having trouble with this clicker, here we go. Might be the table? I think so it's a Faraday table.So just to introduce Monero a little bit Monero is a free and open source project. There's no corporation or single-lead architect behind it. And its codebase, as a few other people have touched upon, is from unknown authors, began without comments or the comments were sort of intentionally ripped out, or something like that. And it borrowed multiple components from somewhat unknown sources. One of them is a library which is known as [epee](https://github.com/monero-project/monero/tree/master/contrib/epee), which is sort of a utility class. And it also has these custom wire formats, which are pretty strange. Development progress is decentralized across hundreds of contributors around the world, so it's a massive open source project. And as a result, it's really hard to put the project itself on pause and say, "Okay guys. Let's stop writing code. Lets kind of re-simplify things, re-figure out what the overall architecture has to be or the overall project requirements are," because that's just a natural part of writing software. You have to occasionally kind of review everything and say, "Okay. Let's re-engineer things with a known problem description instead of just this sort of amorphous fluid description that's evolved over time." 
 

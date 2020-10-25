@@ -1,17 +1,16 @@
-# Dr. Mitchell Krawiec-Thayer  
-_Visualizing Monero: A Figure is Worth a Thousand Logs_  
+# Dr. Mitchell Krawiec-Thayer
 
 Mitchell Krawiec-Thayer (a.k.a. “Isthmus”) is the Decentralized Consensus Lead at Insight Data Science, a Monero Research Lab contributor, the editor of Mastering Monero, the founder of Noncesense Research Lab, and a hobbyist chess player & bread baker.  
 
-**Visualizing Monero: A Figure is Worth a Thousand Logs**  
-_Dr. Mitchell Krawiec-Thayer, Insight Data Science_  
-[youtu.be/XIrqyxU3k5Q](https://youtu.be/XIrqyxU3k5Q)  
+https://youtu.be/XIrqyxU3k5Q
 
-_**Abstract**_ 
+_**Abstract**_
+---
 
 Monero’s approach to privacy relies heavily on ensuring that all transactions are indistinguishable, since any patterns visible to an outside observer can be leveraged for blockchain analysis and transaction linking. Mapping the blockchain history to human-interpretable visualizations is a powerful tool for privacy coin research, since potential heuristics that would be challenging to identify from log files are intuitive to spot as visual patterns or clusters corresponding to information leaks. Consensus-level prevention of identifying features (e.g. custom ring sizes - fixed in v8) is paramount, due to the inherent threat of retroactive deanonymization, statistically-noisy change output traces, and combinable heuristics. I’ll introduce the basics of transaction tree analysis and key tools from the exploratory data analysis toolkit (histograms, heatmaps, and more). Together, we’ll leverage these visualizations to intuit ongoing information leaks and mitigation strategies for the next upgrade. 
 
-_**Transcription**_ 
+_**Transcription**_
+---
 
 I usually like to start talks with introductions and acknowledgements. So, by way of an introduction, I'm [Mitchell Krawiec-Thayer](https://github.com/Mitchellpkt). Thank you again Sarang for the introduction. Also credited heavily for this talk is [Neptune](https://github.com/neptuneresearch) who is the co-founder and data curator of [Noncesense Research Lab](https://noncesense-research-lab.github.io/). The two of us have been working around the clock for the last couple of weeks trying to churn everything out. A lot of this research came together in the last week, slides in the last couple of hours. So, thank you so much for sticking with me.  Also, thank you [Monero Research Lab](https://www.getmonero.org/resources/research-lab/) - my second home, enjoying Konferenco. And then lastly, if there is anyone from [XMRChain](https://xmrchain.net/), I'm sorry I kind of abused your API a couple of weeks ago. So, we set up our own private blockchain explorer now but I was kind of hard on that one making pots for this graph, so thank you for the role you played in this presentation. Oh, and Serhack for helping out with infrastructure. 
 

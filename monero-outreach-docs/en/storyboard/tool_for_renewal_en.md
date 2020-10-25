@@ -1,6 +1,6 @@
 # The Tool for Renewal
-**“Participate in a movement for positive change with a tool that gives social and economic power back to the people: Monero.”**
-8th of June, 2020
+
+**“Participate in a movement for positive change with a tool that gives social and economic power back to the people: Monero.” - 8th of June, 2020**
 
 The year is 2020, and we are watching a multifaceted crisis unfold. We have a global pandemic, the resurfacing of racial and economic tensions, extreme geopolitical division, and the abuse of power by governments and central banks around the world. We have, history tells us, the ingredients for transformative change. If you support or are among those being oppressed for racial, religious, political, or economic reasons, we invite you to participate in a movement for positive change with a tool that gives social and economic power back to the people: Monero.
 

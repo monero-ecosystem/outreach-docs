@@ -1,19 +1,17 @@
-# Breaking Monero 05: Input Selection Algorithm 
-*06/09/19*  
-_**In this episode, Sarang and Justin explain more about how Monero selects decoys for ring signatures, more than just “randomly.”**_  
+# Breaking Monero 05: Input Selection Algorithm
 
-**Breaking Monero Episode 05: Input Selection Algorithm**  
+**Breaking Monero Episode 05: Input Selection Algorithm**
 
-https://youtu.be/Sn44ahKxC1E  
-In this episode, Sarang and Justin explain more about how Monero selects decoys for ring signatures, more than just "randomly." We explain how Monero's selection algorithm has evolved over time, and how a strong input selection algorithm is critical for protective ring signatures.
+https://youtu.be/Sn44ahKxC1E
+
+Sarang and Justin explain more about how Monero selects decoys for ring signatures, more than just "randomly." We explain how Monero's selection algorithm has evolved over time, and how a strong input selection algorithm is critical for protective ring signatures.
 
 [An Empirical Analysis of Traceability in the Monero Blockchain](https://arxiv.org/abs/1704.04299) 
 
 Malte Möser, Kyle Soska, Ethan Heilman, Kevin Lee, Henry Heffan, Shashvat Srivastava, Kyle Hogan, Jason Hennessey, Andrew Miller, Arvind Narayanan, Nicolas Christin 
 
-[All Breaking Monero Episodes](https://www.monerooutreach.org/breaking-monero/) 
-
-_**Episode Transcription**_ 
+_**Episode Transcription**_
+---
 
 _**Justin:**_ Welcome back to Breaking Monero. Today we are talking about Monero’s ring input selection algorithm. We’ve spoken in the past about ring signatures and decoys in other previous episodes and Sarang specifically has talked about how the decoys are selected, but he used a very vague word called, a vague phrase at least called randomly selected right? And in this episode we’re gonna get far more nuanced far more specific about what we mean by this, this mysterious phrase and also the phrase itself isn’t very accurate either so it’s important to add some additional clarification here on what’s actually happening. And there’s a lot more to ’random’ than behind-the-scenes so I’m going to start with the screenshare showing an example of some of Monero’s input selection algorithms over the past. So on the top here you can see an example of a completely random distribution algorithm algorithm. So on the left you have old outputs that were generated at the very, very beginning of Monero’s history. On the right you have new outputs that are generated very, very recently, especially within the past few days or so. Let’s say that the green circle is the actual output that was spent, this is the real money that was spent, and the blue ones are the decoys that are selected. Now a completely random distribution method might sound great to begin with because you know any input could be selected for any reason but this leads to a lot of unintended, like consequences as a result. So you can make pretty strong heuristics that say people are far more likely to spend new money than old money so as a result the latest input, the green one highlighted here, is most likely to be the real one. And well you don’t necessarily have the ground truth to prove that this is true it could be tested as very reliable over time; you could make the potentially very strong heuristic there. And you can see in the example on the screen on the first on the first line there that is the case because that’s often the case right? So Monero sought to improve upon this, iterate upon this and you can see on the second line there there’s an example of a recent zone selection algorithm. So you have again the whole history of Monero’s outputs, but you have a short recent zone period where you’re more likely to select other decoys from the specific period so Monero’s code might specify for instance that the recent zone needs to be about 1.8 days and that you should select about half of the decoys from this said recent zone. So you can see on this example here that about half the decoys are selected from this recent zone and then for the rest of the tail going back to previous time, like the very beginning of Monero’s history you still have the ability to select these outputs, but they’re less common than new outputs and this helps address the specific heuristic we’re speaking about where the, the latest output is the most, the latest output in the ring is usually the true one because now you have a more, latest out, latest decoys included in this ring so therefore you have a more plausible selected outputs in this case. And the recent zone was nice and simple; it was a really easy way to implement this sort of feature and it would, definitely was an improvement over the existing completely random system Monero began with, but it’s not ideal. And so Manero has moved to what more resembles the bottom line there which is a matching distribution, one that is based on empirically observed distributions based off what we’ve, Monero and outside researchers found with Bitcoin and Monero, it’s a mathematical model. So you can see that in this case the newest outputs are even more likely to be selected for instance. So this, hopefully this diagram helps show how it’s not just about how many inputs there are in a transaction, it’s also about how you select them. And there’s a lot of implications on how these are actually selected, but it’s more than just timing as I show here; timing is just one part of how this is done and for it, to this end. Sarang is going to speak a little bit more specifically about other factors involved in the selection algorithm.
 
@@ -30,5 +28,3 @@ _**Sarang:**_ Just that our goal still remains to provide the best plausible den
 _**Justin:**_ Alright, thank you Sarang. Thank you everyone for watching this episode of Breaking Monero. We will catch you in the next one. Take care.
 
 _**Sarang:**_ See ya
-
-
