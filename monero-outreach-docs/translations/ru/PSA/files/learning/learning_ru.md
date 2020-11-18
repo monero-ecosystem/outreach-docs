@@ -7,21 +7,12 @@
 ### Будущее начинается с тебя, далее материал для чтения, который поможет Вам узнать больше о Monero:
 
 + **_[getmonero.org (официальный веб-сайт)](https://www.getmonero.org/ru/)_**
-
 + **_[monero.how](https://www.monero.how/)_**
-
 + **_[reddit.com/r/monero](https://www.reddit.com/r/Monero/)_**
-
 + **_[Руководство по Monero (в сообщении)](https://www.reddit.com/r/CryptoCurrency/comments/7ra409/your_guide_to_monero_and_why_it_has_great/)_**
-
 + **_[Подробное техническое введение в Monero](https://steemit.com/monero/@sgp/7yjqso-a-monero-introduction-for-beginners)_**
-
 + **_[Zero to Monero](https://www.getmonero.org/library/Zero-to-Monero-1-0-0.pdf)_**
-
 + **_[Мошенники, которых следует избегать](https://www.reddit.com/r/Monero/wiki/avoid)_**
-
 + **_[Monero FAQ](https://www.getmonero.org/ru/get-started/faq/)_**
-
 + **_[Присоединяйтесь к Monero Community](https://www.getmonero.org/ru/community/hangouts/)_**
-
 + **_[Mastering Monero](https://masteringmonero.com/)_**

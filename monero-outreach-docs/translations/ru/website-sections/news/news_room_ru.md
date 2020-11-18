@@ -6,3 +6,10 @@ Almutasim - редактор
 [almutasim@monerooutreach.org](https://www.monerooutreach.org/news-room/#)  
 
 _Пресс-релиз_
+---
+
+- [Пресс-кит Monero](editor@monerooutreach.org)
+Логотип и символика Monero
+
+- [Быстрые факты о Monero](https://www.monerooutreach.org/quick-facts.html)
+История, основные характеристики и план развития Monero
