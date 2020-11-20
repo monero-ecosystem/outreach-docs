@@ -17,7 +17,8 @@ Sua estrutura compreende milhares de nós ao redor do mundo – dezenas de milha
 A carteira Monero deve se comunicar com um destes nós como uma porta de entrada para a rede P2P. Algumas carteiras como a carteira GUI oficial, podem operar seu próprio nó, enquanto outras, como MyMonero em um smartphone, sempre usam um nó remoto. Carteiras gastam Monero criando e transmitindo transações via seu nó de entrada, com o objetivo de que a transação eventualmente encontre um caminho para um nó minerador para inclusão em um bloco minerado. Cada transação guarda informações que é limitada, mas contém alguns dados significativos, incluindo um conjunto de possíveis fontes de fundos gastos. 
 
 
-Agora mesmo, um nó Monero inicia a transmissão de uma nova transação usando um processo chamado inundação. Ele comunica a transação para todos os seus pares, que por sua vez comunicam para todos os seus pares, e assim por diante, com algumas verificações para prevenir comunicações redundantes. A informação viaja em todas as direções através da rede como uma onda. Algumas criptomoedas como Bitcoin, randomiza o tempo desta transmissão, mas o Monero não o faz.
+Agora mesmo, um nó Monero inicia a transmissão de uma nova transação usando um processo chamado inundação. Ele comunica a transação para todos os seus pares, que por sua vez comunicam para todos os seus pares, e assim por diante, com algumas verificações para prevenir comunicações redundantes. A informação viaja em todas as direções através da rede como uma onda. Algumas criptomoedas, como Bitcoin, randomizam o tempo desta transmissão, mas o Monero não o faz.
+
 
 ### O Problema
 
