@@ -42,7 +42,8 @@ Para resolver esta inadequação os autores propuseram o Dandelion. Dandelion de
 Dandelion, ao ser analisado usando os modelos matemáticos dos autores, quando usado por todos os nós, prova ser resistente à espionagem por uma equipe de nós que são observadores passivos. Com o Dandelion, um botnet participando honestamente em uma rede P2P não pode associar endereços IP às transações de maneira confiável. 
 
 
-### Dente-de-Leão++
+### Dandelion++
+
 
 Contudo, um adversário buscando associar endereços IP às transações pode não ser passivo, e pode não seguir as regras da rede. Alguns nós honestos podem não rodar Dente-de-Leão. Motivados pelo crescimento do mercado de análises de criptomoedas em larga escala, tal como pela Chainalysis [4], os autores revisaram as suposições de seus primeiros trabalhos e, com colaboradores, um ano depois desenvolveram Dente-de-Leão++ [3]. Dente-de-Leão++ torna Dente-de-Leão resistente a ataques de desanonimização em larga escala e que não seguem regras.
 
