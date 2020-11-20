@@ -45,7 +45,8 @@ Dandelion, ao ser analisado usando os modelos matemáticos dos autores, quando u
 ### Dandelion++
 
 
-Contudo, um adversário buscando associar endereços IP às transações pode não ser passivo, e pode não seguir as regras da rede. Alguns nós honestos podem não rodar Dente-de-Leão. Motivados pelo crescimento do mercado de análises de criptomoedas em larga escala, tal como pela Chainalysis [4], os autores revisaram as suposições de seus primeiros trabalhos e, com colaboradores, um ano depois desenvolveram Dente-de-Leão++ [3]. Dente-de-Leão++ torna Dente-de-Leão resistente a ataques de desanonimização em larga escala e que não seguem regras.
+Contudo, um adversário buscando associar endereços IP às transações pode não ser passivo, e pode não seguir as regras da rede. Alguns nós honestos podem não rodar Dandelion. Motivados pelo crescimento do mercado de análises de criptomoedas em larga escala, tal como pela Chainalysis [4], os autores revisaram as suposições de seus primeiros trabalhos e, com colaboradores, um ano depois desenvolveram Dandelion++ [3]. Dandelion++ torna o Dandelion resistente a ataques de desanonimização em larga escala e que não seguem regras.
+
 
 Os criadores do Dente-de-Leão++ simularam um adversário como um botnet com vários nós espiões distribuídos ao longo da rede, formando uma fração significativa da rede geral. Em seu modelo, estes nós não precisam seguir as regras. Eles podem gerar qualquer número de conexões de saída para qualquer nó honesto ou adversário. Eles usam todas as informações disponíveis, incluindo o horário e os endereços dos remetentes. É neste muito hostil ambiente que Dente-de-Leão++ é bem sucedido em proteger o anonimato.
 
