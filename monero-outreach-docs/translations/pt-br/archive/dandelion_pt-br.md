@@ -8,7 +8,8 @@ Monero fica em sua rede de comunicação par a par (P2P). A rede de computadores
 
 ### Rede P2P do Monero 
 
-Monero possui duas partes conceituais: 1) uma rede P2P e 2) aplicações que rodam sobre esta rede. Aplicações lidam com endereços, chaves e transações, enquanto que a rede organiza e garante o fluxo de informações. Para entender o Dente-de-leão++, é importante considerar ambas as estruturas da rede P2P e o caminho que as carteiras usam para comunicar as transações.
+Monero possui duas partes conceituais: 1) uma rede P2P e 2) aplicações que rodam sobre esta rede. Aplicações lidam com endereços, chaves e transações, enquanto a rede organiza e garante o fluxo de informações. Para entender o Dandelion++, é importante considerar ambas as estruturas da rede P2P e o caminho que as carteiras usam para comunicar as transações.
+
 
 Sua estrutura compreende milhares de nós ao redor do mundo – dezenas de milhares se incluirmos os nós passivos – cada um conectado à internet geralmente por um pequeno grupo de outros nós chamados pares [1]. A comunicação dos nós com outros pares usa o mesmo Protocolo de Controle de Transmissão (TCP), protocolo usado pelos navegadores e servidores da internet. Os pares de um nó aparecem aleatoriamente e não precisam estar próximos geograficamente. Um número comum de pares é oito, mas alguns nós tem centenas, com cada nó encontrando seus pares primeiramente perguntando a nós mestres especiais por seus pares, depois perguntando por novos pares, e assim por diante. O resultado é uma rede de vários computadores, cada um se comunicando através de TCP com apenas uma coleção espalhada, geralmente limitada, de outros computadores.
 
