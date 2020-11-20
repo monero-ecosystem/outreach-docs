@@ -60,7 +60,8 @@ A fase “penugem” no Dandelion++ usa difusão, o processo de inundação onde
 Há um adicional, uma peça complementar para o Dandelion++, chamado de mecanismo à prova de falhas. Cada nó que retransmite uma transação durante a fase “haste” inicia uma contagem para aquela transação. Se o limite de tempo for ultrapassado sem que o nó receba a mesma transação de volta durante a fase “penugem”, o nó inicia sua própria fase “penugem”. Isto serve a dois propósitos: Isso frustra as tentativas de desanonimização usando o tempo, e derrota os ataques chamados buraco negro, onde nós adversários descartam transações durante a fase “haste” ao invés de retransmiti-los. 
 
 
-Com estas técnicas no lugar, dá garantias formais de resistência a desanonimização. Ele alcança isso usando técnicas locais, ao contrário da rede Tor, que requer um raciocínio global. Cada elegante nó Dente-de-Leão++ toma suas próprias decisões sobre seu comportamento. O resultado é um rápido e eficiente, ainda eficaz, técnica para prevenir que adversários sofisticados, associem endereços IP a transações. 
+Com estas técnicas no lugar, o Dandelion++ dá garantias formais de resistência a desanonimização. Ele alcança isso usando técnicas locais, ao contrário da rede Tor, que requer um raciocínio global. Cada elegante nó Dandelion++ toma suas próprias decisões sobre seu comportamento. O resultado é um rápido e eficiente, ainda eficaz, técnica para prevenir que adversários sofisticados, associem endereços IP a transações. 
+
 
 ### Integração com Monero
 
