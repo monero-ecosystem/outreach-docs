@@ -27,7 +27,8 @@ Seu endereço de IP pode dizer muito sobre você. (Para ter uma amostra do que s
 Conectar um endereço IP a uma transação não é fácil ou infalível. Requer muito trabalho e observação. Mas usando um botnet, por exemplo, conectado à rede P2P do Monero permite o cálculo de uma provável origem por meio de análise do tempo e comparação com informações conhecidas sobre pares. Quando há um barulho alto, você sabe em que direção olhar porque seu cérebro extrai a direção pelo tempo e pela distorção do som em cada ouvido. A análise de criptomoedas inundadas por pacotes recebidos de locais diferentes permite que um espião adversário faça o mesmo. A criação de transação é como um barulho alto para um nó botnet que funciona como um ouvido.
 
 
-### Dente-de-Leão
+### Dandelion
+
 
 Para sanar este problema, conceituados pesquisadores da Universidade de Illinois primeiro desenvolveram um conjunto de técnicas que eles chamaram de Dente-de-Leão [2]. O foco inicial era o Bitcoin, mas aplicável ao Monero tão bem quanto. A ideia com o Dente-de-Leão é primeiramente encaminhar transações para um nó remoto em um caminho especial indetectável, depois iniciar a inundação.
 
