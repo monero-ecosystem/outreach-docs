@@ -1,3 +1,5 @@
+# Please don't translate yet. Transcription review is being done.
+
 Money at the Edge: How People Stay Afloat in Venezuela — 
 Jamaal Montasser, Open Money Initiative
 http://youtu.be/wtbg1BD8ppM
