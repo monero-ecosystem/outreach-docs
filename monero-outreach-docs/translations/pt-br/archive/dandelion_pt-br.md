@@ -39,7 +39,8 @@ Os autores do Dandelion mergulharam na teoria e prática do uso de botnets para 
 Para resolver esta inadequação os autores propuseram o Dandelion. Dandelion define um processo para encontrar um nó Proxy para transmissão, chamado fase de anonimato (ou haste). E estabelece outro processo para transmitir, chamado de fase de propagação (ou penugem). No geral, as duas fases usam conjuntos diferentes de conexões de pares com a importante diferença que a conexão da fase do anonimato define alterações com o tempo. A descritiva do nome Dandelion vem de um processo de primeiro procurar um nó proxy ao longo de um caminho de pesquisa especial, então deste nó proxy a informação se espalha rápida e simetricamente – o formato do fluxo de informações se assemelha a flor de um Dente-de-Leão, daí o nome Dandelion.
 
 
-Dente-de-Leão, analisado usando os modelos matemáticos dos autores, quando usado por todos os nós, prova ser resistente à espionagem por uma equipe de nós que são observadores passivos. Com o Dente-de-Leão, um botnet participando honestamente em uma rede P2P não pode associar endereços IP às transações confiavelmente. 
+Dandelion, ao ser analisado usando os modelos matemáticos dos autores, quando usado por todos os nós, prova ser resistente à espionagem por uma equipe de nós que são observadores passivos. Com o Dandelion, um botnet participando honestamente em uma rede P2P não pode associar endereços IP às transações de maneira confiável. 
+
 
 ### Dente-de-Leão++
 
