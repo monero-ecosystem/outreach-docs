@@ -3,7 +3,8 @@
 **“Dandelion++ impede que pessoas mal-intencionadas associem seu endereço IP às suas transações com Monero.” - 03/02/2020**  
 
 
-Monero fica em sua rede de comunicação par a par. A rede de computadores que armazenam a Blockchain – chamados de nós – compartilham informações que suprem a rede Monero, como os endereços de nós, dados históricos da blockchain, e novas transações a serem adicionadas aos blocos. Os nós são identificados pelos endereços IP (Internet Protocol na sigla em inglês), expondo assim ao risco de que observadores possam associar endereços IP’s às transações, retirando o anonimato dos dados que eles contêm. Dente-de-leão++ é um método para ocultar esta conexão que está planejado para o próximo lançamento do software Monero. Este artigo descreve como Dente-de-leão++ funciona e o que irá fazer pelos usuários do Monero.
+Monero fica em sua rede de comunicação par a par (P2P). A rede de computadores que armazenam a Blockchain – chamados de nós – compartilham informações que suprem a rede Monero, como os endereços de nós, dados históricos da blockchain, e novas transações a serem adicionadas aos blocos. Os nós são identificados pelos endereços IP (Internet Protocol na sigla em inglês), expondo assim ao risco de que observadores possam associar endereços IP’s às transações, retirando o anonimato dos dados que eles contêm. Dandelion++ é um método para ocultar esta conexão que está planejado para o próximo lançamento do software Monero. Este artigo descreve como Dandelion++ funciona e o que irá fazer pelos usuários do Monero.
+
 
 ### Rede P2P do Monero 
 
