@@ -30,7 +30,8 @@ Conectar um endereço IP a uma transação não é fácil ou infalível. Requer 
 ### Dandelion
 
 
-Para sanar este problema, conceituados pesquisadores da Universidade de Illinois primeiro desenvolveram um conjunto de técnicas que eles chamaram de Dente-de-Leão [2]. O foco inicial era o Bitcoin, mas aplicável ao Monero tão bem quanto. A ideia com o Dente-de-Leão é primeiramente encaminhar transações para um nó remoto em um caminho especial indetectável, depois iniciar a inundação.
+Para sanar este problema, conceituados pesquisadores da Universidade de Illinois primeiro desenvolveram um conjunto de técnicas que eles chamaram de Dente-de-Leão [2]. O foco inicial era o Bitcoin, mas aplicável ao Monero tão bem quanto. A ideia com o Dandelion (dente-de-leão, na tradução literal) é primeiramente encaminhar transações para um nó remoto em um caminho especial indetectável e depois iniciar a inundação.
+
 
 Os autores do Dente-de-Leão mergulharam na teoria e prática do uso de botnets para encontrar fontes de transações de criptomoedas. Isto inclui a criação de modelos matemáticos para anonimato (por favor veja [2] para informações detalhadas) que foram usadas para analizar três técnicas de programação: 1)inundação básica (Método do Monero), 2)inundação randomizada chamada de difusão (Método do Bitcoin), 3)difusão por proxy. A última técnica encaminha a transação para um nó aleatório, que então a transmite usando difusão. Todas as três técnicas foram consideradas inadequadas pelos modelos matemáticos dos autores.
 
