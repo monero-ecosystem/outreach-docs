@@ -19,7 +19,7 @@ Se preparar para aceitar Bitcoin ou Monero é bem parecido, mas as blockchains s
 
 No Monero, o emissor paga a taxa da rede. Sempre será complemente gratuito aceitar XMR. Irá custar ao seu cliente mais ou menos $0.02 se ele pagar em Monero. Pagar em Monero será muito mais barato do que uma transação de cartão de crédito com a vantagem de começar a aceitar de forma rápida e prática.
 
-| Taxa | American Express | Mastercard | Visa | Debito |
+| Taxa | American Express | Mastercard | Visa | Débito |
 |--|--|--|--|--|
 | Taxa de processamento | 2.5% - 3.5% | 1.55% - 2.6% | 1.43% - 2.4% | 0.30% - 2.75% |
 | Taxa de transferência | -- | 0.08% | 0.09% | 0.05% + $0.21 0.70% + $0.15 |
