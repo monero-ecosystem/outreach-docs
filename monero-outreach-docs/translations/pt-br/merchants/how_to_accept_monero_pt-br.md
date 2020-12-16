@@ -10,10 +10,10 @@ Se você ainda não tem uma carteira/endereço Monero então é melhor criar uma
 
 Transações Monero seguem os seguintes passos. Não é necessário entender os aspectos técnicos disso, mas como um comerciante, você precisa ter um conhecimento básico dos passos para ser capaz de decidir quais tradeoffs são melhores para você.
 
-    1. **Compra** - Depois de adicionar a compra do cliente em moeda local e aplicar os impostos se necessário, você simplesmente precisa calcular o valor correspondente em XMR.
-    2. **Pagamento** - O cliente escaneia seu QR code para pagar em XMR. A taxa de transação é paga pelo cliente e calculado durante o processo de pagamento.	
-    3. **Pool de Transações** - Dentro de um segundo, a transação é anunciada para a rede Monero e colocada no pool de transações, também chamada de mempool (pool de memória). Você pode verificar a existência de sua transação no mempool, um exemplo pode ser visto aqui: xmrchain.net/txpool
-    4. **Confirmação** - Dentro de 4 minutos, a transação irá geralmente estar em um bloco da blockchain e você pode ter confiança de que ela é válida. O pagamento irá aparecer em sua carteira como fundos bloqueados. Sua transação será confirmada por mais 9 blocos antes de ser desbloqueada e virtualmente impossível de se reverter.
+1. **Compra** - Depois de adicionar a compra do cliente em moeda local e aplicar os impostos se necessário, você simplesmente precisa calcular o valor correspondente em XMR.
+2. **Pagamento** - O cliente escaneia seu QR code para pagar em XMR. A taxa de transação é paga pelo cliente e calculado durante o processo de pagamento.	
+3. **Pool de Transações** - Dentro de um segundo, a transação é anunciada para a rede Monero e colocada no pool de transações, também chamada de mempool (pool de memória). Você pode verificar a existência de sua transação no mempool, um exemplo pode ser visto aqui: xmrchain.net/txpool
+4. **Confirmação** - Dentro de 4 minutos, a transação irá geralmente estar em um bloco da blockchain e você pode ter confiança de que ela é válida. O pagamento irá aparecer em sua carteira como fundos bloqueados. Sua transação será confirmada por mais 9 blocos antes de ser desbloqueada e virtualmente impossível de se reverter.
     
 Pode haver um lag na verificação de novas transações, geralmente 90 segundos. Portanto, dependendo de quando sua carteira verifica se há novas transações e com que rapidez sua transação entra em blocos minerados, o tempo real esperado antes que ela apareça em sua carteira é de 4 a 12 minutos. Para uma análise mais aprofundada do processo de transação do Monero e da duração média, visite [monero.how/how-long-do-monero-transactions-take](https://www.monero.how/how-long-do-monero-transactions-take).
 
@@ -77,9 +77,9 @@ Com um processador de pagamento de código aberto, você pode desenvolver sua pr
 
 ### _Saiba Mais_
 
-      - Como aceitar Monero com carteiras oficiais Monero: [getmonero.org/get-started/accepting](https://www.getmonero.org/pt-br/get-started/accepting/index.html)
-      - [FAQs dos Comerciantes Monero](https://hackernoon.com/monero-multisignatures-explained-46b247b098a7)
-      - Explicando Assinaturas Múltiplas de Monero: [hackernoon.com/monero-multisignatures-explained...](https://hackernoon.com/monero-multisignatures-explained-46b247b098a7)
-      - Riscos Potenciais de Aceitar Transações de Zero Confirmação: [reddit.com/r/Monero/.../potential_risks_of_accepting_zero_confirmation](https://www.reddit.com/r/Monero/comments/7s937y/potential_risks_of_accepting_zero_confirmation/)
+- Como aceitar Monero com carteiras oficiais Monero: [getmonero.org/get-started/accepting](https://www.getmonero.org/pt-br/get-started/accepting/index.html)
+- [FAQs dos Comerciantes Monero](https://hackernoon.com/monero-multisignatures-explained-46b247b098a7)
+- Explicando Assinaturas Múltiplas de Monero: [hackernoon.com/monero-multisignatures-explained...](https://hackernoon.com/monero-multisignatures-explained-46b247b098a7)
+- Riscos Potenciais de Aceitar Transações de Zero Confirmação: [reddit.com/r/Monero/.../potential_risks_of_accepting_zero_confirmation](https://www.reddit.com/r/Monero/comments/7s937y/potential_risks_of_accepting_zero_confirmation/)
 
 Ilustrado por:
