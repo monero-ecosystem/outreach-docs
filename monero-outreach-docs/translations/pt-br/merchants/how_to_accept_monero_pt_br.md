@@ -78,7 +78,7 @@ Com um processador de pagamento de código aberto, você pode desenvolver sua pr
 ### _Saiba Mais_
 
 - Como aceitar Monero com carteiras oficiais Monero: [getmonero.org/get-started/accepting](https://www.getmonero.org/pt-br/get-started/accepting/index.html)
-- [FAQs dos Comerciantes Monero](https://hackernoon.com/monero-multisignatures-explained-46b247b098a7)
+- [FAQs dos Comerciantes Monero](https://www.monerooutreach.org/merchants/monero-merchant-faqs.html)
 - Explicando Assinaturas Múltiplas de Monero: [hackernoon.com/monero-multisignatures-explained...](https://hackernoon.com/monero-multisignatures-explained-46b247b098a7)
 - Riscos Potenciais de Aceitar Transações de Zero Confirmação: [reddit.com/r/Monero/.../potential_risks_of_accepting_zero_confirmation](https://www.reddit.com/r/Monero/comments/7s937y/potential_risks_of_accepting_zero_confirmation/)
 
