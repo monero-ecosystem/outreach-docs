@@ -78,7 +78,7 @@ With an open-source payment processor you’re free to develop you own solution 
 ### _Learn More_
 
 - How to accept Monero with the official Monero wallets: [getmonero.org/get-started/accepting](https://www.getmonero.org/get-started/accepting/)
-- [Monero Merchant FAQs](https://hackernoon.com/monero-multisignatures-explained-46b247b098a7)
+- [Monero Merchant FAQs](https://www.monerooutreach.org/merchants/monero-merchant-faqs.html)
 - Monero Multisignatures Explained: [hackernoon.com/monero-multisignatures-explained...](https://hackernoon.com/monero-multisignatures-explained-46b247b098a7)
 - Potential Risks of Accepting Zero Confirmation Transactions: [reddit.com/r/Monero/.../potential_risks_of_accepting_zero_confirmation](https://www.reddit.com/r/Monero/comments/7s937y/potential_risks_of_accepting_zero_confirmation/)
 
