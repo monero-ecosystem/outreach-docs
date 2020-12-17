@@ -1,7 +1,6 @@
 # Начинаем помогать Monero
 
-**_«Децентрализованное сообщество Monero состоит из большой группы людей, которые находятся в разных уголках планеты»_ - 21 августа 2019**
----
+**«Децентрализованное сообщество Monero состоит из большой группы людей, которые находятся в разных уголках планеты.» - 21 августа 2019 г.**
 
 Децентрализованное сообщество Monero представляет собой высоко динамичную группу, состоящую из отдельных людей и объединений, разбросанных по всей планете. Малоизвестный и потрясающий факт заключается в том, что среди всех криптовалют Monero занимает третье место по количеству контрибьюторов, занимающихся разработкой кода. Кроме того, существует множество рабочих групп и проектов, поддерживающих Monero, и помочь им в этом довольно просто.
 
@@ -15,7 +14,7 @@
 [Майнинг Monero​](https://www.monerooutreach.org/stories/getting-started-helping-monero.html#mining)
 
 ### _Разработка_
-
+---
 Если вы являетесь разработчиком, то мы приглашаем вас присоединиться к нашей команде!
 
 Прежде всего, вам будет необходимо ознакомиться с кодовой базой, стандартами CryptoNote, а также связаться с другими разработчиками. Все разработчики общаются через IRC на серверах узлов #monero-dev или #monero. Вот несколько ресурсов, с которых может начать любой разработчик:
@@ -23,15 +22,15 @@
 - Исходный код - [github.com/monero-project](https://github.com/monero-project)
 - Открытые вопросы - [github.com/monero-project/monero/issues](https://github.com/monero-project/monero/issues)
 - Экосистема Monero - [github.com/monero-ecosystem](https://github.com/monero-ecosystem)
-- Руководства для разработчиков - [www.getmonero.org/resources/developer-guides](https://www.getmonero.org/ru/resources/developer-guides/index.html)
+- Руководства для разработчиков - [www.getmonero.org/resources/developer-guides](https://web.getmonero.org/ru/resources/developer-guides/index.html)
 - Журналы встреч разработчиков - [monerobase.com](https://monerobase.com/)
 - Пространство разработки Monero - [moneroworld.com/development.html](https://moneroworld.com/development.html)
-- Исследовательская лаборатория Monero (Monero Research Lab) - [www.getmonero.org/resources/research-lab](https://www.getmonero.org/ru/resources/research-lab/index.html)
+- Исследовательская лаборатория Monero (Monero Research Lab) - [www.getmonero.org/resources/research-lab](https://web.getmonero.org/ru/resources/research-lab/index.html)
 
 Разработчиков также может заинтересовать участие в одной или во множестве рабочих групп, существующих в рамках сообщества Monero. Довольно полный список наиболее активных в настоящий момент групп приводится ниже.
 
 ### _Рабочие группы​_
-
+---
 Ниже приводится список рабочих групп Monero, который будет обновляться по мере того, как будут появляться новые рабочие группы. Если у вас есть идея, как поддержать проект Monero, но вы не нашли соответствующей рабочей группы в списке, вы можете проявить инициативу и заняться продвижением этой идеи! У сообщества Monero есть несколько ресурсов, обеспечивающих эффективность развития и работы наших рабочих групп. Если у вас возникнут какие-либо вопросы, вы можете перейти на один из форумов и задать их. У нас есть десятки контрибьюторов, готовых помочь вам в вашем начинании.
 
 #### Разработка
@@ -142,7 +141,7 @@ _С чего начать?_ [taiga.getmonero.org/project/xmrhaelan-monero-public
 
 #### Видео
 
-- Каеал Рабочей группы Monero на YouTube - [youtube.com/channel/UCKxLNPJeEjPXOke55i5AIXA](https://www.youtube.com/channel/UCKxLNPJeEjPXOke55i5AIXA)
+- Канал Рабочей группы Monero на YouTube - [youtube.com/channel/UCKxLNPJeEjPXOke55i5AIXA](https://www.youtube.com/channel/UCKxLNPJeEjPXOke55i5AIXA)
 - Канал MoneroTalk на YouTube - [youtube.com/channel/UC3Hx81QYLoEQkm3vyl4N4eQ](https://www.youtube.com/channel/UC3Hx81QYLoEQkm3vyl4N4eQ)
 - «Что такое Monero? Руководство для чайников» - [youtube.com/watch?v=qrUq0v5VgdU](https://www.youtube.com/watch?v=qrUq0v5VgdU)
 - Серия коротких, вводных роликов - [youtube.com/playlist?list=PLV_giHgwBqwzo3UXbDbOdByt4k4GjcbnX](https://www.youtube.com/playlist?list=PLV_giHgwBqwzo3UXbDbOdByt4k4GjcbnX)
@@ -152,7 +151,7 @@ _С чего начать?_ [taiga.getmonero.org/project/xmrhaelan-monero-public
 
 #### Книги
 
-- Zero to Monero (Monero с нуля) - [getmonero.org/library/Zero-to-Monero-1-0-0.pdf](https://getmonero.org/library/Zero-to-Monero-1-0-0.pdf)
+- Zero to Monero (От нуля к Monero) - [getmonero.org/library/Zero-to-Monero-1-0-0.pdf](https://getmonero.org/library/Zero-to-Monero-1-0-0.pdf)
 - Mastering Monero (Овладеваем Monero) - [masteringmonero.com](https://masteringmonero.com/)
 
 #### Веб-сайты
@@ -178,7 +177,7 @@ _С чего начать?_ [taiga.getmonero.org/project/xmrhaelan-monero-public
 
 ### Майнинг Monero​
 ---
-####  Как начать
+#### Как начать
 
 - Каналы поддержки, пулы и бенчмарки - [getmonero.org/get-started/mining](https://www.getmonero.org/ru/get-started/mining/index.html)
 - Руководства для Windows и Linux - [monero.how/tutorial-how-to-mine-monero](https://monero.how/tutorial-how-to-mine-monero)

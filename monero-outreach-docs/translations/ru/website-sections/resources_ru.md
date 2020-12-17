@@ -42,7 +42,7 @@ Monero SubReddit
 Проекты Monero, к которым вы могли бы присоединиться.
 
 
-### MINING & BUYING
+### МАЙНИНГ И ПОКУПКА
 
 
 - [Bisq](https://bisq.network/)
@@ -62,7 +62,7 @@ Peer-to-Peer децентрализованная биржа
 
 
 - [Github](https://github.com/monero-project/monero)
-Monero Code Repository
+Репозиторий кодовой базы Monero
 
 - [Страница исследовательской лаборатории Monero (MRL)](https://lab.getmonero.org/)
 
