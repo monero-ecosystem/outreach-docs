@@ -73,7 +73,7 @@ Agora podemos ter liquidação automática em fiat. Como uma barraca de limonada
 
 A maioria dos processadores de pagamento de terceiros fornecerá conversão fiduciária automática por uma taxa. Pode haver transação adicional ou taxas de saque dependendo dos provedores, mas a conveniência pode valer a pena.
 
-Com um processador de pagamento de código aberto, você pode desenvolver sua própria solução usando a API de sua exchange preferida com monero-wallet-rpc. Isso está além do escopo deste tutorial, mas você pode encontrar mais informações em [getmonero.org/resources/developer-guides/wallet-rpc.html](https://www.getmonero.org/pt-br/resources/developer-guides/wallet-rpc.html).
+Com um processador de pagamento de código aberto, você pode desenvolver sua própria solução usando a API de sua corretora preferida com monero-wallet-rpc. Isso está além do escopo deste tutorial, mas você pode encontrar mais informações em [getmonero.org/resources/developer-guides/wallet-rpc.html](https://www.getmonero.org/pt-br/resources/developer-guides/wallet-rpc.html).
 
 ### _Saiba Mais_
 
