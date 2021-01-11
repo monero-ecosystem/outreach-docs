@@ -65,7 +65,7 @@ Como alternativa, um processador de pagamento Monero de terceiros terá software
 
 ### _LeMonero.com_
 
-Nosso lanchonete está deixando as pessoas satisfeitas e animadas, nós acabamos de expandir nossas operações para vendas online e mais lojas físicas. A boa notícia é que não precisamos mudar nosso processador de pagamentos, apenas precisamos usá-lo mais.
+Nossa lanchonete está deixando as pessoas satisfeitas e animadas, nós acabamos de expandir nossas operações para vendas online e mais lojas físicas. A boa notícia é que não precisamos mudar nosso processador de pagamentos, apenas precisamos usá-lo mais.
 
 A integração do carrinho de compras é fácil em comparação com as transações físicas em tempo real. Esteja você usando um processador de pagamento de código aberto ou serviço de terceiros, plug-ins para WooCommerce, Shopify, etc. estão prontamente disponíveis e são fáceis de instalar.
 
