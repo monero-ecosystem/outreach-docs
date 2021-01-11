@@ -4,7 +4,7 @@ Se você consegue instalar um aplicativo, você estará pronto para aceitar Mone
 
 Primeiramente não há um tipo especial de conta comercial Monero - você apenas precisa de uma carteira e um endereço normal para começar. É recomendado que você crie um endereço separado para transações comerciais pela mesma razão de que é cômodo e seguro ter contas pessoais e de negócios separadas. Você pode usar o mesmo software para a carteira, mas ter endereços dedicados para negócios irá ajudar manter as contas organizadas.
 
-Se você ainda não tem uma carteira/endereço Monero então é melhor criar uma primeiro. As carteiras Monero GUI/CLI oficiais de [getmonero.org/downloads](https://www.getmonero.org/pt-br/downloads/index.html) são sempre recomendadas. Além disso, esse guia irá indicar carteiras mobile e você pode achar informação sobre elas na página de [Configuração da Carteira Monero](https://www.monerooutreach.org/stories/monero-wallet-quickstart.html). 
+Se você ainda não tem uma carteira/endereço Monero então é melhor criar uma primeiro. As carteiras Monero GUI/CLI oficiais de [getmonero.org/downloads](https://www.getmonero.org/pt-br/downloads/index.html) são sempre recomendadas. Além disso, esse guia irá indicar carteiras mobile e você pode achar informação sobre elas na página de [Guia rápido da carteira Monero](https://github.com/monero-ecosystem/outreach-docs/blob/master/monero-outreach-docs/translations/pt-br/storyboard/wallet_quickstart_pt-br.md). 
 
 ### _A anatomia de uma transação Monero_
 
