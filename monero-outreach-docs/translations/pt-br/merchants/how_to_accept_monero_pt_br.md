@@ -23,7 +23,7 @@ Se uma espera de 4 a 12 minutos for inviável para seu negócio, você pode faze
 
 Uma coisa que se torna óbvia quando você começa a aceitar Monero é que você não sabe o endereço do remetente porque as transações são privadas. Dependendo de sua empresa, vincular a transação ao pagamento pode não ser grande coisa ou pode ser realmente um grande problema. Dependerá de você, a boa notícia é que existem várias técnicas simples para ajudá-lo a identificar seus pagamentos XMR.
 
-A primeira é simples, faça uma anotação. Se estiver lidando com um volume bastante baixo de transações, você pode simplesmente adicionar sua fatura ou número de transação como uma nota em sua carteira quando você receber fundos. Como alternativa, você pode anotar a ID da transação Monero em seu sistema de ponto de venda (POS) ou software de contabilidade.
+A primeira é simples: faça uma anotação. Se estiver lidando com um volume bastante baixo de transações, você pode simplesmente adicionar sua fatura ou número de transação como uma nota em sua carteira quando você receber fundos. Como alternativa, você pode anotar a ID da transação Monero em seu sistema de ponto de venda (POS) ou software de contabilidade.
 
 Mas quando é absolutamente necessário vincular o pagamento de um cliente a uma transação, usar os subendereços do Monero é a resposta. Um subendereço é um endereço descartável e, como são gratuitos e você pode criar quantos quiser, pode atribuir um subendereço exclusivo a cada cliente para que possa controlar cada pagamento. Esse recurso também é útil se você deseja manter seu endereço principal privado.
 
