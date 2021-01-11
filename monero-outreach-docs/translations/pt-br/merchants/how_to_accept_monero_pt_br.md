@@ -61,7 +61,7 @@ A maioria dos proprietários de empresas está familiarizada com processadores d
 
 Como o software Monero é de código aberto, você pode criar seu próprio gateway de pagamento do zero (muito legal isso, né?), mas Monero Integrations já fez o trabalho para você e criou bibliotecas e plug-ins que fazem todo o trabalho pesado em [github.com/monero-integrations](https://github.com/monero-integrations).
 
-Como alternativa, um processador de pagamento Monero de terceiros terá softwares, aplicativos e interfaces que simplificam a configuração. Eles também terão interfaces e ferramentas para você gerenciar sua conta e suporte técnico/ao cliente. Consulte nosso Guia do Processador de Pagamentos Monero para obter ajuda para decidir qual configuração é a certa para você.
+Como alternativa, um processador de pagamento Monero de terceiros terá softwares, aplicativos e interfaces que simplificam a configuração. Eles também terão interfaces e ferramentas para você gerenciar sua conta e suporte técnico ao cliente. Consulte nosso Guia do Processador de Pagamentos Monero para obter ajuda para decidir qual configuração é a certa para você.
 
 ### _LeMonero.com_
 
