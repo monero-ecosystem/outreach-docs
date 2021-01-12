@@ -61,7 +61,7 @@ Most business owners are familiar with credit/debit payment processors, third-pa
 
 Because Monero software is open-source you can scratch-build your own payment gateway (how cool is that), but Monero Integrations has already done the work for you and crafted libraries and plugins that do all the heavy lifting at [github.com/monero-integrations](https://github.com/monero-integrations).
 
-Alternatively, a third-party Monero payment processor will have packaged software and apps and interfaces that make setup simple. They will also have interfaces and tools for you to manage your account, and customer/technical support. See our Monero Payment Processor Guide for help deciding which setup is right for you.
+Alternatively, a third-party Monero payment processor will have packaged software and apps and interfaces that make setup simple. They will also have interfaces and tools for you to manage your account, and customer/technical support. See our [Monero Payment Processor Guide](https://www.monerooutreach.org/merchants/monero-payment-processor-guide.html) for help deciding which setup is right for you.
 
 ### _LeMonero.com_
 
