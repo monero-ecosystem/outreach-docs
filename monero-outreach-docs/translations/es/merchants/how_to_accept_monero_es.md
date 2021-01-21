@@ -2,30 +2,30 @@
 
 Si eres capaz de instalar una aplicación, serás capaz de configurar tu negocio para aceptar Monero (XMR). Esta guía explica las formas más comunes que los comerciantes usan para aceptar monero y cómo iniciarse de la forma menos sufrida y trabajar sobre ello a medida que creces.
 
-Lo primero que debes saber es que no hay ningún tipo de cuenta para comerciantes en Monero, solo necesitas una billetera y una dirección para empezar. Es recomendable que crees una dirección separada para tu negocio por las mismas razones que se sugiere tener separadas las cuentas corrientes personales y las de los negocios. Puedes usar el mismo software para la billetera, pero tener dedicadas unas direcciones para el negocio ayudará a mantener las cuentas organizadas.
+Lo primero que debes saber es que no hay ningún tipo de cuenta para comerciantes en Monero, sólo necesitas una billetera y una dirección para empezar. Sin embargo, es recomendable que crees una dirección separada para tu negocio por las mismas razones que se sugiere tener separadas las cuentas corrientes personales y las de los negocios. Puedes usar el mismo software para la billetera, pero tener dedicadas unas direcciones para el negocio ayudará a mantener las cuentas organizadas.
 
-Si todavía no tienes una billetera o dirección de Monero, entonces querrás crear primero una. Las billeteras GUI/CLI oficiales de Monero de [getmonero.org/downloads](https://www.getmonero.org/downloads/) siempre serán la opción recomendada. Además, esta guía hará referencias a billeteras móviles, de las cuales puedes encontrar información en nuestra página [Monero Wallet Setup](https://www.monerooutreach.org/stories/monero-wallet-quickstart.html).
+Si todavía no tienes una billetera o dirección de Monero, deberás crear primero una. Las billeteras GUI/CLI oficiales de Monero de [getmonero.org/downloads](https://www.getmonero.org/downloads/) siempre serán la opción recomendada. Además, esta guía hará referencias a billeteras móviles, de las cuales puedes encontrar información en nuestra página [Monero Wallet Setup](https://www.monerooutreach.org/stories/monero-wallet-quickstart.html).
 
 ### _La Anatomía de una Transacción de Monero_
 
-Las transacciones de Monero pasan por los siguientes pasos. No es necesario entender los aspectos técnicos de esto, pero como comerciante, necesitas tener un conocimiento básico de los pasos para ser capaz de decidir qué transacciones te vienen bien.
+Las transacciones de Monero pasan por los siguientes pasos. No es necesario entender los aspectos técnicos de esto, pero como comerciante, necesitas tener un conocimiento básico de los pasos para ser capaz de decidir qué intercambios te vienen mejor.
 
-1. **Compra** - Tras sumar la compra de los consumidores en tu moneda local y aplicar los impuestos de venta si fueran necesarios, simplemente necesitas calcular el monto correspondiente en XMR.
+1. **Compra** - Tras sumar la compra de los consumidores en tu moneda local y aplicar los impuestos de venta (si corresponde), simplemente necesitas calcular el monto correspondiente en XMR.
 2. **Pago** - El cliente escanea tu código QR para pagarte en XMR. La tarifa de transacción de Monero es pagada por el emisor y calculada al momento de la misma.
-3. **Piscina de Transacciones** - Dentro de unos segundos, la transacción es anunciada en la red de Monero y situada en la piscina de transacciones, también llamada mempool. Puedes chequear la existencia de tu transacción en la mempool. Puedes observar aquí una mempool de ejemplo: xmrchain.net/txpool.
-4. **Confirmación** - Dentro de 4 minutos, la transacción estará normalmente en un bloque de la cadena de bloques y tendrás la certeza de que es válida. El pago aparecerá ahora en tu cartera como fondos bloqueados. Tu transacción será confirmada por 9 bloques más antes de ser desbloqueada y virtualmente imposible de revertir.
+3. **Conjunto de Transacciones** - En el primer segundo, la transacción es anunciada en la red de Monero y situada en el conjunto de transacciones, también llamada mempool. Puedes comprobar la existencia de tu transacción en la mempool. Aquí encontrarás una mempool de ejemplo: xmrchain.net/txpool.
+4. **Confirmación** - En menos de 4 minutos, la transacción estará normalmente en un bloque de la cadena de bloques y tendrás la certeza de que es válida. El pago aparecerá ahora en tu cartera como fondos bloqueados. Tu transacción será confirmada por 9 bloques más antes de ser desbloqueada y virtualmente imposible de revertir.
 
-Puede haber un retraso en cómo de rápido revisa tu billetera nuevas transacciones, a veces 90 segundos. Entonces, dependiendo de cuándo revisa tu billetera nuevas transacciones y cómo de rápido se mete tu transacción en un bloque minado, el actual tiempo esperado antes de que ella se muestre en tu billetera es de unos 4-12 minutos. Para un vistazo más profundo en el proceso de transacción de Monero y la duración media, visita [monero.how/how-long-do-monero-transactions-take](https://www.monero.how/how-long-do-monero-transactions-take).
+Puede haber un retraso en cuan rápido tu billetera revisa nuevas transacciones, a veces 90 segundos. Entonces, dependiendo de cuándo revisa tu billetera nuevas transacciones y cómo de rápido se mete tu transacción en un bloque minado, el tiempo real esperado es de unos 4 a 12 minutos para que la transacción aparezca en la billetera. Para un vistazo más profundo en el proceso de transacción de Monero y la duración promedio, visita [monero.how/how-long-do-monero-transactions-take](https://www.monero.how/how-long-do-monero-transactions-take).
 
-Si una espera de 4-12 minutos es imposible para tu negocio, puedes hacer una transacción de 0 confirmaciones en un segundo. En vez de esperar a la primera confirmación, echas un vistazo en la mempool para revisar que la transacción exista. Hay un riesgo, porque la transacción no ha sido confirmada, pero un ataque de doble gasto es improbable si la persona está en frente de tí. Para unas transacciones al por menor en menor escala, los beneficios de completar la transacción en un segundo suelen acarrear un menor riesgo y si sientes que algo no está bien, siempre puedes esperar individualmente a la primera confirmación.
+Si una espera de 4-12 minutos es imposible para tu negocio, puedes hacer una transacción de 0 confirmaciones en un segundo. En vez de esperar a la primera confirmación, echa un vistazo en la mempool para revisar que la transacción exista. Hay un riesgo, porque la transacción no ha sido confirmada, pero un ataque de doble gasto es improbable si la persona está en frente de tí. Para unas transacciones al por menor, los beneficios de completar la transacción en un segundo suelen acarrear un riesgo menor y si sientes que algo no está bien, siempre puedes esperar individualmente a la primera confirmación.
 
 ### _Identificando Transacciones_
 
-Algo que es obvio cuando empiezas a aceptar monero es que no conoces automáticamente la dirección de quien hace el envío, porque las transacciones son privadas. Dependiendo de tu negocio, enlazar la transacción y el pago podría no ser algo importante, o podría ser algo realmente importante, eso depende de tí. La buena noticia es que hay varias técnicas simples para ayudarte a identificar con seguridad tus pagos en XMR.
+Algo que es obvio cuando empiezas a aceptar Monero es que no conoces automáticamente la dirección de quien hace el envío, porque las transacciones son privadas. Dependiendo de tu negocio, enlazar la transacción y el pago podría no ser algo importante, o podría ser algo realmente importante, eso depende de tí. La buena noticia es que hay varias técnicas simples para ayudarte a identificar con seguridad tus pagos en XMR.
 
 La primera es simple, haz una nota. Si estás negociando con un volumen bastante bajo de transacciones, puedes simplemente añadir tu factura o número de transacción como una nota en tu billetera cuando recibas fondos. Otra forma sería anotar el ID de transacción en el sistema de tu punto de venta o en el software de contabilidad.
 
-Pero cuando necesitas absolutamente enlazar el pago de un cliente con una transacción, la respuesta son las subdirecciones de Monero. Una subdirección es una dirección de un solo uso, y desde que son gratis y puedes crear tantas como quieras, puedes dar una subdirección única a cada consumidor para ser capaz de trazar cada pago. Esta faceta es también útil si quieres mantener tu dirección principal en privado.
+Pero cuando necesitas identificar el pago de un cliente con una transacción, la respuesta son las subdirecciones de Monero. Una subdirección es una dirección de un solo uso, y como son gratis y puedes crear tantas como quieras, puedes dar una subdirección única a cada consumidor para ser capaz de trazar cada pago. Esta faceta es también útil si quieres mantener tu dirección principal en privado.
 
 ### _Transacciones Multifirma_
 
@@ -39,9 +39,9 @@ En todos estos ejemplos, vamos a decir que estamos vendiendo nuestra limonada, v
 
 ### _Puesto de LeMonero_
 
-En nuestro puesto de limonada tenemos una simple caja de cambio y un cuaderno para grabar cada venta, como es común en los mercados de productores, festivales, eventos minoristas emergentes y ventas de artesanías comunitarias donde el equipamiento es limitado. La buena noticia es que aceptar Monero en este tipo de transacciones solo requiere de un móvil.
+En nuestro puesto de limonada tenemos una simple caja de cambio y un cuaderno para grabar cada venta, como es común en los mercados de productores, festivales, eventos minoristas y ventas de artesanías comunitarias donde el equipamiento es limitado. La buena noticia es que aceptar Monero en este tipo de transacciones solo requiere de un móvil.
 
-Para los pagos en Monero, la transacción comienza igual que con el dinero fiat. Preparas la limonada, estableces el total y guardas la transacción en el cuaderno acorde a los requisitos de tu contabilidad.
+Para los pagos en Monero, la transacción comienza igual que con el dinero tradicional. Preparas la limonada, estableces el total y guardas la transacción en el cuaderno acorde a los requisitos de tu contabilidad.
 
 Un total de $1.00 es convertido a XMR justo antes del pago. La tasa de cambio cambia constantemente. Al momento de la redacción, 1 XMR cuesta $61.40, por lo que una limonada de $1.00 serían 0.0162 XMR.
 
@@ -55,13 +55,13 @@ Sin embargo, rara vez tenemos que hacer esperar a un cliente, ya que la confianz
 
 Con trabajo duro, nuestro pequeño puesto de limonada se ha convertido en una tienda. Ahora somos un establecimiento fijo. Además de Monero y el efectivo, la tienda acepta tarjetas de crédito y débito y tiene un buen sistema de pagos para grabar las transacciones y administrar el inventario en vez de un cuaderno.
 
-LeMonero tiene una gastos generales elevados, y no podemos permitirnos mantener únicamente pagos en XMR, necesitamos convertir algunos XMR en fiat para pagar las facturas, aunque elegimos liquidarlo manualmente cuando más nos conviene. Todavía necesitamos un procesador de pagos, sin embargo, las comprobaciones de los clientes son fáciles y rápidas.
+LeMonero tiene una gastos generales elevados, y no podemos permitirnos mantener únicamente pagos en XMR, necesitamos convertir algunos XMR en dinero tradicional para pagar las facturas, aunque elegimos liquidarlo manualmente cuando más nos conviene. Todavía necesitamos un procesador de pagos, sin embargo, las comprobaciones de los clientes son fáciles y rápidas.
 
 Muchos dueños de negocios están familiarizados con procesadores de pago de crédito/débito, terceros que te alquilan un terminal, quienes te meten en su red de pagos y te cargan con comisiones por cada pago y cada mes. Un procesador de pagos de Monero puede funcionar así, o puede ser tu propio procesador de pagos con un poco de software y sin tener que pagar una tarifa.
 
 Como el software Monero es de código abierto, puedes crear tu propia pasarela de pago desde cero (eso es genial), pero las integraciones de Monero han hecho ya el trabajo por ti y crearon bibliotecas y complementos que hacen todo el trabajo duro en [github.com/monero-integrations](https://github.com/monero-integrations).
 
-Alternativamente, un procesador de pagos Monero de terceros tendrá software y aplicaciones e interfaces empaquetados que simplifican la configuración. También tendrán interfaces y herramientas para que usted administre su cuenta y un soporte técnico y de atención al cliente. Hecha un vistazo a nuestra guía de procesadores de pago de Monero para ayudarte a decidir que configuración te viene mejor.
+Alternativamente, un procesador de pagos Monero de terceros tendrá software y aplicaciones e interfaces empaquetadas que simplifican la configuración. También tendrán interfaces y herramientas para que usted administre su cuenta y un soporte técnico y de atención al cliente. Echa un vistazo a nuestra guía de procesadores de pago de Monero para ayudarte a decidir que configuración te viene mejor.
 
 ### _LeMonero.com_
 
@@ -69,7 +69,7 @@ Nuestra tienda de limonada está encantándole a la gente y nos hemos expandido 
 
 La integración del carrito de compras es fácil en comparación con las transacciones físicas en tiempo real. Ya sea que estés utilizando un procesador de pagos de código abierto o un servicio de terceros, los complementos para WooCommerce, Shopify, etc. están disponibles y son fáciles de instalar.
 
-Ahora podemos tener liquidaciónes automáticas en fiat. Como puesto de limonada, mantenemos nuestros pagos en XMR; cuando éramos una tienda, liquidábamos algunos cuando el cambio era favorable. Pero nuestras necesidades de flujo de caja se han intensificado. Necesitamos un cambio de XMR a fiat predecible, incluso si eso significa tarifas adicionales o un momento desfavorable.
+Ahora podemos tener liquidaciónes automáticas en dinero tradicional. Como puesto de limonada, mantenemos nuestros pagos en XMR; cuando éramos una tienda, liquidábamos algunos cuando el cambio era favorable. Pero nuestras necesidades de flujo de caja se han intensificado. Necesitamos un cambio de XMR a fiat predecible, incluso si eso significa tarifas adicionales o un momento desfavorable.
 
 La mayoría de los procesadores de pagos de terceros proporcionarán conversión a fiat automática con los intercambios de sus socios por una tarifa. Pueden haber tarifas de transacción o retiro adicionales dependiendo de los proveedores, pero si nos conviene, puede valer la pena.
 
