@@ -22,4 +22,4 @@ Los datos que nos proporcionas cuando intercambiamos mensajes a través del siti
 Siempre que tengamos que pedirte información, se tomarán las mismas precauciones que se indicaron anteriormente. En cada formulario seremos claros qué datos se almacenan y cómo se utilizarán.
 
 **Actualizaciones & Notificaciones**  
-Cualquier otro cambio en lo que estemos haciendo se publicará aquí. Esta página se actualizó en 1609798950 (Unix Epoch) y nunca hemos recibido una citación ni nos hemos visto obligados a cumplir con ninguna agencia gubernamental en el planeta y actualmente no estamos bajo ningun secreto de sumario.
+Cualquier otro cambio en lo que estemos haciendo se publicará aquí. Esta página se actualizó en 1609798950 (Unix Epoch) y nunca hemos recibido una citación ni nos hemos visto obligados a cumplir con ninguna agencia gubernamental en el planeta y actualmente no estamos bajo ningún secreto de sumario.
