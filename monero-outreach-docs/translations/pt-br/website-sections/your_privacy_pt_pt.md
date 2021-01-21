@@ -1,25 +1,25 @@
-# Your Privacy
+# A Sua Privacidade
 
-**“The caged bird sings with a fearful trill, of things unknown, but longed for still, and his tune is heard on the distant hill, for the caged bird sings of freedom.” - Maya Angelou - 4th of January, 2021**
+**“The caged bird sings with a fearful trill, of things unknown, but longed for still, and his tune is heard on the distant hill, for the caged bird sings of freedom.” - Maya Angelou - 4 de janeiro de 2021**
 
-With many privacy policies written to confound and discourage being read, we’re glad for the opportunity to talk about your privacy and our responsibility to it. This is Monero after all, and we should practice what we preach.
+Com tantos termos de privacidade escritos para confundir e desencorajar a leitura, estamos satisfeitos pela oportunidade de falar sobre a sua privacidade e a nossa responsabilidade para com ela. Afinal, isto é Monero, e devemos praticar o que defendemos e acreditamos.
 
-TLDR: Our site stores as little data as possible, for the shortest amount of time possible, in the most secure way possible. We won’t share your data with anyone for profit, but if it’s on a server, consider it public.
+Resumo: O nosso site armazena o mínimo de dados possível, durante o menor período de tempo possível, da forma mais segura possível. Não partilharemos os seus dados com ninguém para fins lucrativos, mas, visto estes se encontrarem num servidor, deve considerá-los públicos.
 
-**Third Parties**  
-Third party web services diminish your privacy, so we’re loathe to use them. The one exception is that we use services from Mapbox, Inc. and Mapbox International, Inc. to provide map tiles. Our maps are off by default; if you enable, MapBox would have your identifying metadata from our pages that contain maps. We’ll clearly label every instance on our site where a third-party will see your metadata and give you a chance to avoid it. If we ever use another third-party service, we’ll disclose it here.
+**Terceiros**  
+Os serviços web de terceiros diminuem a sua privacidade, por isso não gostamos da sua utilização. A única exceção é que usamos serviços da Mapbox, Inc. e Mapbox International, Inc. para fornecer mapas. Os nossos mapas estão desligados por defeito; se os ativar, MapBox terá os seus metadados de identificação das nossas páginas que contêm mapas. Identificaremos claramente cada página do nosso site onde um terceiro verá os seus metadados e dar-lhe-emos a oportunidade de os evitar. Se alguma vez utilizarmos outro serviço de terceiros, divulgá-lo-emos aqui.
 
 **Cookies**  
-We have an opt-in cookie that stores a generated ID. This ID stores your site preferences on our server. It’s optional, it’s meant simply to make our site easier for you to use.
+Temos um cookie opcional que armazena uma identificação (ID) gerada pelo site. Este ID armazena as suas preferências do site no nosso servidor. É opcional, destina-se simplesmente a tornar o nosso site mais fácil de utilizar.
 
-**Tracking/Reporting**  
-Our site tracks page visits and stores it on our server. We do not store your IP address; we sanitize your User Agent string and store just your browser type and general screen size. You’re scrubbed and we get some stats to help improve our efforts.
+**Rastreio/Relatórios**  
+O nosso site rastreia as visitas e armazena essa informação no nosso servidor. Não armazenamos o seu endereço IP; eliminamos sua <em>User Agent string</em> (conjunto de informações em que se encontra o sistema operativo, por exemplo) e armazenamos apenas o seu tipo de browser e o tamanho de ecrã. Estes são anonimizados e obtemos algumas estatísticas para ajudar a melhorar a nossa estratégia.
 
-**Contact/Contribute Form**  
-The data you provide when messaging us through the site is stored on our server and then expunged once received/answered. If we must keep it for reference, we’ll store the message offline.
+**Formulário de Contacto/Contributo**  
+Os dados que nos fornece quando nos contacta através do site são armazenados no nosso servidor e eliminados logo após a mensagem ser recebida/respondida. Se tivermos que os guardar para referência, armazenaremos a mensagem offline.
 
-**All Other Data on the Site**  
-Any time we have to ask you for any information all the same precautions as above will be taken. Each form will be clear in what data is being stored and how it will be used.
+**Todos os Outros Dados do Site**  
+Sempre que tivermos de lhe pedir qualquer informação, serão tomadas todas as mesmas precauções que as acima mencionadas. Cada formulário será claro em que dados estão a ser armazenados e como serão utilizados.
 
-**Updates & Notifications**  
-Any changes to what we’re doing will be posted here. This page was updated at 1609798950 (Unix Epoch) and we’ve never been issued a subpoena, been forced to comply with any government agency on the planet and are not currently under any gag order.
+**Atualizações & Notificações**  
+Quaisquer alterações ao que estamos a fazer serão publicadas aqui. Esta página foi actualizada em 1609798950 (Unix Epoch) e nunca recebemos uma intimação, nunca fomos forçados a cooperar com qualquer agência governamental do planeta e não estamos atualmente sob qualquer ordem de mordaça.
