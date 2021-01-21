@@ -16,7 +16,7 @@ Tenemos una cookie de suscripción que almacena un ID generado. Este ID almacena
 Nuestro sitio rastrea las visitas a la página y las almacena en nuestro servidor. No almacenamos tu dirección IP; limpiamos el texto de tu User Agent y almacenamos sólo tu tipo de navegador y el  tamaño de la pantalla. También obtenemos algunas estadísticas para ayudarnos a mejorar nuestro trabajo.
 
 **Formulario de Contacto/Contribución**  
-Los datos que nos proporcionas cuando intercambiamosmensajes a través del sitio se almacenan en nuestro servidor y luego se eliminan una vez recibidos o respondidos. Si debemos conservarlo como referencia, entonces almacenaremos el mensaje fuera de línea.
+Los datos que nos proporcionas cuando intercambiamos mensajes a través del sitio se almacenan en nuestro servidor y luego se eliminan una vez recibidos o respondidos. Si debemos conservarlo como referencia, entonces almacenaremos el mensaje fuera de línea.
 
 **Todos los otros Datos en el Sitio**  
 Siempre que tengamos que pedirte información, se tomarán las mismas precauciones que se indicaron anteriormente. En cada formulario seremos claros qué datos se almacenan y cómo se utilizarán.
