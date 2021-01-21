@@ -18,7 +18,7 @@ Nuestro sitio rastrea las visitas a la página y las almacena en nuestro servido
 **Formulario de Contacto/Contribución**  
 Los datos que nos proporcionas cuando intercambiamosmensajes a través del sitio se almacenan en nuestro servidor y luego se eliminan una vez recibidos o respondidos. Si debemos conservarlo como referencia, entonces almacenaremos el mensaje fuera de línea.
 
-**Todos los otros datos en el Sitio**  
+**Todos los otros Datos en el Sitio**  
 Siempre que tengamos que pedirte información, se tomarán las mismas precauciones que se indicaron anteriormente. En cada formulario seremos claros qué datos se almacenan y cómo se utilizarán.
 
 **Actualizaciones & Notificaciones**  
