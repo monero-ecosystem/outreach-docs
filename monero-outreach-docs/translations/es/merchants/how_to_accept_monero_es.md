@@ -2,9 +2,9 @@
 
 Si eres capaz de instalar una aplicación, serás capaz de configurar tu negocio para aceptar Monero (XMR). Esta guía explica las formas más comunes que los comerciantes usan para aceptar monero y cómo iniciarse de la forma menos sufrida y trabajar sobre ello a medida que creces.
 
-Lo primero que debes saber es que no hay ningún tipo de cuenta para comerciantes en Monero, sólo necesitas una billetera y una dirección para empezar. Sin embargo, es recomendable que crees una dirección separada para tu negocio por las mismas razones que se sugiere tener separadas las cuentas corrientes personales y las de los negocios. Puedes usar el mismo software para la billetera, pero tener dedicadas unas direcciones para el negocio ayudará a mantener las cuentas organizadas.
+Lo primero que debes saber es que no hay ningún tipo de cuenta para comerciantes en Monero, sólo necesitas un monedero y una dirección para empezar. Sin embargo, es recomendable que crees una dirección separada para tu negocio por las mismas razones que se sugiere tener separadas las cuentas corrientes personales y las de los negocios. Puedes usar el mismo software para la billetera, pero tener dedicadas unas direcciones para el negocio ayudará a mantener las cuentas organizadas.
 
-Si todavía no tienes una billetera o dirección de Monero, deberás crear primero una. Las billeteras GUI/CLI oficiales de Monero de [getmonero.org/downloads](https://www.getmonero.org/downloads/) siempre serán la opción recomendada. Además, esta guía hará referencias a billeteras móviles, de las cuales puedes encontrar información en nuestra página [Monero Wallet Setup](https://www.monerooutreach.org/stories/monero-wallet-quickstart.html).
+Si todavía no tienes un monedero o dirección de Monero, deberás crear primero una. Las billeteras GUI/CLI oficiales de Monero de [getmonero.org/downloads](https://www.getmonero.org/downloads/) siempre serán la opción recomendada. Además, esta guía hará referencias a monederos móviles, de las cuales puedes encontrar información en nuestra página [Monero Wallet Setup](https://www.monerooutreach.org/stories/monero-wallet-quickstart.html).
 
 ### _La Anatomía de una Transacción de Monero_
 
@@ -12,10 +12,10 @@ Las transacciones de Monero pasan por los siguientes pasos. No es necesario ente
 
 1. **Compra** - Tras sumar la compra de los consumidores en tu moneda local y aplicar los impuestos de venta (si corresponde), simplemente necesitas calcular el monto correspondiente en XMR.
 2. **Pago** - El cliente escanea tu código QR para pagarte en XMR. La tarifa de transacción de Monero es pagada por el emisor y calculada al momento de la misma.
-3. **Conjunto de Transacciones** - En el primer segundo, la transacción es anunciada en la red de Monero y situada en el conjunto de transacciones, también llamada mempool. Puedes comprobar la existencia de tu transacción en la mempool. Aquí encontrarás una mempool de ejemplo: xmrchain.net/txpool.
-4. **Confirmación** - En menos de 4 minutos, la transacción estará normalmente en un bloque de la cadena de bloques y tendrás la certeza de que es válida. El pago aparecerá ahora en tu cartera como fondos bloqueados. Tu transacción será confirmada por 9 bloques más antes de ser desbloqueada y virtualmente imposible de revertir.
+3. **Conjunto de Transacciones** - En el primer segundo, la transacción es anunciada en la red de Monero y situada en el conjunto de transacciones, también llamada mempool. Puedes comprobar la existencia de tu transacción en la mempool. Aquí encontrarás una mempool de ejemplo: [xmrchain.net/txpool](https://xmrchain.net/txpool).
+4. **Confirmación** - En menos de 4 minutos, la transacción estará normalmente en un bloque de la cadena de bloques y tendrás la certeza de que es válida. El pago aparecerá ahora en tu monedero como fondos bloqueados. Tu transacción será confirmada por 9 bloques más antes de ser desbloqueada y virtualmente imposible de revertir.
 
-Puede haber un retraso en cuan rápido tu billetera revisa nuevas transacciones, a veces 90 segundos. Entonces, dependiendo de cuándo revisa tu billetera nuevas transacciones y cómo de rápido se mete tu transacción en un bloque minado, el tiempo real esperado es de unos 4 a 12 minutos para que la transacción aparezca en la billetera. Para un vistazo más profundo en el proceso de transacción de Monero y la duración promedio, visita [monero.how/how-long-do-monero-transactions-take](https://www.monero.how/how-long-do-monero-transactions-take).
+Puede haber un retraso en cuan rápido tu monedero revisa nuevas transacciones, a veces 90 segundos. Entonces, dependiendo de cuándo revisa tu monedero nuevas transacciones y cómo de rápido se mete tu transacción en un bloque minado, el tiempo real esperado es de unos 4 a 12 minutos para que la transacción aparezca en la monedero. Para un vistazo más profundo en el proceso de transacción de Monero y la duración promedio, visita [monero.how/how-long-do-monero-transactions-take](https://www.monero.how/how-long-do-monero-transactions-take).
 
 Si una espera de 4-12 minutos es imposible para tu negocio, puedes hacer una transacción de 0 confirmaciones en un segundo. En vez de esperar a la primera confirmación, echa un vistazo en la mempool para revisar que la transacción exista. Hay un riesgo, porque la transacción no ha sido confirmada, pero un ataque de doble gasto es improbable si la persona está en frente de tí. Para unas transacciones al por menor, los beneficios de completar la transacción en un segundo suelen acarrear un riesgo menor y si sientes que algo no está bien, siempre puedes esperar individualmente a la primera confirmación.
 
@@ -23,7 +23,7 @@ Si una espera de 4-12 minutos es imposible para tu negocio, puedes hacer una tra
 
 Algo que es obvio cuando empiezas a aceptar Monero es que no conoces automáticamente la dirección de quien hace el envío, porque las transacciones son privadas. Dependiendo de tu negocio, enlazar la transacción y el pago podría no ser algo importante, o podría ser algo realmente importante, eso depende de tí. La buena noticia es que hay varias técnicas simples para ayudarte a identificar con seguridad tus pagos en XMR.
 
-La primera es simple, haz una nota. Si estás negociando con un volumen bastante bajo de transacciones, puedes simplemente añadir tu factura o número de transacción como una nota en tu billetera cuando recibas fondos. Otra forma sería anotar el ID de transacción en el sistema de tu punto de venta o en el software de contabilidad.
+La primera es simple, haz una nota. Si estás negociando con un volumen bastante bajo de transacciones, puedes simplemente añadir tu factura o número de transacción como una nota en tu monedero cuando recibas fondos. Otra forma sería anotar el ID de transacción en el sistema de tu punto de venta o en el software de contabilidad.
 
 Pero cuando necesitas identificar el pago de un cliente con una transacción, la respuesta son las subdirecciones de Monero. Una subdirección es una dirección de un solo uso, y como son gratis y puedes crear tantas como quieras, puedes dar una subdirección única a cada consumidor para ser capaz de trazar cada pago. Esta faceta es también útil si quieres mantener tu dirección principal en privado.
 
@@ -45,9 +45,9 @@ Para los pagos en Monero, la transacción comienza igual que con el dinero tradi
 
 Un total de $1.00 es convertido a XMR justo antes del pago. La tasa de cambio cambia constantemente. Al momento de la redacción, 1 XMR cuesta $61.40, por lo que una limonada de $1.00 serían 0.0162 XMR.
 
-El cliente necesita tu dirección de Monero en su móvil para pagarte 0.0162 XMR. Copiar y pegar la dirección suele ir bien, pero normalmente se puede escanear con un código QR. El código QR contiene tu dirección de XMR, de forma que la billetera de tu cliente puede escanearla. Tu billetera la genera cuando seleccionas 'recibir', y puedes girar tu móvil hacia tu consumidor para que la escanee. Otra alternativa sería tener tu código QR impreso y así usar únicamente tu billetera para confirmar la transacción.
+El cliente necesita tu dirección de Monero en su móvil para pagarte 0.0162 XMR. Copiar y pegar la dirección suele ir bien, pero normalmente se puede escanear con un código QR. El código QR contiene tu dirección de XMR, de forma que el monedero de tu cliente puede escanearla. Tu monedero la genera cuando seleccionas 'recibir', y puedes girar tu móvil hacia tu consumidor para que la escanee. Otra alternativa sería tener tu código QR impreso y así usar únicamente tu monedero para confirmar la transacción.
 
-Tan pronto como el cliente te envíe la transacción, esta es emitida a la red de Monero. Los fondos aparecerán en tu billetera en 4-12 minutos tras la primera confirmación.
+Tan pronto como el cliente te envíe la transacción, esta es emitida a la red de Monero. Los fondos aparecerán en tu monedero en 4-12 minutos tras la primera confirmación.
 
 Sin embargo, rara vez tenemos que hacer esperar a un cliente, ya que la confianza se puede extender a los clientes de limonada, especialmente a los habituales. Para las escasas personas con grandes pedidos, deberíamos explicarles simplemente que ello tomaría unos pocos minutos.
 
