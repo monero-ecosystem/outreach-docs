@@ -22,4 +22,4 @@ Os dados que nos fornece quando nos contacta através do site são armazenados n
 Sempre que tivermos de lhe pedir qualquer informação, serão tomadas todas as mesmas precauções acima mencionadas. Cada formulário será claro em que dados estão a ser armazenados e como serão utilizados.
 
 **Atualizações & Notificações**  
-Quaisquer alterações ao que estamos a fazer serão publicadas aqui. Esta página foi actualizada em 1609798950 (Unix Epoch) e nunca recebemos uma intimação, nunca fomos forçados a cooperar com qualquer agência governamental do planeta e não estamos atualmente sob qualquer ordem de mordaça.
+Quaisquer alterações que fizermos serão publicadas aqui. Esta página foi atualizada em 1609798950 (Unix Epoch) e nunca recebemos uma intimação, nunca fomos forçados a cooperar com qualquer agência governamental do planeta e não estamos atualmente sob qualquer ordem de mordaça.
