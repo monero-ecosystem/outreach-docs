@@ -1,6 +1,6 @@
 # A Sua Privacidade
 
-**“The caged bird sings with a fearful trill, of things unknown, but longed for still, and his tune is heard on the distant hill, for the caged bird sings of freedom.” - Maya Angelou - 4 de janeiro de 2021**
+**"O pássaro preso canta num gorjeio triste, sobre coisas que não conhece, mas ainda deseja, e seu canto é ouvido na colina distante, pois o pássaro preso canta sobre a liberdade." - Maya Angelou - 4 de janeiro de 2021**
 
 Com tantos termos de privacidade escritos para confundir e desencorajar a leitura, estamos satisfeitos pela oportunidade de falar sobre a sua privacidade e a nossa responsabilidade para com ela. Afinal, isto é Monero, e devemos praticar o que defendemos e acreditamos.
 
