@@ -19,7 +19,7 @@ O nosso site rastreia as visitas e armazena essa informação no nosso servidor.
 Os dados que nos fornece quando nos contacta através do site são armazenados no nosso servidor e eliminados logo após a mensagem ser recebida/respondida. Se tivermos que os guardar para referência, armazenaremos a mensagem offline.
 
 **Todos os Outros Dados do Site**  
-Sempre que tivermos de lhe pedir qualquer informação, serão tomadas todas as mesmas precauções que as acima mencionadas. Cada formulário será claro em que dados estão a ser armazenados e como serão utilizados.
+Sempre que tivermos de lhe pedir qualquer informação, serão tomadas todas as mesmas precauções acima mencionadas. Cada formulário será claro em que dados estão a ser armazenados e como serão utilizados.
 
 **Atualizações & Notificações**  
 Quaisquer alterações ao que estamos a fazer serão publicadas aqui. Esta página foi actualizada em 1609798950 (Unix Epoch) e nunca recebemos uma intimação, nunca fomos forçados a cooperar com qualquer agência governamental do planeta e não estamos atualmente sob qualquer ordem de mordaça.
