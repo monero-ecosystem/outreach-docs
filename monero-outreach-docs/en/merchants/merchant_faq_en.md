@@ -49,9 +49,6 @@ You’ll want to seek advice from your accountant or tax advisor. Most of the ti
 
 ### _Learn More_
 
-- [visualcapitalist.com/the-future-of-crypto-payments-in-the-retail-market/](https://www.visualcapitalist.com/the-future-of-crypto-payments-in-the-retail-market/)
-The Future of Crypto Payments in the Retail Market
-- [Monero Payment Processors](https://www.monerooutreach.org/merchants/monero-payment-processor-guide.html)
-Information about how to select the right payment processor for your business.
-- [reddit.com/r/Monero/.../my_life_as_a_monero_vendor_at_monerokon...](https://www.reddit.com/r/Monero/comments/c5f02g/my_life_as_a_monero_vendor_at_monerokon_or_ux/)
-My life as a Monero vendor at MoneroKon: UX issues for brick and mortar stores who use XMR.
+- The Future of Crypto Payments in the Retail Market: [visualcapitalist.com/the-future-of-crypto-payments-in-the-retail-market/](https://www.visualcapitalist.com/the-future-of-crypto-payments-in-the-retail-market/)
+- Information about how to select the right payment processor for your business: [Monero Payment Processors](https://www.monerooutreach.org/merchants/monero-payment-processor-guide.html)
+- My life as a Monero vendor at MoneroKon: UX issues for brick and mortar stores who use XMR: [reddit.com/r/Monero/.../my_life_as_a_monero_vendor_at_monerokon...](https://www.reddit.com/r/Monero/comments/c5f02g/my_life_as_a_monero_vendor_at_monerokon_or_ux/)
