@@ -1,6 +1,6 @@
 # Un Starting Kit pour Aider Monero
 
-**“Une communauté bouillonnante, éclatée aux quatre coins de la planète, composée d’individus et de groupes unis par un projet décentralisé: Monero” - 21 août, 2019**
+**“La communauté de Monero est une communauté bouillonnante, éclatée aux quatre coins de la planète, composée d’individus et de groupes unis par un projet décentralisé” - 21 août, 2019**
 
 La communauté Monero est composée d’individus et de groupuscules de par le monde entier, unis par la volonté de prendre leur destin en main. Monero est aussi populaire chez les codeurs en cryptos: un fait peu connu, Monero arrive au troisième rang du nombre de contributions de toutes les cryptomonnaies. En plus, de nombreux groupes de travail et d’études sont nés du désir de contribution, et il existe de nombreuses avenues pour apporter sa pierre a l’édifice du projet.
 
