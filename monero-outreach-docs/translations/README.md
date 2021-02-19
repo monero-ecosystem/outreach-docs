@@ -8,7 +8,7 @@ If you have any questions regarding the monero terminology, take a look at the [
 
 Translate as to many languages all the documentation provided by the Monero Outreach Workgroup.
 
-## IMPORTAN
+## IMPORTANT
 
 Read the [README_i18.md](https://github.com/monero-ecosystem/outreach-docs/blob/master/monero-outreach-docs/README_i18n.md) file.
 
