@@ -4,11 +4,11 @@ Si vous êtes en mesure d'installer une application (app), alors vous serez capa
 
 Premièrement, il n'y a pas de compte marchand dédié pour les Monero - tout ce qu'il vous faudra pour commencer est un portefeuille régulier et une adresse. Il est fortement recommandé de garder des adresses distinctes pour vos transactions d'affaires, pour les mêmes raisons qu'il est recommandé d'avoir des comptes bancaires différents pour les transactions personnelles et les transactions d'affaires. Vous pouvez utiliser le même logiciel de gestion du portefeuille, mais cela aidera votre organisation de séparer les adresses.
 
-Si vous n'avez pas déjà un portefeuille / une adresse Monero, vous devriez en créer dès maintenant. Les portefeuilles GUI/CLI officiels de Moneron disponibles sur [getmonero.org/downloads](https://www.getmonero.org/downloads/) sont toujours recommandés. Le guide suivant vous donnera plus d'informations sur les portefeuilles mobiles: [Mis en Place d'un Portefeuille Monero](https://www.monerooutreach.org/stories/monero-wallet-quickstart.html)
+Si vous n'avez pas déjà un portefeuille / une adresse Monero, vous devriez en créer dès maintenant. Les portefeuilles GUI/CLI officiels de Monero disponibles sur [getmonero.org/downloads](https://www.getmonero.org/downloads/) sont toujours recommandés. Le guide suivant vous donnera plus d'informations sur les portefeuilles mobiles: [Mis en Place d'un Portefeuille Monero](https://www.monerooutreach.org/stories/monero-wallet-quickstart.html)
 
 ### _L'Anatomie d'une Transaction Monero_
 
-Les transactions Monero procèdent par les étapes suivantes. Il n'est pas nécessaire de comprendre les aspects techniques de ce qui suit, mais en tant que marchand, vous devriez comprendre les notions de base afin de décider quel type de portefeuille privilégier.
+Les transactions Monero procèdent par les étapes suivantes. Il n'est pas nécessaire de comprendre les aspects techniques de ce qui suit, mais en tant que marchand, vous devriez comprendre les notions de base afin de savoir quels sont les compromis que vous devrez faire.
 
 1. **Achat** - Après avoir calculé le montant de l'achat et les taxes applicables (normalement dans la dénomination de votre monnaie fiduciaire locale), vous n'avez qu'à calculer le montant correspondant de XMR selon le taux de conversion courant.
 2. **Paiement** - Le client capture votre code QR afin de vous payer en XMR. Les frais associés à la transaction en Monero sont assumés par l'émetteur et calculés au moment de la transaction.
@@ -39,11 +39,11 @@ Dans tous ces exemples, la limonade est vendue pour 1$ en monnaie fiduciaire loc
 
 ### _Kiosque LeMonero_
 
-Notre kiosque fictif possède une caisse et un carnet pour enregistrer les ventes, comme c'est souvent le cas dans les festivals ou les marchés éphémères où l'infrastructure de paiement est limitée. Dans un contexte comme celui-ci, tout ce qu'il vous faut pour accepter un paiement en Monero est un téléphone intelligent.
+Notre kiosque fictif possède une caisse et un carnet pour enregistrer les ventes, comme c'est souvent le cas dans les festivals ou les marchés éphémères où l'infrastructure de paiement est limitée. Dans un contexte comme celui-ci, tout ce qu'il vous faut pour accepter un paiement en Monero est un téléphone intelligent (smartphone).
 
 Pour les paiements en Monero, la transaction débute de la même manière qu'avec des monnaies fiduciaires: vous préparez la limonade, calculez le montant dû et enregistrez la transaction dans votre carnet (selon le format qui convient à vos besoins de comptabilité).
 
-Le montant de 1$ est ensuite converti en XMR avant d'initier le paiement. Le taux de change est plutôt variable: au moment d'écrire ces lignes, 1 XMR coûte $146.35 USD, donc une limonade à 1$ coûterait 0.0068 XMR.
+Le montant de 1$ est ensuite converti en XMR avant d'initier le paiement. Le taux de change est plutôt variable: au moment d'écrire ces lignes, 1 XMR coûte $278.34 USD, donc une limonade à 1$ coûterait 0.0068 XMR.
 
 Le client doit entrer votre adresse dans leur téléphone pour vous payer le montant de 0.0068 XMR. Les adresses Monero sont habituellement échangés par l'entremise de codes QR, quoique qu'il soit également possible de copier et coller textuellement l'adresse. Le code QR contient votre adresse Monero dans un format que les portefeuilles de vos clients peuvent lire. Votre propre portefeuille génère automatiquement ce code lorsque vous cliquez sur "recevoir", et vous pouvez alors présenter l'écran de votre téléphone à votre client pour qu'il puisse capturer le code QR avec son propre téléphone. Une autre approche consiste à imprimer en format papier le code QR de votre adresse, et utiliser votre portefeuille pour confirmer la transaction.
 
