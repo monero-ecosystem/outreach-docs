@@ -1,6 +1,6 @@
 # We Accept Monero
 
-**“Are you tired of praying for adoption? Sick of waiting for a Monero moon to rise? Be the change you want to see in the ecosystem.” - 20th of MAy, 2020**
+**“Are you tired of praying for adoption? Sick of waiting for a Monero moon to rise? Be the change you want to see in the ecosystem.” - 20th of May, 2020**
 
 We’d like to invite you to join our efforts in perpetrating a good old-fashioned ‘nag campaign’ with your favorite merchants who don’t accept XMR yet. The most awesome, and the most successful ‘nag campaign’ of all time had to have been written by George Lois. In 1982 the cable companies had no interest in a 24-hour music channel, they didn’t think it would work. George Lois came up with an idea and shot a series of commercials that had rock stars telling the viewers to call their local cable company and say “I Want My MTV!” The rest is history, [youtu.be/vAyOcWpm3QU](https://youtu.be/vAyOcWpm3QU?t=71).
 
