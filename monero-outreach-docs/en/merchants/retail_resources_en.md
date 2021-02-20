@@ -11,7 +11,7 @@ All of the templates below use Google’s Noto Sans Bold font since it provides 
 
 These sticker templates are based on common label sizes that you can find at your local office supply store and print with your own inkjet. Your local print shop would also be able to help you. For exterior applications where you have direct sunlight or direct moisture you’ll be better off contacting a local sign company. This will be a simple job for them and you’ll get something that will last in the weather.
 
-Visit [We Accept Monero Translations](https://www.monerooutreach.org//merchants/we-accept-monero-stickers.html) for the full list of all translated versions.
+Visit [We Accept Monero Stickers](https://www.monerooutreach.org//merchants/we-accept-monero-stickers.html) for the full list of all translated versions.
 
 - **Cash Register Sized Sticker** - 1-3/4" x 1/2" return address label size. Avery 94203 or similar.
 [.svg](https://static.monerooutreach.org/img/MoneroMerchants/We-Accept-Monero-Sign-en-1.75x.5.svg)
@@ -36,9 +36,9 @@ The backside of this counter display has room for you to write your store’s pr
 
 These templates will fit on 8.5" x 14 (Legal) paper and you can print this yourself. For a piece like this a cardstock, commonly called ‘100 lb cover’ is recommended. This paper is about the thickness of an index card and a local print shop should be able to produce it inexpensively.
 
-### Monero Retail Examples
+### _Monero Retail Examples_
 
-### Learn More
+### _Learn More_
 
 - Official Monero Logo: [getmonero.org/press-kit](https://www.getmonero.org/press-kit/)
 - Free QR Code Generator: [the-qrcode-generator.com](https://www.the-qrcode-generator.com/)
