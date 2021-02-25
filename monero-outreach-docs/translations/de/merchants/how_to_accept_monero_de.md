@@ -8,7 +8,7 @@ Wenn Du nicht bereits eine Monero-Wallet/Adresse hast, solltest Du diese zuerst 
 
 ### _Die Anatomie einer Monero-Transaktion_
 
-Monero-Transaktionen durchlaufen die nachfolgenden Schritte. Es ist nicht notwendig, die technischen Aspekte davon vollständig zu verstehen, aber als Händler solltest Du ein Grundverständnis über diese Schritte haben, um darüber entscheiden zu können, welche Kompromisse für Dich richtig ist.
+Monero-Transaktionen durchlaufen die nachfolgenden Schritte. Es ist nicht notwendig, die technischen Aspekte davon vollständig zu verstehen, aber als Händler solltest Du über ein Grundverständnis dieser Schritte verfügen, um darüber entscheiden zu können, welche Kompromisse für Dich richtig sind.
 
 1. **Einkauf** - Nachdem Du die Kosten für den Einkauf Deines Kunden in lokaler Fiatwährung errechnet und ggf. die Umsatzsteuer hinzugefügt hast, muss der entsprechende Betrag in XMR berechnet werden.
 2. **Zahlung** - Der Kunde scannt Deinen QR-Code, um Dich in XMR zu bezahlen. Die Monero-Transaktionsgebühr wird vom Kunden bezahlt und zum Zeitpunkt der Transaktion berechnet.
