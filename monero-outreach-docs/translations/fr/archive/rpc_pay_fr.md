@@ -71,7 +71,7 @@ Si vous faites rouler votre propre instance de _monerod_ en configuration standa
 curl -X POST [127.0.0.1:18081/json_rpc](http://127.0.0.1:18081/json_rpc) -H 'Content-Type:application/json' --data "{\"jsonrpc\":\"2.0\",\"id\":\"0\",\"method\":\"get_block_count\"}"
 ```
 
-Pour plus d'information à propos de l'interface entre _monerod_ et RPC, voir [www.getmonero.org/resources/developer-guides/daemon-rpc.html](https://www.getmonero.org/resources/developer-guides/daemon-rpc.html). Pour plus d'information à propos de l'interface entre le portefeuille et RPC, voir [www.getmonero.org/resources/developer-guides/wallet-rpc.html](https://www.getmonero.org/resources/developer-guides/wallet-rpc.html).
+Pour plus d'information à propos de l'interface entre _monerod_ et RPC, voir [www.getmonero.org/resources/developer-guides/daemon-rpc.html](https://www.getmonero.org/resources/developer-guides/daemon-rpc.html). Pour plus d'information à propos de l'interface entre le portefeuille et RPC, voir [www.getmonero.org/fr/resources/developer-guides/wallet-rpc.html](https://www.getmonero.org/fr/resources/developer-guides/wallet-rpc.html).
 
 ##### _#2: Mettre sur pied le Daemon et le Portefeuille_
 ---
