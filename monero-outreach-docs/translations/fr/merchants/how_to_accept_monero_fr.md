@@ -4,7 +4,7 @@ Si vous êtes en mesure d'installer une application (app), alors vous serez capa
 
 Premièrement, il n'y a pas de compte marchand dédié pour les Monero - tout ce qu'il vous faudra pour commencer est un portefeuille régulier et une adresse. Il est fortement recommandé de garder des adresses distinctes pour vos transactions d'affaires, pour les mêmes raisons qu'il est recommandé d'avoir des comptes bancaires différents pour les transactions personnelles et les transactions d'affaires. Vous pouvez utiliser le même logiciel de gestion du portefeuille, mais cela aidera votre organisation de séparer les adresses.
 
-Si vous n'avez pas déjà un portefeuille / une adresse Monero, vous devriez en créer dès maintenant. Les portefeuilles GUI/CLI officiels de Monero disponibles sur [getmonero.org/downloads](https://www.getmonero.org/downloads/) sont toujours recommandés. Le guide suivant vous donnera plus d'informations sur les portefeuilles mobiles: [Mis en Place d'un Portefeuille Monero](https://www.monerooutreach.org/stories/monero-wallet-quickstart.html)
+Si vous n'avez pas déjà un portefeuille / une adresse Monero, vous devriez en créer dès maintenant. Les portefeuilles GUI/CLI officiels de Monero disponibles sur [getmonero.org/downloads](https://www.getmonero.org/fr/downloads/) sont toujours recommandés. Le guide suivant vous donnera plus d'informations sur les portefeuilles mobiles: [Mis en Place d'un Portefeuille Monero](https://www.monerooutreach.org/stories/monero-wallet-quickstart.html)
 
 ### _L'Anatomie d'une Transaction Monero_
 
@@ -29,7 +29,7 @@ Si un délai de 4 à 12 minutes n'est pas compatible avec votre modèle d'affair
 
 ###_Transactions Multisig_
 
-Les transactions multisig requièrent une signature de plusieurs parties avant d'être annoncée au réseau. Par exemple, vous pourriez préparer une transaction où les fonds ne seraient relâchés jusqu'à ce que l'acheteur et le vendeur donnent conjointement leur accord. Sans explorer les détails techniques des transactions multisig ici, vous pouvez trouver plus de renseignements au lien suivant: [getmonero.org/resources/user-guides/multisig-messaging-system.html](https://www.getmonero.org/resources/user-guides/multisig-messaging-system.html)
+Les transactions multisig requièrent une signature de plusieurs parties avant d'être annoncée au réseau. Par exemple, vous pourriez préparer une transaction où les fonds ne seraient relâchés jusqu'à ce que l'acheteur et le vendeur donnent conjointement leur accord. Sans explorer les détails techniques des transactions multisig ici, vous pouvez trouver plus de renseignements au lien suivant: [getmonero.org/resources/user-guides/multisig-messaging-system.html](https://www.getmonero.org/fr/resources/user-guides/multisig-messaging-system.html)
 
 ### _Entreprises LeMonero, LLC_
 
@@ -73,11 +73,11 @@ Nous pouvons maintenant conclure les transactions automatiquement en monnaie fid
 
 La plupart des systèmes de paiement par des tiers offrent ce mécanisme d'échange en monnaie fiduciaire, service pour lequel ils chargent des frais. Le montant exacte des frais de transaction peut varier selon le fournisseur de service, mais cela peut certainement en valoir la peine pour des raisons pratiques.
 
-Avec un système de paiement à code source libre, vous pouvez développer la solution qui vous convient le mieux en utilisant l'API de vos sites d'échange préférés et des appels monero-wallet-rpc. Ces notions dépassent la portée de ce guide, mais vous pouvez en lire plus ici: [getmonero.org/resources/developer-guides/wallet-rpc.html](https://www.getmonero.org/resources/developer-guides/wallet-rpc.html).
+Avec un système de paiement à code source libre, vous pouvez développer la solution qui vous convient le mieux en utilisant l'API de vos sites d'échange préférés et des appels monero-wallet-rpc. Ces notions dépassent la portée de ce guide, mais vous pouvez en lire plus ici: [getmonero.org/resources/developer-guides/wallet-rpc.html]( https://www.getmonero.org/fr/resources/developer-guides/wallet-rpc.html).
 
 ### _En Savoir Plus_
 
-- Comment accepter des Monero avec le portefeuille officiel Monero: [getmonero.org/get-started/accepting](https://www.getmonero.org/get-started/accepting/)
+- Comment accepter des Monero avec le portefeuille officiel Monero: [getmonero.org/get-started/accepting](https://www.getmonero.org/fr/get-started/accepting/index.html)
 - [FAQ Monero pour Marchands](https://www.monerooutreach.org/merchants/monero-merchant-faqs.html)
 - Explications des Multisignatures Monero: [hackernoon.com/monero-multisignatures-explained...](https://hackernoon.com/monero-multisignatures-explained-46b247b098a7)
 - Les Risques Associés aux Transactions à Zéro Confirmations: [reddit.com/r/Monero/.../potential_risks_of_accepting_zero_confirmation](https://www.reddit.com/r/Monero/comments/7s937y/potential_risks_of_accepting_zero_confirmation/)
