@@ -10,7 +10,7 @@ Translate as to many languages all the documentation provided by the Monero Outr
 
 ## IMPORTANT
 
-Read the [README_i18.md](https://github.com/monero-ecosystem/outreach-docs/blob/master/monero-outreach-docs/README_i18n.md) file.
+Read the [README.md](https://github.com/monero-ecosystem/outreach-docs/blob/master/README.md) file.
 
 ### Fonts
 
