@@ -88,7 +88,7 @@
 - _**Арам Дживанян**_
 [Lelantus - протокол для анонимных транзакций с сокрытием отправителей и сумм на базе DDH](https://www.monerooutreach.org/monero-konferenco/aram-jivanyan.php)  
 
-Узнать больше
+Дополнительная информация
 
 - Пресс-релиз: [Первая конференция Monero пройдет в Денвере](https://www.monerooutreach.org/news/monero-konferenco-press-release.html)
 - Плейлист MoneroTalk Konferenco 2019: [youtube.com/watch?v=R9zXcx-8WFo&list=PLfJ_JjSwYaa9g5G53jZc4IXRW-PZC4nQp](https://www.youtube.com/watch?v=R9zXcx-8WFo&list=PLfJ_JjSwYaa9g5G53jZc4IXRW-PZC4nQp)
