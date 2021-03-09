@@ -2,7 +2,7 @@
 # Each line is a file pattern followed by one or more owners.
 
 # Default for outreach repo
-*       @lh1008 @erciccione
+*       @lh1008
 
 # for all the meetup-kit stuff
 /meetup-kit/  @erciccione
