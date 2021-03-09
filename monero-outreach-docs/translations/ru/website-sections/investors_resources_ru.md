@@ -60,7 +60,7 @@
 
 - [Galaxy Digital](https://www.galaxydigital.io/)
 
-### _Узнать больше_
+### _Дополнительная информация_
 ---
 
 - [Monero Wallet Quickstart](https://www.monerooutreach.org/stories/monero-wallet-quickstart.html) - Which Monero wallet to use is one of the most important security decisions that users make.

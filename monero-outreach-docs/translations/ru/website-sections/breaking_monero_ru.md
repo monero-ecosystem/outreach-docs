@@ -44,7 +44,7 @@ Breaking Monero - серия эпизодов, в которых Джастин 
 #### _Breaking Monero 14: Взаимосвязь подадресов (Атака Януса)_
 [В этом выпуске Джастин обсуждает взаимосвязь подадресов Monero, которая может быть сделана как с транзакциями в сети, так и за её пределами.](https://www.monerooutreach.org/breaking-monero/subaddress-association-janus-attack.html)
 
-Узнать больше
+Дополнительная информация
 
 - Плейлист Breaking Monero на Youtube: [youtube.com/playlist?list=PLsSYUeVwrHBnAUre2G_LYDsdo-tD0ov-y](https://www.youtube.com/playlist?list=PLsSYUeVwrHBnAUre2G_LYDsdo-tD0ov-y)
 - Выступления на [Monero Konferenco 2019](https://www.monerooutreach.org/monero-конференция-2019/)
