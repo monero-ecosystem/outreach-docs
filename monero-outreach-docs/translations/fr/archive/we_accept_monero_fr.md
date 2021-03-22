@@ -17,5 +17,5 @@ Vous pouvez télécharger un fichier prêt à être imprimé depuis [WhenYouAcce
 ### _En apprendre plus_
 
 - [Une introduction sur comment aider Monero](https://www.monerooutreach.org/stories/getting-started-helping-monero.html)
-- [Un guide essentielle pour un Marketing de type guérilla pour Monero](https://www.monerooutreach.org/guerrilla-toolkit.html)
+- [Un guide essentielle pour un Marketing de type guérilla pour Monero](https://www.monerooutreach.org/boite-outils-marketing-guerilla.html)
 - Je veux ma MTV! [clypd.com/i-want-my-mtv](https://clypd.com/i-want-my-mtv/)
