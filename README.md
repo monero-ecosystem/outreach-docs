@@ -62,7 +62,6 @@ Fonts can be found inside [monero-outreach-docs folder](https://github.com/moner
 - This repository is connected with the [Monero Outreach - Taiga instance](https://taiga.getmonero.org/project/xmrhaelan-monero-public-relations/).
 - And maintained by:
    - [lh1008](https://github.com/lh1008) - Monero Outreach Coordinator
-   - [erciccione](https://github.com/erciccione) - Monero Localization Coordinator
    - [xmrhaelan](https://github.com/xmrhaelan) - Monero Outreach Organizer
 
 # Meetup kit
