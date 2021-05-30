@@ -2,9 +2,9 @@
 
 Si eres capaz de instalar una aplicación, serás capaz de configurar tu negocio para aceptar Monero (XMR). Esta guía explica las formas más comunes que los comerciantes usan para aceptar monero y cómo iniciarse de la forma menos sufrida y trabajar sobre ello a medida que creces.
 
-Lo primero que debes saber es que no hay ningún tipo de cuenta para comerciantes en Monero, sólo necesitas un monedero y una dirección para empezar. Sin embargo, es recomendable que crees una dirección separada para tu negocio por las mismas razones que se sugiere tener separadas las cuentas corrientes personales y las de los negocios. Puedes usar el mismo software para la billetera, pero tener dedicadas unas direcciones para el negocio ayudará a mantener las cuentas organizadas.
+Lo primero que debes saber es que no hay ningún tipo de cuenta para comerciantes en Monero, sólo necesitas un monedero y una dirección para empezar. Sin embargo, es recomendable que crees una dirección separada para tu negocio por las mismas razones que se sugiere tener separadas las cuentas corrientes personales y las de los negocios. Puedes usar el mismo software para el monedero, pero tener dedicadas unas direcciones para el negocio ayudará a mantener las cuentas organizadas.
 
-Si todavía no tienes un monedero o dirección de Monero, deberás crear primero una. Las billeteras GUI/CLI oficiales de Monero de [getmonero.org/downloads](https://www.getmonero.org/downloads/) siempre serán la opción recomendada. Además, esta guía hará referencias a monederos móviles, de las cuales puedes encontrar información en nuestra página [Monero Wallet Setup](https://www.monerooutreach.org/stories/monero-wallet-quickstart.html).
+Si todavía no tienes un monedero o dirección de Monero, deberás crear primero una. Los monederos GUI/CLI oficiales de Monero de [getmonero.org/es/downloads](https://www.getmonero.org/downloads/) siempre serán la opción recomendada. Además, esta guía hará referencias a monederos móviles, de las cuales puedes encontrar información en nuestra página [Guía de Inicio Rápido del Monedero de Monero](https://www.monerooutreach.org/stories/monero-wallet-quickstart.html).
 
 ### _La Anatomía de una Transacción de Monero_
 
@@ -77,7 +77,7 @@ Con un procesador de pagos de código abierto eres libre de desarrollar tu propi
 
 ### _Aprende más_
 
-- Cómo aceptar Monero con las billeteras oficiales: [getmonero.org/get-started/accepting](https://www.getmonero.org/get-started/accepting/)
+- Cómo aceptar Monero con los monederos oficiales: [getmonero.org/es/get-started/accepting](https://www.getmonero.org/es/get-started/accepting/index.html)
 - [Monero Merchant FAQs](https://www.monerooutreach.org/merchants/monero-merchant-faqs.html)
 - Multifirmas de Monero explicadas: [hackernoon.com/monero-multisignatures-explained...](https://hackernoon.com/monero-multisignatures-explained-46b247b098a7)
 - Potenciales riesgos de las transacciones con cero confirmaciones: [reddit.com/r/Monero/.../potential_risks_of_accepting_zero_confirmation](https://www.reddit.com/r/Monero/comments/7s937y/potential_risks_of_accepting_zero_confirmation/)
