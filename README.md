@@ -69,7 +69,7 @@ In the `meetup-kit` folder are hosted the documents of the Monero Meetup Kit, wh
 
 # License
 
-This work is licensed under Creative Commons [Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/) - `cc-by-nc 4.0`
+This work is licensed under Creative Commons [Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/) - `cc-by-nc-4.0`
 
 # Support the project
 
@@ -77,4 +77,3 @@ The Monero Outreach team is continuing to develop innovative ways to make more p
 
 The Monero Address donation:
 `47oKHkoaQdBdFpTJNKaetUS6UsCGHVbJbGxPGaaHFQPqXSCLbqXYsBo6x7abwtfdXTeiBhtZLnYF5bRRAhYsUVb5Sd1aqiD`
-
