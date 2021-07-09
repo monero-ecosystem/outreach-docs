@@ -67,10 +67,13 @@ Fonts can be found inside [monero-outreach-docs folder](https://github.com/moner
 # Meetup kit
 In the `meetup-kit` folder are hosted the documents of the Monero Meetup Kit, which include the flyer with basic info about Monero. Please read the *readme* file inside the `meetup-kit` folder for more info.
 
+# License
+
+This work is licensed under Creative Commons [Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/) - `cc-by-nc-4.0`
+
 # Support the project
 
 The Monero Outreach team is continuing to develop innovative ways to make more people aware of Monero and the communities efforts, we are building a very talented team of contributors to help make it happen. Please consider supporting this effort.
 
 The Monero Address donation:
 `47oKHkoaQdBdFpTJNKaetUS6UsCGHVbJbGxPGaaHFQPqXSCLbqXYsBo6x7abwtfdXTeiBhtZLnYF5bRRAhYsUVb5Sd1aqiD`
-
